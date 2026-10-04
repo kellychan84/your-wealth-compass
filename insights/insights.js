@@ -2,6 +2,304 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-10-04-w0",
+  "kind": "summary",
+  "time": "2026-10-04T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "本周回顾:道指周跌1.3%、纳指创新高,加息预期大幅降温;下周数据清淡,焦点是油价与美债收益率",
+   "en": "Week in review: Dow -1.3% but Nasdaq at a record high as hike bets cool; a light week ahead puts oil and Treasury yields in focus"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "道琼斯(本周)",
+     "en": "Dow Jones (week)"
+    },
+    "value": "-1.3%",
+    "change": "",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "标普500(本周)",
+     "en": "S&P 500 (week)"
+    },
+    "value": "-0.3%",
+    "change": "",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "联储10月维持利率概率",
+     "en": "Fed hold odds for October"
+    },
+    "value": "~72%",
+    "change": {
+     "zh": "期货定价",
+     "en": "per fed funds futures"
+    },
+    "dir": ""
+   },
+   {
+    "label": {
+     "zh": "现货黄金(周五)",
+     "en": "Spot gold (Fri)"
+    },
+    "value": "$4,145.68",
+    "change": {
+     "zh": "本周约-3.3%",
+     "en": "~-3.3% for the week"
+    },
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "科技股在美光财报后回暖,纳斯达克与英伟达都创新高,但道指本周下跌。",
+    "en": "Tech revived after Micron's results, with the Nasdaq and Nvidia at records, yet the Dow fell for the week."
+   },
+   {
+    "zh": "9月就业仅增2.9万人,10月加息预期明显降温;美债收益率仍处多年高位。",
+    "en": "September payrolls rose just 29,000, cooling October hike bets, while Treasury yields stay near multi-decade highs."
+   },
+   {
+    "zh": "下周经济日程清淡,第三季财报季要到10月13日才真正开跑。",
+    "en": "The calendar is light next week; Q3 earnings season does not really start until October 13."
+   }
+  ],
+  "takeaway": {
+   "zh": "一周里好消息与坏消息交织,指数涨跌互见,这正是为什么信托基金顾问常提醒:与其猜下一个数据,不如回到自己的目标与节奏。",
+   "en": "Good and bad news traded places all week and the indices ended mixed. That is why, as a unit trust consultant, I keep reminding clients: rather than guessing the next data point, return to your goals and your rhythm."
+  },
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/02/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss.html"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-04-w1",
+  "time": "2026-10-04T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "本周回顾:道指跌1.3%、标普500跌0.3%,科技股却推动纳斯达克创新高",
+   "en": "Week in review: Dow falls 1.3% and S&P 500 slips 0.3%, yet tech lifts the Nasdaq to a fresh high"
+  },
+  "analysis": {
+   "zh": "本周道琼斯指数下跌1.3%,标普500小跌0.3%,而纳斯达克综合指数在美光亮眼业绩带动下升至新高。涨跌不一,说明市场内部正在轮动:芯片与AI龙头走强,其他板块承压。就像一个班级里只有几位尖子生拉高了平均分,看总分之外,也要看内部的分布。",
+   "en": "The Dow fell 1.3% this week and the S&P 500 eased 0.3%, while the Nasdaq Composite climbed to a fresh high powered by Micron's blowout results. The split shows rotation under the surface: chip and AI leaders strong, other sectors under pressure. Like a class where a few top students lift the average, it pays to look at the spread, not just the headline score."
+  },
+  "dda": {
+   "zh": "指数内部分化时,定期定额(DDA)的好处是不必判断哪个板块领涨,持续按计划投入,也能自然分散进场时点。",
+   "en": "When the index is split inside, regular investing (DDA) means you need not pick the leading sector; contributing on a schedule also spreads your entry timing."
+  },
+  "prs": {
+   "zh": "退休规划的时间跨度很长,一周的涨跌只是小浪花。可以借此检视PRS组合的分散程度;PRS每年最高RM3,000的税务减免也值得了解。",
+   "en": "Retirement planning spans decades, so one week's moves are small ripples. It is a good moment to review how diversified a PRS portfolio is; the PRS tax relief of up to RM3,000 a year is also worth knowing."
+  },
+  "lump": {
+   "zh": "科技龙头集中上涨时,单笔投资者可留意持仓是否过度集中在少数股票或主题,并按目标与风险承受度分批评估进场时机。",
+   "en": "When a few tech leaders do most of the lifting, lump sum investors may check whether holdings are too concentrated in a handful of stocks or themes, and consider phasing in according to goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美股涨跌对马来西亚债券基金的直接影响通常有限,更要紧的是美债收益率、令吉与国家银行OPR走向;债券在组合中常扮演平衡波动的角色。",
+   "en": "US equity swings usually have limited direct impact on Malaysian bond funds; US Treasury yields, the ringgit and Bank Negara's OPR matter more. Bonds generally play the role of a portfolio balancer."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html"
+  }
+ },
+ {
+  "id": "2026-10-04-w2",
+  "time": "2026-10-04T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "英伟达创纪录、芯片股回暖:美光业绩后AI行情重燃",
+   "en": "Nvidia hits a record and chip stocks revive after Micron's results"
+  },
+  "analysis": {
+   "zh": "CNBC指出,科技股是本周市场的亮点:纳斯达克综合指数升至新高,英伟达创下纪录,半导体股在美光亮眼业绩后普遍回升。AI需求依旧强劲,但涨幅高度集中在少数龙头,市场的情绪也容易随单一财报起落。",
+   "en": "CNBC notes tech was the bright spot this week: the Nasdaq Composite reached a fresh high, Nvidia set a record and semiconductor makers revived after Micron's blowout results. AI demand remains strong, but gains are concentrated in a few leaders, and sentiment can swing on a single earnings report."
+  },
+  "dda": {
+   "zh": "科技主题涨势强劲时,定期定额的好处是不追高也不空等,以固定节奏参与,并搭配较分散的信托基金。",
+   "en": "When a tech theme runs hot, regular investing lets you take part at a steady pace without chasing, ideally through a diversified unit trust."
+  },
+  "prs": {
+   "zh": "PRS基金属长期投资,可通过分散的组合间接参与科技成长;关键是目标年龄与风险承受度,而非追逐单一行情。",
+   "en": "PRS funds are long-term vehicles and can gain exposure to tech growth indirectly through diversified portfolios; what matters is your target age and risk tolerance, not chasing one theme."
+  },
+  "lump": {
+   "zh": "芯片股创新高时,可检视单笔资金是否已集中在科技与AI上;分散与匹配目标,比押注单一主题更重要。",
+   "en": "With chip stocks at highs, lump sum investors may check whether money is already concentrated in tech and AI; diversification and matching goals matter more than a bet on one theme."
+  },
+  "bond": {
+   "zh": "科技股行情对债券基金影响间接,主要通过市场风险情绪与资金流向;若股市波动加大,债券的平衡作用可能更明显。",
+   "en": "The tech rally affects bond funds only indirectly, via risk sentiment and fund flows; if equity volatility rises, bonds' balancing role may become more visible."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/02/stock-market-next-week-outlook-for-oct-5-9-2026-.html"
+  }
+ },
+ {
+  "id": "2026-10-04-w3",
+  "time": "2026-10-04T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "9月就业仅增2.9万后,期货定价联储10月按兵不动的概率约72%",
+   "en": "After the 29,000-job report, futures price roughly 72% odds the Fed holds in October"
+  },
+  "analysis": {
+   "zh": "CNBC报道,在9月非农仅新增2.9万个职位、失业率升至4.2%之后,联邦基金期货隐含联储10月维持利率不变的概率约72%。不过油价与美债收益率仍高,通胀与利率的拉锯并未结束,下周几场国债拍卖将显示市场对美债的需求。",
+   "en": "CNBC reports that after September payrolls rose only 29,000 and unemployment rose to 4.2%, fed funds futures imply about 72% odds the Fed leaves rates unchanged in October. Oil and Treasury yields remain high, though, so the tug-of-war between inflation and rates is not over, and next week's Treasury auctions will show demand for US debt."
+  },
+  "dda": {
+   "zh": "利率预期反复时,定期定额不需要预测联储;持续投入,让不同价位的成本自然平均。",
+   "en": "When rate expectations keep flipping, regular investing does not need a Fed forecast; continuing to contribute lets your cost average across different price levels."
+  },
+  "prs": {
+   "zh": "利率与通胀会影响退休金的实际购买力,规划时宜预留通胀因素;PRS每年最高RM3,000的税务减免可作为长期储蓄的助力。",
+   "en": "Rates and inflation affect the real purchasing power of retirement savings, so plan with inflation in mind; the PRS tax relief of up to RM3,000 a year can support long-term saving."
+  },
+  "lump": {
+   "zh": "面对反复的利率消息,单笔投资者可考虑分阶段进场以分散时点风险,并确认资金用途与期限是否匹配。",
+   "en": "With rate news flipping back and forth, lump sum investors may consider phasing in to spread timing risk and confirm that the purpose and timeframe of the money match."
+  },
+  "bond": {
+   "zh": "联储政策变化可能经由美债收益率与令吉波动影响马来西亚债券基金,国家银行OPR的走向也同样关键;利率预期下降通常对债券价格较友好。",
+   "en": "Fed policy shifts may reach Malaysian bond funds through US yields and ringgit moves, and Bank Negara's OPR path is equally important; falling rate expectations are generally friendlier to bond prices."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+  }
+ },
+ {
+  "id": "2026-10-04-w4",
+  "time": "2026-10-04T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "黄金连续第二周下跌:美元走强与高收益率压制金价",
+   "en": "Gold heads for a second weekly loss as a strong dollar and high yields weigh"
+  },
+  "analysis": {
+   "zh": "CNBC报道,现货黄金周五在非农数据公布前下跌0.8%至每盎司4,145.68美元,本周累计约下跌3.3%,为连续第二周走低。美元强势与高企的美债收益率,抬高了持有不生息资产的机会成本。",
+   "en": "CNBC reports spot gold fell 0.8% to $4,145.68 an ounce on Friday ahead of the payrolls data, down about 3.3% for the week and heading for a second straight weekly loss. A strong dollar and elevated Treasury yields raise the opportunity cost of holding a non-yielding asset."
+  },
+  "dda": {
+   "zh": "黄金价格短期起伏很大,以定期定额方式参与、并把黄金视为组合的一小部分,有助降低择时压力。",
+   "en": "Gold can swing sharply in the short run; taking part through regular investing and treating it as one part of a portfolio can ease timing pressure."
+  },
+  "prs": {
+   "zh": "退休规划强调长期与分散,黄金等避险资产通常只扮演辅助角色;可通过检视整体组合来确认是否与目标年龄相符。",
+   "en": "Retirement planning stresses the long term and diversification; safe-haven assets like gold generally play a supporting role, and reviewing the whole portfolio helps confirm it fits your target age."
+  },
+  "lump": {
+   "zh": "金价回落时,单笔资金不宜因价格下跌而冲动进场;先确认目标、期限与风险承受度,再考虑是否分阶段进行。",
+   "en": "When gold pulls back, lump sum money should not rush in just because the price fell; confirm goals, timeframe and risk tolerance first, then consider whether to phase in."
+  },
+  "bond": {
+   "zh": "金价与美债收益率、美元走势相关,这些因素也会影响马来西亚债券基金;收益率维持高位时,债券价格可能承压,但新债的票息也相对较高。",
+   "en": "Gold, Treasury yields and the dollar move together, and the same factors touch Malaysian bond funds; high yields may weigh on bond prices, although newly issued bonds also carry relatively higher coupons."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/02/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss.html"
+  }
+ },
+ {
+  "id": "2026-10-04-w5",
+  "time": "2026-10-04T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "us"
+  ],
+  "title": {
+   "zh": "美伊谈判僵持:特朗普拒绝放松制裁,油价对霍尔木兹局势高度敏感",
+   "en": "US–Iran talks stall as Trump denies easing sanctions; oil stays highly sensitive to Hormuz"
+  },
+  "analysis": {
+   "zh": "CNBC报道,特朗普否认愿意放松对伊朗的制裁,谈判僵持推高了油价;半岛电视台此前也报道,特朗普拒绝伊朗重开霍尔木兹海峡的方案后油价上涨。CNBC的下周展望亦指出,油价与美债收益率仍是主导市场的两股力量。",
+   "en": "CNBC reported that Trump denied he is willing to ease sanctions on Iran and stalled talks pushed oil higher; Al Jazeera earlier reported oil prices surging after Trump rejected Iran's plan to reopen the Strait of Hormuz. CNBC's week-ahead outlook also names oil and Treasury yields as the two forces driving the market."
+  },
+  "dda": {
+   "zh": "油价推高通胀预期时,股债都可能波动。定期定额让你不必因每条地缘新闻而改变计划。",
+   "en": "When oil lifts inflation expectations, both stocks and bonds can swing; regular investing means you need not change your plan with every geopolitical headline."
+  },
+  "prs": {
+   "zh": "高油价可能抬升生活成本,退休规划宜预留通胀空间;PRS每年最高RM3,000税务减免也是长期储蓄的助力。",
+   "en": "High oil can lift living costs, so retirement plans should leave room for inflation; the PRS tax relief of up to RM3,000 a year also supports long-term saving."
+  },
+  "lump": {
+   "zh": "地缘消息驱动的行情往往反复,单笔投资者可考虑分阶段评估进场,避免把时点风险押在单一事件上。",
+   "en": "Geopolitically driven moves often reverse, so lump sum investors may consider phasing in to avoid tying timing risk to a single event."
+  },
+  "bond": {
+   "zh": "油价上升通常抬高通胀预期,可能让利率下降的空间变小,对马来西亚债券基金的价格与国家银行OPR路径都有间接影响;马来西亚作为能源出口国,令吉亦可能受油价影响。",
+   "en": "Higher oil usually lifts inflation expectations and may narrow room for lower rates, indirectly affecting Malaysian bond fund prices and Bank Negara's OPR path; as an energy exporter, Malaysia's ringgit may also be influenced by oil."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/09/30/oil-climbs-after-trump-denies-he-is-willing-to-ease-sanctions-on-iran.html"
+  }
+ },
+ {
+  "id": "2026-10-04-w6",
+  "time": "2026-10-04T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "人民币兑美元报6.7049,近12个月升值约6%",
+   "en": "Yuan at 6.7049 per dollar, up about 6% over 12 months"
+  },
+  "analysis": {
+   "zh": "据Trading Economics,美元兑人民币10月2日报6.7049,较前一交易日下跌0.12%;过去一个月人民币走强0.19%,过去12个月累计升值约6.05%。人民币持续偏强,也让中国出口商与跨境资金的算盘随之改变。",
+   "en": "Trading Economics shows USD/CNY at 6.7049 on October 2, down 0.12% from the previous session; the yuan has strengthened 0.19% over the past month and about 6.05% over the past 12 months. A steadier yuan changes the calculations for Chinese exporters and cross-border capital."
+  },
+  "dda": {
+   "zh": "投资海外或亚洲市场的信托基金会受汇率影响,定期定额可让不同汇率水平下的投入自然平均。",
+   "en": "Unit trusts that invest overseas or in Asia are affected by exchange rates; regular investing lets contributions average across different currency levels."
+  },
+  "prs": {
+   "zh": "退休资金若涉及外币资产,汇率可能影响最终以令吉计算的价值,规划时可检视币种分布。",
+   "en": "If retirement savings include foreign-currency assets, exchange rates may affect the final value in ringgit, so review the currency mix when planning."
+  },
+  "lump": {
+   "zh": "投资中国或亚洲市场的单笔资金要留意汇率与单一市场集中度,并按目标与风险承受度考虑分阶段进场。",
+   "en": "Lump sum money going into China or Asian markets should consider currency exposure and single-market concentration, and phasing in according to goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "人民币走强对马来西亚债券基金的直接影响通常有限,但区域货币偏强可能有利资金流入亚洲新兴市场,令吉与马币债券也可能间接受惠。",
+   "en": "A firmer yuan usually has limited direct effect on Malaysian bond funds, but a stronger regional currency backdrop may support flows into Asian emerging markets, which may indirectly help the ringgit and ringgit bonds."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/china/currency"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-03-w0",
   "kind": "summary",
   "time": "2026-10-03T09:00:00+08:00",
