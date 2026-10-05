@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2026-10-05-a1",
+    "time": "2026-10-05T17:00:00+08:00",
+    "tags": ["cn", "tech"],
+    "title": {
+      "zh": "港股今天收复部分跌幅:恒指涨0.28%报24,040点,科指涨0.62%",
+      "en": "Hong Kong wins back some ground: Hang Seng +0.28% at 24,040, tech index +0.62%"
+    },
+    "analysis": {
+      "zh": "据FX168,恒指周一收涨68.05点或0.28%,报24,040.34点,恒生科技指数涨25.74点或0.62%,报4,183.68点,国企指数涨0.26%。早上我们提到恒指上周五大跌2.6%,今天算是小幅回稳;半导体与AI应用板块表现亮眼。节后补跌之后出现的喘息,就像大跌后先站稳脚跟。",
+      "en": "Per FX168, the Hang Seng closed up 68.05 points, or 0.28%, at 24,040.34 on Monday, with the Hang Seng Tech Index up 25.74 points, or 0.62%, at 4,183.68 and the China Enterprises Index up 0.26%. This morning we noted Friday's 2.6% drop; today brought a modest steadying, with semiconductor and AI-application names doing well. After a post-holiday slide, a small bounce is like finding your footing after a stumble."
+    },
+    "dda": {
+      "zh": "一天的反弹不代表趋势转变,同样一天的下跌也不代表。定期投入的好处,是不用在每个交易日判断情绪好坏,让时间慢慢摊平成本。",
+      "en": "One day's bounce doesn't signal a trend change, any more than one day's drop did. The benefit of regular investing is that you don't have to judge the mood of each trading day; time gradually averages your cost."
+    },
+    "prs": {
+      "zh": "若退休组合包含中国或亚洲科技相关基金,今天的反弹提醒我们短期起伏很常见;退休规划看的是几十年,PRS每年最高RM3,000的税务减免也可一并考虑。",
+      "en": "If a retirement portfolio includes China or Asia technology-related funds, today's bounce is a reminder that short-term swings are common; retirement planning spans decades, and the PRS tax relief of up to RM3,000 a year can be considered alongside."
+    },
+    "lump": {
+      "zh": "大跌后紧接着反弹,最容易让人想一次性追入;一般可考虑分阶段投入以分散时机风险,并检查单一地区或科技主题的集中度是否符合自己的风险承受能力。",
+      "en": "A bounce right after a sharp fall can tempt people to rush in all at once; phasing in can generally spread timing risk, and it helps to check whether exposure to one region or tech theme fits your risk tolerance."
+    },
+    "bond": {
+      "zh": "港股的小幅反弹对马来西亚债券基金的直接影响有限;区域风险情绪回稳时,资金流向通常较平静,债券基金仍主要受OPR、通胀与令吉影响,角色是为组合提供平衡。",
+      "en": "Hong Kong's small bounce has limited direct effect on Malaysian bond funds; when regional risk sentiment steadies, flows are usually calmer, and bond funds still mainly follow the OPR, inflation and the ringgit, serving as a portfolio balancer."
+    },
+    "source": { "name": "FX168", "url": "https://www.fx168news.com/express/fastnews/1441670" }
+  },
+  {
+    "id": "2026-10-05-a2",
+    "time": "2026-10-05T17:00:00+08:00",
+    "tags": ["my"],
+    "title": {
+      "zh": "富时综指今天升至1,640点,涨0.57%",
+      "en": "FBM KLCI climbs to 1,640, up 0.57%"
+    },
+    "analysis": {
+      "zh": "据Investing.com,富时马来西亚综指10月5日报1,640.15点,上涨0.57%,过去52周的区间为1,597.68至1,771.25点。早上本地股市顺着华尔街上周五的涨势高开,下午的数字显示涨幅进一步扩大。指数还在52周区间的中下段,就像一段上坡路刚走了一小截。",
+      "en": "Per Investing.com, the FTSE Malaysia KLCI stood at 1,640.15 on October 5, up 0.57%, within a 52-week range of 1,597.68 to 1,771.25. Local stocks opened higher this morning in step with Friday's Wall Street gains, and the figure shows the gain widened later in the day. The index still sits in the lower half of its 52-week range, like a slope only partly climbed."
+    },
+    "dda": {
+      "zh": "本地市场的日常涨跌是正常现象;长期投资者继续按计划定期投入,比盯着每天的指数点数更有帮助。",
+      "en": "Day-to-day moves in the local market are normal; long-term investors are generally better served by sticking to their regular investing plan than by watching the index tick."
+    },
+    "prs": {
+      "zh": "退休储蓄通常会配置一部分本地股票;马来西亚市场的缓慢回升提醒我们耐心的价值,PRS每年最高RM3,000的税务减免也是长期规划可参考的一环。",
+      "en": "Retirement savings often include some local equities; the Malaysian market's gradual recovery is a reminder of the value of patience, and the PRS tax relief of up to RM3,000 a year is one reference point for long-term planning."
+    },
+    "lump": {
+      "zh": "指数处于52周区间中下段,并不代表一定是入市良机;单笔投资一般可考虑分阶段投入,并确认投资期限与风险承受能力相符。",
+      "en": "An index in the lower half of its 52-week range isn't necessarily a signal to jump in; lump sums can generally be phased in, with the time horizon matched to your risk tolerance."
+    },
+    "bond": {
+      "zh": "股市上扬不会直接改变马来西亚债券基金的收益来源;MGS、企业债与伊斯兰债券主要受OPR与通胀影响,而在股市波动时,债券仍可作为组合的平衡力量。",
+      "en": "A rising equity market doesn't directly change where Malaysian bond funds earn their income; MGS, corporate bonds and sukuk mainly follow the OPR and inflation, and bonds can still balance a portfolio when equities swing."
+    },
+    "source": { "name": "Investing.com", "url": "https://www.investing.com/indices/ftse-malaysia-klci" }
+  },
+  {
+    "id": "2026-10-05-a3",
+    "time": "2026-10-05T17:00:00+08:00",
+    "tags": ["commodities"],
+    "title": {
+      "zh": "布伦特原油回落至约101美元,OPEC+维持产量配额不变",
+      "en": "Brent eases to about $101 as OPEC+ keeps output quotas unchanged"
+    },
+    "analysis": {
+      "zh": "据Trading Economics,布伦特原油10月5日跌至101.31美元/桶,较前一日下跌0.92%;主要OPEC+成员周末同意下月维持产量配额不变,而中东紧张局势仍在持续。早上我们看到的是10月2日的102.25美元,今天略为回落。供应受扰时,油价像一个被拉紧的弹簧,消息一松一紧就会来回跳动。",
+      "en": "Per Trading Economics, Brent fell to $101.31 a barrel on October 5, down 0.92% on the day, as major OPEC+ members agreed over the weekend to leave production quotas unchanged next month while Middle East tensions continue. This morning's reference was $102.25 on October 2, so today is a slight easing. With supply disrupted, oil is like a stretched spring that jumps with each loosening or tightening of the news."
+    },
+    "dda": {
+      "zh": "油价持续在高位,可能让通胀与利率预期保持敏感;长期投资者与其预测油价,不如保持分散、定期投入。",
+      "en": "With oil staying high, inflation and rate expectations may remain sensitive; rather than forecasting oil, long-term investors may do better by staying diversified and investing regularly."
+    },
+    "prs": {
+      "zh": "能源价格影响物价,物价则影响退休后的生活成本;这也是退休规划强调长期增值的原因之一,PRS每年最高RM3,000的税务减免可作为参考。",
+      "en": "Energy prices feed into consumer prices, which feed into retirement living costs; this is one reason retirement planning emphasises long-term growth, and the PRS tax relief of up to RM3,000 a year can be a reference point."
+    },
+    "lump": {
+      "zh": "油价受地缘局势牵动,波动难以预测;单笔投资一般可考虑分阶段投入,并留意组合是否过度集中在能源或周期性行业。",
+      "en": "Oil is driven by geopolitics and hard to predict; lump sums can generally be phased in, while checking that the portfolio isn't too concentrated in energy or cyclical sectors."
+    },
+    "bond": {
+      "zh": "油价高企可能抬高通胀预期,进而影响OPR与马来西亚债券基金(MGS、企业债与伊斯兰债券)的估值;马来西亚是油气出口国,令吉与财政收入也可能受到油价影响,短期波动仍可能出现。",
+      "en": "High oil can lift inflation expectations and, in turn, the OPR outlook and valuations of Malaysian bond funds (MGS, corporate bonds and sukuk); as an oil-and-gas exporter, Malaysia's ringgit and fiscal income may also be affected, so short-term swings can still occur."
+    },
+    "source": { "name": "Trading Economics", "url": "https://tradingeconomics.com/commodity/brent-crude-oil" }
+  },
+  {
+    "id": "2026-10-05-a4",
+    "time": "2026-10-05T17:00:00+08:00",
+    "tags": ["commodities", "fed"],
+    "title": {
+      "zh": "现货黄金徘徊4,145美元附近:非农带来的涨幅很快回吐",
+      "en": "Spot gold hovers near $4,145 as the payrolls bounce faded quickly"
+    },
+    "analysis": {
+      "zh": "据FX168,周一亚市现货黄金交投于4,144美元上下;上周五非农仅增2.9万个岗位后,金价一度升逾1%至4,226.51美元,但在美元反弹与美债收益率重新走高下迅速回吐。分析关注4,110美元的支撑位。弱数据没能点燃金价,说明利率与美元仍是主导的力量。",
+      "en": "Per FX168, spot gold traded around $4,144 in Monday's Asian session; after Friday's payrolls came in at just 29,000, it jumped more than 1% to $4,226.51 before giving the gain back as the dollar rebounded and Treasury yields rose again. Analysts are watching $4,110 as support. Weak data failing to lift gold shows that rates and the dollar are still the stronger forces."
+    },
+    "dda": {
+      "zh": "黄金在短期内也会剧烈波动;长期投资者不必因几天的涨跌调整计划,定期投入并分散配置,可降低对单一资产的依赖。",
+      "en": "Gold can swing sharply in the short run; long-term investors needn't change plans over a few days' moves, and regular investing with diversification reduces reliance on any single asset."
+    },
+    "prs": {
+      "zh": "退休规划强调多元分散,黄金只是其中一种资产;PRS每年最高RM3,000的税务减免是长期储蓄可参考的另一个考量。",
+      "en": "Retirement planning stresses diversification, and gold is only one asset among many; the PRS tax relief of up to RM3,000 a year is another consideration for long-term saving."
+    },
+    "lump": {
+      "zh": "金价短线冲高回落,说明追逐单一资产的单笔投资容易受情绪影响;一般可考虑分阶段投入,检查集中度,并配合自己的目标与风险承受能力。",
+      "en": "Gold's quick rise and fall shows how a lump sum chasing one asset can be swayed by sentiment; phasing in, checking concentration and matching goals and risk tolerance are generally sensible."
+    },
+    "bond": {
+      "zh": "美债收益率与美元的走向同时影响黄金与债券;马来西亚债券基金仍主要受OPR、通胀与令吉影响,美元偏强时外资流向可能出现波动,债券的角色是稳定组合。",
+      "en": "US yields and the dollar move gold and bonds alike; Malaysian bond funds still mainly follow the OPR, inflation and the ringgit, foreign flows may waver when the dollar is firm, and bonds' role is to steady a portfolio."
+    },
+    "source": { "name": "FX168", "url": "https://www.fx168news.com/article/%E9%87%91%E4%BB%B7-1099515" }
+  }
+]
