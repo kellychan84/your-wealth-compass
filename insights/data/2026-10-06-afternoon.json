@@ -1,0 +1,101 @@
+[
+  {
+    "id": "2026-10-06-a1",
+    "time": "2026-10-06T17:00:00+08:00",
+    "tags": ["fed", "us"],
+    "title": {
+      "zh": "美债收益率大致持平待FOMC纪要:10年期约5.30%,市场押78%概率下次会议按兵不动",
+      "en": "Treasury yields broadly flat ahead of FOMC minutes: 10-year near 5.30%, with a 78% chance priced for a Fed hold"
+    },
+    "analysis": {
+      "zh": "10年期美债收益率周二报约5.302%,略低于平盘,周一曾触及2002年4月以来的最高水平。根据CME FedWatch工具,交易员目前定价美联储下次会议维持利率不变的概率为78%。投资者正等待FOMC会议纪要。收益率像水位线,涨到高位时,所有资产的「估值」都要重新量一量。",
+      "en": "The 10-year Treasury yield was last trading around 5.302% on Tuesday, a touch below flat, after reaching its highest level since April 2002 on Monday. According to the CME FedWatch tool, traders now price a 78% chance that the Fed holds rates unchanged at its next meeting, while investors await the FOMC minutes. Yields are like a water line: when it rises this high, every asset's valuation has to be measured again."
+    },
+    "dda": {
+      "zh": "利率高位且前景不明时,定期定额(DDA)的好处是不必预测利率的方向,按固定金额持续投入,一般有助于平滑进场成本。重点是确认金额与自己的目标相符。",
+      "en": "When rates are high and the path is unclear, regular (DDA) investing means you don't have to forecast rate direction; investing a fixed amount steadily generally helps smooth entry cost. The key is that the amount fits your goals."
+    },
+    "prs": {
+      "zh": "较高的收益率对长期退休储蓄来说是一把双刃剑:债券类资产的票息可能更有吸引力,但股票估值可能承压。退休规划看的是长线,PRS每年最高RM3,000的税务减免可与定期投入一并考虑。",
+      "en": "Higher yields cut both ways for long-term retirement savings: income from bond-type assets may look more attractive, while equity valuations may come under pressure. Retirement planning is a long game, and the PRS tax relief of up to RM3,000 a year can be considered alongside regular contributions."
+    },
+    "lump": {
+      "zh": "在利率预期摇摆的时候一次性投入,时间风险会比较集中。通常可以考虑分批进场的原则,并检视现有组合对科技等单一主题的集中度,配合自己的目标与风险承受度。",
+      "en": "Investing a lump sum while rate expectations swing concentrates timing risk. It generally helps to consider phasing in and to check existing concentration in single themes such as tech, matched to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "美债收益率处于多年高位,可能影响全球债券定价与资金流向,大马政府债券(MGS)、企业债和伊斯兰债券也可能通过情绪与外资流向受到牵动;国家银行的利率取向与令吉走势仍是本地债券基金的重要背景。",
+      "en": "With US yields at multi-year highs, global bond pricing and capital flows may shift, and Malaysian government securities (MGS), corporate bonds and sukuk can be affected through sentiment and foreign flows; Bank Negara's rate stance and the ringgit remain key backdrop for local bond funds."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html"
+    }
+  },
+  {
+    "id": "2026-10-06-a2",
+    "time": "2026-10-06T17:00:00+08:00",
+    "tags": ["cn"],
+    "title": {
+      "zh": "中国关闭创纪录的670家银行,加速整合中小金融机构",
+      "en": "China shuts down a record 670 banks as Beijing accelerates consolidation of smaller lenders"
+    },
+    "analysis": {
+      "zh": "据CNBC每日简报,中国关闭了创纪录的670家银行,约占银行总数的四分之一,北京正加快整合规模较小的贷款机构,以巩固金融体系。这像是一次大扫除:短期声响不小,目的是让整体结构更稳固。",
+      "en": "According to CNBC's Daily Open, China has shut down a record 670 banks, roughly a quarter of its lenders, as Beijing accelerates the consolidation of smaller institutions to shore up its financial system. It is like a big spring-clean: noisy in the short run, aimed at a sturdier structure overall."
+    },
+    "dda": {
+      "zh": "中国金融体系的整顿属于长期结构性议题。对定期定额投资者来说,更重要的是了解自己的信托基金在中国或亚洲的占比,并保持分散,而不是被单一头条左右。",
+      "en": "Consolidation of China's financial system is a long-term structural theme. For regular (DDA) investors, what matters more is knowing how much of your unit trust funds sits in China or Asia and staying diversified, rather than reacting to one headline."
+    },
+    "prs": {
+      "zh": "退休资金的时间线很长,适合通过全球分散来应对单一国家的政策与结构调整。检视退休组合的地区配置是一个好习惯;PRS税务减免上限为每年RM3,000。",
+      "en": "Retirement money has a long horizon and generally suits global diversification to cope with one country's policy and structural changes. Reviewing the regional spread of a retirement portfolio is a good habit; PRS tax relief is capped at RM3,000 a year."
+    },
+    "lump": {
+      "zh": "有意投资中国相关市场的人,可以先检视自己对单一市场的集中度,并按分批进场的原则分散时间风险,同时留意金融板块的政策不确定性,配合自己的风险承受度。",
+      "en": "Those considering China-related markets can first check their concentration in a single market and apply the principle of phasing in to spread timing risk, while keeping policy uncertainty in the financial sector in mind and matching their own risk tolerance."
+    },
+    "bond": {
+      "zh": "此消息对大马债券基金的直接影响一般有限,但中国信贷与银行体系的变化可能间接影响区域风险情绪与资金流向。债券基金在组合中通常扮演平衡角色。",
+      "en": "The direct effect on Malaysian bond funds is generally limited, though changes in China's credit and banking system may indirectly influence regional risk sentiment and flows. Bond funds usually play a balancing role in a portfolio."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/cnbc-daily-open-china-shuts-down-record-670-banks-new-worries-over-oil-and-ai-.html"
+    }
+  },
+  {
+    "id": "2026-10-06-a3",
+    "time": "2026-10-06T17:00:00+08:00",
+    "tags": ["us", "commodities"],
+    "title": {
+      "zh": "特朗普签署行政令放宽「红色」柴油限制,柴油价格成为焦点",
+      "en": "Trump signs an executive order easing limits on 'red' diesel as fuel costs stay in focus"
+    },
+    "analysis": {
+      "zh": "据CNBC每日简报,美国总统特朗普签署行政令,放宽通常仅限非公路用途的柴油的使用限制,「红色」柴油将可上美国公路。这显示燃料成本已成为政策关注的焦点;能源价格像家里的水电费,涨幅会慢慢传导到运输和日常开销。",
+      "en": "According to CNBC's Daily Open, President Donald Trump signed an executive order easing limits on diesel normally reserved for off-road use, so 'red' diesel is set to reach US highways. It shows fuel costs have become a policy focus; energy prices are like the household utility bill, gradually feeding into transport and everyday costs."
+    },
+    "dda": {
+      "zh": "能源价格与通胀会影响利率预期,进而影响股债表现。定期定额的纪律在这种环境下尤其有用,因为不需要预测油价或政策走向。",
+      "en": "Energy prices and inflation shape rate expectations and in turn stock and bond returns. The discipline of regular (DDA) investing helps in such an environment because it doesn't require forecasting oil prices or policy."
+    },
+    "prs": {
+      "zh": "燃料与运输成本上升可能长期推高生活成本,所以退休规划需要把通胀纳入考虑。PRS每年最高RM3,000的税务减免可作为长期储蓄的助力。",
+      "en": "Rising fuel and transport costs can lift living costs over time, so retirement plans should allow for inflation. PRS tax relief of up to RM3,000 a year can support long-term saving."
+    },
+    "lump": {
+      "zh": "在能源与政策消息频繁变动时,分批进场可以分散时间风险;同时检查是否过度集中在能源或单一主题,并配合自己的目标与风险承受度。",
+      "en": "When energy and policy headlines change often, phasing in can spread timing risk; also check for over-concentration in energy or any single theme, matched to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "燃料成本若持续推高通胀预期,可能使利率与债券收益率维持高位、债券价格承压;大马作为产油国,令吉与外资流向也可能受到油价影响。信贷质量仍需留意。",
+      "en": "If fuel costs keep lifting inflation expectations, rates and bond yields may stay high and bond prices may come under pressure; as an oil producer, Malaysia's ringgit and foreign flows may also be influenced by oil prices. Credit quality still deserves attention."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/06/daily-open-red-diesel-trump-midterms.html"
+    }
+  }
+]
