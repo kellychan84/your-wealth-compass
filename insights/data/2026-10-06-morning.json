@@ -1,0 +1,299 @@
+[
+  {
+    "id": "2026-10-06-m0",
+    "kind": "summary",
+    "time": "2026-10-06T09:00:00+08:00",
+    "tags": [],
+    "title": {
+      "zh": "美股周一收高、纳指与英伟达再创纪录,但美债收益率高企;油价仍在约102美元",
+      "en": "Wall Street closes higher on Monday with the Nasdaq and Nvidia at records, yet Treasury yields stay elevated; Brent holds near $102"
+    },
+    "figures": [
+      {
+        "label": {
+          "zh": "标普500",
+          "en": "S&P 500"
+        },
+        "value": "7,773.95",
+        "change": "+0.66%",
+        "dir": "up"
+      },
+      {
+        "label": {
+          "zh": "纳斯达克综合",
+          "en": "Nasdaq Composite"
+        },
+        "value": "27,477.31",
+        "change": "+1.05%",
+        "dir": "up"
+      },
+      {
+        "label": {
+          "zh": "道琼斯",
+          "en": "Dow Jones"
+        },
+        "value": "51,267.90",
+        "change": "+0.18%",
+        "dir": "up"
+      },
+      {
+        "label": {
+          "zh": "富时马来西亚综合指数",
+          "en": "FBM KLCI"
+        },
+        "value": "1,632",
+        "change": "+0.08%",
+        "dir": "up"
+      }
+    ],
+    "points": [
+      {
+        "zh": "周一美股收高,纳指收盘再创纪录,英伟达涨2.1%、收出5月以来首个历史新高收盘;但美债收益率高企,少数AI巨头掩盖了债市压力。",
+        "en": "US stocks closed higher on Monday with the Nasdaq at a record close and Nvidia up 2.1% for its first record close since May, but elevated Treasury yields are being masked by a handful of AI giants."
+      },
+      {
+        "zh": "周二亚洲盘中布伦特约102.33美元、WTI约90.85美元;伊朗重申重开霍尔木兹海峡的条件,OPEC+维持11月产量目标不变。",
+        "en": "In Asian trade on Tuesday Brent was about $102.33 and WTI about $90.85; Iran restated its conditions for reopening the Strait of Hormuz and OPEC+ held its November output targets."
+      },
+      {
+        "zh": "马来西亚:KLCI周一报1,632点,美元兑令吉约4.0855(近一个月令吉走弱约0.98%),隔夜政策利率2.75%。",
+        "en": "Malaysia: the KLCI stood at 1,632 on Monday, USD/MYR was about 4.0855 (ringgit about 0.98% weaker over a month) and the OPR is 2.75%."
+      }
+    ],
+    "takeaway": {
+      "zh": "股市创新高的同时,债券收益率也在走高,这种「两边都热」的局面提醒我们:行情好的时候更要看清自己的目标和风险承受度。作为信托基金顾问,我会鼓励大家继续按计划定期投入、保持分散,而不是被头条牵着走。",
+      "en": "Stocks are at records while bond yields are also climbing, a reminder that good markets are exactly when to re-check goals and risk tolerance. As a unit trust consultant, I encourage staying with a regular plan and diversification rather than being led by headlines."
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-treasury-bond-081220790.html"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://cnbc.com/2026/10/05/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks.html"
+      },
+      {
+        "name": "Trading Economics",
+        "url": "https://tradingeconomics.com/malaysia/stock-market"
+      }
+    ]
+  },
+  {
+    "id": "2026-10-06-m1",
+    "time": "2026-10-06T09:00:00+08:00",
+    "tags": [
+      "us"
+    ],
+    "title": {
+      "zh": "美股周一收高:标普500涨0.66%,纳指涨1.05%收于纪录高位",
+      "en": "Wall Street ends Monday higher: S&P 500 +0.66%, Nasdaq +1.05% at a record close"
+    },
+    "analysis": {
+      "zh": "标普500收报7,773.95点(+0.66%),纳指27,477.31点(+1.05%)并创收盘纪录,道指51,267.90点(+0.18%)。Meta涨1.9%、微软涨1.5%,科技股领涨;同时美债收益率走高,ISM服务业PMI为54.9、其中价格分项升至74。就像一桌饭菜里只有几道菜特别热,整体看起来热闹,但并不代表每一样都同样稳。",
+      "en": "The S&P 500 closed at 7,773.95 (+0.66%), the Nasdaq at a record 27,477.31 (+1.05%) and the Dow at 51,267.90 (+0.18%). Meta rose 1.9% and Microsoft 1.5%, while Treasury yields climbed and the ISM services PMI came in at 54.9 with its prices index up to 74. It is like a feast where only a few dishes are piping hot: lively overall, but not every part is equally solid."
+    },
+    "dda": {
+      "zh": "指数创新高时,定期定额(DDA)的好处是不需要猜高低:按固定金额分批买入,涨时买得少、跌时买得多,一般有助于平滑成本。重点是确认每月金额与目标相符。",
+      "en": "When indices hit records, regular (DDA) investing means you don't have to guess the top: a fixed amount buys fewer units when prices are high and more when they fall, which generally helps smooth cost. The key is checking the monthly amount fits your goal."
+    },
+    "prs": {
+      "zh": "退休规划看的是十几二十年的路,单日的新高或回落影响有限。PRS每年最高RM3,000的税务减免,可以和长期定期投入一起考虑。",
+      "en": "Retirement planning spans decades, so a single day's record or dip matters little. The PRS tax relief of up to RM3,000 a year can be considered alongside long-term regular contributions."
+    },
+    "lump": {
+      "zh": "若手上有一笔闲置资金,可以先想想:是否已集中在少数科技股主题?分批进场是分散时间风险的原则之一,但要配合自己的目标与风险承受度。",
+      "en": "If you hold idle cash, ask whether you are already concentrated in a few tech themes. Phasing in is one principle for spreading timing risk, always matched to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "美债收益率走高通常会牵动全球债券价格与资金流向,马来西亚政府债券(MGS)和企业债、伊斯兰债券也可能受情绪影响。债券基金在组合中通常扮演平衡角色。",
+      "en": "Higher US yields may influence global bond prices and flows, and Malaysian government securities (MGS), corporate bonds and sukuk can be affected through sentiment. Bond funds generally act as a portfolio balancer."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html"
+    }
+  },
+  {
+    "id": "2026-10-06-m2",
+    "time": "2026-10-06T09:00:00+08:00",
+    "tags": [
+      "us",
+      "tech"
+    ],
+    "title": {
+      "zh": "英伟达收出5月以来首个历史新高收盘,AI股撑起纳指",
+      "en": "Nvidia posts its first record close since May as AI names carry the Nasdaq"
+    },
+    "analysis": {
+      "zh": "英伟达周一涨2.1%,创5月以来首个收盘纪录,盘中约237美元,超过5月14日的前纪录收盘235.74美元;SpaceX涨约5%。分析指出少数AI巨头正在掩盖债市上升收益率带来的压力。把它想成一个班级里几位尖子生拉高了平均分,平均数好看,不代表全班都在进步。",
+      "en": "Nvidia rose 2.1% on Monday for its first record close since May, trading near $237 intraday against the prior record close of $235.74 on May 14, while SpaceX gained roughly 5%. Commentary notes that a handful of AI giants are masking pressure from rising Treasury yields. Think of a few top students lifting the class average: the average looks good, yet it doesn't mean everyone improved."
+    },
+    "dda": {
+      "zh": "AI主题涨幅集中时,许多信托基金的持仓也可能偏向少数大型科技股。定期定额之外,可以留意自己持有的基金是否在不知不觉中过度集中。",
+      "en": "When AI gains are concentrated, many unit trust funds may also lean on a few large tech names. Alongside regular investing, check whether your holdings have drifted into over-concentration."
+    },
+    "prs": {
+      "zh": "长期的退休账户不需要追逐热门主题;分散在不同地区和资产类别,通常更适合十几二十年的时间线。PRS税务减免上限为每年RM3,000。",
+      "en": "A long-horizon retirement account doesn't need to chase hot themes; spreading across regions and asset classes generally suits a multi-decade timeline. PRS tax relief is capped at RM3,000 a year."
+    },
+    "lump": {
+      "zh": "看到科技股创新高就一次投入,可能把时间风险和主题集中风险叠在一起。通常可先检视现有集中度,并按目标与风险承受度考虑分批进场的原则。",
+      "en": "Putting everything in because tech is at a record may stack timing risk on concentration risk. It generally helps to check existing concentration first and consider phasing in, matched to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "AI行情主要影响股市,对大马债券基金的直接影响有限;但若股市热度推高收益率预期,债券价格可能受压。债券的角色是在股市波动时为组合提供平衡。",
+      "en": "The AI rally mainly affects equities, so the direct effect on Malaysian bond funds is limited; if equity enthusiasm pushes yield expectations higher, bond prices may come under pressure. Bonds' role is to balance a portfolio when equities swing."
+    },
+    "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-treasury-bond-081220790.html"
+    }
+  },
+  {
+    "id": "2026-10-06-m3",
+    "time": "2026-10-06T09:00:00+08:00",
+    "tags": [
+      "commodities",
+      "fed"
+    ],
+    "title": {
+      "zh": "布伦特仍在约102美元:霍尔木兹条件未解,G7释放储备、OPEC+维持产量",
+      "en": "Brent holds near $102 as Hormuz conditions stand, G7 taps stocks and OPEC+ holds output"
+    },
+    "analysis": {
+      "zh": "周二亚洲盘中布伦特约102.33美元,WTI下跌0.3%至约90.85美元。伊朗重申重开霍尔木兹海峡的条件,包括解除制裁和结束美国海上封锁;OPEC+周日维持11月产量目标,G7则将释放紧急库存。油价是通胀的上游,就像家里的水电费上涨,会慢慢传到各种日常开销。",
+      "en": "In Asian trade on Tuesday Brent was about $102.33 and WTI slipped 0.3% to about $90.85. Iran restated its conditions for reopening the Strait of Hormuz, including lifting sanctions and ending the US naval blockade; OPEC+ held its November targets on Sunday and the G7 is tapping emergency stocks. Oil sits upstream of inflation, like a rising utility bill that gradually feeds into everyday costs."
+    },
+    "dda": {
+      "zh": "油价与通胀走势会影响利率预期,进而影响股债表现。定期定额的纪律在这种不确定环境里尤其有用,因为不需要预测油价。",
+      "en": "Oil and inflation shape interest-rate expectations and in turn stock and bond returns. The discipline of regular (DDA) investing helps in such uncertainty because it doesn't require forecasting oil."
+    },
+    "prs": {
+      "zh": "通胀会长期侵蚀退休储蓄的购买力,所以退休规划需要把通胀纳入考虑。PRS每年最高RM3,000的税务减免可作为长期储蓄的助力。",
+      "en": "Inflation can erode the purchasing power of retirement savings over time, so retirement plans should allow for it. PRS tax relief of up to RM3,000 a year can support long-term saving."
+    },
+    "lump": {
+      "zh": "在油价与地缘消息波动时,分批进场可以分散时间风险;同时检查是否过度集中在能源或单一主题,并配合自己的目标与风险承受度。",
+      "en": "When oil and geopolitical headlines swing, phasing in can spread timing risk; also check for over-concentration in energy or any single theme, matched to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "高油价可能推高通胀预期,令利率与国债收益率走高、债券价格承压;大马作为产油国,令吉与外资流向也可能受到影响。信贷质量仍需留意。",
+      "en": "High oil may lift inflation expectations and yields, pressuring bond prices; as an oil producer Malaysia's ringgit and foreign flows may also be affected. Credit quality still deserves attention."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://cnbc.com/2026/10/05/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks.html"
+    }
+  },
+  {
+    "id": "2026-10-06-m4",
+    "time": "2026-10-06T09:00:00+08:00",
+    "tags": [
+      "cn"
+    ],
+    "title": {
+      "zh": "港股节后连跌:恒指周一再跌约0.3%至23,908点",
+      "en": "Hong Kong extends losses: Hang Seng down about 0.3% to 23,908 on Monday"
+    },
+    "analysis": {
+      "zh": "恒指周一下跌约0.3%(66点)至23,908点,此前一个交易日重挫2.6%,原因是美债收益率高企及油价忧虑拖累情绪。近一个月恒指累计下跌约5.9%,较一年前低约11.3%。市场的情绪像天气,短期起伏很大,但并不决定长期方向。",
+      "en": "The Hang Seng fell about 0.3% (66 points) to 23,908 on Monday, after plunging 2.6% in the previous session as elevated US Treasury yields and oil worries weighed on sentiment. Over the past month the index is down about 5.9% and about 11.3% lower than a year ago. Sentiment is like weather: short-term swings can be large without deciding the long-term direction."
+    },
+    "dda": {
+      "zh": "市场下跌时,定期定额按固定金额买入,同样金额能买到更多单位,长期往往有助于摊低成本,前提是基金与目标匹配。",
+      "en": "When markets fall, regular (DDA) investing buys more units for the same amount, which over time can help lower average cost, provided the fund fits your goal."
+    },
+    "prs": {
+      "zh": "退休规划需要的是全球分散,而不是押注单一市场。区域性的下跌是提醒我们检视退休组合的地区配置;PRS税务减免上限为每年RM3,000。",
+      "en": "Retirement planning calls for global diversification rather than a bet on one market. A regional slump is a prompt to review geographic spread; PRS tax relief is capped at RM3,000 a year."
+    },
+    "lump": {
+      "zh": "对有意在回落后布局中国或香港市场的人,可以按分批进场的原则分散时间风险,并先检视自己对单一市场的集中度与风险承受度。",
+      "en": "For those considering China or Hong Kong after a pullback, phasing in can spread timing risk, after first checking concentration in any single market and your risk tolerance."
+    },
+    "bond": {
+      "zh": "港股回落对大马债券基金的直接影响一般有限,但全球风险情绪与美债收益率会间接影响资金流向。债券在股市震荡时通常扮演平衡角色。",
+      "en": "A Hong Kong pullback generally has limited direct effect on Malaysian bond funds, though global risk sentiment and US yields may indirectly shape flows. Bonds usually play a balancing role when equities are volatile."
+    },
+    "source": {
+      "name": "Yahoo Finance",
+      "url": "https://sg.finance.yahoo.com/news/stock-market-news-oct-5-055600486.html"
+    }
+  },
+  {
+    "id": "2026-10-06-m5",
+    "time": "2026-10-06T09:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "亚洲芯片股走强:东京电子涨5.5%、台积电涨2.6%,韩国出口同比大增83.5%",
+      "en": "Asian chip stocks climb: Tokyo Electron +5.5%, TSMC +2.6%, South Korean exports +83.5%"
+    },
+    "analysis": {
+      "zh": "日经225早盘上涨2.5%至70,037.61点,为三个月来首次站上70,000点;东京电子涨5.5%,软银涨3.3%,台积电涨2.6%。韩国KOSPI涨0.9%,三星电子和SK海力士分别涨1%和1.6%;韩国出口同比大增83.5%,芯片出货创纪录。芯片股像整个AI产业链的「水龙头」,订单一多,上下游都受惠。",
+      "en": "The Nikkei 225 jumped 2.5% in morning trade to 70,037.61, its first foray above 70,000 in three months; Tokyo Electron gained 5.5%, SoftBank 3.3% and TSMC 2.6%. The KOSPI rose 0.9% with Samsung Electronics up 1% and SK Hynix 1.6%, while South Korean exports jumped 83.5% year on year with record chip shipments. Chip stocks are the tap of the whole AI supply chain: more orders benefit both upstream and downstream."
+    },
+    "dda": {
+      "zh": "科技与半导体是许多全球和亚洲基金的重要持仓,涨势强劲时更要留意单一行业占比。定期定额可以让你不必押注最佳进场点。",
+      "en": "Tech and semiconductors are major holdings in many global and Asian funds, so when the rally is strong, watch single-sector weight. Regular (DDA) investing means you needn't bet on the perfect entry point."
+    },
+    "prs": {
+      "zh": "退休资金的时间很长,可经历多个半导体景气周期。分散在不同行业与地区更能降低单一周期的冲击;PRS税务减免上限为每年RM3,000。",
+      "en": "Retirement money has time to ride through several semiconductor cycles. Spreading across sectors and regions can soften any one cycle's impact; PRS tax relief is capped at RM3,000 a year."
+    },
+    "lump": {
+      "zh": "芯片股大涨后一次性投入,可能叠加行业集中与时间风险。通常先检视现有集中度,并按目标与风险承受度考虑分批进场。",
+      "en": "Investing a lump sum after a big chip rally can stack sector concentration on timing risk. It generally helps to check existing concentration first and consider phasing in according to goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "芯片行情主要影响股市;对大马债券基金的直接影响有限,但出口强劲有利经济与外资情绪,可能间接支持令吉。债券仍是组合的平衡器。",
+      "en": "The chip rally mainly affects equities, so the direct effect on Malaysian bond funds is limited, but strong exports may support the economy and foreign sentiment and indirectly the ringgit. Bonds remain a portfolio balancer."
+    },
+    "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-rise-chipmaker-gains-043635538.html"
+    }
+  },
+  {
+    "id": "2026-10-06-m6",
+    "time": "2026-10-06T09:00:00+08:00",
+    "tags": [
+      "my"
+    ],
+    "title": {
+      "zh": "马来西亚:KLCI报1,632点,美元兑令吉约4.0855;隔夜政策利率2.75%",
+      "en": "Malaysia: KLCI at 1,632, USD/MYR near 4.0855 and the OPR at 2.75%"
+    },
+    "analysis": {
+      "zh": "富时马来西亚综合指数周一升0.08%至1,632点,近一个月累计下跌4.81%;美元兑令吉约4.0855,近一个月令吉走弱约0.98%,但较一年前走强3.07%。Trading Economics指出,国家银行表示将加强稳定令吉的措施,包括吸引外资流入、鼓励国联企业及公司汇回海外收益;基准利率为2.75%。令吉像本地的「体温计」,会反映外资的信心。",
+      "en": "The FBM KLCI rose 0.08% to 1,632 on Monday but is down 4.81% over a month; USD/MYR was about 4.0855, with the ringgit about 0.98% weaker over a month yet 3.07% stronger than a year ago. Trading Economics notes Bank Negara signaled stepped-up measures to stabilise the currency, including attracting foreign inflows and encouraging state-linked firms and corporates to repatriate overseas earnings; the benchmark rate is 2.75%. The ringgit is a local thermometer of foreign confidence."
+    },
+    "dda": {
+      "zh": "本地股市近一个月回落,对定期定额投资者来说是以较低价格累积单位的机会之一,但重点仍是基金与自己的目标和风险承受度相符。",
+      "en": "A softer local market over the past month gives regular (DDA) investors the chance to accumulate units at lower prices, though the fund must still fit your goals and risk tolerance."
+    },
+    "prs": {
+      "zh": "令吉走弱会让海外投资的本币价值上升,也会让进口通胀压力增加;退休规划应兼顾本地与海外资产。PRS税务减免上限为每年RM3,000。",
+      "en": "A weaker ringgit raises the local-currency value of overseas assets but adds to imported inflation; retirement plans should balance local and overseas assets. PRS tax relief is capped at RM3,000 a year."
+    },
+    "lump": {
+      "zh": "投资海外资产会同时涉及汇率变动。分批进场可以分散时间风险,并应检视币种与市场的集中度、配合自己的目标。",
+      "en": "Overseas investments also carry currency movement. Phasing in can spread timing risk, and you should check currency and market concentration against your goals."
+    },
+    "bond": {
+      "zh": "国家银行稳定令吉的措施与2.75%的OPR,是大马债券基金的重要背景:利率稳定与外资流入一般有利MGS与企业债/伊斯兰债券;令吉承压则可能带来外资流出风险。",
+      "en": "Bank Negara's currency measures and the 2.75% OPR are key backdrop for Malaysian bond funds: stable rates and foreign inflows generally help MGS and corporate bonds/sukuk, while a pressured ringgit may bring foreign-outflow risk."
+    },
+    "source": {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/malaysia/stock-market"
+    }
+  }
+]
