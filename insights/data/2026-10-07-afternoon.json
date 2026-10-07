@@ -1,0 +1,179 @@
+[
+  {
+    "id": "2026-10-07-a1",
+    "time": "2026-10-07T17:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "亚洲股市下挫:日经跌0.92%、韩国KOSPI跌近2%,芯片股领跌",
+      "en": "Asian shares fall: Nikkei down 0.92%, Kospi nearly 2% lower as chip stocks lead"
+    },
+    "analysis": {
+      "zh": "日经225收报69,815点(-0.92%),韩国KOSPI跌至6,804点(-1.98%)。日本因科技与银行股获利回吐而下跌;韩国则因市场担心半导体盈利热潮能否持续、三星电子与SK海力士走低,而美债收益率偏高也压抑估值。好比一场马拉松跑到中段,大家先停下来喘口气。",
+      "en": "The Nikkei 225 fell 0.92% to 69,815 on profit-taking in tech and bank shares, while South Korea's Kospi dropped 1.98% to 6,804 as investors questioned how long the chip earnings boom can last, with Samsung Electronics and SK hynix lower and elevated Treasury yields weighing on valuations. It is a bit like a marathon runner pausing mid-race to catch their breath."
+    },
+    "dda": {
+      "zh": "亚洲芯片股短线波动大,但长期投资者不必因一天的跌幅改变计划。定期定额(DDA)通过信托基金持续投入,可以分散到不同行业和地区。",
+      "en": "Asian chip stocks can swing sharply, but long-term investors needn't change plans over one day's drop. Regular (DDA) investing through unit trust funds keeps contributions flowing and spreads exposure across sectors and regions."
+    },
+    "prs": {
+      "zh": "退休规划以数十年计,单日回调通常不改变方向。可趁机检视PRS组合是否过度偏重科技,并留意每年最高RM3,000的税务减免。",
+      "en": "Retirement planning runs over decades, so a one-day pullback generally doesn't change direction. It can be a good moment to check whether a PRS portfolio is too tech-heavy, and to note the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "热门板块回调提醒我们集中度的重要。单笔资金可以分阶段投入以分散时点风险,并配合自身目标与风险承受度。",
+      "en": "A pullback in a hot sector is a reminder of why concentration matters. A lump sum can be phased in to spread timing risk, and should match your own goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "亚洲股市下挫时,债券基金通常起到组合平衡的作用。对马来西亚政府债券(MGS)与企业债/伊斯兰债券的直接影响有限,主要仍看OPR、令吉与外资流向。",
+      "en": "When Asian equities slide, bond funds generally play a balancing role. The direct effect on Malaysian MGS and corporate bonds/sukuk is limited; the OPR, the ringgit and foreign flows remain the main drivers."
+    },
+    "source": {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/south-korea/stock-market"
+    }
+  },
+  {
+    "id": "2026-10-07-a2",
+    "time": "2026-10-07T17:00:00+08:00",
+    "tags": [
+      "cn"
+    ],
+    "title": {
+      "zh": "港股走低:油价反弹挑动通胀忧虑,内地假期令成交清淡",
+      "en": "Hang Seng slips as oil's rebound revives inflation worries; mainland holiday keeps trading thin"
+    },
+    "analysis": {
+      "zh": "恒生指数周三收报约24,024点(-0.62%),腾讯、小米等科技股承压。布伦特油价重上101美元,引发通胀忧虑;内地市场因国庆假期休市,缺少内地资金支撑。",
+      "en": "The Hang Seng Index stood near 24,024 (-0.62%) on Wednesday, with tech names such as Tencent and Xiaomi under pressure. Brent back above $101 revived inflation worries, and mainland markets were shut for the National Day holiday, removing mainland buying support."
+    },
+    "dda": {
+      "zh": "假期期间成交清淡,价格波动有时被放大。定期定额不需要抓对进场日,长期下来可能让平均成本更平稳。",
+      "en": "Thin holiday trading can magnify price swings. Regular investing doesn't require picking the right entry day and may smooth average cost over time."
+    },
+    "prs": {
+      "zh": "中国与香港市场是许多亚洲基金的一部分。退休组合应留意地区分散,而不是押注单一市场,并善用PRS每年最高RM3,000的税务减免。",
+      "en": "China and Hong Kong are part of many Asia funds. A retirement portfolio should look at regional diversification rather than betting on one market, and make use of the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "单笔投资进入单一地区市场时,要检查集中度。分阶段投入可分散时点风险,并以目标与风险承受度为依据。",
+      "en": "When a lump sum goes into a single regional market, check concentration. Phasing in can spread timing risk, guided by your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "通胀忧虑升温可能让利率预期偏高,对债券价格一般不利;但马来西亚债券基金主要受OPR、令吉与外资流向影响,港股的直接影响有限。",
+      "en": "Rising inflation worries can keep rate expectations elevated, which generally weighs on bond prices; Malaysian bond funds are mainly driven by the OPR, the ringgit and foreign flows, so the direct effect of Hong Kong stocks is limited."
+    },
+    "source": {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/hong-kong/stock-market"
+    }
+  },
+  {
+    "id": "2026-10-07-a3",
+    "time": "2026-10-07T17:00:00+08:00",
+    "tags": [
+      "my"
+    ],
+    "title": {
+      "zh": "KLCI下跌1.32%至1,612点;令吉约4.0880",
+      "en": "KLCI drops 1.32% to 1,612; ringgit around 4.0880"
+    },
+    "analysis": {
+      "zh": "富时马来西亚综合指数周三跌21.57点(-1.32%)至1,612点,过去一个月累计下跌约5.99%。美元兑令吉报约4.0880,近一个月令吉走弱约0.65%,但较一年前仍升值约3.04%。这就像天气转凉,短期不舒服,不代表整个季节改变。",
+      "en": "The FBM KLCI fell 21.57 points (-1.32%) to 1,612 on Wednesday and is down about 5.99% over a month. USD/MYR was around 4.0880, with the ringgit about 0.65% weaker over a month yet 3.04% stronger over a year. It is like a cool snap: uncomfortable in the short term, but not a change of season."
+    },
+    "dda": {
+      "zh": "本地市场连续回调时,定期定额会在较低价位买到更多单位。坚持计划比预测底部更实际。",
+      "en": "When the local market keeps pulling back, regular investing buys more units at lower prices. Sticking to the plan is more practical than trying to call the bottom."
+    },
+    "prs": {
+      "zh": "退休储蓄的时间很长,本地市场的短期下跌通常不改变长期目标。可检视PRS基金是否符合年龄与风险偏好,并留意每年最高RM3,000税务减免。",
+      "en": "Retirement saving has a long horizon, and short-term local weakness generally doesn't change long-term goals. Review whether PRS funds fit your age and risk profile, and note the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "本地市场走弱时,单笔资金不必急于一次投入。分阶段进场可分散时点风险,同时检查是否过度集中于单一市场。",
+      "en": "When the local market weakens there is no need to rush a lump sum in all at once. Phasing in can spread timing risk, alongside a check for concentration in a single market."
+    },
+    "bond": {
+      "zh": "令吉走弱与外资流向,可能影响马来西亚政府债券(MGS)与企业债/伊斯兰债券的需求;国行OPR是主要锚点。股市回调时债券基金可作为组合的平衡器。",
+      "en": "A softer ringgit and foreign flows may influence demand for Malaysian MGS and corporate bonds/sukuk, with Bank Negara's OPR as the main anchor. Bond funds can act as a balancer when equities pull back."
+    },
+    "source": {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/malaysia/stock-market"
+    }
+  },
+  {
+    "id": "2026-10-07-a4",
+    "time": "2026-10-07T17:00:00+08:00",
+    "tags": [
+      "commodities"
+    ],
+    "title": {
+      "zh": "布伦特油价反弹至约101.88美元:霍尔木兹海峡油轮遇袭再添忧虑",
+      "en": "Brent rebounds to about $101.88 as tanker attacks in the Strait of Hormuz add to worries"
+    },
+    "analysis": {
+      "zh": "布伦特原油周三升1.29%至约101.88美元,过去一个月上涨约4.04%。报道称伊朗近日加强对霍尔木兹海峡油轮的攻击,本月已有九起事件;不过沙特东西输油管已恢复至每日580万桶,美国原油库存也减少210万桶,限制了涨幅。油价就像家里的电费单,涨了大家都感觉得到。",
+      "en": "Brent crude rose 1.29% to about $101.88 on Wednesday and is up about 4.04% over a month. Iran has stepped up attacks on tankers in the Strait of Hormuz, with nine incidents reported this month; still, Saudi Arabia's East-West pipeline is back to 5.8 million bpd and US crude stocks fell 2.1 million barrels, capping gains. Oil is like the household electricity bill: when it rises, everyone feels it."
+    },
+    "dda": {
+      "zh": "油价反复是长期投资中常见的噪音。定期定额让你不必押注能源价格的方向,持续投入即可。",
+      "en": "Oil's back-and-forth is common noise in long-term investing. Regular investing means you needn't bet on the direction of energy prices; simply keep contributing."
+    },
+    "prs": {
+      "zh": "油价推高物价会侵蚀退休金的购买力。规划退休目标时要把生活成本上涨考虑进去,并定期检视PRS进度。",
+      "en": "Higher oil prices feeding into prices can erode retirement purchasing power. Build rising living costs into retirement goals and review PRS progress regularly."
+    },
+    "lump": {
+      "zh": "能源价格波动时,单笔投资要留意是否过度集中于能源或周期性行业。分阶段投入可分散时点风险,并配合风险承受度。",
+      "en": "When energy prices swing, check whether a lump sum is overly concentrated in energy or cyclical sectors. Phasing in can spread timing risk and should suit your risk tolerance."
+    },
+    "bond": {
+      "zh": "油价上升可能推高通胀与利率预期,对债券价格一般不利。马来西亚债券基金仍主要受OPR、令吉与外资流向影响,油价的影响较间接。",
+      "en": "Higher oil can lift inflation and rate expectations, which generally weighs on bond prices. Malaysian bond funds are still driven mainly by the OPR, the ringgit and foreign flows, so oil's effect is more indirect."
+    },
+    "source": {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+    }
+  },
+  {
+    "id": "2026-10-07-a5",
+    "time": "2026-10-07T17:00:00+08:00",
+    "tags": [
+      "commodities",
+      "fed"
+    ],
+    "title": {
+      "zh": "金价跌1.23%至约4,113美元;美债收益率仍近24年高位",
+      "en": "Gold falls 1.23% to about $4,113 as Treasury yields stay near 24-year highs"
+    },
+    "analysis": {
+      "zh": "现货金价周三跌51.36美元(-1.23%)至约4,113.19美元,过去一个月下跌约5.57%。10年期美债收益率约5.33%,美元偏强,而市场预期联储局本月按兵不动的机率约80%,在联储局会议纪要公布前,投资者保持谨慎。",
+      "en": "Spot gold fell $51.36 (-1.23%) to about $4,113.19 on Wednesday, down about 5.57% over a month. The 10-year Treasury yield was around 5.33% with the dollar firmer, and markets price roughly an 80% chance that the Fed holds rates this month, leaving investors cautious ahead of the Fed minutes."
+    },
+    "dda": {
+      "zh": "黄金不产生利息,短期受收益率与美元左右。长期投资者通常把它当作分散工具,定期投入比押注单一资产更合适。",
+      "en": "Gold pays no income and is swayed by yields and the dollar in the short run. Long-term investors generally treat it as a diversifier, and regular contributions suit that better than betting on one asset."
+    },
+    "prs": {
+      "zh": "高收益率环境下,退休储蓄的选择更多元,但也要留意股票估值压力。PRS可依年龄选择不同风格基金,并享每年最高RM3,000税务减免。",
+      "en": "With high yields, retirement savers have more choices but should watch equity-valuation pressure. PRS lets you choose funds by age and style, with tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "金价一个月跌逾5%,说明任何资产短期都可能大幅波动。单笔资金可分阶段投入、检查集中度,并与风险承受度相匹配。",
+      "en": "A drop of over 5% in a month shows any asset can swing sharply in the short term. A lump sum can be phased in, checked for concentration, and matched to risk tolerance."
+    },
+    "bond": {
+      "zh": "美债收益率接近24年高位,通常会牵动全球债券价格,并可能通过利率预期和资金流向间接影响马来西亚政府债券(MGS)与企业债/伊斯兰债券。国行OPR与令吉仍是本地关键。",
+      "en": "Treasury yields near 24-year highs generally move global bond prices and may indirectly affect Malaysian MGS and corporate bonds/sukuk through rate expectations and flows. Bank Negara's OPR and the ringgit remain key locally."
+    },
+    "source": {
+      "name": "Trading Economics",
+      "url": "https://tradingeconomics.com/commodity/gold"
+    }
+  }
+]
