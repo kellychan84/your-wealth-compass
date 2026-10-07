@@ -191,7 +191,10 @@
   const fmt = n => (n < 0 ? '-' : '') + 'RM ' + Math.round(Math.abs(n)).toLocaleString('en-MY');
   const L = (zh, en) => kpLang() === 'zh' ? zh : en;
   const cfg = window.SITE_CONFIG || {};
-  let unlocked = kpStore.get('kp-calc-unlocked') === '1';
+  // The report unlocks for this visit only; every new visit shows the form again (Kelly, 2026-10-07).
+  // Returning visitors find their details pre-filled below. Clear the old "remember unlock" flag.
+  let unlocked = false;
+  kpStore.set('kp-calc-unlocked', '');
   let last = null, chart = null;
 
   function inputs() {
@@ -331,7 +334,6 @@
 
   function unlock() {
     unlocked = true;
-    kpStore.set('kp-calc-unlocked', '1');
     const w = $('lockWrap');
     w.classList.remove('locked');
     $('lockedBody').removeAttribute('aria-hidden');
@@ -388,7 +390,6 @@
 
   document.querySelectorAll('.calc-grid input[type=number]').forEach(el => el.addEventListener('input', render));
   document.addEventListener('kp:lang', () => { render(); });
-  if (unlocked) { $('lockWrap').classList.remove('locked'); $('lockedBody').removeAttribute('aria-hidden'); }
   render();
 })();
 </script>
