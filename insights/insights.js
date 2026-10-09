@@ -2,6 +2,270 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-10-09-m0",
+  "kind": "summary",
+  "time": "2026-10-09T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "OpenAI营收报道拖累科技股,纳指跌1.25%;美债收益率回落但仍在高位,油价续涨",
+   "en": "AI shares slide on an OpenAI revenue report, Nasdaq -1.25%; Treasury yields ease from highs while oil climbs"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,765.36",
+    "change": "-0.47%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克综合",
+     "en": "Nasdaq Composite"
+    },
+    "value": "27,193.34",
+    "change": "-1.25%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "51,231.64",
+    "change": "+0.10%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "富时马来西亚综合指数",
+     "en": "FBM KLCI"
+    },
+    "value": "1,601.01",
+    "change": "-0.67%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周四美股涨跌不一:标普500与纳指连跌两日,道指微升0.1%;《金融时报》报道OpenAI的年化营收比此前估计低200亿美元,芯片股受压。",
+    "en": "US stocks were mixed on Thursday: the S&P 500 and Nasdaq fell for a second day while the Dow edged up 0.1%; an FT report that OpenAI's annualized revenue was $20 billion below earlier estimates hit chip stocks."
+   },
+   {
+    "zh": "10年期美债收益率回落至约5.23%,30年期国债拍卖需求强劲;布伦特原油收于103.92美元。",
+    "en": "The 10-year Treasury yield eased to about 5.23% after a strong 30-year auction; Brent settled at $103.92."
+   },
+   {
+    "zh": "马来西亚:KLCI周四跌0.67%至1,601点,为去年约11月以来低位,隔夜政策利率2.75%。",
+    "en": "Malaysia: the KLCI fell 0.67% to 1,601 on Thursday, near its lowest since November 2025, with the OPR at 2.75%."
+   }
+  ],
+  "takeaway": {
+   "zh": "科技股和收益率的波动,提醒我们不要把所有鸡蛋放在同一个篮子里。作为信托基金顾问,我通常建议大家回到自己的目标和风险承受度,按计划投入、保持分散,比追着消息跑更踏实。",
+   "en": "Swings in tech and yields are a reminder not to keep all eggs in one basket. As a unit trust consultant, I'd generally say return to your own goals and risk tolerance: a steady plan and diversification tend to serve better than chasing headlines."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/economy-news/us-bonds-fall-lifting-yields-for-2nd-day-as-oil-weighs-30year-auction-looms-4939491"
+   },
+   {
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/malaysia/stock-market"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://in.investing.com/news/stock-market-news/chinese-stocks-firm-slightly-as-trade-resumes-after-golden-week-break-5623289"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-09-m1",
+  "time": "2026-10-09T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "OpenAI营收报道触发AI股回调:纳指跌1.25%,芯片股受压",
+   "en": "OpenAI revenue report rattles AI shares: Nasdaq -1.25%, chipmakers pressured"
+  },
+  "analysis": {
+   "zh": "周四纳斯达克综合指数收跌1.25%至27,193.34点,标普500跌0.47%至7,765.36点,为8月中旬以来最大单日跌幅;道指微升0.1%至51,231.64点。《金融时报》报道OpenAI年化营收比此前估计低200亿美元,费城半导体指数盘中一度跌近4%,Arm、英特尔、Marvell跌逾6%,美光跌逾5%。好比一位明星选手业绩不及预期,整支球队的士气都受影响。",
+   "en": "On Thursday the Nasdaq Composite closed down 1.25% at 27,193.34 and the S&P 500 fell 0.47% to 7,765.36, its biggest one-day loss since mid-August, while the Dow edged up 0.1% to 51,231.64. The Financial Times reported OpenAI's annualized revenue was $20 billion below earlier estimates; the Philadelphia Semiconductor Index fell as much as 4%, Arm, Intel and Marvell dropped more than 6% and Micron over 5%. It's like a star player missing expectations and the whole team feeling it."
+  },
+  "dda": {
+   "zh": "AI主题近期涨幅集中,回调时波动也会放大。DDA持续按月投入,不必猜测短期高低点,长期下来成本可能被摊平。",
+   "en": "AI themes have been concentrated winners, so pullbacks can be sharp too. Regular DDA contributions avoid guessing short-term highs and lows and may average out cost over time."
+  },
+  "prs": {
+   "zh": "退休投资期长,单日的科技股波动通常不改变长期方向。可检视PRS组合是否过度集中于科技,并留意每年最高RM3,000的税务减免。",
+   "en": "Retirement horizons are long, so a one-day tech move generally doesn't change the direction. Check whether a PRS portfolio leans too heavily on tech, and note the tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "热门主题回调时,正好检查单笔资金是否集中在少数板块。可考虑分阶段投入以分散时点风险,并对照自身目标与风险承受度。",
+   "en": "A pullback in a popular theme is a good time to check whether a lump sum is concentrated in a few sectors. It can be phased in to spread timing risk, matched to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "科技股回调对马来西亚债券基金的直接影响有限,主要仍看OPR、令吉与外资流向。股市波动时,债券基金通常起到组合平衡的作用。",
+   "en": "A tech pullback has limited direct effect on Malaysian bond funds; the OPR, ringgit and foreign flows matter more. Bond funds generally help balance a portfolio when equities wobble."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+  }
+ },
+ {
+  "id": "2026-10-09-m2",
+  "time": "2026-10-09T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "10年期美债收益率回落至约5.23%,沃勒称仍可能需要加息",
+   "en": "10-year Treasury yield eases to about 5.23% as Waller says more hikes likely needed"
+  },
+  "analysis": {
+   "zh": "周四10年期美债收益率下降约5个基点至约5.227%,30年期降至5.602%,此前周三曾触及24年高位。联储局理事沃勒表示,要让通胀回到2%目标,可能还需要加息,但在节奏上有“弹性”。220亿美元的30年期国债拍卖需求强劲,间接投标占72.3%。收益率像资金的“价格”,价格回落,股市压力暂时缓一缓。",
+   "en": "On Thursday the 10-year yield fell about 5 basis points to roughly 5.227% and the 30-year to 5.602%, after hitting a 24-year high on Wednesday. Fed Governor Christopher Waller said more hikes will likely be needed to reach the 2% target, though there is flexibility on pace. A $22 billion 30-year auction drew strong demand, with indirect bidders taking 72.3%. Yields are like the price of money: when that price eases, stocks get a little breathing room."
+  },
+  "dda": {
+   "zh": "利率走势仍不明朗,更不宜靠预测来选择投入时点。DDA按计划持续进行,可降低押注单一时点的风险。",
+   "en": "With the rate path still unclear, timing entries by forecast is difficult. Regular DDA investing on a set schedule lowers the risk of betting on a single moment."
+  },
+  "prs": {
+   "zh": "较高利率环境下,新买入的债券回报较高,但已持有的债券价格会波动。检视PRS的股债比例是否符合退休年限,并留意RM3,000的年度税务减免。",
+   "en": "In a higher-rate setting, newly bought bonds pay more while existing holdings can fluctuate in price. Check that a PRS equity/bond mix suits your retirement horizon, and note the RM3,000 annual tax relief."
+  },
+  "lump": {
+   "zh": "收益率大幅波动时,单笔资金可考虑分阶段投入,避免把时点风险集中在一天,并确认资金期限与目标匹配。",
+   "en": "When yields swing widely, a lump sum can be phased in so timing risk isn't concentrated in one day, with the time horizon matched to the goal."
+  },
+  "bond": {
+   "zh": "美债收益率走高通常会带动全球债券收益率,马来西亚债券价格可能受到短期压力,而票息收入仍是债券基金的核心。重点仍是OPR、通胀、令吉与外资流向。",
+   "en": "Higher US yields generally lift global bond yields, which may put short-term pressure on Malaysian bond prices, while coupon income stays core to bond funds. The OPR, inflation, ringgit and foreign flows remain the key watch points."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/economy-news/us-bonds-fall-lifting-yields-for-2nd-day-as-oil-weighs-30year-auction-looms-4939491"
+  }
+ },
+ {
+  "id": "2026-10-09-m3",
+  "time": "2026-10-09T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "中东局势推高油价:布伦特收于103.92美元",
+   "en": "Middle East tensions lift oil: Brent settles at $103.92"
+  },
+  "analysis": {
+   "zh": "周四布伦特原油收涨3.7%至103.92美元,美国原油收涨3.4%至91.17美元,盘中两者一度上涨约5美元,原因是中东供应忧虑。特朗普随后表示美国在期中选举前不会攻击伊朗,油价稍有回吐。油价高企会推高运输与生产成本,让通胀更难降温,也是收益率居高不下的原因之一,就像水电费上涨会拉高整个家庭开销。",
+   "en": "On Thursday Brent settled up 3.7% at $103.92 and US crude up 3.4% at $91.17, after both had been up about $5 intraday on Middle East supply worries. Crude eased slightly after Trump said the US will not attack Iran before the midterms. High oil lifts transport and production costs, making inflation harder to cool and helping keep yields high, much like higher utility bills lift household spending."
+  },
+  "dda": {
+   "zh": "油价波动对不同行业影响不同。通过信托基金分散投资可降低单一行业冲击,DDA持续投入有助平滑时点。",
+   "en": "Oil swings affect sectors differently. Diversifying through unit trust funds can soften single-sector shocks, and regular DDA contributions help smooth timing."
+  },
+  "prs": {
+   "zh": "通胀会侵蚀退休储蓄的购买力,是长期规划要考虑的因素。可检视PRS组合是否兼顾增长与稳定,并留意年度RM3,000税务减免。",
+   "en": "Inflation erodes the purchasing power of retirement savings and belongs in long-term planning. Check that a PRS portfolio balances growth and stability, and note the RM3,000 annual tax relief."
+  },
+  "lump": {
+   "zh": "能源价格受地缘政治影响大,单笔资金应留意能源相关板块的集中度,并可分阶段投入、对照自身风险承受度。",
+   "en": "Energy prices are heavily affected by geopolitics, so a lump sum should watch concentration in energy-related sectors and may be phased in in line with your risk tolerance."
+  },
+  "bond": {
+   "zh": "油价上升可能推高通胀预期,影响政策取向与债券收益率。马来西亚是石油出口国之一,令吉与财政也可能受影响;债券基金仍需关注OPR与外资流向。",
+   "en": "Higher oil can lift inflation expectations and influence policy direction and bond yields. Malaysia is also an oil exporter, so the ringgit and fiscal position may be affected; for bond funds the OPR and foreign flows remain key."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/economy-news/us-bonds-fall-lifting-yields-for-2nd-day-as-oil-weighs-30year-auction-looms-4939491"
+  }
+ },
+ {
+  "id": "2026-10-09-m4",
+  "time": "2026-10-09T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "中国假期后复市:沪深300午间跌0.79%,全球收益率上升压制情绪",
+   "en": "China reopens after Golden Week: CSI 300 down 0.79% at midday as global yields weigh"
+  },
+  "analysis": {
+   "zh": "内地股市周四假期后复市,早盘沪深300一度升0.3%至4,372.06点,但午间转跌0.79%至4,323.05点,上证指数跌0.57%至3,820.38点。全球收益率上升和风险偏好下降,令投资者对北京的新刺激措施反应有限。市场接下来关注10月26至29日的五中全会。",
+   "en": "Mainland markets reopened Thursday after Golden Week. The CSI 300 was up 0.3% to 4,372.06 in the morning but fell 0.79% to 4,323.05 by midday, with the Shanghai Composite down 0.57% at 3,820.38. Soaring global yields and weaker risk appetite led investors to largely shrug off new Beijing stimulus. Attention turns to the fifth plenum on October 26-29."
+  },
+  "dda": {
+   "zh": "中国市场受全球收益率影响波动可能加大。信托基金的区域分散与DDA持续投入,可降低单一市场的影响。",
+   "en": "China equities may be more volatile as global yields rise. Regional diversification through unit trust funds and regular DDA investing can reduce single-market exposure."
+  },
+  "prs": {
+   "zh": "退休投资应以长期目标为主,避免因单一市场的短期涨跌调整方向。可检视PRS中亚洲与全球的比例,并留意每年最高RM3,000的税务减免。",
+   "en": "Retirement investing should follow long-term goals rather than short-term moves in one market. Review the Asia/global mix in a PRS portfolio, and note the tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "新兴市场波动较大,单笔资金可分阶段投入,并确认对中国市场的集中度符合自身风险承受度。",
+   "en": "Emerging markets can be volatile; a lump sum can be phased in, with exposure to China checked against your own risk tolerance."
+  },
+  "bond": {
+   "zh": "中国流动性宽松对区域债市有一定支撑,但对马来西亚债券基金的直接影响有限,主要仍看OPR、令吉与外资流向。",
+   "en": "Ample Chinese liquidity offers some support to regional bond markets, but the direct effect on Malaysian bond funds is limited; the OPR, ringgit and foreign flows matter more."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://in.investing.com/news/stock-market-news/chinese-stocks-firm-slightly-as-trade-resumes-after-golden-week-break-5623289"
+  }
+ },
+ {
+  "id": "2026-10-09-m5",
+  "time": "2026-10-09T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "KLCI周四跌0.67%至1,601点,外资持续卖出",
+   "en": "KLCI falls 0.67% to 1,601 on Thursday amid persistent foreign selling"
+  },
+  "analysis": {
+   "zh": "据Trading Economics,KLCI周四跌10.78点至1,601.01点(-0.67%),早盘一度跌至约1,602点,为2025年11月以来最低水平。该页面把跌势归因于外资持续卖出、美债收益率高企和油价上涨。国行隔夜政策利率维持2.75%。2027年财政预算案将于周五提呈,市场也在关注。",
+   "en": "According to Trading Economics, the KLCI fell 10.78 points to 1,601.01 (-0.67%) on Thursday, after earlier touching about 1,602, its lowest since November 2025. The page attributes the decline to persistent foreign selling, elevated US Treasury yields and higher oil prices. The OPR remains at 2.75%, and Budget 2027 is due to be tabled on Friday."
+  },
+  "dda": {
+   "zh": "本地市场走弱时,DDA持续投入可以在较低价位累积更多单位,但仍应配合自身目标与风险承受度,不必频繁调整。",
+   "en": "When the local market weakens, regular DDA contributions can accumulate more units at lower prices, though the plan should follow your goals and risk tolerance rather than frequent changes."
+  },
+  "prs": {
+   "zh": "PRS的投资期通常很长,短期下跌不应主导决定。检视组合的分散程度,并留意每年最高RM3,000的税务减免。",
+   "en": "PRS investing usually has a long horizon, so a short-term fall shouldn't drive decisions. Review diversification and note the tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "本地股市回落时,单笔资金可分阶段投入以分散时点风险,并留意是否过度集中在银行等单一板块。",
+   "en": "When local equities dip, a lump sum can be phased in to spread timing risk, while watching concentration in a single sector such as banks."
+  },
+  "bond": {
+   "zh": "OPR维持2.75%,为马来西亚债券基金提供相对稳定的背景;股市走弱时债券基金通常起到平衡作用。外资流向和美债收益率仍是需要留意的变量。",
+   "en": "With the OPR at 2.75%, the backdrop for Malaysian bond funds is relatively steady, and bond funds generally balance a portfolio when equities weaken. Foreign flows and US yields remain variables to watch."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/malaysia/stock-market"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-08-m0",
   "kind": "summary",
   "time": "2026-10-08T09:00:00+08:00",
