@@ -2,6 +2,266 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-10-10-w0",
+  "kind": "summary",
+  "time": "2026-10-10T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "本周回顾:美股三大指数周五齐涨收官,下周CPI与银行财报是焦点;马来西亚公布2027年财政预算",
+   "en": "Week in review: Wall Street ends Friday higher; CPI and bank earnings lead the week ahead, and Malaysia tables Budget 2027"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,811.54",
+    "change": "+0.59%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "51,654.95",
+    "change": "+0.83%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "27,366.17",
+    "change": "+0.64%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "美国10年期国债收益率",
+     "en": "US 10-year yield"
+    },
+    "value": "5.24%",
+    "change": "",
+    "dir": ""
+   }
+  ],
+  "points": [
+   {
+    "zh": "周四AI估值忧虑令科技股下挫,周五科技股反弹,三大指数收涨。",
+    "en": "Tech fell on AI valuation worries on Thursday and rebounded on Friday, lifting all three major indices."
+   },
+   {
+    "zh": "下周三公布9月CPI,大型银行周二起发布第三季财报;联储10月27至28日开会。",
+    "en": "September CPI is due Wednesday and the big banks report from Tuesday; the Fed meets October 27-28."
+   },
+   {
+    "zh": "马来西亚2027年财政预算案公布:总额4,598亿令吉,个人所得税减免额拟提高。",
+    "en": "Malaysia tabled Budget 2027: RM459.8 billion in spending, with individual income tax relief set to rise."
+   }
+  ],
+  "takeaway": {
+   "zh": "一周里有AI估值的担忧,也有反弹;下周的通胀数据可能再次牵动利率预期。信托基金顾问常说,与其猜数据,不如回到自己的目标与节奏。",
+   "en": "The week had both AI valuation worries and a rebound, and next week's inflation data may again move rate expectations. As a unit trust consultant would often say, it helps to return to your own goals and pace rather than guess the data."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-9-135834993.html"
+   },
+   {
+    "name": "Yahoo Finance (Reuters)",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-earnings-cpi-headline-busy-100209820.html"
+   },
+   {
+    "name": "Investing.com (Reuters)",
+    "url": "https://www.investing.com/news/economy-news/malaysia-plans-1125-billion-budget-for-2027-ahead-of-possible-election-4940338"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-10-w1",
+  "time": "2026-10-10T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "本周回顾:AI估值忧虑一度压低科技股,周五反弹,标普500收7,811.54点",
+   "en": "Week in review: AI valuation worries hit tech midweek before a Friday rebound; S&P 500 closes at 7,811.54"
+  },
+  "analysis": {
+   "zh": "周四有报道称OpenAI的年化营收比此前估计低约200亿美元,科技股随之下挫;周五科技股回升,标普500涨0.59%至7,811.54点,道指涨0.83%至51,654.95点,纳指涨0.64%至27,366.17点。分析师称市场正试图从周四由科技股带动的下跌中恢复。就像热门餐厅的订位表,期待越高,一点风吹草动就越敏感。",
+   "en": "On Thursday, reports that OpenAI's annualized revenue was about $20 billion lower than previously estimated sent tech shares down. On Friday tech recovered: the S&P 500 rose 0.59% to 7,811.54, the Dow 0.83% to 51,654.95 and the Nasdaq 0.64% to 27,366.17. An analyst said the market was trying to recover from Thursday's tech-led sell-off. Like a popular restaurant's booking list, the higher the expectations, the more sensitive prices are to small surprises."
+  },
+  "dda": {
+   "zh": "市场一周内忽升忽降时,定期定额(DDA)按计划持续投入,可以自然分散进场时点,不必为每天的消息改变节奏。",
+   "en": "When markets swing within a week, regular (DDA) investing on a set schedule naturally spreads entry timing, without needing to react to each day's headline."
+  },
+  "prs": {
+   "zh": "退休规划的时间跨度以十年计,一周的波动只是小插曲。可借机检视PRS组合是否足够分散;PRS每年最高RM3,000的税务减免也值得了解。",
+   "en": "Retirement planning is measured in decades, so one week's swing is a small episode. It is a good time to check that a PRS portfolio is well diversified; the PRS tax relief of up to RM3,000 a year is also worth knowing."
+  },
+  "lump": {
+   "zh": "科技股集中上涨又集中回调时,单笔投资者可留意持仓是否过度集中于单一主题,并按目标与风险承受度考虑分批进场以分散时点风险。",
+   "en": "When tech rises and falls together, lump sum investors may check whether holdings are too concentrated in one theme, and consider phasing in to spread timing risk in line with goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美股科技股的波动对马来西亚债券基金直接影响通常有限;更值得留意的是美债收益率、令吉走势与国家银行OPR。债券在组合中一般扮演平衡波动的角色。",
+   "en": "Swings in US tech usually have limited direct impact on Malaysian bond funds; US Treasury yields, the ringgit and Bank Negara's OPR matter more. Bonds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-9-135834993.html"
+  }
+ },
+ {
+  "id": "2026-10-10-w2",
+  "time": "2026-10-10T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "下周展望:周三公布9月CPI,大型银行周二起发布财报,联储10月27至28日开会",
+   "en": "Week ahead: September CPI on Wednesday, big banks report from Tuesday, Fed meets October 27-28"
+  },
+  "analysis": {
+   "zh": "路透调查预期9月CPI按年升3.7%,核心CPI升2.5%。摩根大通、高盛、花旗和富国周二发布财报,摩根士丹利与美国银行周三跟进;联储上月自2023年以来首次加息,交易员已降低再加息的押注,但数据偏热可能令预期回升。美国10年期国债收益率周五约5.24%。标普500第三季盈利预期增长超过30%(LSEG IBES)。",
+   "en": "A Reuters poll expects September CPI up 3.7% year on year and core up 2.5%. JPMorgan, Goldman Sachs, Citigroup and Wells Fargo report Tuesday, with Morgan Stanley and Bank of America on Wednesday. The Fed raised rates last month for the first time since 2023; traders have cut bets on another hike, though hotter data could revive them. The 10-year yield was around 5.24% on Friday. S&P 500 third-quarter earnings are expected to rise more than 30% (LSEG IBES)."
+  },
+  "dda": {
+   "zh": "通胀数据公布前后,市场可能出现波动。定期定额(DDA)按计划进行,可以减少为单一数据而调整节奏的压力。",
+   "en": "Markets may be choppy around the inflation print. Regular (DDA) investing on schedule reduces the pressure to change pace over a single data point."
+  },
+  "prs": {
+   "zh": "通胀会影响退休后的生活成本,因此规划退休时通常要考虑购买力。PRS每年最高RM3,000的税务减免也是规划的一部分。",
+   "en": "Inflation affects living costs in retirement, so planning generally considers purchasing power. The PRS tax relief of up to RM3,000 a year is part of the picture too."
+  },
+  "lump": {
+   "zh": "重要数据前后波动可能加大,单笔投资者可考虑分批进场以分散时点风险,并检视持仓集中度是否与自己的风险承受度相符。",
+   "en": "Volatility can rise around key data; lump sum investors may consider phasing in to spread timing risk and check that concentration matches their risk tolerance."
+  },
+  "bond": {
+   "zh": "美国通胀与联储路径会影响全球收益率,进而可能影响马来西亚政府债券(MGS)与企业债、伊斯兰债券的估值,并牵动资金流向与令吉。国家银行的OPR走向仍是本地债券基金的关键。",
+   "en": "US inflation and the Fed's path influence global yields, which may in turn affect MGS, corporate bond and sukuk valuations in Malaysia, as well as foreign flows and the ringgit. Bank Negara's OPR remains key for local bond funds."
+  },
+  "source": {
+   "name": "Yahoo Finance (Reuters)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-earnings-cpi-headline-busy-100209820.html"
+  }
+ },
+ {
+  "id": "2026-10-10-w3",
+  "time": "2026-10-10T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "黄金周五反弹:Yahoo Finance显示报4,220.30美元,油价约91.66美元",
+   "en": "Gold rebounds Friday: Yahoo Finance shows $4,220.30, with crude near $91.66"
+  },
+  "analysis": {
+   "zh": "周五黄金上涨63.30美元(1.52%)至4,220.30美元,美国原油(11月合约)报91.66美元。Trading Economics另显示黄金当天收于约4,187美元,两个数据源报价时点不同。油价与通胀预期、联储路径紧密相连,金价则对收益率走向非常敏感。",
+   "en": "Gold rose $63.30 (1.52%) to $4,220.30 on Friday, and US crude (Nov contract) stood at $91.66. Trading Economics separately showed gold closing near $4,187 that day; the two sources quote at different times. Oil is tied to inflation expectations and the Fed path, while gold is highly sensitive to yields."
+  },
+  "dda": {
+   "zh": "商品价格波动较大,长期投资者通常通过多元化的信托基金分散风险,定期定额(DDA)有助于不被短期价格牵着走。",
+   "en": "Commodity prices can swing widely; long-term investors generally spread risk through diversified unit trusts, and regular (DDA) investing helps avoid being led by short-term prices."
+  },
+  "prs": {
+   "zh": "油价会影响生活成本与通胀,进而影响退休所需的资金规模。规划时可把通胀纳入考虑,并了解PRS每年最高RM3,000的税务减免。",
+   "en": "Oil affects living costs and inflation, and so the size of retirement funds needed. Plans can factor in inflation, and the PRS tax relief of up to RM3,000 a year is worth knowing."
+  },
+  "lump": {
+   "zh": "黄金在高位时波动也可能加大。单笔投资者可留意单一资产占比,并按目标与风险承受度考虑分批进场。",
+   "en": "Gold can also be volatile at high levels. Lump sum investors may watch single-asset concentration and consider phasing in according to goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价上升会推高通胀预期,可能影响利率预期与债券收益率;马来西亚作为产油国,油价也与政府收入及补贴开支相关,进而牵动债券市场情绪。",
+   "en": "Higher oil lifts inflation expectations and may influence rate expectations and bond yields; as an oil producer Malaysia also sees oil tied to government revenue and subsidy spending, which can colour bond-market sentiment."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  }
+ },
+ {
+  "id": "2026-10-10-w4",
+  "time": "2026-10-10T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "上证综指周五收3,813.8点,本周下跌0.74%;中欧贸易谈判与AI估值成焦点",
+   "en": "Shanghai Composite ends near 3,813.8, down 0.74% on the week; China-EU trade talks and AI valuations in focus"
+  },
+  "analysis": {
+   "zh": "上证综指周五微涨0.05%,但本周累计下跌0.74%,深证成指本周跌1.91%。投资者关注国庆长假后的中欧贸易谈判,背景是欧盟对贸易逆差的不满与北京对稀土等关键矿产的出口管制。芯片股涨跌互现:中芯国际涨1.25%,北方华创跌1.05%,中际旭创跌0.98%。该页面称市场对中国AI雄心的热情有所降温。",
+   "en": "The Shanghai Composite edged up 0.05% on Friday but lost 0.74% for the week, while the Shenzhen Component fell 1.91%. Investors turned to China-EU trade talks after Golden Week, amid EU complaints over its trade deficit and Beijing's curbs on rare earth and critical minerals. Chip stocks were mixed: SMIC rose 1.25%, NAURA fell 1.05% and Zhongji Innolight 0.98%. The page says enthusiasm for Beijing's AI ambitions cooled."
+  },
+  "dda": {
+   "zh": "中国与亚洲科技股的估值波动,提醒长期投资者分散地区与行业;定期定额(DDA)可平滑进场成本。",
+   "en": "Valuation swings in Chinese and Asian tech remind long-term investors to diversify across regions and sectors; regular (DDA) investing can smooth entry cost."
+  },
+  "prs": {
+   "zh": "退休资金的时间长,适合以多元分散的组合应对单一市场的起伏。PRS每年最高RM3,000的税务减免可作为规划的一环。",
+   "en": "Retirement money has a long horizon, so a diversified portfolio can help absorb the ups and downs of any one market. The PRS tax relief of up to RM3,000 a year can be part of planning."
+  },
+  "lump": {
+   "zh": "投资中国或亚洲科技主题的单笔投资者可检视该主题占比,并按风险承受度考虑分批进场,以分散时点风险。",
+   "en": "Lump sum investors in China or Asian tech themes may review how large that theme is and consider phasing in per risk tolerance to spread timing risk."
+  },
+  "bond": {
+   "zh": "中国股市的波动对马来西亚债券基金直接影响通常有限;贸易与关税动向可能间接影响区域资金流、令吉与利率预期。",
+   "en": "China equity swings usually have limited direct impact on Malaysian bond funds; trade developments may indirectly affect regional flows, the ringgit and rate expectations."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/china/stock-market"
+  }
+ },
+ {
+  "id": "2026-10-10-w5",
+  "time": "2026-10-10T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "马来西亚2027年财政预算案:总额RM4,598亿,个人所得税减免额拟由RM9,000提高至RM12,000",
+   "en": "Malaysia Budget 2027: RM459.8 billion spending, individual tax relief to rise from RM9,000 to RM12,000"
+  },
+  "analysis": {
+   "zh": "路透报道,2027年预算支出为4,598亿令吉,较2026年修订预算的4,441亿令吉增长3.6%;2027年赤字预计降至占GDP的3.3%。最低工资将由1,700令吉提高至2,000令吉,个人所得税减免额自2010年以来首次调整,另有160亿令吉的低收入家庭现金援助。2027年经济增长预测为4.2%至5.2%,通胀预测为1.8%至2.8%。",
+   "en": "Reuters reports 2027 spending of RM459.8 billion, up 3.6% from the revised 2026 budget of RM444.1 billion, with the deficit projected to ease to 3.3% of GDP. The minimum wage will rise from RM1,700 to RM2,000, individual income tax relief is revised for the first time since 2010, and RM16 billion goes to cash aid for lower-income households. 2027 growth is forecast at 4.2% to 5.2% and inflation at 1.8% to 2.8%."
+  },
+  "dda": {
+   "zh": "可支配收入增加时,是检视并提高定期定额(DDA)投入额的好时机,让纪律性的投资跟上收入成长。",
+   "en": "When disposable income improves, it is a good time to review and consider raising regular (DDA) contributions so disciplined investing keeps pace with income."
+  },
+  "prs": {
+   "zh": "税务减免调整后,可顺便检视退休规划;PRS每年最高RM3,000的税务减免仍是了解退休储蓄与税务关系的重要一环。",
+   "en": "After tax relief changes, it is a good time to review retirement plans; the PRS tax relief of up to RM3,000 a year remains an important part of how retirement saving and tax interact."
+  },
+  "lump": {
+   "zh": "单笔资金应根据目标与风险承受度评估,可考虑分批进场以分散时点风险,并避免因政策消息而过度集中。",
+   "en": "Lump sum money should be assessed against goals and risk tolerance; phasing in can spread timing risk, and policy headlines are not a reason to over-concentrate."
+  },
+  "bond": {
+   "zh": "财政赤字目标与政府借贷规模会影响马来西亚政府债券(MGS)的供给与市场情绪;预算案预计赤字收窄,对债券市场一般偏正面,但仍要留意国家银行OPR与通胀走向。",
+   "en": "The deficit target and government borrowing influence MGS supply and sentiment; a narrowing deficit is generally seen as constructive for bonds, though Bank Negara's OPR and inflation still matter."
+  },
+  "source": {
+   "name": "Investing.com (Reuters)",
+   "url": "https://www.investing.com/news/economy-news/malaysia-plans-1125-billion-budget-for-2027-ahead-of-possible-election-4940338"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-09-m0",
   "kind": "summary",
   "time": "2026-10-09T09:00:00+08:00",
