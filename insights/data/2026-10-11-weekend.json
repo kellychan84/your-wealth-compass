@@ -1,0 +1,297 @@
+[
+ {
+  "id": "2026-10-11-w0",
+  "kind": "summary",
+  "time": "2026-10-11T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "周末速览:美股周五收涨、下周CPI与银行财报登场;马来西亚预算案提高个人税务减免,油价金价周线收涨",
+   "en": "Weekend snapshot: Wall Street ends the week higher with CPI and bank earnings ahead; Malaysia's Budget 2027 lifts individual tax relief; oil and gold post weekly gains"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,811.54",
+    "change": "+0.59%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "51,654.95",
+    "change": "+0.83%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "$104.43",
+    "change": "+2.13% (周)",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "黄金",
+     "en": "Gold"
+    },
+    "value": "$4,193.87",
+    "change": "+1.30% (周)",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "美股周五三大指数收涨,下周三公布9月CPI,大型银行周二起发布财报。",
+    "en": "All three US indices rose Friday; September CPI is due Wednesday and the big banks report from Tuesday."
+   },
+   {
+    "zh": "马来西亚2027年预算案:个人税务减免额由9,000令吉提高到12,000令吉,最低工资将升至2,000令吉。",
+    "en": "Malaysia's Budget 2027 lifts individual tax relief from RM9,000 to RM12,000 and the minimum wage to RM2,000."
+   },
+   {
+    "zh": "台积电第三季营收创纪录,但股价因估值偏高而回落;10月15日将公布完整财报。",
+    "en": "TSMC posted record Q3 revenue but the shares slipped on rich valuation; full results are due October 15."
+   }
+  ],
+  "takeaway": {
+   "zh": "新的一周有通胀数据、银行财报和台积电业绩,消息会很密集。信托基金顾问的建议是:先看清自己的目标与节奏,再决定要不要因为一周的新闻而改变计划。",
+   "en": "A busy week of inflation data, bank earnings and TSMC results is coming. As a unit trust consultant, I'd say: be clear about your own goals and pace first, then decide whether one week of headlines really changes your plan."
+  },
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-083-4941691"
+   },
+   {
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/commodities"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bank-earnings-cpi-headline-busy-100209820.html"
+   },
+   {
+    "name": "Investing.com (Reuters)",
+    "url": "https://www.investing.com/news/economy-news/malaysia-plans-1125-billion-budget-for-2027-ahead-of-possible-election-4940338"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-11-w1",
+  "time": "2026-10-11T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "美股周五收涨:三大指数齐升,电信股重挫成为少数拖累",
+   "en": "Wall Street closes Friday higher on all three indices, with telecom shares a notable drag"
+  },
+  "analysis": {
+   "zh": "周五收盘,道指涨423.31点或0.83%至51,654.95点,标普500涨0.59%至7,811.54点,纳指涨0.64%至27,366.17点;恐慌指数VIX降至14.84。个股方面,Verizon、AT&T和T-Mobile大幅下跌,医疗保健与消费服务板块领涨。就像一场球赛,个别球员失常,整体队伍仍可能赢球。",
+   "en": "At Friday's close the Dow rose 423.31 points, or 0.83%, to 51,654.95, the S&P 500 gained 0.59% to 7,811.54 and the Nasdaq added 0.64% to 27,366.17; the VIX eased to 14.84. Verizon, AT&T and T-Mobile fell sharply while healthcare and consumer services led the gains. Like a ball game, one or two players can have a bad day while the team still wins."
+  },
+  "dda": {
+   "zh": "指数收涨并不代表每个板块都涨。长期投资者通常通过分散的信托基金来平滑单一行业的起伏,定期定额(DDA)则让你不必为单日涨跌猜时机。",
+   "en": "A rising index doesn't mean every sector rose. Long-term investors often use diversified unit trust funds to smooth single-sector swings, and regular (DDA) investing means you needn't guess the timing of any single day."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,一周的行情只是很小的一段。可以趁周末检视退休目标,并留意PRS每年最高RM3,000的税务减免是否已善用。",
+   "en": "Retirement planning spans decades, so one week is a very small slice. The weekend is a good time to review your retirement goals and check whether the PRS tax relief of up to RM3,000 a year is being used."
+  },
+  "lump": {
+   "zh": "指数接近高位时,单笔投资者可能更在意进场时机。一般的做法是考虑分批进场以分散时机风险,同时检查组合是否过度集中在某一行业,并对照自己的目标与风险承受度。",
+   "en": "When indices sit near highs, lump-sum investors may worry more about timing. The usual principles are to consider phasing in to spread timing risk, check the portfolio isn't overly concentrated in one sector, and match it to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国10年期国债收益率在5.24%附近,仍处于高位,这可能继续影响全球债券价格与资金流向。马来西亚债券基金(MGS、企业债与伊斯兰债券)一般受国内利率与令吉走势影响更直接,但美债收益率也可能牵动外资动向。",
+   "en": "The US 10-year yield near 5.24% remains elevated, which may keep influencing global bond prices and capital flows. Malaysian bond funds (MGS, corporate bonds and sukuk) are generally more directly affected by local rates and the ringgit, though US yields may also sway foreign flows."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-083-4941691"
+  }
+ },
+ {
+  "id": "2026-10-11-w2",
+  "time": "2026-10-11T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "下周焦点:周三公布9月CPI,大型银行周二起发布财报,联储10月27至28日开会",
+   "en": "The week ahead: September CPI on Wednesday, big banks report from Tuesday, Fed meets October 27-28"
+  },
+  "analysis": {
+   "zh": "据路透调查,9月CPI预计同比上升3.7%,核心CPI预计为2.5%。摩根大通、高盛、花旗和富国银行预计周二公布业绩,摩根士丹利和美国银行周三跟进,强生、联合健康和贝莱德也将发布财报。联储上月加息,为2023年以来首次,交易员已降低对本次会议再度加息的预期。",
+   "en": "A Reuters poll expects September CPI to rise 3.7% year over year, with core CPI at 2.5%. JPMorgan, Goldman Sachs, Citigroup and Wells Fargo are expected to report Tuesday, with Morgan Stanley and Bank of America following Wednesday, plus Johnson & Johnson, UnitedHealth and BlackRock. The Fed hiked last month, its first hike since 2023, and traders have trimmed expectations of another hike at the October 27-28 meeting."
+  },
+  "dda": {
+   "zh": "数据周常带来短线波动,但定期定额(DDA)的意义正在于不被单一数据左右。把投资当作每月的习惯,通常比追着数据跑更容易坚持。",
+   "en": "Data weeks often bring short-term swings, but the point of regular (DDA) investing is not being driven by any single release. Treating investing as a monthly habit is generally easier to stick with than chasing data."
+  },
+  "prs": {
+   "zh": "通胀会悄悄侵蚀退休金的购买力,所以退休规划要把通胀算进去。CPI数据是提醒你检视退休目标金额的好时机。",
+   "en": "Inflation quietly erodes the purchasing power of retirement savings, so retirement plans should allow for it. A CPI release is a good prompt to revisit your target retirement amount."
+  },
+  "lump": {
+   "zh": "若通胀数据出乎意料,市场可能短线波动。对单笔投资者而言,这提醒我们分批进场可以分散时机风险,并确认投资期限与自己的目标相符。",
+   "en": "If inflation surprises, markets may swing in the short term. For lump-sum investors this is a reminder that phasing in can spread timing risk, and that the investment horizon should match your goals."
+  },
+  "bond": {
+   "zh": "通胀与利率预期是债券价格的核心。美国通胀偏高可能推高收益率,影响全球债券;马来西亚债券基金则需同时留意国内通胀和国家银行的政策立场。",
+   "en": "Inflation and rate expectations are central to bond prices. Higher US inflation may push yields up and affect bonds globally; Malaysian bond funds also depend on local inflation and Bank Negara's policy stance."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-earnings-cpi-headline-busy-100209820.html"
+  }
+ },
+ {
+  "id": "2026-10-11-w3",
+  "time": "2026-10-11T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "马来西亚2027年预算案:总额RM459.8亿,个人税务减免提高至RM12,000,最低工资升至RM2,000",
+   "en": "Malaysia Budget 2027: RM459.8 billion, individual tax relief up to RM12,000 and minimum wage to RM2,000"
+  },
+  "analysis": {
+   "zh": "据路透报道,2027年预算案总额为4,598亿令吉,较2026年修订预算增加3.6%;个人税务减免额由9,000令吉提高到12,000令吉,为2010年以来首次调整;最低工资从1,700令吉升至2,000令吉,将于6月起实施。2027年财政赤字预计降至占GDP的3.3%。",
+   "en": "Reuters reports Budget 2027 at RM459.8 billion, up 3.6% from the revised 2026 budget. Individual tax relief rises from RM9,000 to RM12,000, the first revision since 2010, and the minimum wage goes from RM1,700 to RM2,000 from June. The 2027 fiscal deficit is projected to fall to 3.3% of GDP."
+  },
+  "dda": {
+   "zh": "可支配收入增加时,是建立或加大每月定期定额(DDA)的好时机。把省下的税款当作固定投资的一部分,有助于养成长期习惯。",
+   "en": "When disposable income rises, it can be a good moment to start or top up a monthly regular (DDA) plan. Treating tax savings as part of a steady investment habit helps build a long-term routine."
+  },
+  "prs": {
+   "zh": "个税减免提高后,别忘了PRS每年最高RM3,000的税务减免是另一项可考虑的规划工具,可根据自身税务情况咨询信托基金顾问。",
+   "en": "With individual relief rising, the PRS tax relief of up to RM3,000 a year remains another planning tool to consider; your unit trust consultant can help you look at it against your own tax situation."
+  },
+  "lump": {
+   "zh": "预算案的利好未必立刻反映在市场。若有一笔资金要投入,可考虑分批进场以分散时机风险,并确认没有过度集中于本地某一行业。",
+   "en": "Budget measures may not show up in markets immediately. If you have a lump sum to invest, consider phasing in to spread timing risk and check you aren't over-concentrated in one local sector."
+  },
+  "bond": {
+   "zh": "财政赤字目标略微上调后又预计回落,政府借贷需求与国家银行的政策走向是债券市场关注点。马来西亚债券基金可能受政府债券供应和利率预期影响,具体影响取决于后续的市场反应。",
+   "en": "The 2026 deficit target was nudged up before an expected decline, so government borrowing needs and Bank Negara's policy path are what the bond market watches. Malaysian bond funds may be affected by government bond supply and rate expectations, depending on how markets react."
+  },
+  "source": {
+   "name": "Investing.com (Reuters)",
+   "url": "https://www.investing.com/news/economy-news/malaysia-plans-1125-billion-budget-for-2027-ahead-of-possible-election-4940338"
+  }
+ },
+ {
+  "id": "2026-10-11-w4",
+  "time": "2026-10-11T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "台积电第三季营收创纪录,股价却因估值回落;10月15日公布完整财报",
+   "en": "TSMC posts record Q3 revenue but shares slip on valuation; full results due October 15"
+  },
+  "analysis": {
+   "zh": "台积电第三季营收达1.49万亿新台币(约467亿美元),同比增长50%;9月营收同比增长54.6%,但较8月小降0.6%。股价在10月5日创下历史新高,财报前后回落约2%,约为远期盈利的20倍。公司指引第三季毛利率为65%至67%。完整业绩将于10月15日公布。就像考试拿高分,期待也跟着水涨船高。",
+   "en": "TSMC's Q3 revenue was a record NT$1.49 trillion (about $46.7 billion), up 50% year over year; September revenue rose 54.6% from a year earlier but dipped 0.6% from August. The shares hit a record on October 5 and then slipped about 2%, trading near 20 times forward earnings. The company guided to a Q3 gross margin of 65% to 67%, with full results due October 15. Like scoring top marks, expectations rise along with the grades."
+  },
+  "dda": {
+   "zh": "科技龙头的业绩强劲,但估值高时股价波动也可能较大。长期投资者通常通过分散的信托基金持有多个行业,定期定额则能减少对单一股票时机的依赖。",
+   "en": "Strong results from tech leaders don't remove volatility when valuations are high. Long-term investors often hold many sectors through diversified unit trust funds, and regular investing reduces reliance on timing any single stock."
+  },
+  "prs": {
+   "zh": "退休资金的时间跨度很长,可以承受一定的短期波动,但需要与自己的风险承受度相符。检视PRS基金的资产配置,看看是否与退休年限匹配。",
+   "en": "Retirement money has a long horizon and can usually absorb some short-term swings, but this should match your risk tolerance. Review how your PRS fund's holdings fit your years to retirement."
+  },
+  "lump": {
+   "zh": "主题热度高时,单笔投资者尤其要留意集中度风险。一般的原则是分批进场以分散时机风险,并确认科技类持仓占比与自己的目标和风险承受度相符。",
+   "en": "When a theme is hot, lump-sum investors should watch concentration risk. The usual principles are to phase in to spread timing risk and make sure technology exposure fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "科技股的起伏对马来西亚债券基金的直接影响有限,但在股市波动时,债券一般能扮演组合平衡器的角色。若全球风险偏好下降,资金流向也可能间接影响令吉与债券。",
+   "en": "Tech-stock swings have limited direct effect on Malaysian bond funds, but when equities are volatile, bonds generally play the role of a portfolio balancer. A drop in global risk appetite may also indirectly influence the ringgit and bond flows."
+  },
+  "source": {
+   "name": "Yahoo Finance (TheStreet)",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tsmcs-46-7-billion-quarter-000300579.html"
+  }
+ },
+ {
+  "id": "2026-10-11-w5",
+  "time": "2026-10-11T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "油价金价周线双双收涨:布伦特油价周涨2.13%至$104.43,黄金周涨1.30%至$4,193.87",
+   "en": "Oil and gold both end the week higher: Brent up 2.13% to $104.43, gold up 1.30% to $4,193.87"
+  },
+  "analysis": {
+   "zh": "据Trading Economics数据(10月9日),WTI原油报91.66美元,周涨0.60%;布伦特原油报104.43美元,周涨2.13%;黄金报4,193.87美元,周涨1.30%,当日涨1.47%;白银报60.80美元。Investing.com的报道显示,美国10年期国债收益率为5.244%。能源价格偏高可能同时推高通胀担忧。",
+   "en": "Trading Economics data for October 9 show WTI at $91.66, up 0.60% on the week; Brent at $104.43, up 2.13%; gold at $4,193.87, up 1.30% on the week and 1.47% on the day; and silver at $60.80. Investing.com's close report put the US 10-year yield at 5.244%. Elevated energy prices may keep inflation worries alive."
+  },
+  "dda": {
+   "zh": "油价上升可能推高生活成本和通胀,而黄金常被视为分散风险的工具之一。长期投资者可以通过定期定额(DDA)持续投资,而不是因为商品价格短期波动而调整计划。",
+   "en": "Higher oil can lift living costs and inflation, while gold is often seen as one tool for diversification. Long-term investors can keep investing regularly through DDA instead of changing plans on short-term commodity swings."
+  },
+  "prs": {
+   "zh": "通胀对退休金的影响是长期的,需要把物价上涨纳入退休预算。可以趁此检视退休所需的每月开销是否仍然合理。",
+   "en": "Inflation's effect on retirement money builds up over time, so price rises belong in the retirement budget. This is a good moment to check whether your estimated monthly retirement spending is still reasonable."
+  },
+  "lump": {
+   "zh": "商品价格容易受地缘消息影响而波动。单笔投资者若考虑增加商品类敞口,一般应分批进场以分散时机风险,并确认占比与自身目标和风险承受度相符。",
+   "en": "Commodity prices can swing on geopolitical headlines. Lump-sum investors who consider commodity exposure should generally phase in to spread timing risk and make sure the weight suits their goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价较高可能推高通胀预期,进而影响利率预期与债券收益率。马来西亚是能源出口国也是补贴国,油价变化对财政与令吉可能有不同方向的影响,债券基金需要观察国家银行的反应。",
+   "en": "Higher oil may lift inflation expectations and in turn rate expectations and bond yields. Malaysia is both an energy exporter and a subsidiser, so oil can affect the budget and the ringgit in different directions; bond funds depend on how Bank Negara responds."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/commodities"
+  }
+ },
+ {
+  "id": "2026-10-11-w6",
+  "time": "2026-10-11T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "中国市场假期后复市:港股回落,人民币稳定在6.70附近,市场关注政策跟进",
+   "en": "China reopens after Golden Week: Hong Kong shares retreat, yuan steady near 6.70 as markets watch for policy follow-through"
+  },
+  "analysis": {
+   "zh": "据Investing.com报道,恒生指数10月7日收于24,130.5点,年内下跌约6.17%;香港在10月2日曾下跌约3%至11周低位。美元兑人民币为6.7046。央行计划在10月8日前每天最高投放1万亿元人民币逆回购。报道还提到,中国据报暂停成品油出口,国务院在9月29日承诺逆周期支持与稳定房地产。",
+   "en": "Investing.com reports the Hang Seng closed at 24,130.5 on October 7, down about 6.17% this year, after Hong Kong fell roughly 3% to an 11-week low on October 2. USD/CNY stood at 6.7046. The PBoC planned reverse repo injections of up to 1 trillion yuan a day through October 8. The report also noted Beijing reportedly halted refined-fuel exports, and the State Council pledged counter-cyclical support and property stabilization on September 29."
+  },
+  "dda": {
+   "zh": "中国市场的起伏会影响亚洲区域基金。长期投资者通过定期定额(DDA)和跨地区分散,通常比押注单一市场更能平衡风险。",
+   "en": "China's swings affect Asia-region funds. Long-term investors using regular (DDA) investing and regional diversification can generally balance risk better than betting on one market."
+  },
+  "prs": {
+   "zh": "退休规划着重长期,不需要因为某个市场的假期后波动而改变计划。检视PRS基金的地区分布,了解自己对亚洲和中国的敞口有多大。",
+   "en": "Retirement planning is long-term and needn't change because of one market's post-holiday swings. Review the regional split of your PRS fund to see how much exposure you have to Asia and China."
+  },
+  "lump": {
+   "zh": "市场情绪偏弱时,单笔投资者可能觉得是机会,也可能担心继续下跌。一般的做法是分批进场以分散时机风险,并留意单一地区的集中度。",
+   "en": "When sentiment is weak, lump-sum investors may see opportunity or fear further declines. The usual approach is phasing in to spread timing risk while watching concentration in any single region."
+  },
+  "bond": {
+   "zh": "人民币稳定及中国的流动性措施对区域资金流有一定影响。马来西亚债券基金的直接影响有限,但区域风险情绪变化可能间接影响令吉和外资流向,债券一般可以当作组合的平衡器。",
+   "en": "A steady yuan and China's liquidity measures influence regional flows. The direct effect on Malaysian bond funds is limited, but shifts in regional risk sentiment may indirectly influence the ringgit and foreign flows; bonds generally serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/china-markets-reopen-after-golden-week-heres-what-to-watch-93CH-4937718"
+  }
+ }
+]
