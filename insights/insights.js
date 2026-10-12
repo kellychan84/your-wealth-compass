@@ -301,6 +301,185 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-10-12-a1",
+  "time": "2026-10-12T17:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "马来西亚2027年财政预算案出炉:支出约RM459.8十亿,2027年赤字目标降至GDP的3.3%",
+   "en": "Malaysia's 2027 Budget: about RM459.8 billion in spending, deficit target easing to 3.3% of GDP"
+  },
+  "analysis": {
+   "zh": "据路透社(Investing.com转载),政府提出约4,598亿令吉的2027年预算,较今年修订预算的4,441亿令吉增加3.6%,其中发展开支830亿、经营开支3,768亿;2026年赤字目标小幅上调至GDP的3.6%(因能源补贴成本上升),2027年预计降至3.3%。Trading Economics则指预算维持燃料补贴、并带来更多福利援助与税务减免。预算就像一个家庭的年度开支表,既要照顾生活所需,也要留意负债是否可持续。",
+   "en": "Reuters, via Investing.com, reports the government proposed about RM459.8 billion for 2027, up 3.6% from this year's revised RM444.1 billion, made up of RM83 billion development and RM376.8 billion operating spending. The 2026 deficit target was nudged up to 3.6% of GDP on higher energy-driven subsidy costs, with 2027 projected to ease to 3.3%. Trading Economics adds that fuel subsidies stay, with broader welfare aid and tax relief. A national budget is like a household's yearly spending plan: it must meet daily needs while keeping debt sustainable."
+  },
+  "dda": {
+   "zh": "预算案是本地经济的大背景。对信托基金的定期定额(DDA)而言,政策消息可能带来短期情绪波动,但长期投资者通常更看重企业盈利与经济增长的持续性,按月投入有助于平滑进场成本。",
+   "en": "The budget is part of the local economic backdrop. For regular (DDA) investing in unit trusts, policy news may stir short-term sentiment, but long-term investors generally focus on the durability of earnings and growth, and monthly contributions may help smooth entry cost."
+  },
+  "prs": {
+   "zh": "预算若带来个人税务减免,不妨顺便检视一下自己的税务规划。PRS每年最高RM3,000的税务减免,仍是退休储蓄的一项实用助力,但重点依然是长期、持续地累积。",
+   "en": "If the budget brings personal tax relief, it is a good moment to review your own tax planning. The PRS tax relief of up to RM3,000 a year remains a practical support for retirement saving, though steady long-term accumulation is the real point."
+  },
+  "lump": {
+   "zh": "有一笔闲置资金的人,可以留意本地板块对预算消息的反应,同时检查组合是否过度集中在少数行业或单一市场。分批投入有助于分散时间风险,并应回到自己的目标与风险承受度。",
+   "en": "If you hold a lump sum, watch how local sectors react to budget news and check whether your portfolio is too concentrated in a few industries or one market. Phasing in may help spread timing risk, always measured against your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "政府财政赤字与发债需求,通常是马来西亚政府债券(MGS)与伊斯兰债券供需的参考之一;赤字目标下降一般被视为对财政纪律的正面信号,但债券价格仍主要受国行隔夜政策利率(OPR)、通胀与外资流向影响。",
+   "en": "The government's deficit and borrowing needs are one reference point for supply and demand in Malaysian Government Securities (MGS) and sukuk. A lower deficit target is generally read as a sign of fiscal discipline, though bond prices still mainly respond to Bank Negara's OPR, inflation and foreign flows."
+  },
+  "source": {
+   "name": "Investing.com (Reuters)",
+   "url": "https://www.investing.com/news/economy-news/malaysia-plans-1125-billion-budget-for-2027-ahead-of-possible-election-4940338"
+  }
+ },
+ {
+  "id": "2026-10-12-a2",
+  "time": "2026-10-12T17:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时综指周一早盘升至约1,615点,通讯、交通与金融股领涨;美元/令吉约4.08",
+   "en": "FBM KLCI climbs to about 1,615 on Monday as financials, transport and telecoms lead; USD/MYR near 4.08"
+  },
+  "analysis": {
+   "zh": "据Trading Economics,富时综指周一早盘升约0.4%至1,614点,延续上周的升势,通讯、交通与金融股领涨,消费服务、零售和医疗保健股走弱。同一网站显示美元/令吉约在4.0825,较上一交易日下跌约0.09%,即令吉略为走强。指数在预算案后的反应,像是考生拿到考题后的第一轮热身,后续还要看企业盈利和外资动向。",
+   "en": "Trading Economics says the FBM KLCI rose about 0.4% to 1,614 in Monday morning trade, extending last week's gains, led by communication, transport and financial stocks while consumer services, retail and healthcare lagged. The same site shows USD/MYR near 4.0825, down about 0.09% from the previous session, meaning the ringgit is slightly firmer. The reaction after the budget is like a warm-up round; company earnings and foreign flows will say more in the weeks ahead."
+  },
+  "dda": {
+   "zh": "市场短线上扬并不代表趋势已定。对信托基金的定期定额(DDA)而言,按月投入不需要猜测指数高低点,波动时可能在不同价位累积单位。",
+   "en": "A short-term rise does not mean a trend is set. For regular (DDA) investing in unit trusts, monthly contributions do not require guessing index highs and lows, and volatility may let you accumulate units at different prices."
+  },
+  "prs": {
+   "zh": "本地股市与令吉的走势会影响退休基金的短期账面表现,但退休规划着眼十几二十年。可善用PRS每年最高RM3,000的税务减免,把持续储蓄当作主线。",
+   "en": "Local equities and the ringgit can move retirement funds' short-term numbers, yet retirement planning spans decades. The PRS tax relief of up to RM3,000 a year can help keep steady saving as the main thread."
+  },
+  "lump": {
+   "zh": "指数回升时,持有一笔资金的人可能会心动。可考虑分批投入以分散时间风险,并检查是否过度集中在金融等少数板块。",
+   "en": "When an index recovers, holders of a lump sum may feel tempted. Phasing in may help spread timing risk, and it is worth checking for over-concentration in a few sectors such as financials."
+  },
+  "bond": {
+   "zh": "令吉略为走强通常有助缓和外资流出的忧虑,对马来西亚债券基金(MGS、企业债与伊斯兰债券)是温和的支持,但影响仍取决于OPR方向与美债收益率的变化。",
+   "en": "A slightly firmer ringgit generally eases worries about foreign outflows, which is a mild support for Malaysian bond funds (MGS, corporate bonds and sukuk), though the effect still depends on the OPR path and US Treasury yields."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/malaysia/stock-market"
+  }
+ },
+ {
+  "id": "2026-10-12-a3",
+  "time": "2026-10-12T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒生指数升约0.7%至24,370附近:北京稳市场、腾讯拟发债,Moonshot AI股东纠纷引关注",
+   "en": "Hang Seng gains about 0.7% to near 24,370 as Beijing steadies stocks, Tencent plans bonds and Moonshot AI disputes draw attention"
+  },
+  "analysis": {
+   "zh": "据Trading Economics,恒指一度升约0.7%(163点)至约24,370,受北京稳定内地股市的努力及科技板块消息支持;腾讯计划发行10至30年期的美元及离岸人民币优先债券;AI初创Moonshot AI在计划赴港上市前出现股东纠纷,引发治理疑虑。该页面同时提示数据为CFD报价,并非官方交易所数值。这好比一场接力赛,政策、企业融资和新股治理,都是影响交棒顺畅与否的细节。",
+   "en": "Trading Economics reports the Hang Seng rose as much as 0.7% (163 points) to near 24,370, helped by Beijing's efforts to stabilise the mainland market and tech-sector news. Tencent plans to issue US dollar and offshore yuan senior bonds with maturities of roughly 10 to 30 years, while reports of shareholder disputes at AI start-up Moonshot AI ahead of its planned Hong Kong IPO raised governance concerns. The page notes its quotes are CFD-based, not official exchange values. Think of a relay race: policy support, corporate funding and IPO governance are all details that decide how smooth the handover is."
+  },
+  "dda": {
+   "zh": "中国与香港市场波动较大,长期投资者通常会通过分散的信托基金来参与,而不是押注单一公司。定期定额(DDA)可能帮助分散进场时间。",
+   "en": "China and Hong Kong markets can be volatile, and long-term investors generally take part through diversified unit trusts rather than a single company. Regular (DDA) investing may help spread entry timing."
+  },
+  "prs": {
+   "zh": "退休组合通常包含不同地区的资产来分散风险。中国相关投资的比重应与退休年限和风险承受度相符;PRS每年最高RM3,000税务减免可作为长期储蓄的助力。",
+   "en": "Retirement portfolios often hold assets from several regions to spread risk. Any China-related exposure should fit your time horizon and risk tolerance, and the PRS tax relief of up to RM3,000 a year can support long-term saving."
+  },
+  "lump": {
+   "zh": "若考虑把一笔资金投向大中华市场,可以检查是否已过度集中在某一地区或科技板块,分批投入有助于分散时间风险,并回到目标与风险承受度来决定。",
+   "en": "If you are considering putting a lump sum into Greater China markets, check whether you are already concentrated in one region or in tech. Phasing in may help spread timing risk, decided against your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "腾讯这类大型企业发债,显示亚洲美元与离岸人民币债券市场仍有融资需求。对马来西亚债券基金的直接影响有限,但全球收益率与信用情绪会间接影响本地债券与伊斯兰债券的估值。",
+   "en": "Large issuers like Tencent tapping bond markets show funding demand in Asian dollar and offshore yuan debt. The direct effect on Malaysian bond funds is limited, but global yields and credit sentiment can indirectly influence valuations of local bonds and sukuk."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/hong-kong/stock-market"
+  }
+ },
+ {
+  "id": "2026-10-12-a4",
+  "time": "2026-10-12T17:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "布伦特原油下探约$103–104:俄罗斯柴油供应与“能源停火”消息缓解供应忧虑",
+   "en": "Brent slips toward $103–104 as Russian diesel supply and an \"energy ceasefire\" ease supply worries"
+  },
+  "analysis": {
+   "zh": "据Trading Economics,布伦特原油周一下探至约103美元附近,结束两个交易日的升势;特朗普宣布俄罗斯将提供数十万吨柴油、部分放松出口禁令,并称俄乌同意“能源停火”。不过胡塞武装再度袭击沙特机场,令中东供应风险未消。页面报价约$104.35(-0.35%),与早上记录的$103.44略有出入,属不同时点的报价。油价像家庭的水电费,涨跌会渗透到物价与通胀预期里。",
+   "en": "Trading Economics says Brent fell toward $103 on Monday, ending a two-session rally, after President Trump announced Russia would supply hundreds of thousands of tons of diesel, partly easing its export ban, and said Russia and Ukraine had agreed an \"energy ceasefire\". Houthi militants again targeted a Saudi airport, so Middle East supply risks remain. The page quote of about $104.35 (-0.35%) differs slightly from this morning's $103.44, reflecting different timestamps. Oil is like a household's utility bill: its swings seep into prices and inflation expectations."
+  },
+  "dda": {
+   "zh": "油价与通胀预期会影响利率走向,进而影响市场情绪。定期定额(DDA)不依赖预测油价,长期纪律有助于平滑波动期间的进场成本。",
+   "en": "Oil prices feed into inflation expectations and rate paths, and so into market sentiment. Regular (DDA) investing does not depend on forecasting oil, and long-term discipline may help smooth entry cost through volatile stretches."
+  },
+  "prs": {
+   "zh": "通胀会侵蚀退休储蓄的购买力,所以退休规划要考虑长期通胀。PRS每年最高RM3,000的税务减免,有助于养成持续储蓄的习惯。",
+   "en": "Inflation can erode the purchasing power of retirement savings, so retirement plans should allow for long-term inflation. The PRS tax relief of up to RM3,000 a year can help build a steady saving habit."
+  },
+  "lump": {
+   "zh": "能源价格波动可能影响能源及相关板块的表现。有一笔资金的人,可以检查组合是否过度集中在单一主题,并以分批投入来分散时间风险。",
+   "en": "Energy-price swings may affect energy and related sectors. If you hold a lump sum, check whether the portfolio is over-concentrated in a single theme, and phasing in may help spread timing risk."
+  },
+  "bond": {
+   "zh": "油价回落通常有助于缓和通胀忧虑,对马来西亚债券基金可能是温和的利好;但国行OPR走向、燃料补贴负担与令吉走势,仍是影响MGS、企业债和伊斯兰债券的主要因素。",
+   "en": "Lower oil generally eases inflation worries, which may be a mild positive for Malaysian bond funds, but the OPR path, the fuel-subsidy burden and the ringgit remain the main drivers for MGS, corporate bonds and sukuk."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/commodity/brent-crude-oil"
+  }
+ },
+ {
+  "id": "2026-10-12-a5",
+  "time": "2026-10-12T17:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "黄金周一回吐涨幅,约$4,177/盎司;油价回落舒缓通胀担忧",
+   "en": "Gold gives back some gains to about $4,177 an ounce as lower oil eases inflation worries"
+  },
+  "analysis": {
+   "zh": "据Trading Economics,黄金周一在每盎司4,200美元附近徘徊,此前已连涨两天;下午页面报价约4,176.99美元,日内下跌约0.40%,近一个月跌约2.84%。页面指,油价因俄罗斯柴油供应的希望而走低,缓和了通胀担忧。黄金常被视为避险资产,但它不产生利息,所以在高利率环境下往往更容易随收益率与美元波动。",
+   "en": "Trading Economics says gold hovered around $4,200 an ounce on Monday after two days of gains; the page's afternoon quote is about $4,176.99, down roughly 0.40% on the day and about 2.84% over the month. It notes lower oil on hopes for Russian diesel supplies eased inflation worries. Gold is often seen as a safe haven, but it pays no interest, so in a high-rate environment it can swing with yields and the dollar."
+  },
+  "dda": {
+   "zh": "黄金只是分散工具之一。对信托基金的定期定额(DDA)而言,多元化的组合加上持续投入,通常比追逐单一资产的短线涨跌更稳健。",
+   "en": "Gold is only one diversification tool. For regular (DDA) investing in unit trusts, a diversified portfolio with steady contributions is generally more resilient than chasing short-term moves in one asset."
+  },
+  "prs": {
+   "zh": "退休规划中,黄金或相关资产若占一部分,也要看是否符合退休年限与风险承受度。PRS每年最高RM3,000税务减免可作为长期储蓄的助力。",
+   "en": "If gold or related assets form part of a retirement plan, check that they fit your time horizon and risk tolerance. The PRS tax relief of up to RM3,000 a year can support long-term saving."
+  },
+  "lump": {
+   "zh": "黄金价格较年初高点仍有明显距离,单笔投资者不宜被价格故事牵着走,可以检查组合是否过度集中于某一资产,并通过分批投入分散时间风险。",
+   "en": "Gold remains well off its early-year high, so lump-sum investors should avoid being led by price stories. Check for concentration in any single asset, and phasing in may help spread timing risk."
+  },
+  "bond": {
+   "zh": "黄金与债券都常被视为组合的“稳定器”,但驱动因素不同:债券看利率与信用,黄金看实际收益率与避险需求。马来西亚债券基金仍受OPR、通胀和令吉影响。",
+   "en": "Gold and bonds are both seen as portfolio stabilisers but with different drivers: bonds follow rates and credit, gold follows real yields and safe-haven demand. Malaysian bond funds remain sensitive to the OPR, inflation and the ringgit."
+  },
+  "source": {
+   "name": "Trading Economics",
+   "url": "https://tradingeconomics.com/commodity/gold"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-11-w0",
   "kind": "summary",
   "time": "2026-10-11T09:00:00+08:00",
