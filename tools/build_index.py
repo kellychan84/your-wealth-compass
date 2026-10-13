@@ -147,6 +147,18 @@ def build_insights():
             print(f"WARNING: {f.name}: {len(bad)} card(s) missing id/time/title.zh/source.url - skipped file", file=sys.stderr)
             problems += 1
             continue
+        # News cards must cite news articles, not Trading Economics price pages (Kelly, 2026-10-13).
+        # Only check new files; older ones were written before the rule.
+        if f.name[:10] > "2026-10-13" or f.name.startswith("2026-10-13-afternoon"):
+            te = [c for c in arr if c.get("kind") != "summary" and "tradingeconomics.com" in ((c.get("source") or {}).get("url") or "")]
+            if len(te) > 2:
+                print(f"WARNING: {f.name}: {len(te)} news cards cite tradingeconomics.com (max 2) - use news articles instead", file=sys.stderr)
+                problems += 1
+            urls = [(c.get("source") or {}).get("url") for c in arr if c.get("kind") != "summary"]
+            dup = {u for u in urls if u and urls.count(u) > 1}
+            if dup:
+                print(f"WARNING: {f.name}: several cards cite the same page {sorted(dup)} - one card per article", file=sys.stderr)
+                problems += 1
         for c in arr:
             if c.get("kind") == "summary" and "-afternoon" in f.name:
                 print(f"WARNING: {f.name} {c.get('id')}: afternoon updates have no 每日速览 snapshot - remove it", file=sys.stderr)

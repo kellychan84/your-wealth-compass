@@ -26,6 +26,21 @@ first (it feeds the home-page hero card); **afternoon runs have NO snapshot** (K
 - If a category has no whitelisted update, **leave it out entirely** — never write "no update / 暂无更新 / could not verify"
   anywhere, and never fill a gap with invented or stale numbers (Kelly's rule, 2026-10-01). Only publish what you actually have.
 
+**News cards need real news articles (Kelly, 2026-10-13).** Trading Economics *quote pages*
+(`tradingeconomics.com/<country>/stock-market`, `/commodity/...`, `/government-bond-yield`, `/currency`) are price tickers,
+not news: use them for the 每日速览 figures and to check numbers, but **a news card's `source` must be a news article** —
+a dated story on CNBC, Yahoo Finance, Investing.com, FX168, Al Jazeera, CBS News, PBS, Benzinga, TheStreet or Schwab
+(a Trading Economics article under `/news/` also counts). At most **2 cards per update** may cite tradingeconomics.com, and
+never two from the same Trading Economics page. `build_index.py` warns when this is broken.
+
+How to find articles (do this before falling back to anything else):
+- Always pass `allowed_domains` in WebSearch, e.g. `["finance.yahoo.com","investing.com","cnbc.com"]`, plus the date words
+  ("today", the weekday, the date), e.g. "stock market today Tuesday October 13 2026".
+- One search per topic: Wall Street close; Fed / Treasury yields; oil; gold; a big US company or earnings; China / Hong Kong
+  (`fx168news.com`, `investing.com`); Asian chips (TSMC, Samsung, SK Hynix); Malaysia (Budget, Bank Negara, ringgit, Bursa).
+- Open the article with WebFetch and check its date is today or yesterday. If a site is blocked, try the same story on
+  another whitelisted site before giving up on it.
+
 Coverage (Kelly, 2026-10-01 — cover news broadly): the Fed and US macro; **US** stories (Wall Street indices, major US
 companies/earnings, US data and policy); **China** (economy and data, PBoC / yuan, China and Hong Kong stocks, Chinese companies,
 US–China trade/tech); **Asian tech & semiconductors** (TSMC / Taiwan, Samsung and SK Hynix / Korea, Japanese chip and equipment
