@@ -44,6 +44,14 @@ How to find articles (do this before falling back to anything else):
 - SCMP may show only part of an article (subscription): use only the facts and numbers you can actually see.
 - Open the article with WebFetch and check its date is today or yesterday. If a site is blocked, try the same story on
   another whitelisted site before giving up on it.
+- **Taiwan / TSMC:** search often misses Focus Taiwan's same-day stories, so also WebFetch its business section
+  `https://focustaiwan.tw/business` and open today's Taiwan-stocks / TSMC / chip article from that list.
+- **Hong Kong / China close (afternoon):** the HK market closes at 16:10 MYT, so look for the **closing** report first — search
+  "Hong Kong shares close" / "Hang Seng close" plus the date on `thestandard.com.hk` and `scmp.com`, and WebFetch
+  `https://www.thestandard.com.hk/finance` for today's list. Use a midday ("by noon") report only if no closing report is out yet.
+- **One article, one card (Kelly, 2026-10-13).** If two stories you want come from the same article (e.g. a wrap-up covering
+  both chips and China car sales), search for a separate article on the second story (a different site or a dedicated piece)
+  instead of dropping it. Drop it only if no separate dated article exists. Aim for the top of the card range, not the minimum.
 
 Coverage (Kelly, 2026-10-01 — cover news broadly): the Fed and US macro; **US** stories (Wall Street indices, major US
 companies/earnings, US data and policy); **China** (economy and data, PBoC / yuan, China and Hong Kong stocks, Chinese companies,
