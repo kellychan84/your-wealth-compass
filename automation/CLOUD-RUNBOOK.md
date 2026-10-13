@@ -29,15 +29,19 @@ first (it feeds the home-page hero card); **afternoon runs have NO snapshot** (K
 **News cards need real news articles (Kelly, 2026-10-13).** Trading Economics *quote pages*
 (`tradingeconomics.com/<country>/stock-market`, `/commodity/...`, `/government-bond-yield`, `/currency`) are price tickers,
 not news: use them for the 每日速览 figures and to check numbers, but **a news card's `source` must be a news article** —
-a dated story on CNBC, Yahoo Finance, Investing.com, FX168, Al Jazeera, CBS News, PBS, Benzinga, TheStreet or Schwab
+a dated story on CNBC, Yahoo Finance, Investing.com, FX168, SCMP, The Standard, Focus Taiwan, Al Jazeera, CBS News, PBS,
+Benzinga, TheStreet or Schwab
 (a Trading Economics article under `/news/` also counts). At most **2 cards per update** may cite tradingeconomics.com, and
 never two from the same Trading Economics page. `build_index.py` warns when this is broken.
 
 How to find articles (do this before falling back to anything else):
 - Always pass `allowed_domains` in WebSearch, e.g. `["finance.yahoo.com","investing.com","cnbc.com"]`, plus the date words
   ("today", the weekday, the date), e.g. "stock market today Tuesday October 13 2026".
-- One search per topic: Wall Street close; Fed / Treasury yields; oil; gold; a big US company or earnings; China / Hong Kong
-  (`fx168news.com`, `investing.com`); Asian chips (TSMC, Samsung, SK Hynix); Malaysia (Budget, Bank Negara, ringgit, Bursa).
+- One search per topic: Wall Street close; Fed / Treasury yields; oil; gold; a big US company or earnings; Hong Kong stocks /
+  Hang Seng (`thestandard.com.hk`, `scmp.com`); China economy and companies (`scmp.com`, `fx168news.com`, `investing.com`);
+  Taiwan stocks, TSMC and Asian chips (`focustaiwan.tw`, plus Samsung / SK Hynix on `investing.com`, `cnbc.com`);
+  Malaysia (Budget, Bank Negara, ringgit, Bursa).
+- SCMP may show only part of an article (subscription): use only the facts and numbers you can actually see.
 - Open the article with WebFetch and check its date is today or yesterday. If a site is blocked, try the same story on
   another whitelisted site before giving up on it.
 
@@ -45,8 +49,8 @@ Coverage (Kelly, 2026-10-01 — cover news broadly): the Fed and US macro; **US*
 companies/earnings, US data and policy); **China** (economy and data, PBoC / yuan, China and Hong Kong stocks, Chinese companies,
 US–China trade/tech); **Asian tech & semiconductors** (TSMC / Taiwan, Samsung and SK Hynix / Korea, Japanese chip and equipment
 makers, China chip makers, Malaysia's semiconductor and data-centre sector, chip-stock moves, export controls, supply chains);
-**oil and gold**; **Malaysia / ASEAN** (KLCI, ringgit, Bank Negara / OPR, local policy). FX168 is a good whitelisted source for
-China and Asia news.
+**oil and gold**; **Malaysia / ASEAN** (KLCI, ringgit, Bank Negara / OPR, local policy). For Hong Kong, China and Taiwan news use
+The Standard, SCMP, Focus Taiwan and FX168 (added for Kelly, 2026-10-13) rather than a Trading Economics price page.
 
 Slot focus:
 - **morning** (time `${DATE}T09:00:00+08:00`): overnight Wall Street, Fed/yields, oil/gold, Asia open, Malaysia, big company news.

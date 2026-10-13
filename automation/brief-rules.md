@@ -12,7 +12,9 @@ description: Kelly的每日双语(中/英)市场简报固定工作流——固�
 ## 第一步:信源规则(硬性,绝不可违反)
 
 **白名单(只能从这些来源搜索/引用/附链接):**
-Al Jazeera、CBS News、TheStreet、Trading Economics、Benzinga、Schwab、Yahoo Finance、PBS、CME FedWatch Tool、FX168、Investing.com、Google Finance、FT(Financial Times)、CNBC
+Al Jazeera、CBS News、TheStreet、Trading Economics、Benzinga、Schwab、Yahoo Finance、PBS、CME FedWatch Tool、FX168、Investing.com、Google Finance、FT(Financial Times)、CNBC、SCMP 南华早报(scmp.com)、The Standard 英文虎报(thestandard.com.hk)、Focus Taiwan 中央社英文(focustaiwan.tw)
+
+(SCMP、The Standard、Focus Taiwan 由 Kelly 2026-10-13 加入,用于港股、中国大陆、台股/台积电与半导体的当天新闻。)
 
 **黑名单(绝不使用,即使搜索结果出现也要跳过):**
 Bloomberg、Axios、NPR
