@@ -2,6 +2,310 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-10-13-m0",
+  "kind": "summary",
+  "time": "2026-10-13T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "美股道指收高、纳指受记忆体股拖累;油价因中东局势走高,美国CPI与银行财报是本周焦点",
+   "en": "Dow gains while memory stocks weigh on the Nasdaq; oil firms on Middle East tensions, with CPI and bank earnings the focus this week"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,807",
+    "change": "-0.06%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "$105.37",
+    "change": "-1.20%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "黄金",
+     "en": "Gold"
+    },
+    "value": "$4,168.65",
+    "change": "-0.08%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,618",
+    "change": "-0.02%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周一道指升0.38%至51,851点,纳指跌0.44%,Sandisk等记忆体股走弱;摩根大通等银行周二起公布业绩。",
+    "en": "The Dow rose 0.38% to 51,851 on Monday while the Nasdaq fell 0.44%, with memory names such as Sandisk lower; JPMorgan and other banks report from Tuesday."
+   },
+   {
+    "zh": "沙特机场遇袭后油价走高,美国9月CPI周三公布,10年期美债收益率约5.24%。",
+    "en": "Oil firmed after attacks near Saudi Arabia's Riyadh airport; US September CPI is due Wednesday and the 10-year yield sits near 5.24%."
+   },
+   {
+    "zh": "马来西亚2027年财政预算案:最低工资升至RM2,000、个人所得税减免升至RM12,000。",
+    "en": "Malaysia's 2027 Budget lifts the minimum wage to RM2,000 and individual tax relief to RM12,000."
+   }
+  ],
+  "takeaway": {
+   "zh": "数据和财报密集的一周,消息很容易让人心急。作为信托基金顾问,我通常建议大家回到自己的目标与风险承受度,按计划持续投入、保持分散,会比追着每条新闻跑更踏实。",
+   "en": "A busy week of data and earnings can make anyone anxious. As a unit trust consultant, I'd generally say return to your own goals and risk tolerance; a steady, diversified plan tends to serve better than chasing every headline."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-12-212311190.html"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-rises-105032549.html"
+   },
+   {
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/commodities"
+   },
+   {
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/malaysia/stock-market"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/malaysia-plans-1125-billion-budget-for-2027-ahead-of-possible-election-4940338"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-13-m1",
+  "time": "2026-10-13T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "道指收高、纳指下跌:投资者为银行财报季热身",
+   "en": "Dow gains, Nasdaq slips as investors brace for bank earnings"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,周一道指升0.38%至51,851点,标普500微跌0.06%至7,807点,纳指跌0.44%至27,246点;金融股在大型银行公布业绩前上涨。摩根大通、高盛、富国和花旗周二起公布业绩。这就像大考前一天,同学们都在悄悄复习,成绩单会影响接下来的市场情绪。",
+   "en": "Yahoo Finance reports the Dow rose 0.38% to 51,851 on Monday, the S&P 500 slipped 0.06% to 7,807 and the Nasdaq fell 0.44% to 27,246, with financials higher ahead of the big banks' results. JPMorgan, Goldman Sachs, Wells Fargo and Citigroup report from Tuesday. It is a bit like the night before an exam: everyone is quietly revising, and the results may colour the mood that follows."
+  },
+  "dda": {
+   "zh": "指数一天的小幅涨跌,对长期投资者来说只是噪音。定期定额(DDA)的好处,是不必猜哪一天进场,而是按自己的节奏持续投入。",
+   "en": "A small one-day move in the indices is usually noise for a long-term investor. The appeal of regular (DDA) investing is that you do not need to guess the day; you keep contributing at your own pace."
+  },
+  "prs": {
+   "zh": "退休规划是几十年的事,财报季的波动通常只是路上的小起伏。每年最高RM3,000的PRS税务减免,也可以是持续储蓄的动力。",
+   "en": "Retirement planning spans decades, so earnings-season swings are usually small bumps on the road. The PRS tax relief of up to RM3,000 a year can also be a reason to keep saving steadily."
+  },
+  "lump": {
+   "zh": "面对即将公布的财报,单笔投资的原则是:可以考虑分批进场以分散时机风险,同时检查是否过度集中在少数板块,并与自己的目标和风险承受度对齐。",
+   "en": "With results ahead, the principles for a lump sum are: consider phasing in to spread timing risk, check whether holdings are too concentrated in a few sectors, and match the plan to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国银行财报对马来西亚债券基金的直接影响有限;更值得留意的是美国利率走势如何影响令吉与外资流向。债券通常在组合中扮演平衡器的角色。",
+   "en": "US bank earnings usually have limited direct effect on Malaysian bond funds; what matters more is how US rates influence the ringgit and foreign flows. Bonds generally act as a balancer within a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-12-212311190.html"
+  }
+ },
+ {
+  "id": "2026-10-13-m2",
+  "time": "2026-10-13T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "us"
+  ],
+  "title": {
+   "zh": "记忆体股走弱:Sandisk跌逾6%,半导体ETF下滑",
+   "en": "Memory stocks weaken: Sandisk falls over 6% as chip ETFs slide"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,Sandisk周一因记忆体竞争忧虑下跌逾6%,Lumentum跌近10%,Marvell与Semtech因估值担忧走低。Investopedia数据显示,iShares半导体ETF(SOXX)跌2.6%,Roundhill记忆体ETF跌4.3%。这像一场热门餐厅的排队潮:涨得快的板块,回头整理时也往往跌得急。",
+   "en": "Yahoo Finance says Sandisk fell more than 6% on Monday on memory-competition worries, Lumentum dropped almost 10%, and Marvell and Semtech slipped on valuation concerns. Investopedia figures show the iShares Semiconductor ETF (SOXX) down 2.6% and the Roundhill Memory ETF down 4.3%. Fast-rising sectors can also fall fast when they pause for breath."
+  },
+  "dda": {
+   "zh": "单一板块的剧烈波动提醒我们:分散投资的意义,在于不让一个主题决定整体结果。定期定额让你在高低点都有参与。",
+   "en": "Sharp swings in one sector remind us why diversification matters: it keeps a single theme from deciding the overall result. Regular investing lets you take part at both highs and lows."
+  },
+  "prs": {
+   "zh": "若退休账户或PRS基金含有科技主题,可以顺便检视占比是否仍符合自己的风险承受度与退休年限。",
+   "en": "If your retirement or PRS holdings include technology themes, it is a good moment to check whether the weight still suits your risk tolerance and time to retirement."
+  },
+  "lump": {
+   "zh": "单笔资金若集中在近期涨幅很大的主题,可以考虑分批进场以分散时机风险,并检查是否过度集中。",
+   "en": "A lump sum aimed at a theme that has risen a lot recently may be better phased in to spread timing risk, with a check on concentration."
+  },
+  "bond": {
+   "zh": "芯片股的波动与马来西亚债券基金没有直接关联;但情绪转向避险时,债券通常发挥平衡股票波动的作用。",
+   "en": "Chip-stock moves have no direct link to Malaysian bond funds, but when sentiment turns defensive, bonds may help balance equity volatility."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-rises-105032549.html"
+  }
+ },
+ {
+  "id": "2026-10-13-m3",
+  "time": "2026-10-13T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "us"
+  ],
+  "title": {
+   "zh": "沙特机场遇袭,油价走高:布伦特约106美元",
+   "en": "Attacks near Riyadh airport lift oil: Brent around $106"
+  },
+  "analysis": {
+   "zh": "据雅虎财经转述Investopedia,沙特表示拦截了更多由也门胡塞武装发射的导弹与无人机,利雅得机场周末遇袭后仍暂停运作;WTI升1.5%至93.28美元,布伦特升1.3%至106.09美元。油价是通胀预期的重要一环,就像家里的水电费,涨了会推高所有开销。",
+   "en": "Yahoo Finance, citing Investopedia, reports Saudi Arabia intercepted more missiles and drones fired by Yemen's Houthi rebels, with Riyadh airport still suspended after weekend attacks; WTI rose 1.5% to $93.28 and Brent rose 1.3% to $106.09. Oil feeds into inflation expectations, a bit like a household utility bill: when it rises, it nudges up many other costs."
+  },
+  "dda": {
+   "zh": "地缘消息带来的油价波动通常是短期的。定期定额不需要预测油价,重点是坚持计划。",
+   "en": "Oil swings driven by geopolitical headlines are usually short-lived. Regular investing does not require forecasting oil; the key is sticking to the plan."
+  },
+  "prs": {
+   "zh": "长期的高油价可能推高通胀,侵蚀退休储蓄的购买力,这也是退休规划中保留成长型资产的原因之一。",
+   "en": "Persistently high oil may lift inflation and erode the purchasing power of retirement savings, one reason retirement plans often keep some growth assets."
+  },
+  "lump": {
+   "zh": "消息主导的行情里,单笔投资更适合回到原则:可以考虑分批进场、检查集中度,并确认资金的投资期限。",
+   "en": "In headline-driven markets, a lump sum is better guided by principles: consider phasing in, check concentration and confirm the investment horizon."
+  },
+  "bond": {
+   "zh": "油价上升可能推高通胀预期,进而影响利率走向与令吉;马来西亚债券基金的价格可能因此波动。债券基金通常仍是组合的稳定器。",
+   "en": "Higher oil may lift inflation expectations and influence rate paths and the ringgit, which could move Malaysian bond fund prices. Bond funds generally remain a stabiliser in a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-rises-105032549.html"
+  }
+ },
+ {
+  "id": "2026-10-13-m4",
+  "time": "2026-10-13T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "黄金周一微升:油价回落与美元走弱,市场等待美国CPI",
+   "en": "Gold edges up on weaker oil and dollar as markets await US CPI"
+  },
+  "analysis": {
+   "zh": "据CNBC搜索摘要,周一现货黄金升约0.3%至4,206美元,一度触及10月2日以来高点。CME FedWatch显示,市场认为10月加息概率约17%,12月前加息概率约86%。市场正等待周三的美国CPI。黄金像一艘小船,随着利率预期的潮水起伏。",
+   "en": "According to the CNBC report as shown in search results, spot gold rose about 0.3% to $4,206 on Monday, briefly touching its highest since October 2. CME's FedWatch tool shows roughly a 17% chance of an October hike and about 86% by December, with the US CPI report due Wednesday. Gold behaves like a small boat, rising and falling with the tide of rate expectations."
+  },
+  "dda": {
+   "zh": "黄金可以是分散的一部分,但不必为它而改变计划。定期定额让你不必判断金价高低。",
+   "en": "Gold can be one part of diversification, but it need not change your plan. Regular investing means you do not have to judge whether gold is high or low."
+  },
+  "prs": {
+   "zh": "美国可能加息的预期,提醒退休投资者:利率环境会影响储蓄与债券的收益,也会影响长期购买力,宜定期检视退休目标。",
+   "en": "Expectations of further US hikes remind retirement savers that the rate environment affects both savings and bond returns, so it is worth reviewing retirement goals regularly."
+  },
+  "lump": {
+   "zh": "单笔投资遇到利率不确定期,可以考虑分批进场以分散时机风险,并确认自己的风险承受度。",
+   "en": "When rates are uncertain, a lump sum may be phased in to spread timing risk, with a check on your risk tolerance."
+  },
+  "bond": {
+   "zh": "美国利率预期上升,可能影响令吉与外资流向,进而牵动马来西亚政府债券(MGS)和永续债券的价格。马来西亚的OPR走向仍取决于国内通胀与增长。",
+   "en": "Rising US rate expectations may influence the ringgit and foreign flows, which can move MGS and corporate bond prices. Bank Negara's OPR path still depends on domestic inflation and growth."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/amp/2026/10/12/gold-gains-on-weaker-oil-dollar-us-inflation-data-in-focus.html"
+  }
+ },
+ {
+  "id": "2026-10-13-m5",
+  "time": "2026-10-13T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "10年期美债收益率约5.24%,美国9月CPI周三公布",
+   "en": "10-year Treasury yield near 5.24% as September CPI arrives Wednesday"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,10年期美债收益率周一收于约5.24%(债券市场因哥伦布日休市)。雅虎财经转述Investopedia指出,收益率两天前一度接近5.37%,为24年多来最高。9月CPI周三公布,PPI周四公布。收益率就像贷款的价格牌,价牌升高,所有借钱的人都感受得到。",
+   "en": "Yahoo Finance shows the 10-year yield at about 5.24% (the bond market was closed for Columbus Day). Yahoo, citing Investopedia, says it briefly approached 5.37% two days earlier, its highest in over 24 years. September CPI is due Wednesday and PPI on Thursday. A yield is like the price tag on borrowing: when it rises, everyone who borrows feels it."
+  },
+  "dda": {
+   "zh": "利率高企的时期,更需要纪律。定期定额让你不必押注某一天的数据结果,而是按计划累积。",
+   "en": "Periods of high rates call for discipline. Regular investing means you are not betting on a single data release; you simply keep accumulating."
+  },
+  "prs": {
+   "zh": "较高的收益率也意味着储蓄与债券的收益较有吸引力,但通胀仍会侵蚀购买力;退休规划需要兼顾稳定与成长。",
+   "en": "Higher yields can make savings and bonds more attractive, but inflation still erodes purchasing power; retirement plans generally need both stability and growth."
+  },
+  "lump": {
+   "zh": "CPI公布前后市场可能波动,单笔投资可以考虑分批进场以分散时机风险,并确认资金的使用期限。",
+   "en": "Markets may swing around the CPI release, so a lump sum can be phased in to spread timing risk, with the time horizon confirmed."
+  },
+  "bond": {
+   "zh": "美债收益率走高通常会压低现有债券价格,也可能影响令吉与外资流向,马来西亚债券基金可能受到波动影响;债券基金的票息收入则是长期的支撑。",
+   "en": "Higher US yields usually weigh on existing bond prices and may affect the ringgit and foreign flows, so Malaysian bond funds could see some volatility; coupon income is a longer-term support."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-12-212311190.html"
+  }
+ },
+ {
+  "id": "2026-10-13-m6",
+  "time": "2026-10-13T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "马来西亚2027年财政预算案:最低工资升至RM2,000,个人税务减免升至RM12,000",
+   "en": "Malaysia Budget 2027: minimum wage to RM2,000, individual tax relief to RM12,000"
+  },
+  "analysis": {
+   "zh": "据路透社(经Investing.com),首相安华公布RM4,598亿的2027年预算案,支出较2026年修订预算增3.6%;2027年赤字预计降至占GDP的3.3%。最低工资6月起由RM1,700升至RM2,000,个人所得税减免由RM9,000升至RM12,000,为2010年以来首次调整。预算案像是一份家庭年度开销表,既要照顾生活成本,也要看财政是否稳健。",
+   "en": "Reuters, via Investing.com, reports Prime Minister Anwar Ibrahim unveiled a RM459.8 billion 2027 budget, with spending up 3.6% on the revised 2026 budget and the 2027 deficit projected to ease to 3.3% of GDP. The minimum wage rises from RM1,700 to RM2,000 from June, and individual tax relief rises from RM9,000 to RM12,000, the first revision since 2010. A budget is like a household's annual spending plan: it has to ease living costs while keeping the books sound."
+  },
+  "dda": {
+   "zh": "收入与税务减免的调整,可能让部分家庭的可投资金额增加。把多出来的部分设为定期定额,是养成习惯的好方法。",
+   "en": "Changes to incomes and tax relief may leave some households with more to invest. Directing part of it into a regular DDA plan can be a good way to build the habit."
+  },
+  "prs": {
+   "zh": "税务减免提高后,也是重新检视退休储蓄的好时机;每年最高RM3,000的PRS税务减免,依然是可以了解的工具。",
+   "en": "With higher tax relief, it is a good time to revisit retirement savings; the PRS tax relief of up to RM3,000 a year remains a tool worth understanding."
+  },
+  "lump": {
+   "zh": "若因预算案而有额外资金,单笔投资可以先对齐目标与风险承受度,考虑分批进场并检查集中度。",
+   "en": "If the budget frees up extra funds, a lump sum should first match your goals and risk tolerance, with phasing in and a concentration check."
+  },
+  "bond": {
+   "zh": "预算案的赤字与政府借贷安排,可能影响马来西亚政府债券(MGS)的供应与收益率;赤字收窄的方向通常对信用面较友好。债券基金仍受OPR、通胀与令吉影响。",
+   "en": "The budget's deficit and borrowing plans may influence MGS supply and yields; a narrowing deficit is generally friendlier for credit sentiment. Bond funds remain sensitive to the OPR, inflation and the ringgit."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/malaysia-plans-1125-billion-budget-for-2027-ahead-of-possible-election-4940338"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-12-m0",
   "kind": "summary",
   "time": "2026-10-12T09:00:00+08:00",
