@@ -1,0 +1,179 @@
+[
+ {
+  "id": "2026-10-14-a1",
+  "time": "2026-10-14T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股反弹0.59%:台积电收平,法说会前获利了结限制涨幅",
+   "en": "Taiwan shares rebound 0.59% as TSMC ends flat ahead of its investor conference"
+  },
+  "analysis": {
+   "zh": "据台湾中央社,周三台股加权指数上涨284.52点或0.59%,收48,625.83点,前一日曾重挫1.95%。台积电收在新台币2,490元、与前日持平,盘中一度摸高2,535元后回落,拖累大盘约360点;外资净卖超约新台币200亿元。就像跑步冲刺后,选手先放慢脚步,等周四的法说会再看方向。",
+   "en": "Focus Taiwan reports the Taiex rose 284.52 points, or 0.59%, to 48,625.83 on Wednesday after falling 1.95% the day before. TSMC closed unchanged at NT$2,490 after touching NT$2,535 intraday, shaving about 360 points off the index, while foreign investors were net sellers of roughly NT$20 billion. It is like a sprinter easing off after a burst, waiting for Thursday's investor conference before picking a direction."
+  },
+  "dda": {
+   "zh": "芯片股一天涨跌很大,但长期投资者更关注行业的基本面。定期定额(DDA)的做法,是不必预测哪一天是低点,而是按计划持续投入。",
+   "en": "Chip shares can swing a lot in a day, yet long-term investors usually focus on fundamentals. Regular (DDA) investing means you do not need to call the low; you keep contributing to a plan."
+  },
+  "prs": {
+   "zh": "退休基金的时间跨度很长,单日的科技股波动通常只是小插曲。每年最高RM3,000的PRS税务减免,也可以成为持续储蓄的动力。",
+   "en": "Retirement money has decades to work, so a one-day tech swing is usually a small bump. The PRS tax relief of up to RM3,000 a year can also be a reason to keep saving steadily."
+  },
+  "lump": {
+   "zh": "台积电占台股总市值约四成,可见集中度的影响。单笔投资可以考虑分批进场以分散时机风险,并检查组合是否过度集中在单一市场或行业。",
+   "en": "TSMC makes up about 40% of Taiwan's market value, a vivid example of concentration. For lump sums, consider phasing in to spread timing risk and check that holdings are not overly concentrated in one market or sector."
+  },
+  "bond": {
+   "zh": "台股的短期波动对马来西亚债券基金的直接影响通常有限。债券在组合中一般扮演平衡器的角色,帮助缓和股市起伏。",
+   "en": "Short-term moves in Taiwan shares generally have limited direct effect on Malaysian bond funds. Bonds usually act as a portfolio balancer that can help soften equity swings."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610140016"
+  }
+ },
+ {
+  "id": "2026-10-14-a2",
+  "time": "2026-10-14T17:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "油价上扬:胡塞武装袭击沙特,俄罗斯柴油出口预期限制涨幅",
+   "en": "Oil climbs as Houthi attacks on Saudi Arabia outweigh Russian diesel prospects"
+  },
+  "analysis": {
+   "zh": "据路透社经Investing.com报道,周三早盘布伦特原油升0.8%至每桶106.58美元,WTI升0.9%至94.94美元。胡塞武装袭击沙特阿美位于达兰的行政大楼,引发有限火灾;伊朗官员也说正以新手法针对荷莫兹海峡的船只。分析师预计WTI将在90至100美元区间,俄罗斯柴油出口增加可能限制大幅波动。油价像天气预报里的风:一边吹紧,一边又有东西在缓冲。",
+   "en": "Reuters via Investing.com reports Brent rose 0.8% to $106.58 a barrel and WTI 0.9% to $94.94 in early Wednesday trade. The Houthis hit a Saudi Aramco administrative building in Dhahran, causing a limited fire, and Iranian officials told Reuters they are using new tactics against ships in the Strait of Hormuz. One analyst sees WTI between $90 and $100, with higher Russian diesel exports likely to limit sharp moves. Oil right now is like a gusty wind with something cushioning it."
+  },
+  "dda": {
+   "zh": "油价波动会牵动通胀预期与企业成本,但长期投资者通常不需要因为单日油价而改变计划。定期定额(DDA)让你在高低起伏中持续累积。",
+   "en": "Oil moves feed into inflation expectations and company costs, yet long-term investors generally need not change plans over a day's oil price. Regular (DDA) investing lets you keep accumulating through the ups and downs."
+  },
+  "prs": {
+   "zh": "退休规划需要考虑通胀对未来生活成本的侵蚀。能源价格偏高时,更值得检视退休目标是否已把通胀算进去,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning has to allow for inflation eroding future living costs. When energy prices run high it is worth checking that goals already factor inflation in, and using the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "地缘风险升温时市场情绪容易反复。单笔投资可以考虑分批进场以分散时机风险,并留意能源相关板块的集中度,以及投资目标与风险承受度是否相符。",
+   "en": "When geopolitical risk rises, sentiment can swing. For lump sums, consider phasing in to spread timing risk, watch concentration in energy-related sectors, and match investments to goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价偏高可能推升通胀预期,进而影响利率走向与令吉、外资流向,间接牵动马来西亚债券基金(MGS与企业债、伊斯兰债券)。债券通常是组合中的平衡器。",
+   "en": "High oil prices may lift inflation expectations, which can influence interest rates, the ringgit and foreign flows, and so indirectly Malaysian bond funds (MGS, corporate bonds and sukuk). Bonds generally serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/commodities-news/oil-prices-climb-as-traders-weigh-saudi-supply-risk-russian-diesel-flow-4947843"
+  }
+ },
+ {
+  "id": "2026-10-14-a3",
+  "time": "2026-10-14T17:00:00+08:00",
+  "tags": [
+   "us",
+   "fed"
+  ],
+  "title": {
+   "zh": "美国CPI今晚公布:通胀预期升温,市场留意利率路径",
+   "en": "US CPI due tonight: rising inflation expectations put the rate path in focus"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,美国9月CPI将于周三公布,预测环比headline上涨0.5%、核心0.2%,前值年增3.4%。密歇根大学一年期通胀预期升至4.7%,为五个月高位;10年期美债收益率约5.22%。文章提到,若CPI和周四的PPI确认物价回升,投资者可能需要重新评估现行利率预期还能维持多久。这就像看天气:数据出炉前,大家先带好伞。",
+   "en": "Yahoo Finance says US September CPI is due Wednesday, with forecasts of +0.5% headline and +0.2% core month on month, after 3.4% year on year previously. The University of Michigan one-year inflation expectation rose to 4.7%, a five-month high, and the 10-year Treasury yield sits near 5.22%. If CPI and Thursday's PPI confirm a pickup, the article says investors may need to reassess how long current rate expectations can hold. Think of it as checking the forecast: bring an umbrella before the data lands."
+  },
+  "dda": {
+   "zh": "通胀数据公布前后市场常出现波动,但长期投资者通常不必因此改变计划。定期定额(DDA)让你不用猜数据结果,按节奏持续投入即可。",
+   "en": "Markets often swing around inflation prints, but long-term investors generally need not change plans. Regular (DDA) investing means you do not have to guess the result; you simply keep contributing."
+  },
+  "prs": {
+   "zh": "通胀会侵蚀退休后的购买力,所以退休目标要把通胀考虑在内。每年最高RM3,000的PRS税务减免,也可以帮助你持续储蓄。",
+   "en": "Inflation erodes retirement purchasing power, so goals should allow for it. The PRS tax relief of up to RM3,000 a year can also help you keep saving."
+  },
+  "lump": {
+   "zh": "利率预期不确定时,单笔投资可以考虑分批进场以分散时机风险,同时检查组合的集中度,并确认投资期限与风险承受度相符。",
+   "en": "When rate expectations are uncertain, lump-sum investors can consider phasing in to spread timing risk, check concentration, and make sure the time horizon and risk tolerance fit."
+  },
+  "bond": {
+   "zh": "美债收益率高企与通胀预期上升,可能影响令吉、外资流向,以及Bank Negara的利率判断,间接牵动马来西亚债券基金。债券通常在组合中扮演平衡器。",
+   "en": "High Treasury yields and rising inflation expectations may influence the ringgit, foreign flows and Bank Negara's rate view, indirectly touching Malaysian bond funds. Bonds generally play a balancing role."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081225961.html"
+  }
+ },
+ {
+  "id": "2026-10-14-a4",
+  "time": "2026-10-14T17:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "港股午市微升:科技股领涨,恒指报24,384点",
+   "en": "Hong Kong stocks edge up at midday, led by tech, with the Hang Seng at 24,384"
+  },
+  "analysis": {
+   "zh": "据英文虎报,周三午间休市时恒生指数升39点或0.16%,报24,384点;恒生科技指数涨1.61%至4,203点,半日成交额867亿港元。上证综指几乎持平于3,801点,深证成指跌0.51%。前一日科技股承压,今天有所喘息,像是跑完一段陡坡后稍作休息。",
+   "en": "The Standard reports the Hang Seng Index was up 39 points, or 0.16%, to 24,384 at the midday break on Wednesday, with the Hang Seng Tech Index up 1.61% to 4,203 and half-day turnover of HK$86.7 billion. The Shanghai Composite was flat at 3,801 and the Shenzhen Component fell 0.51%. After tech pressure the day before, it is like a breather after a steep climb."
+  },
+  "dda": {
+   "zh": "港股与A股波动较大,更适合用长期眼光看待。定期定额(DDA)可以在不同价位持续投入,平均成本,不必押注单日走势。",
+   "en": "Hong Kong and China markets can be volatile and suit a long-term view. Regular (DDA) investing spreads purchases across price levels without betting on a single day."
+  },
+  "prs": {
+   "zh": "若退休组合含有亚洲或中国相关资产,可定期检视地区分布是否仍符合目标。每年最高RM3,000的PRS税务减免也可作为持续储蓄的动力。",
+   "en": "If a retirement portfolio holds Asia or China exposure, review regional spread against your goals from time to time. The PRS tax relief of up to RM3,000 a year can also motivate steady saving."
+  },
+  "lump": {
+   "zh": "单笔投资进入港股或科技板块前,可以考虑分批进场以分散时机风险,并检查是否过度集中在单一市场或行业。",
+   "en": "Before putting a lump sum into Hong Kong or tech shares, consider phasing in to spread timing risk and check for over-concentration in one market or sector."
+  },
+  "bond": {
+   "zh": "港股午市的小幅波动对马来西亚债券基金的直接影响通常有限。债券一般在组合中扮演平衡器,缓和股市起伏。",
+   "en": "A small midday move in Hong Kong shares generally has limited direct effect on Malaysian bond funds. Bonds usually act as a balancer that softens equity swings."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/345431/Hong-Kong-stocks-rise-slightly-by-noon"
+  }
+ },
+ {
+  "id": "2026-10-14-a5",
+  "time": "2026-10-14T17:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "台湾中油拟投资最多44亿美元参与阿拉斯加LNG项目",
+   "en": "Taiwan's CPC to invest up to US$4.4 billion in Alaska LNG project"
+  },
+  "analysis": {
+   "zh": "据台湾中央社,经济部证实国营台湾中油将投资最多44亿美元参与阿拉斯加液化天然气项目,投产后每年购买600万吨LNG;若进度顺利,最早2032年开始供气。官方表示此举可分散供应来源、加强能源安全,太平洋直航也可降低地缘风险。能源就像家里的备用水源,多一条路,心里更踏实。",
+   "en": "Focus Taiwan reports the Ministry of Economic Affairs confirmed state-owned CPC will invest up to US$4.4 billion in an Alaska LNG project and buy 6 million metric tons of LNG a year once production begins, with deliveries possible from 2032 if on schedule. The ministry says it diversifies supply and strengthens energy security, and the direct Pacific route may cut geopolitical risk. Energy is like a spare water source at home: another route brings peace of mind."
+  },
+  "dda": {
+   "zh": "能源安全是长期经济的基础之一,但单一新闻不必改变投资节奏。定期定额(DDA)的好处,是把注意力放在长期目标而非每日新闻。",
+   "en": "Energy security is one pillar of long-run economies, but a single headline need not change your pace. Regular (DDA) investing keeps attention on long-term goals rather than daily news."
+  },
+  "prs": {
+   "zh": "退休规划跨越数十年,能源供应与价格长期会影响生活成本。把通胀纳入目标,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning spans decades, and energy supply and prices shape long-run living costs. Build inflation into goals and consider the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "能源相关主题有时受政策与油气价格影响较大。单笔投资可以考虑分批进场,并检查是否过度集中在某一主题,以符合目标与风险承受度。",
+   "en": "Energy themes can be sensitive to policy and oil and gas prices. For lump sums, consider phasing in and checking against over-concentration in one theme, matching goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "LNG长期合约对马来西亚(亦是LNG出口国)的能源市场有间接参照意义,但对债券基金的直接影响通常有限。债券一般在组合中扮演平衡器的角色。",
+   "en": "Long-term LNG deals offer an indirect reference point for Malaysia, itself an LNG exporter, but the direct effect on bond funds is generally limited. Bonds usually serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610140011"
+  }
+ }
+]
