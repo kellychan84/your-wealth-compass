@@ -1,0 +1,337 @@
+[
+ {
+  "id": "2026-10-14-m0",
+  "kind": "summary",
+  "time": "2026-10-14T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "美股小幅收低:银行财报与记忆体股拖累;韩国、台湾芯片股急跌,美国CPI今晚公布",
+   "en": "US stocks end slightly lower on bank earnings and memory-chip weakness; Korean and Taiwanese chip shares slide ahead of US CPI"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,805.45",
+    "change": "-0.02%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "$105.69",
+    "change": "-0.9%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "台湾加权指数",
+     "en": "Taiex"
+    },
+    "value": "48,341.31",
+    "change": "-1.95%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,623",
+    "change": "+0.33%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周二道指跌约0.4%,四大银行财报后股价全数收低,花旗跌约5.5%;记忆体股连续第二天走弱。",
+    "en": "The Dow fell about 0.4% on Tuesday and all four big banks closed lower after results, with Citigroup down roughly 5.5%; memory stocks weakened for a second day."
+   },
+   {
+    "zh": "中国长鑫(CXMT)宣布新记忆体设计进展,韩国综指盘中重挫、三星与SK海力士大跌;台股收跌1.95%,台积电跌1.97%。",
+    "en": "China's CXMT flagged progress on a denser memory design, sending Korea's Kospi and Samsung and SK Hynix sharply lower; Taiwan's Taiex closed down 1.95% with TSMC off 1.97%."
+   },
+   {
+    "zh": "美国9月CPI今晚公布;油价因俄罗斯柴油供应前景与中东风险而波动,黄金受强美元与高收益率压力。",
+    "en": "US September CPI is due tonight; oil swung between Russian diesel supply prospects and Middle East risks, while gold was pressured by a firm dollar and high yields."
+   }
+  ],
+  "takeaway": {
+   "zh": "芯片股的大起大落,提醒我们单一主题不宜占比过高。作为信托基金顾问,我通常建议大家回到自己的目标与风险承受度,按计划持续投入、保持分散,会比追着每条新闻跑更踏实。",
+   "en": "The sharp swings in chip stocks are a reminder that no single theme should dominate a portfolio. As a unit trust consultant, I'd generally say return to your own goals and risk tolerance; a steady, diversified plan tends to serve better than chasing every headline."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-mixed-104049191.html"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/kospi-drops-5-chinas-cxmt-011937217.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202610130017"
+   },
+   {
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/malaysia/stock-market"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-14-m1",
+  "time": "2026-10-14T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "美股小幅收低:四大银行财报后股价全数下跌",
+   "en": "US stocks edge lower as all four big banks slip after earnings"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,周二道指跌0.4%、纳指跌0.2%、标普500微跌;高盛、摩根大通、富国与花旗公布业绩后股价全数收低,花旗跌幅最大,约5.5%。10年期美债收益率在5.22%上方。这就像考试放榜日:成绩不差,但大家期待更高,所以仍有人失望。",
+   "en": "Yahoo Finance reports the Dow fell 0.4%, the Nasdaq 0.2% and the S&P 500 finished fractionally lower; Goldman Sachs, JPMorgan, Wells Fargo and Citigroup all closed lower after reporting, with Citigroup down the most at roughly 5.5%. The 10-year Treasury yield held above 5.22%. It is a bit like results day: the grades were not bad, but expectations were higher, so some were still disappointed."
+  },
+  "dda": {
+   "zh": "财报季的单日反应,对长期投资者通常只是噪音。定期定额(DDA)的好处,是不必猜哪一天进场,而是按自己的节奏持续投入。",
+   "en": "A one-day reaction to earnings is usually noise for a long-term investor. The appeal of regular (DDA) investing is that you do not need to guess the day; you keep contributing at your own pace."
+  },
+  "prs": {
+   "zh": "退休规划是几十年的事,银行股一天的涨跌通常只是路上的小起伏。每年最高RM3,000的PRS税务减免,也可以是持续储蓄的动力。",
+   "en": "Retirement planning spans decades, so a day's move in bank shares is usually a small bump on the road. The PRS tax relief of up to RM3,000 a year can also be a reason to keep saving steadily."
+  },
+  "lump": {
+   "zh": "面对财报后的市场情绪,单笔投资的原则是:可以考虑分批进场以分散时机风险,同时检查是否过度集中在金融或某一板块。",
+   "en": "With sentiment shifting after earnings, the lump-sum principles are: consider phasing in to spread timing risk, and check that holdings are not overly concentrated in financials or any single sector."
+  },
+  "bond": {
+   "zh": "美债收益率维持高位,可能影响令吉与外资流向,进而间接牵动马来西亚债券基金。债券通常在组合中扮演平衡器的角色。",
+   "en": "Treasury yields staying high may influence the ringgit and foreign flows, which can indirectly touch Malaysian bond funds. Bonds generally act as a balancer within a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-mixed-104049191.html"
+  }
+ },
+ {
+  "id": "2026-10-14-m2",
+  "time": "2026-10-14T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "长鑫宣布记忆体新进展,韩国综指盘中重挫、三星与SK海力士大跌",
+   "en": "China's CXMT flags memory progress; Kospi, Samsung and SK Hynix slump"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,中国最大记忆体厂长鑫(CXMT)称在更高密度的4F²存储单元设计上取得进展,目标年底前推出相关服务器记忆体;韩国综指周二早盘下跌近5%至约6,100点,三星与SK海力士各跌约5%,两者占指数市值逾一半。分析师预期逢低买盘可能带来反弹。这像一家老字号发现对街新店开张:威胁未必马上成真,但市场会先紧张。",
+   "en": "Yahoo Finance reports that China's largest memory maker CXMT said it has progressed on a denser 4F² memory-cell design and aims to ship server memory built on it by year-end. The Kospi fell almost 5% to about 6,100 in Tuesday morning trade, with Samsung and SK Hynix each down roughly 5%; the two make up more than half of the index's value. One analyst expects dip-buying could spark a rebound. It is like a long-established shop seeing a new rival open across the road: the threat may not arrive at once, but the market gets nervous first."
+  },
+  "dda": {
+   "zh": "单一产业的剧烈波动,正说明分散投资的意义:不让一个主题决定整体结果。定期定额让你在高低点都有参与。",
+   "en": "Sharp swings in one industry show why diversification matters: it stops a single theme from deciding the overall result. Regular investing lets you take part at both highs and lows."
+  },
+  "prs": {
+   "zh": "若退休账户或PRS基金含有韩国、科技或新兴市场主题,可以顺便检视占比是否仍符合自己的风险承受度与退休年限。",
+   "en": "If your retirement or PRS holdings include Korea, technology or emerging-market themes, it is a good moment to check whether the weight still suits your risk tolerance and time to retirement."
+  },
+  "lump": {
+   "zh": "单笔资金若集中在近期涨幅很大的芯片主题,可以考虑分批进场以分散时机风险,并检查是否过度集中。",
+   "en": "A lump sum aimed at a chip theme that has risen a lot recently may be better phased in to spread timing risk, with a check on concentration."
+  },
+  "bond": {
+   "zh": "韩国芯片股的波动与马来西亚债券基金没有直接关联;但当情绪转向避险时,债券通常有助平衡股票波动。",
+   "en": "Korean chip-stock moves have no direct link to Malaysian bond funds, but when sentiment turns defensive, bonds may help balance equity volatility."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/kospi-drops-5-chinas-cxmt-011937217.html"
+  }
+ },
+ {
+  "id": "2026-10-14-m3",
+  "time": "2026-10-14T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "台股重挫1.95%:台积电跌1.97%,外资净卖超创纪录级别",
+   "en": "Taiwan shares drop 1.95%: TSMC off 1.97% as foreign selling ranks among the largest on record"
+  },
+  "analysis": {
+   "zh": "据台湾中央社,加权指数周二收在48,341.31点,下跌960.65点或1.95%;台积电跌1.97%至NT$2,490,南亚科技跌7.40%、世芯跌7.74%。外资净卖超NT$1,653.4亿,为历来第三大。分析师形容投资者「似乎恐慌并急于减码」。另一边,石化股因业绩改善逆势上涨。",
+   "en": "Focus Taiwan reports the Taiex closed at 48,341.31, down 960.65 points or 1.95%, with TSMC off 1.97% at NT$2,490, Nanya Technology down 7.40% and Alchip down 7.74%. Foreign investors net sold NT$165.34 billion, the third-largest on record, and one analyst said investors appeared to be panicking and scrambling to trim positions. Petrochemical shares bucked the trend on better earnings."
+  },
+  "dda": {
+   "zh": "市场恐慌时最难的是不被情绪带走。定期定额(DDA)的纪律,是让你不必判断今天是涨是跌,仍按计划投入。",
+   "en": "The hardest part of a panicky market is not being carried along by emotion. The discipline of regular (DDA) investing means you do not have to judge whether today is up or down; you stick to the plan."
+  },
+  "prs": {
+   "zh": "退休规划的时间跨度很长,单日的急跌通常不改变长期方向。可顺便检查退休组合的分散程度。",
+   "en": "A retirement horizon is long, and one sharp day usually does not change the long-term direction. It is a good moment to check how diversified the retirement portfolio is."
+  },
+  "lump": {
+   "zh": "对于想把单笔资金投入科技或亚洲市场的人,可以考虑分批进场以分散时机风险,并确认科技主题占比符合自己的风险承受度。",
+   "en": "For anyone considering a lump sum into technology or Asian markets, phasing in may help spread timing risk, and the technology weight should match your own risk tolerance."
+  },
+  "bond": {
+   "zh": "台股下跌对马来西亚债券基金的直接影响有限;外资风险偏好的变化,则可能通过令吉与资金流向间接反映。债券通常扮演平衡器。",
+   "en": "The Taiwan sell-off usually has limited direct effect on Malaysian bond funds; shifts in foreign risk appetite may show up indirectly through the ringgit and fund flows. Bonds generally act as a balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610130017"
+  }
+ },
+ {
+  "id": "2026-10-14-m4",
+  "time": "2026-10-14T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "港股收高:银行股撑市,科技与芯片股下挫",
+   "en": "Hong Kong shares end higher as banks offset a tech and chip sell-off"
+  },
+  "analysis": {
+   "zh": "据英文虎报,恒指周二收报24,345点,升74点或0.3%,成交额1,875亿港元;恒生科技指数跌0.79%至4,136点。中银香港升3.3%,汇丰升1.76%,而华虹半导体跌5.3%、联想跌3.8%、京东跌3.3%。上证综指升0.1%至3,800点,深成指跌0.25%。就像跷跷板,一端的科技股下沉,另一端的银行股把它托住。",
+   "en": "The Standard reports the Hang Seng Index closed at 24,345, up 74 points or 0.3%, on turnover of HK$187.5 billion, while the Hang Seng Tech Index fell 0.79% to 4,136. BOC Hong Kong rose 3.3% and HSBC 1.76%, while Hua Hong Semiconductor fell 5.3%, Lenovo 3.8% and JD.com 3.3%. The Shanghai Composite rose 0.1% to 3,800 and the Shenzhen Component slipped 0.25%. Like a seesaw, falling tech shares on one end were held up by banks on the other."
+  },
+  "dda": {
+   "zh": "板块轮动是市场常态,也是分散投资的原因:不同板块不会总在同一天上涨。定期定额让你不必押注单一板块。",
+   "en": "Sector rotation is normal and is exactly why diversification helps: different sectors rarely rise on the same day. Regular investing means you need not bet on any single sector."
+  },
+  "prs": {
+   "zh": "退休组合若含大中华或亚洲基金,可以留意其中科技与金融的比重是否均衡,并与自己的退休年限相配。",
+   "en": "If a retirement portfolio holds Greater China or Asian funds, it may help to see whether technology and financials are balanced and fit your time to retirement."
+  },
+  "lump": {
+   "zh": "单笔资金投入港股或中国市场时,可以考虑分批进场以分散时机风险,并检查板块是否过度集中。",
+   "en": "When putting a lump sum into Hong Kong or China, consider phasing in to spread timing risk and check for sector concentration."
+  },
+  "bond": {
+   "zh": "港股银行股走强与马来西亚债券基金没有直接关系;不过区域资金流向与美元走势,可能影响令吉与本地债市情绪。",
+   "en": "Strength in Hong Kong banks has no direct link to Malaysian bond funds, though regional flows and the US dollar may influence the ringgit and local bond sentiment."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/345340/Hong-Kong-shares-end-higher-lifted-by-banks"
+  }
+ },
+ {
+  "id": "2026-10-14-m5",
+  "time": "2026-10-14T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "油价回落:俄罗斯柴油供应前景对冲中东风险",
+   "en": "Oil slips as Russian diesel prospects offset Middle East risks"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,周二早段布伦特跌1.62美元至105.03美元,WTI跌至92.08美元;特朗普称俄罗斯同意增加柴油供应,但分析师怀疑其炼油能力难以达标。同时胡塞武装据报袭击利雅得机场、荷莫兹海峡附近有油轮事件,运输与保险成本创新高。OPEC也将2026年需求增长预测下调至每日40万桶。油价像家里的水电费,涨跌都会传导到各种开销。",
+   "en": "Yahoo Finance reports Brent fell $1.62 to $105.03 and WTI to $92.08 in early Tuesday trade after President Trump said Russia agreed to raise diesel supplies, though analysts doubt its refiners can deliver. Meanwhile Houthi forces reportedly attacked Riyadh's airport and tanker incidents were reported near the Strait of Hormuz, with shipping and insurance costs at record levels. OPEC also cut its 2026 demand-growth forecast to 400,000 barrels a day. Oil is like the household utility bill: its moves feed into many other costs."
+  },
+  "dda": {
+   "zh": "油价波动影响通胀预期,但长期投资者不必因短期价格摆动而改变计划。定期定额(DDA)让你以稳定节奏参与。",
+   "en": "Oil moves affect inflation expectations, but long-term investors need not change plans because of short-term swings. Regular (DDA) investing keeps you taking part at a steady pace."
+  },
+  "prs": {
+   "zh": "高油价若持续,可能推高生活成本,这是退休规划中通胀考量的提醒:退休金需要有能力应对长期物价上升。",
+   "en": "If high oil prices persist, living costs may rise, a reminder of the inflation factor in retirement planning: savings should be able to cope with prices rising over many years."
+  },
+  "lump": {
+   "zh": "面对油价与地缘风险带来的不确定性,单笔投资可以考虑分批进场以分散时机风险,并检查组合是否过度集中于能源或单一主题。",
+   "en": "With uncertainty from oil and geopolitical risk, a lump sum may be phased in to spread timing risk, with a check that the portfolio is not overly concentrated in energy or one theme."
+  },
+  "bond": {
+   "zh": "油价偏高可能推升通胀与利率预期,这会影响债券价格与Bank Negara的政策考量;马来西亚作为产油国,令吉与财政也可能有不同方向的影响。债券通常扮演平衡器。",
+   "en": "Elevated oil may lift inflation and rate expectations, which can affect bond prices and Bank Negara's policy thinking; as an oil producer, Malaysia's ringgit and fiscal position may also be touched in different directions. Bonds generally act as a balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-russian-diesel-093219925.html"
+  }
+ },
+ {
+  "id": "2026-10-14-m6",
+  "time": "2026-10-14T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "黄金自9月高位回落:强美元与高收益率施压",
+   "en": "Gold retreats from September highs on a firm dollar and high yields"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,12月黄金期货周二约在4,195至4,206美元,较9月高位逾4,400美元回落,一个月下跌约3.8%。强美元、飙升的美债收益率以及市场对美联储进一步紧缩的预期,是主要压力;央行与黄金ETF仍在持续增持。黄金像家里的保险箱:平时不起眼,但在不确定时有它的位置。",
+   "en": "Yahoo Finance says December gold futures traded around $4,195 to $4,206 on Tuesday, down from September highs above $4,400 and about 3.8% lower over a month. A stronger dollar, surging Treasury yields and expectations of further Fed tightening are the main pressures, while central banks and gold ETFs continue to accumulate. Gold is a bit like the household safe: unremarkable day to day, but it has a place when times are uncertain."
+  },
+  "dda": {
+   "zh": "黄金短期波动大,长期投资者更适合把它视为分散工具之一,而非追涨杀跌的对象。定期定额可以平滑进场成本。",
+   "en": "Gold can be volatile in the short run; for long-term investors it is better seen as one diversifier than something to chase or flee. Regular investing can smooth entry costs."
+  },
+  "prs": {
+   "zh": "退休组合通常关注分散与抗通胀,黄金可能是其中一个考量,但占比应与自己的风险承受度和退休年限匹配。",
+   "en": "Retirement portfolios usually care about diversification and inflation resilience; gold may be one consideration, but its weight should match your risk tolerance and time to retirement."
+  },
+  "lump": {
+   "zh": "若考虑以单笔资金配置黄金相关资产,可以考虑分批进场以分散时机风险,并检查整体是否过度集中。",
+   "en": "If considering a lump sum for gold-related assets, phasing in may help spread timing risk, with a check on overall concentration."
+  },
+  "bond": {
+   "zh": "美联储紧缩预期推高美债收益率,可能影响令吉与外资流向,进而牵动马来西亚债券基金。债券通常扮演平衡器。",
+   "en": "Expectations of Fed tightening have lifted Treasury yields, which may influence the ringgit and foreign flows and so touch Malaysian bond funds. Bonds generally act as a balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-october-13-2026-lower-gold-prices-could-be-the-next-buying-opportunity-105035019.html"
+  }
+ },
+ {
+  "id": "2026-10-14-m7",
+  "time": "2026-10-14T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "国际货币基金组织大幅上调台湾今年增长预测至10.7%",
+   "en": "IMF sharply raises Taiwan's 2026 growth forecast to 10.7%"
+  },
+  "analysis": {
+   "zh": "据台湾中央社,国际货币基金组织(IMF)周一发布《世界经济展望》,把台湾2026年GDP增长预测从4月的5.2%上调至10.7%,是全球唯一预期双位数增长的经济体,主要受AI硬件与基础设施投资带动。IMF同时预测台湾通胀2.0%、失业率3.4%。这像一位原本中等成绩的学生突然拿到全班第一,但也提醒大家别忘了偏科的风险。",
+   "en": "Focus Taiwan reports the IMF's Monday World Economic Outlook lifted Taiwan's 2026 GDP growth forecast to 10.7% from 5.2% in April, the only double-digit forecast of any economy, driven by AI hardware and infrastructure investment. The IMF also sees inflation of 2.0% and unemployment of 3.4%. It is like a middling student suddenly topping the class, which is welcome but also a reminder of the risk of leaning on one subject."
+  },
+  "dda": {
+   "zh": "经济增长强劲不等于股市每天上涨;长期投资者仍应分散。定期定额让你不必猜测短期情绪,持续参与长期增长。",
+   "en": "Strong economic growth does not mean markets rise every day; long-term investors still benefit from diversification. Regular investing lets you keep participating in long-term growth without guessing short-term sentiment."
+  },
+  "prs": {
+   "zh": "退休基金若有亚洲科技的敞口,可借此检视集中度:增长故事动人,但退休资金更需要稳健与分散。",
+   "en": "If retirement funds have Asian technology exposure, this is a chance to review concentration: the growth story is attractive, but retirement money needs steadiness and diversification."
+  },
+  "lump": {
+   "zh": "单笔资金若想参与亚洲科技增长,可以考虑分批进场以分散时机风险,并确认占比与自己的风险承受度相符。",
+   "en": "A lump sum aimed at Asian technology growth may be phased in to spread timing risk, with the weight matched to your risk tolerance."
+  },
+  "bond": {
+   "zh": "台湾增长强劲对马来西亚债券基金没有直接影响;但区域经济走强可能改善风险情绪与资金流向。债券通常扮演平衡器。",
+   "en": "Taiwan's strong growth has no direct effect on Malaysian bond funds, though a stronger regional economy may help risk sentiment and flows. Bonds generally act as a balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610130005"
+  }
+ }
+]
