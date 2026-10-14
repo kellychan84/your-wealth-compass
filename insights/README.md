@@ -15,7 +15,7 @@ The array holds:
 - Every number, fact and quote must come from a page you fetched or a search result you saw **in this run**.
 - `source.url` / `sources[].url` must be that exact URL. Never invent, alter or recall URLs from memory.
 - A **news card's source must be a dated news article** (CNBC, Yahoo Finance, Investing.com, FX168, SCMP, The Standard,
-  Focus Taiwan, Al Jazeera, CBS, PBS,
+  Focus Taiwan, The Edge Malaysia, The Star, Al Jazeera, CBS, PBS,
   Benzinga, TheStreet, Schwab, or a Trading Economics `/news/` article). Trading Economics quote/price pages are for the
   每日速览 figures only — at most 2 news cards per update may cite tradingeconomics.com, and each card a different article
   (Kelly, 2026-10-13).

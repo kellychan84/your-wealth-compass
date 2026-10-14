@@ -29,7 +29,8 @@ first (it feeds the home-page hero card); **afternoon runs have NO snapshot** (K
 **News cards need real news articles (Kelly, 2026-10-13).** Trading Economics *quote pages*
 (`tradingeconomics.com/<country>/stock-market`, `/commodity/...`, `/government-bond-yield`, `/currency`) are price tickers,
 not news: use them for the 每日速览 figures and to check numbers, but **a news card's `source` must be a news article** —
-a dated story on CNBC, Yahoo Finance, Investing.com, FX168, SCMP, The Standard, Focus Taiwan, Al Jazeera, CBS News, PBS,
+a dated story on CNBC, Yahoo Finance, Investing.com, FX168, SCMP, The Standard, Focus Taiwan, The Edge Malaysia, The Star,
+Al Jazeera, CBS News, PBS,
 Benzinga, TheStreet or Schwab
 (a Trading Economics article under `/news/` also counts). At most **2 cards per update** may cite tradingeconomics.com, and
 never two from the same Trading Economics page. `build_index.py` warns when this is broken.
@@ -40,7 +41,11 @@ How to find articles (do this before falling back to anything else):
 - One search per topic: Wall Street close; Fed / Treasury yields; oil; gold; a big US company or earnings; Hong Kong stocks /
   Hang Seng (`thestandard.com.hk`, `scmp.com`); China economy and companies (`scmp.com`, `fx168news.com`, `investing.com`);
   Taiwan stocks, TSMC and Asian chips (`focustaiwan.tw`, plus Samsung / SK Hynix on `investing.com`, `cnbc.com`);
-  Malaysia (Budget, Bank Negara, ringgit, Bursa).
+  Malaysia (Budget, Bank Negara, ringgit, Bursa / KLCI — `theedgemalaysia.com`, `thestar.com.my`).
+- **Malaysia (Kelly, 2026-10-14 — her readers are Malaysian, so try hard for one Malaysia card every update):** WebFetch
+  `https://www.thestar.com.my/business/marketwatch` and `https://theedgemalaysia.com/categories/malaysia` and open today's
+  Bursa / KLCI, ringgit, Bank Negara or Budget story. Afternoon: Bursa closes at 17:00 MYT, so a midday or "at mid-afternoon"
+  report is fine — say so in the card.
 - SCMP may show only part of an article (subscription): use only the facts and numbers you can actually see.
 - Open the article with WebFetch and check its date is today or yesterday. If a site is blocked, try the same story on
   another whitelisted site before giving up on it.
