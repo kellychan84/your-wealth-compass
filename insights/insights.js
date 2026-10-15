@@ -341,6 +341,151 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-10-15-a1",
+  "time": "2026-10-15T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "us"
+  ],
+  "title": {
+   "zh": "日经指数暴跌4.9%:先进半导体设备股领跌,AI与加息忧虑拖累亚洲科技股",
+   "en": "Nikkei slumps 4.9% as chip-equipment shares lead losses on AI and rate-hike worries"
+  },
+  "analysis": {
+   "zh": "据英文虎报,日经225指数周四收跌4.9%至64,425.95点,东证指数跌2.4%。爱德万测试跌15%、东京电子跌7.8%、软银集团跌9.3%。野村策略师指出,市场担心AI相关公司的财务状况可能转弱,加上美国通胀高于预期令加息忧虑升温。这就像一场派对里最热闹的几位客人突然同时离场,整个房间的气氛都变了。",
+   "en": "The Standard reports the Nikkei 225 closed down 4.9% at 64,425.95 on Thursday, with the Topix down 2.4%. Advantest fell 15%, Tokyo Electron 7.8% and SoftBank Group 9.3%. Nomura's strategist said concerns have been raised that the financial health of AI-related companies may be deteriorating, while hotter US inflation stoked rate-hike fears. It is like the liveliest guests leaving a party all at once: the mood of the whole room changes."
+  },
+  "dda": {
+   "zh": "科技股单日大跌提醒我们,集中在热门主题的风险不小。定期定额(DDA)分散在不同市场与行业,有助于降低单一主题回落带来的冲击,也不必去猜短期高低。",
+   "en": "A one-day plunge in tech is a reminder that crowding into one hot theme carries risk. Regular (DDA) investing across markets and sectors may help soften the blow when a single theme pulls back, without having to guess short-term highs and lows."
+  },
+  "prs": {
+   "zh": "退休规划是几十年的旅程,短期的科技股波动通常不会改变长期目标。可以借此检视PRS或信托基金的组合是否过度偏重单一主题;每年最高RM3,000的PRS税务减免也是持续储蓄的动力。",
+   "en": "Retirement planning is a decades-long journey, and short-term tech swings generally do not change the destination. It is a good moment to check whether a PRS or unit trust portfolio leans too heavily on one theme; the PRS tax relief of up to RM3,000 a year can also help you keep saving."
+  },
+  "lump": {
+   "zh": "市场急跌时,单笔投资可以考虑分批进场,以分散时机风险,并检查组合是否集中于同一主题,同时确认投资期限与风险承受度相符。",
+   "en": "After a sharp fall, a lump sum can consider phasing in to spread timing risk, check concentration in a single theme, and confirm that the time horizon and risk tolerance still fit."
+  },
+  "bond": {
+   "zh": "股市大幅波动时,资金有时会转向较稳健的资产,债券基金通常扮演组合平衡器的角色。不过美国利率预期上升可能影响令吉与外资流向,间接牵动马来西亚政府债券(MGS)与企业债/伊斯兰债券基金的估值。",
+   "en": "When equities swing sharply, money sometimes moves toward steadier assets, and bond funds generally act as a portfolio balancer. Rising US rate expectations may, however, affect the ringgit and foreign flows, indirectly influencing the valuation of MGS and corporate bond and sukuk funds."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/345572/Japans-Nikkei-slumps-5-percent-as-tech-stocks-hammered-by-AI-rate-hike-worries"
+  }
+ },
+ {
+  "id": "2026-10-15-a2",
+  "time": "2026-10-15T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒指收跌1.03%至24,062点:联想暴跌14.5%,科技股与芯片股走弱",
+   "en": "Hang Seng closes down 1.03% at 24,062 as Lenovo plunges 14.5% and tech and chip shares weaken"
+  },
+  "analysis": {
+   "zh": "据英文虎报,恒生指数周四收市跌251点至24,062点,成交额2,241亿港元;恒生科技指数跌2.72%至4,060点。联想集团跌14.5%,华虹半导体跌7.8%,中芯国际跌近4%,阿里巴巴跌3.7%。内地方面,上证综指跌1.59%至3,707点,深证成指跌2.43%。投资者将原因归结于全球科技股抛售,以及对美国利率进一步上升的担忧。",
+   "en": "The Standard reports the Hang Seng Index closed down 251 points, or 1.03%, at 24,062 on Thursday, with turnover of HK$224.1 billion; the Hang Seng Tech Index fell 2.72% to 4,060. Lenovo dropped 14.5%, Hua Hong Semiconductor 7.8%, SMIC nearly 4% and Alibaba 3.7%. On the mainland the Shanghai Composite lost 1.59% to 3,707 and the Shenzhen Component 2.43%. Investors pointed to a global tech sell-off and worries that US interest rates will rise further."
+  },
+  "dda": {
+   "zh": "港股与中国市场的起伏常很大,定期定额(DDA)的好处是不用挑日子入场,下跌时同样的金额可能买到更多单位,长期下来成本自然平均。",
+   "en": "Hong Kong and China markets can be volatile. A benefit of regular (DDA) investing is not having to pick entry days: when prices fall, the same amount may buy more units, and the cost averages out over time."
+  },
+  "prs": {
+   "zh": "退休资金着眼长期,不宜因一天的跌幅而改变计划。可以留意信托基金在区域与行业上是否足够分散;PRS每年最高RM3,000的税务减免亦可持续善用。",
+   "en": "Retirement money has a long horizon and a plan generally should not change because of one day's drop. Check that your unit trusts are diversified across regions and sectors; the PRS tax relief of up to RM3,000 a year remains worth using."
+  },
+  "lump": {
+   "zh": "想把单笔资金投入中国或港股相关基金的人,可以考虑分批进场以分散时机风险,留意单一地区的集中度,并确认投资目标与风险承受度相符。",
+   "en": "For a lump sum aimed at China or Hong Kong funds, phasing in may help spread timing risk; watch concentration in one region and confirm the goal and risk tolerance fit."
+  },
+  "bond": {
+   "zh": "这次下跌主要源于科技股与美国利率预期,对马来西亚债券基金的直接影响有限;但美债收益率走高可能影响令吉与外资流向。债券基金在组合中通常是股市波动时的平衡器。",
+   "en": "The drop mainly reflects tech shares and US rate expectations, so the direct effect on Malaysian bond funds is limited; still, higher Treasury yields may influence the ringgit and foreign flows. Bond funds generally serve as a balancer when equities swing."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/345587/Hang-Seng-Index-hovers-at-24000-points-at-close-Lenovo-slumps-14pc"
+  }
+ },
+ {
+  "id": "2026-10-15-a3",
+  "time": "2026-10-15T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股重挫3.41%:加权指数单日跌1,656点,外资净卖约3,026亿新台币",
+   "en": "Taiwan shares plunge 3.41%: Taiex drops 1,656 points as foreigners net sell about NT$302.6 billion"
+  },
+  "analysis": {
+   "zh": "据中央社,台股加权指数周四收盘跌1,655.96点或3.41%,报46,969.87点,为史上第六大单日点数跌幅。台积电跌2.01%至2,440新台币,占大盘市值逾四成。外资在主板净卖出3,025.6亿新台币,成交额1.32万亿新台币,高于前一日的9,781亿。中央社指触发因素是美国9月CPI为3.7%、高于预期的3.6%,引发对美联储加息的担忧。",
+   "en": "Focus Taiwan reports the Taiex closed down 1,655.96 points, or 3.41%, at 46,969.87 on Thursday, the sixth-steepest daily point loss on record. TSMC fell 2.01% to NT$2,440 and makes up over 40% of total market value. Foreign investors net sold NT$302.56 billion on the main board, and turnover reached NT$1.32 trillion versus NT$978.14 billion the day before. The trigger was US September CPI of 3.7%, above the 3.6% forecast, which raised fears of a Fed hike."
+  },
+  "dda": {
+   "zh": "当单一公司占大盘四成以上,指数起伏会特别大。定期定额(DDA)配合分散的信托基金,可以避免把命运押在少数几只股票上,也不需要预测市场何时见底。",
+   "en": "When one company makes up over 40% of an index, swings are amplified. Regular (DDA) investing through diversified unit trusts can avoid tying outcomes to a few stocks, without having to predict when the market bottoms."
+  },
+  "prs": {
+   "zh": "退休规划强调长期与分散。这类单日大跌可以用来检查自己的基金是否过度集中在某个市场或龙头股;PRS每年最高RM3,000的税务减免仍是长期储蓄的助力。",
+   "en": "Retirement planning stresses long horizons and diversification. A one-day plunge like this is a good prompt to check whether your funds are concentrated in one market or leading stock; the PRS tax relief of up to RM3,000 a year remains a boost to long-term saving."
+  },
+  "lump": {
+   "zh": "考虑单笔投资亚洲科技相关基金时,可以分批进场以分散时机风险,留意集中度,并确认期限与风险承受度相符,而不是在恐慌时一次性行动。",
+   "en": "If considering a lump sum in Asian tech funds, phasing in may spread timing risk; watch concentration, and confirm the horizon and risk tolerance fit rather than acting all at once in a panic."
+  },
+  "bond": {
+   "zh": "台股急跌与外资大量卖出显示区域资金流向敏感,美国利率预期上升也可能牵动令吉走势与国内债券收益率。债券基金一般在股市动荡时担任平衡器,但仍受利率和信用因素影响。",
+   "en": "The sharp fall and heavy foreign selling show how sensitive regional flows are, and higher US rate expectations may also influence the ringgit and local bond yields. Bond funds generally act as a balancer in turbulent equity markets, though they remain affected by rates and credit."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610150013"
+  }
+ },
+ {
+  "id": "2026-10-15-a4",
+  "time": "2026-10-15T17:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "台积电第三季净利创单季新高:7,630.6亿新台币,同比增68.7%",
+   "en": "TSMC's Q3 net profit hits a new quarterly high at NT$763.06 billion, up 68.7% from a year earlier"
+  },
+  "analysis": {
+   "zh": "据中央社,台积电第三季净利7,630.6亿新台币,同比增长68.7%、季增8.0%,每股盈余29.43新台币。合并营收467.2亿美元,同比增41.2%,高于公司预估的446亿至458亿美元;毛利率66.4%,处于指引范围内。2纳米占营收8%(上季为3%)。前三季净利2.42万亿新台币,同比增68.5%。财报亮眼,但同日台股与亚洲科技股仍因美国通胀与利率忧虑大跌,说明市场此刻更看重利率,而非单一公司的好成绩。",
+   "en": "Focus Taiwan reports TSMC's third-quarter net profit was NT$763.06 billion, up 68.7% year on year and 8.0% from the prior quarter, with EPS of NT$29.43. Consolidated sales were US$46.72 billion, up 41.2% and above the company's US$44.6–45.8 billion estimate; gross margin was 66.4%, within guidance. 2nm accounted for 8% of revenue, up from 3%. Nine-month net profit reached NT$2.42 trillion, up 68.5%. Yet Taiwan and Asian tech shares still fell sharply the same day on US inflation and rate worries, a sign that markets are weighing rates more than one company's strong results right now."
+  },
+  "dda": {
+   "zh": "好公司的好成绩不一定当天反映在股价上,这正是定期定额(DDA)的意义:不赌单日反应,而是让时间与持续投入发挥作用。",
+   "en": "Strong results from a good company do not always show up in the share price that day, which is the point of regular (DDA) investing: not betting on one day's reaction, but letting time and steady contributions do the work."
+  },
+  "prs": {
+   "zh": "许多信托基金的持仓包含全球科技龙头,企业盈利增长是长期回报的来源之一。退休规划应看长期趋势而非单日涨跌;PRS每年最高RM3,000的税务减免亦可善用。",
+   "en": "Many unit trusts hold global tech leaders, and earnings growth is one source of long-term returns. Retirement planning looks at long-term trends rather than daily moves; the PRS tax relief of up to RM3,000 a year is also worth using."
+  },
+  "lump": {
+   "zh": "盈利强劲不代表短期价格不会波动。单笔投资可以考虑分批进场,检查对单一行业或公司的集中度,并确认投资期限与风险承受度相符。",
+   "en": "Strong earnings do not mean prices will not swing in the short term. A lump sum can consider phasing in, check concentration in one sector or company, and confirm the horizon and risk tolerance fit."
+  },
+  "bond": {
+   "zh": "这则消息对马来西亚债券基金的直接影响有限,但全球科技股的资金流向与美国利率预期,可能间接影响令吉与外资动向。债券基金通常扮演平衡股票波动的角色。",
+   "en": "The direct effect on Malaysian bond funds is limited, but global tech flows and US rate expectations may indirectly influence the ringgit and foreign flows. Bond funds generally play the role of balancing equity volatility."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610150009"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-14-m0",
   "kind": "summary",
   "time": "2026-10-14T09:00:00+08:00",
