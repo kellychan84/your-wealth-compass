@@ -1,0 +1,339 @@
+[
+ {
+  "id": "2026-10-15-m0",
+  "kind": "summary",
+  "time": "2026-10-15T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "美国通胀高于预期,纳指重挫近2%、AI概念股领跌;黄金下跌,吉隆坡综指逆势收高",
+   "en": "Hotter US inflation sends the Nasdaq down nearly 2% and AI shares tumble; gold slips while Malaysia's KLCI edges higher"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,719.54",
+    "change": "-1.10%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "26,692.87",
+    "change": "-1.88%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "现货黄金",
+     "en": "Spot gold"
+    },
+    "value": "$4,100.23",
+    "change": "-1.5%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,627.72",
+    "change": "+0.27%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "美国9月CPI年增3.7%,高于预期的3.6%;10年期美债收益率升至约5.28%,市场重新讨论10月再加息的可能。",
+    "en": "US September CPI rose 3.7% year on year versus 3.6% expected; the 10-year Treasury yield rose to about 5.28% and talk of another October Fed hike returned."
+   },
+   {
+    "zh": "CoreWeave、Oracle等AI概念股重挫,据路透约蒸发800亿美元市值;美国银行因12亿美元罚款与财报逊预期而下跌。",
+    "en": "CoreWeave, Oracle and other AI names sank, erasing roughly US$80 billion in market value per Reuters; Bank of America fell on a US$1.2 billion penalty and an earnings miss."
+   },
+   {
+    "zh": "富时综指周三收高0.27%至1,627.72,令吉小幅走强至4.0825;台股收高0.59%,台积电收平。",
+    "en": "The FBM KLCI closed up 0.27% at 1,627.72 and the ringgit firmed to 4.0825; Taiwan's Taiex rose 0.59% while TSMC closed unchanged."
+   }
+  ],
+  "takeaway": {
+   "zh": "通胀数据一出,市场情绪就像坐过山车。作为信托基金顾问,我通常提醒大家:回到自己的目标与风险承受度,保持分散、按计划持续投入,往往比追着每个标题调整更踏实。",
+   "en": "When an inflation print lands, sentiment can swing like a roller coaster. As a unit trust consultant, I'd generally remind clients to return to their own goals and risk tolerance; staying diversified and investing steadily usually serves better than reacting to every headline."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-135249729.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/commodities-news/gold-holds-twoday-slide-as-fed-signals-one-more-hike-us-cpi-in-focus-4947854"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/10/14/bursa-malaysia-bucks-regional-losses-to-close-higher"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202610140016"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-15-m1",
+  "time": "2026-10-15T09:00:00+08:00",
+  "tags": [
+   "us",
+   "fed"
+  ],
+  "title": {
+   "zh": "美国通胀高于预期:10年期美债收益率升至约5.28%,加息忧虑重燃",
+   "en": "Hotter US CPI lifts the 10-year yield to about 5.28% and revives rate-hike worries"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,美国9月CPI按年上涨3.7%,高于预期的3.6%;核心CPI按年2.6%,同样高于预期的2.5%。10年期美债收益率上升逾6个基点至约5.278%,市场担心美联储本月可能再度加息。这就像家里水电费又涨了:大家会重新盘算接下来的开销。",
+   "en": "Yahoo Finance reports US September CPI rose 3.7% year on year, above the 3.6% expected, with core CPI at 2.6% versus 2.5% expected. The 10-year Treasury yield rose more than 6 basis points to about 5.278% as investors worried the Fed could hike again this month. It is a bit like a higher utility bill: households start re-working their budgets."
+  },
+  "dda": {
+   "zh": "通胀与利率消息会让市场短期波动,但定期定额(DDA)的意义,正是不用预测下一份数据。持续投入能让成本随市场起伏自然平均。",
+   "en": "Inflation and rate news can make markets choppy in the short run, but the point of regular (DDA) investing is not having to predict the next data release. Steady contributions let your cost average out across ups and downs."
+  },
+  "prs": {
+   "zh": "通胀偏高会侵蚀未来的购买力,这正是退休规划要把通胀算进去的原因。每年最高RM3,000的PRS税务减免,也可以是坚持储蓄的动力。",
+   "en": "Persistent inflation erodes future purchasing power, which is why retirement plans should allow for it. The PRS tax relief of up to RM3,000 a year can also be a reason to keep saving."
+  },
+  "lump": {
+   "zh": "利率预期快速变化时,单笔投资可以考虑分批进场以分散时机风险,并检查是否过度集中于对利率敏感的板块,同时确认投资期限与风险承受度相符。",
+   "en": "When rate expectations shift quickly, a lump sum can consider phasing in to spread timing risk, check for concentration in rate-sensitive sectors, and confirm that the time horizon fits your risk tolerance."
+  },
+  "bond": {
+   "zh": "美债收益率走高可能牵动令吉与外资流向,也会影响市场对国家银行OPR的预期,进而间接影响马来西亚政府债券(MGS)与企业债/伊斯兰债券基金的估值。债券在组合中通常扮演平衡器的角色。",
+   "en": "Higher Treasury yields may influence the ringgit and foreign flows, and can shape expectations for Bank Negara's OPR, which indirectly affects the valuation of MGS and corporate bond and sukuk funds. Bonds generally act as a balancer in a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-14-135249729.html"
+  }
+ },
+ {
+  "id": "2026-10-15-m2",
+  "time": "2026-10-15T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "AI概念股重挫:CoreWeave跌约16%、Oracle跌约9%,约800亿美元市值蒸发",
+   "en": "AI shares rout: CoreWeave falls about 16% and Oracle about 9%, erasing roughly US$80 billion"
+  },
+  "analysis": {
+   "zh": "据路透,CoreWeave、Nebius、Dell与Oracle的跌幅合计抹去约800亿美元市值,Nvidia与Meta各跌约3%;CoreWeave去年6月发行、票面9.625%的债券,收益率已升至约15%。通胀数据推高利率,让高负债的AI公司融资成本更受关注。就像房贷利率上调时,背着大额房贷的人压力最大。",
+   "en": "Reuters reports declines at CoreWeave, Nebius, Dell and Oracle erased roughly US$80 billion in market value, with Nvidia and Meta each down about 3%; a CoreWeave bond issued in June with a 9.625% yield recently yielded about 15%. Higher rates put the spotlight on the borrowing costs of heavily indebted AI firms, much like a mortgage rate rise hits the most leveraged households hardest."
+  },
+  "dda": {
+   "zh": "主题行情起落很大时,定期定额(DDA)配合分散的信托基金,可以避免把希望押在单一主题上。长期投资者通常更关注多年的增长,而不是一天的跌幅。",
+   "en": "When a theme swings sharply, regular (DDA) investing through diversified unit trusts avoids leaning on a single theme. Long-term investors generally focus on multi-year growth rather than one day's drop."
+  },
+  "prs": {
+   "zh": "退休资金的时间跨度很长,通常不宜让单一热门主题占比过高。分散的PRS核心基金配合每年最高RM3,000税务减免,是更稳健的思路。",
+   "en": "Retirement money has a long horizon and generally should not lean heavily on one hot theme. A diversified PRS fund, together with the tax relief of up to RM3,000 a year, is a steadier approach."
+  },
+  "lump": {
+   "zh": "单笔投资前,先检查组合是否已经重仓科技或AI相关资产;可以考虑分批进场,并让投资期限与风险承受度相匹配。",
+   "en": "Before investing a lump sum, check whether the portfolio is already heavy in tech or AI assets; consider phasing in and match the time horizon with your risk tolerance."
+  },
+  "bond": {
+   "zh": "股市急跌时,资金有时会转向较稳定的资产,债券基金通常较少受AI股情绪直接影响。不过美债收益率上升仍可能间接牵动马来西亚债券基金,债券的角色是为组合提供平衡。",
+   "en": "When equities fall sharply, money sometimes moves to steadier assets, and bond funds are generally less directly tied to AI-stock sentiment. Higher Treasury yields can still touch Malaysian bond funds indirectly; bonds' role is to balance a portfolio."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/red-hot-cpi-report-fuels-ai-rout-4949874"
+  }
+ },
+ {
+  "id": "2026-10-15-m3",
+  "time": "2026-10-15T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "美国银行财报逊预期并被罚12亿美元,股价重挫",
+   "en": "Bank of America misses on earnings and takes a US$1.2 billion penalty; shares drop"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,美国银行第三季净利润69亿美元,按年下降17%;营收约300亿美元,低于分析师预期的305.4亿美元,投资银行业务下降11%、交易收入下降5%,净利息收入增长8%至164亿美元。公司同时因反洗钱与制裁合规问题被罚12亿美元,股价当天下跌约8%。",
+   "en": "Yahoo Finance reports Bank of America's third-quarter net income was US$6.9 billion, down 17% year on year; revenue of about US$30 billion missed the US$30.54 billion expected, with investment banking down 11%, sales and trading down 5% and net interest revenue up 8% to US$16.4 billion. It also faces a US$1.2 billion penalty over anti-money-laundering and sanctions compliance, and the shares fell about 8% on the day."
+  },
+  "dda": {
+   "zh": "单一公司的财报与罚款,对长期投资者来说通常只是个别事件。透过信托基金分散持有多只股票,有助于减轻个别公司的冲击,定期定额(DDA)则让你不必猜进场的日子。",
+   "en": "One company's earnings and fine are usually an isolated event for long-term investors. Holding many stocks through unit trusts helps soften single-company shocks, and regular (DDA) investing means you need not pick the entry day."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,个别银行的一天波动通常影响有限。重点是持续储蓄,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning spans decades, so one bank's one-day move usually has limited impact. The key is steady saving, using the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "个股消息容易让情绪放大。单笔投资可以考虑分批进场,并留意组合是否过度集中在金融板块或少数公司。",
+   "en": "Single-stock news can amplify emotions. A lump sum can consider phasing in and checking that the portfolio is not overly concentrated in financials or a few companies."
+  },
+  "bond": {
+   "zh": "这则消息与马来西亚债券基金的直接关联不大,但银行业信用状况与利率走势仍是债券投资人关注的背景。债券在组合中通常作为平衡器。",
+   "en": "This story has little direct link to Malaysian bond funds, though bank credit conditions and the rate backdrop remain context for bond investors. Bonds generally serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-stock-plunges-1-193018457.html"
+  }
+ },
+ {
+  "id": "2026-10-15-m4",
+  "time": "2026-10-15T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "现货黄金跌1.5%至约4,100美元,通胀数据推升10月加息预期",
+   "en": "Spot gold slips 1.5% to about US$4,100 as hot CPI lifts October hike expectations"
+  },
+  "analysis": {
+   "zh": "据Investing.com,现货黄金下跌1.5%至每盎司约4,100.23美元。CME FedWatch显示10月加息四分之一码的概率约33%,高于CPI公布前的约22%。美元与短期美债收益率走高,压制不付利息的黄金。施瓦布分析师称是否加息「仍难说」。",
+   "en": "Investing.com reports spot gold fell 1.5% to about US$4,100.23 an ounce. CME FedWatch showed roughly a 33% chance of a quarter-point hike in October, up from about 22% before the CPI release. A firmer dollar and higher short-term yields weighed on gold, which pays no interest; Schwab's Kevin Gordon said an October hike is \"still anyone's guess\"."
+  },
+  "dda": {
+   "zh": "黄金价格的短期起伏,通常与利率和美元走势有关。长期投资者可以通过定期定额(DDA)持续投入,不必为单日波动改变计划。",
+   "en": "Short-term gold moves are usually tied to rates and the dollar. Long-term investors can keep contributing through regular (DDA) investing rather than changing plans on a single day's move."
+  },
+  "prs": {
+   "zh": "退休组合的重点是长期分散,黄金等资产在其中的角色因人而异。每年最高RM3,000的PRS税务减免可作为坚持储蓄的动力。",
+   "en": "For retirement portfolios the focus is long-term diversification, and the role of assets like gold differs by person. The PRS tax relief of up to RM3,000 a year can motivate steady saving."
+  },
+  "lump": {
+   "zh": "商品价格波动较大,单笔投资可以考虑分批进场,并确认商品相关资产占比与自己的目标和风险承受度相符。",
+   "en": "Commodity prices can swing a lot, so a lump sum can consider phasing in and confirming that commodity exposure fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "利率预期上升时,债券价格通常承压,但较高的收益率也可能提高未来的票息收入。国家银行的OPR走向与令吉走势仍是马来西亚债券基金的关键背景。",
+   "en": "When rate expectations rise, bond prices are usually under pressure, though higher yields may lift future income. Bank Negara's OPR path and the ringgit remain key backdrop for Malaysian bond funds."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/commodities-news/gold-holds-twoday-slide-as-fed-signals-one-more-hike-us-cpi-in-focus-4947854"
+  }
+ },
+ {
+  "id": "2026-10-15-m5",
+  "time": "2026-10-15T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收高0.59%:台积电回吐涨幅后收平,外资净卖200亿新台币",
+   "en": "Taiwan shares close up 0.59% as TSMC gives back gains to end flat; foreigners net sell NT$20 billion"
+  },
+  "analysis": {
+   "zh": "据中央社,台湾加权指数周三收高284.52点或0.59%至48,625.83,成交额9,286.2亿新台币。台积电盘中高见2,535新台币,最终收平在2,490新台币,回吐令大盘少涨约360点;外资净卖出200.4亿新台币。台积电周四将召开投资者会议。",
+   "en": "Focus Taiwan reports the Taiex closed up 284.52 points, or 0.59%, at 48,625.83 on turnover of NT$928.62 billion. TSMC hit an intraday high of NT$2,535 but closed unchanged at NT$2,490, a pullback that cost the index about 360 points; foreign institutions net sold NT$20.04 billion. TSMC holds its investor conference on Thursday."
+  },
+  "dda": {
+   "zh": "芯片龙头的短期起落很常见。通过信托基金分散投资科技与其他板块,再配合定期定额(DDA),可以淡化单一公司消息的影响。",
+   "en": "Swings in chip leaders are common. Spreading across tech and other sectors through unit trusts, combined with regular (DDA) investing, softens the effect of single-company news."
+  },
+  "prs": {
+   "zh": "退休规划着眼长期,不宜因为某只龙头股一天的表现而改变策略。坚持储蓄并善用PRS每年最高RM3,000的税务减免更重要。",
+   "en": "Retirement planning is long-term and should not shift on one leading stock's day. Steady saving and using the PRS relief of up to RM3,000 a year matter more."
+  },
+  "lump": {
+   "zh": "单笔投资时可检查组合是否过度集中在少数科技大型股,并考虑分批进场以分散时机风险。",
+   "en": "For a lump sum, check whether the portfolio is overly concentrated in a few large tech stocks and consider phasing in to spread timing risk."
+  },
+  "bond": {
+   "zh": "台股的消息与马来西亚债券基金直接关联有限,但外资流向与美元走势可能影响区域资金与令吉。债券的角色是为组合提供平衡。",
+   "en": "Taiwan equity news has limited direct link to Malaysian bond funds, though foreign flows and the dollar can affect regional capital and the ringgit. Bonds' role is to balance a portfolio."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610140016"
+  }
+ },
+ {
+  "id": "2026-10-15-m6",
+  "time": "2026-10-15T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "分析师:马斯克的德州「Terafab」晶圆厂计划短期不会冲击台积电",
+   "en": "Analyst: Musk's Texas \"Terafab\" chip plan poses no short-term threat to TSMC"
+  },
+  "analysis": {
+   "zh": "据中央社,分析师Kirk Yang表示,马斯克传闻中位于德州Grimes县的垂直整合半导体与AI运算园区,预计需要五至十年才能投产,对台积电短中期「毫无影响」。首期据报投资约30亿美元建试验晶圆厂,可能与英特尔等美国伙伴合作;若采转租模式,台积电或有提供技术咨询的机会。",
+   "en": "Focus Taiwan reports analyst Kirk Yang says Elon Musk's reported \"Terafab\", a vertically integrated chip and AI computing complex in Grimes County, Texas, would take five to 10 years to become operational and will have \"absolutely no impact\" on TSMC in the short to medium term. The first phase reportedly involves about US$3 billion for a pilot fab, likely with US partners such as Intel, and under a sublease model TSMC could offer technical consulting."
+  },
+  "dda": {
+   "zh": "半导体产业的投资周期以年计。长期投资者通常关注产业几年后的格局,而非单日新闻;定期定额(DDA)有助于以平常心持续参与。",
+   "en": "Semiconductor investment cycles run for years. Long-term investors generally look at where the industry stands years from now rather than a single day's news, and regular (DDA) investing helps you stay in at an even pace."
+  },
+  "prs": {
+   "zh": "退休资金的时间很长,可以看作与这类长周期产业同步。重点是分散,并善用PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement money has a long horizon, much like these long-cycle industries. The key is diversification and using the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "面对热门科技主题,单笔投资应先确认是否已重仓相关资产,并考虑分批进场、让投资期限与风险承受度相符。",
+   "en": "With a popular tech theme, a lump sum should first check existing exposure, then consider phasing in and matching the time horizon to risk tolerance."
+  },
+  "bond": {
+   "zh": "这则新闻对马来西亚债券基金的直接影响不大。债券在组合中的角色,是在股市主题轮动时提供平衡。",
+   "en": "This story has little direct effect on Malaysian bond funds. Bonds' role is to provide balance while equity themes rotate."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610140022"
+  }
+ },
+ {
+  "id": "2026-10-15-m7",
+  "time": "2026-10-15T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "吉隆坡综指逆势收高0.27%至1,627.72,令吉小幅走强",
+   "en": "Bursa Malaysia bucks regional losses: KLCI closes up 0.27% at 1,627.72 as the ringgit firms"
+  },
+  "analysis": {
+   "zh": "据星报,富时综指周三收高4.37点或0.27%至1,627.72,盘中高见1,637.10;投资者在美国CPI公布前保持谨慎。Malaysian Pacific Industries涨84仙至RM42,Kuala Lumpur Kepong涨46仙至RM21.30。令吉兑美元升0.08%至4.0825。区域多数股市收低,包括恒指跌0.13%、新加坡海峡时报指数跌0.37%。",
+   "en": "The Star reports the FBM KLCI closed up 4.37 points, or 0.27%, at 1,627.72 after an intraday high of 1,637.10, with investors cautious ahead of US CPI. Malaysian Pacific Industries rose 84 sen to RM42 and Kuala Lumpur Kepong 46 sen to RM21.30. The ringgit firmed 0.08% to 4.0825 against the US dollar. Most regional bourses closed lower, including the Hang Seng (-0.13%) and the Straits Times Index (-0.37%)."
+  },
+  "dda": {
+   "zh": "本地市场在区域下跌时守住小幅涨幅,提醒我们分散的好处。定期定额(DDA)让你不必猜测大市短期方向,按计划持续参与即可。",
+   "en": "The local market holding small gains while the region fell is a reminder of diversification's value. Regular (DDA) investing lets you stay invested without guessing short-term direction."
+  },
+  "prs": {
+   "zh": "退休规划需要长期坚持。PRS每年最高RM3,000的税务减免,加上定期储蓄,有助于逐步累积退休资金。",
+   "en": "Retirement planning takes long-term commitment. The PRS tax relief of up to RM3,000 a year, together with regular saving, helps build retirement funds gradually."
+  },
+  "lump": {
+   "zh": "美国通胀数据可能让市场短期波动,单笔投资可以考虑分批进场以分散时机风险,并检查投资是否过度集中于单一市场。",
+   "en": "US inflation data may cause short-term volatility, so a lump sum can consider phasing in to spread timing risk and check it is not overly concentrated in a single market."
+  },
+  "bond": {
+   "zh": "令吉走强与本地市场稳定,通常对马来西亚债券基金偏正面背景;但美债收益率和国家银行OPR的预期仍会左右MGS与企业债/伊斯兰债券的表现。",
+   "en": "A firmer ringgit and a steady local market are generally a supportive backdrop for Malaysian bond funds, but Treasury yields and expectations for Bank Negara's OPR still shape MGS and corporate bond and sukuk performance."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/14/bursa-malaysia-bucks-regional-losses-to-close-higher"
+  }
+ }
+]
