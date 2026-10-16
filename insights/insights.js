@@ -2,6 +2,336 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-10-16-m0",
+  "kind": "summary",
+  "time": "2026-10-16T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "热通胀与AI债务忧虑后资金转向防御:道指涨1.1%,台股重挫3.41%,吉隆坡综指连涨四日",
+   "en": "Money rotates to defensives after hot inflation and AI-debt worries: Dow +1.1%, Taiex -3.41%, KLCI up for a fourth day"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "52,177.69",
+    "change": "+1.1%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,744.06",
+    "change": "+0.3%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "台股加权",
+     "en": "Taiex"
+    },
+    "value": "46,969.87",
+    "change": "-3.41%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,627.72",
+    "change": "+0.26%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "美股周四资金从芯片股转向防御板块,半导体ETF跌约1.5%;热通胀数据后,10月加息概率一度接近五五波。",
+    "en": "On Thursday US money rotated from chips to defensives, with semiconductor ETFs down about 1.5%; after hot inflation data, October hike odds approached 50-50."
+   },
+   {
+    "zh": "台积电上调今年销售增长预测至44%,但台股当天重挫3.41%,外资大幅净卖超。",
+    "en": "TSMC raised its 2026 sales growth forecast to 44%, yet Taiwan shares fell 3.41% with heavy foreign net selling."
+   },
+   {
+    "zh": "沙特阿美设施遭袭与国际能源署的柴油警告,令油价维持高位;富时综指周三连涨四日。",
+    "en": "An attack on an Aramco building and the IEA's diesel warning keep oil elevated; the FBM KLCI rose for a fourth straight session on Wednesday."
+   }
+  ],
+  "takeaway": {
+   "zh": "一天之内,美股、台股和油价各讲各的故事,很容易让人心慌。作为信托基金顾问,我通常提醒大家:回到自己的目标与风险承受度,保持分散、按计划持续投入,往往比追着每个标题调整更踏实。",
+   "en": "In a single day, US stocks, Taiwan shares and oil each told a different story, which can feel unsettling. As a unit trust consultant, I'd generally remind clients to return to their own goals and risk tolerance; staying diversified and investing steadily usually serves better than reacting to every headline."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dow-sees-best-day-over-235303423.html"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202610150013"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/10/15/bursa-extends-winning-streak-on-bargain-hunting"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-16-m1",
+  "time": "2026-10-16T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "道指收涨1.1%,资金从芯片股转向防御板块",
+   "en": "Dow gains 1.1% as money rotates out of chip stocks into defensive sectors"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,周四道琼斯指数收报52,177.69点,涨约1.1%;标普500收报7,744.06点,涨约0.3%;纳指100小幅下跌0.1%。半导体ETF下跌约1.5%,罗素2000小型股指数涨1.4%。这就像球场上大家同时换位置:热门的AI座位暂时冷清,防御型板块反而坐满了人。",
+   "en": "Yahoo Finance reports the Dow closed at 52,177.69 on Thursday, up about 1.1%, while the S&P 500 ended at 7,744.06, up about 0.3%, and the Nasdaq 100 slipped 0.1%. Semiconductor ETFs fell about 1.5% and the Russell 2000 rose 1.4%. It is like players swapping positions on a field: the popular AI seats emptied for a day while defensive sectors filled up."
+  },
+  "dda": {
+   "zh": "板块轮动提醒我们,领涨的板块会换人。定期定额(DDA)持续投入,通常有助于不被单一主题绑定,让成本随时间平均。",
+   "en": "Rotation is a reminder that market leaders change. Steady regular (DDA) investing may help you avoid being tied to one theme and lets your cost average out over time."
+  },
+  "prs": {
+   "zh": "退休规划的时间很长,不必因为某个板块一两天的涨跌而改变方向。每年最高RM3,000的PRS税务减免,可以作为坚持储蓄的动力之一。",
+   "en": "Retirement planning spans decades, so a sector's one- or two-day swing need not change your direction. The PRS tax relief of up to RM3,000 a year can be one more reason to keep saving."
+  },
+  "lump": {
+   "zh": "当资金在板块之间快速切换,单笔投资可以考虑分批进场以分散时机风险,并检查组合是否过度集中于单一主题,同时确认期限与风险承受度相符。",
+   "en": "When money rotates quickly between sectors, a lump sum can consider phasing in to spread timing risk, check whether the portfolio is concentrated in one theme, and confirm the time horizon fits your risk tolerance."
+  },
+  "bond": {
+   "zh": "资金流入防御板块的同时,美债收益率回落,这种环境下债券基金的角色一般是平衡组合波动。马来西亚政府债券(MGS)与企业债/伊斯兰债券基金还会受国家银行OPR与令吉走势影响。",
+   "en": "With money moving into defensive sectors and Treasury yields easing, bond funds generally play the role of balancing portfolio swings. Malaysian MGS and corporate bond and sukuk funds are also influenced by Bank Negara's OPR and the ringgit."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dow-sees-best-day-over-235303423.html"
+  }
+ },
+ {
+  "id": "2026-10-16-m2",
+  "time": "2026-10-16T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "commodities"
+  ],
+  "title": {
+   "zh": "热通胀后黄金承压:10月加息概率一度接近五五波",
+   "en": "Gold under pressure after hot inflation as October hike odds approach 50-50"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,12月期金期货周四开盘报4,128.30美元,为本周最低开盘价,盘中升至4,175.50美元。9月CPI高于预期后,CME FedWatch显示10月加息概率一度接近五五波,但周四早晨已有逾七成交易员预期利率维持不变。文章提醒,当天的PPI数据是下一个催化剂。黄金不派息,利率预期上升时往往更容易受压。",
+   "en": "Yahoo Finance says December gold futures opened Thursday at $4,128.30, the lowest open of the week, and rose to $4,175.50. After the hotter-than-expected September CPI, CME FedWatch put the odds of an October Fed hike near 50-50, though by Thursday morning more than 70% of traders expected rates to hold. The article flags that day's PPI report as the next catalyst. Gold pays no interest, so it often struggles when rate expectations rise."
+  },
+  "dda": {
+   "zh": "利率预期反复时,市场情绪起伏很大。定期定额(DDA)的好处是不用猜测每一份数据,按计划持续投入即可。",
+   "en": "When rate expectations flip-flop, sentiment swings widely. The benefit of regular (DDA) investing is that you do not have to guess each data release; you simply keep investing on plan."
+  },
+  "prs": {
+   "zh": "通胀与利率路径会影响长期购买力,退休规划宜把通胀考虑进去,并定期检视目标。PRS每年最高RM3,000的税务减免也值得善用。",
+   "en": "The path of inflation and rates affects long-term purchasing power, so retirement plans should allow for inflation and be reviewed regularly. The PRS tax relief of up to RM3,000 a year is also worth using."
+  },
+  "lump": {
+   "zh": "黄金等资产在利率预期变化时波动可能加大。单笔投资可考虑分批进场、留意是否过度集中于单一资产,并与自己的目标和风险承受度对照。",
+   "en": "Assets such as gold may swing more when rate expectations change. A lump sum can consider phasing in, watching for concentration in a single asset, and matching the choice to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国加息预期升温,可能推高美债收益率、牵动令吉和外资流向,也会影响市场对国家银行OPR的预期,间接影响MGS与企业债/伊斯兰债券基金。债券在组合中通常扮演平衡器。",
+   "en": "Rising US rate-hike expectations may lift Treasury yields, influence the ringgit and foreign flows and shape expectations for Bank Negara's OPR, which indirectly affects MGS and corporate bond and sukuk funds. Bonds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-october-15-2026-lowest-open-all-week-ahead-of-ppi-data-111239286.html"
+  }
+ },
+ {
+  "id": "2026-10-16-m3",
+  "time": "2026-10-16T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "台积电上调今年销售增长预测至44%,资本支出维持不变",
+   "en": "TSMC lifts 2026 sales growth forecast to 44%, keeps capex unchanged"
+  },
+  "analysis": {
+   "zh": "据台湾中央社英文网,台积电将2026年美元销售增长预测从7月的“略高于40%”上调至44%,资本支出预算维持600亿至640亿美元。第三季每股盈余创新高的29.43新台币,2纳米占销售额8%(第二季为3%);第四季营收指引为523亿至543亿美元。AI需求依然强劲,但这也意味着市场对科技股的期望很高。",
+   "en": "Focus Taiwan reports TSMC raised its 2026 US-dollar sales growth forecast to 44% from 'slightly more than 40%' in July and left its capex budget at US$60-64 billion. Third-quarter EPS hit a record NT$29.43, with 2nm at 8% of sales versus 3% in the second quarter; fourth-quarter revenue guidance is US$52.3-54.3 billion. AI demand remains strong, though that also means expectations for tech shares are high."
+  },
+  "dda": {
+   "zh": "业绩强劲的公司也可能因估值与情绪而大幅波动。通过信托基金分散投资、按月定期投入,通常比押注单一公司更稳健。",
+   "en": "Even companies with strong results can swing sharply on valuation and sentiment. Spreading across unit trust funds and investing monthly is generally steadier than concentrating on one company."
+  },
+  "prs": {
+   "zh": "长期来看,半导体与AI是许多全球科技基金的重要持仓。退休规划应关注组合的整体分散度,而不是单一主题;PRS每年最高RM3,000税务减免可以善加利用。",
+   "en": "Semiconductors and AI are major holdings in many global tech funds. Retirement planning should look at overall diversification rather than one theme; the PRS tax relief of up to RM3,000 a year can be put to use."
+  },
+  "lump": {
+   "zh": "科技股估值偏高时,单笔投资可以考虑分批进场以分散时机风险,并检查组合是否已过度集中于芯片与AI主题。",
+   "en": "With tech valuations elevated, a lump sum can consider phasing in to spread timing risk and check whether the portfolio is already concentrated in chips and AI."
+  },
+  "bond": {
+   "zh": "台积电的业绩主要影响股票市场,对马来西亚债券基金的直接影响有限。债券基金在组合中通常扮演平衡股市波动的角色。",
+   "en": "TSMC's results mainly affect equity markets, with limited direct effect on Malaysian bond funds. Bond funds generally serve to balance equity-market volatility within a portfolio."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610150018"
+  }
+ },
+ {
+  "id": "2026-10-16-m4",
+  "time": "2026-10-16T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股重挫3.41%,科技股领跌,外资净卖超",
+   "en": "Taiwan shares plunge 3.41% led by tech, with heavy foreign selling"
+  },
+  "analysis": {
+   "zh": "据台湾中央社英文网,台股加权指数周四下跌1,655.96点或3.41%,收46,969.87点,为史上第六大单日跌点。成交额1.32万亿新台币,外资主板净卖超3,025.6亿新台币。台积电跌2.01%,日月光跌停(10%),联发科跌6.93%;中华电信、台湾大哥大等电信股则上涨。导火线是美国9月CPI高于预期引发的加息忧虑。",
+   "en": "Focus Taiwan reports the Taiex fell 1,655.96 points, or 3.41%, to 46,969.87 on Thursday, its sixth-steepest point loss. Turnover was NT$1.32 trillion and foreign investors net sold NT$302.56 billion on the main board. TSMC fell 2.01%, ASE dropped by the 10% limit and MediaTek fell 6.93%, while telecom names such as Chunghwa Telecom and Taiwan Mobile rose. The trigger was fear of a Fed hike after hotter US CPI."
+  },
+  "dda": {
+   "zh": "这样的单日大跌提醒我们,股市短期波动难以预测。定期定额(DDA)持续投入,可能让你在低位也累积到单位数。",
+   "en": "A one-day plunge like this is a reminder that short-term moves are hard to predict. Continuing regular (DDA) contributions may let you accumulate units at lower prices too."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,短期暴跌通常不是调整计划的理由,但可定期检视风险承受度。PRS每年最高RM3,000税务减免仍是储蓄动力之一。",
+   "en": "Retirement planning covers decades, and a sharp drop is generally not a reason to rewrite the plan, though reviewing your risk tolerance regularly is wise. The PRS tax relief of up to RM3,000 a year remains a saving incentive."
+  },
+  "lump": {
+   "zh": "市场急跌时情绪容易主导决定。单笔投资可考虑分批进场,检查对单一市场(如台股)与科技板块的集中度,并确认期限匹配目标。",
+   "en": "When markets drop fast, emotion can drive decisions. A lump sum can consider phasing in, checking concentration in one market such as Taiwan and in tech, and confirming the horizon fits your goals."
+  },
+  "bond": {
+   "zh": "亚洲股市动荡时,资金可能转向避险资产,影响美债收益率与令吉走势,间接影响马来西亚政府债券(MGS)与企业债/伊斯兰债券基金。债券通常扮演平衡器。",
+   "en": "When Asian equities wobble, money may shift to safer assets, influencing Treasury yields and the ringgit and indirectly Malaysian MGS and corporate bond and sukuk funds. Bonds generally act as a balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610150013"
+  }
+ },
+ {
+  "id": "2026-10-16-m5",
+  "time": "2026-10-16T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "us"
+  ],
+  "title": {
+   "zh": "台积电:正评估与马斯克Terafab合作,强调任何晶圆厂应由台积电运营",
+   "en": "TSMC weighs Terafab collaboration, says any fab should be run by TSMC"
+  },
+  "analysis": {
+   "zh": "据台湾中央社英文网,台积电董事长魏哲家在投资者会议上说,正评估与马斯克在德州的Terafab项目合作,仍在讨论阶段,并强调“任何晶圆厂都应由台积电运营”以掌控生产。他还说,2纳米产能到2027年将比去年同期增加一倍以上,A14制程计划2027年试产、2028年量产。这像是大厨说:欢迎合作开店,但厨房必须由我来管。",
+   "en": "Focus Taiwan reports TSMC Chairman C.C. Wei told an investor conference the company is evaluating a possible collaboration with Elon Musk's Terafab project in Texas, still at the discussion stage, and that 'any fab should be run by TSMC to control production.' He said 2nm output should more than double from a year earlier by 2027, with A14 trial production in 2027 and mass production in 2028. It is like a head chef saying: happy to open a branch together, but I run the kitchen."
+  },
+  "dda": {
+   "zh": "科技产业的长期投资周期很长,新制程与新产能影响深远。通过信托基金定期投入,可分享产业长期成长,同时分散个别公司风险。",
+   "en": "Tech investment cycles are long and new process nodes and capacity matter for years. Investing regularly through unit trust funds may share in long-term industry growth while spreading single-company risk."
+  },
+  "prs": {
+   "zh": "若你的退休组合含全球科技基金,这类产业动态是长期故事的一部分,但不必逐则新闻调整。PRS每年最高RM3,000税务减免可持续善用。",
+   "en": "If your retirement portfolio includes global tech funds, news like this is part of the long-term story, with no need to adjust on every headline. The PRS tax relief of up to RM3,000 a year can be used steadily."
+  },
+  "lump": {
+   "zh": "对主题性强的产业,单笔投资可考虑分批进场,并检查是否过度集中于半导体与AI,同时与自己的风险承受度对照。",
+   "en": "For theme-heavy industries, a lump sum can consider phasing in, checking for over-concentration in semiconductors and AI and comparing with your risk tolerance."
+  },
+  "bond": {
+   "zh": "这则新闻对马来西亚债券基金的直接影响不大。债券基金在组合中通常用来平衡股票波动,国家银行OPR与令吉才是更直接的影响因素。",
+   "en": "This story has little direct effect on Malaysian bond funds. Bond funds generally balance equity volatility, with Bank Negara's OPR and the ringgit being more direct influences."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610150023"
+  }
+ },
+ {
+  "id": "2026-10-16-m6",
+  "time": "2026-10-16T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "沙特阿美设施遭袭,国际能源署警告柴油供应紧张,油价维持高位",
+   "en": "Saudi Aramco building attacked and IEA warns on diesel supply, keeping oil elevated"
+  },
+  "analysis": {
+   "zh": "据CNBC,沙特能源部表示阿美一栋行政大楼遭到袭击;国际能源署10月报告警告,柴油市场的限制可能持续到2027年。路透与同类报道显示布伦特原油价格在每桶105美元以上。能源价格走高会推升运输与生产成本,最终可能反映到日常物价,也是市场担心通胀的原因之一。",
+   "en": "CNBC reports Saudi Arabia's energy ministry said an administrative building belonging to Aramco was attacked, while the IEA's October report warned that constraints in diesel markets could persist well into 2027. Related coverage put Brent above about US$105 a barrel. Higher energy prices can raise transport and production costs and eventually everyday prices, one reason markets worry about inflation."
+  },
+  "dda": {
+   "zh": "油价与通胀的变化会带来短期波动。定期定额(DDA)让你不必猜测下一个能源新闻,持续投入即可。",
+   "en": "Oil and inflation shifts can cause short-term swings. Regular (DDA) investing means you do not need to guess the next energy headline; you simply keep contributing."
+  },
+  "prs": {
+   "zh": "能源价格持续偏高可能推高生活成本,退休规划应把通胀因素考虑进去。PRS每年最高RM3,000税务减免也有助于长期储蓄。",
+   "en": "Persistently high energy prices may raise living costs, so retirement plans should allow for inflation. The PRS tax relief of up to RM3,000 a year also supports long-term saving."
+  },
+  "lump": {
+   "zh": "地缘风险推动的价格波动难以预测。单笔投资可考虑分批进场、检查对能源相关板块的集中度,并与自己的目标和风险承受度对照。",
+   "en": "Geopolitically driven price swings are hard to predict. A lump sum can consider phasing in, checking concentration in energy-related sectors and matching the choice to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价上升可能推高通胀预期与债券收益率,也会影响马来西亚的财政与令吉走势,进而影响市场对国家银行OPR的预期及MGS与企业债/伊斯兰债券基金。债券通常扮演平衡器。",
+   "en": "Higher oil may lift inflation expectations and bond yields, and can affect Malaysia's fiscal picture and the ringgit, shaping expectations for Bank Negara's OPR and in turn MGS and corporate bond and sukuk funds. Bonds generally act as a balancer."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html"
+  }
+ },
+ {
+  "id": "2026-10-16-m7",
+  "time": "2026-10-16T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时综指连涨四日:银行股逢低买盘带动,市场广度仍偏弱",
+   "en": "FBM KLCI extends winning streak to four days on bank bargain hunting; breadth stays thin"
+  },
+  "analysis": {
+   "zh": "据星报,富时综指周三(10月14日)收盘上涨4.37点或0.26%,报1,627.72点,连续第四个交易日走高,主要由银行股逢低买盘带动:大众银行涨5仙至4.75令吉,马银行涨2仙至9.98令吉。上涨股与下跌股为541比532,成交额降至30.3亿令吉。分析师认为指数可能在温和偏多中盘整,但复苏仍属选择性。",
+   "en": "The Star reports the FBM KLCI closed Wednesday (Oct 14) up 4.37 points, or 0.26%, at 1,627.72, its fourth straight gain, led by bargain hunting in banks: Public Bank rose 5 sen to RM4.75 and Maybank added 2 sen to RM9.98. Gainers beat decliners 541 to 532 and turnover eased to RM3.03 billion. An analyst expects consolidation with a mild upward bias, though the recovery may stay selective."
+  },
+  "dda": {
+   "zh": "本地市场连涨不代表可以预测明天。定期定额(DDA)让你不用择时,长期按月投入即可。",
+   "en": "A winning streak in the local market does not tell us about tomorrow. Regular (DDA) investing means you do not need to time the market; contribute monthly over the long term."
+  },
+  "prs": {
+   "zh": "银行股是许多大马基金与公积金之外的退休储蓄组合的核心持仓之一。PRS每年最高RM3,000税务减免可作为长期储蓄的动力。",
+   "en": "Banks are core holdings in many Malaysian funds and retirement savings portfolios beyond the EPF. The PRS tax relief of up to RM3,000 a year can be a motivation for long-term saving."
+  },
+  "lump": {
+   "zh": "市场广度偏弱时,上涨可能集中在少数股票。单笔投资可考虑分批进场,并检查是否过度集中于银行或单一板块。",
+   "en": "When breadth is weak, gains may be concentrated in a few stocks. A lump sum can consider phasing in and checking for over-concentration in banks or one sector."
+  },
+  "bond": {
+   "zh": "银行股受惠于利率稳定的预期,但债券基金更直接受国家银行OPR、令吉与外资流向影响。MGS与企业债/伊斯兰债券基金在组合中通常扮演平衡器。",
+   "en": "Bank shares may benefit from expectations of stable rates, but bond funds are more directly influenced by Bank Negara's OPR, the ringgit and foreign flows. MGS and corporate bond and sukuk funds generally act as portfolio balancers."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/15/bursa-extends-winning-streak-on-bargain-hunting"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-15-m0",
   "kind": "summary",
   "time": "2026-10-15T09:00:00+08:00",
