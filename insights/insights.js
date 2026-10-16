@@ -332,6 +332,206 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-10-16-a1",
+  "time": "2026-10-16T17:00:00+08:00",
+  "tags": ["cn", "tech"],
+  "title": {
+   "zh": "港股收涨0.52%:科技股带动,联想反弹8%",
+   "en": "Hong Kong shares close 0.52% higher on tech gains, Lenovo rebounds 8%"
+  },
+  "analysis": {
+   "zh": "据英文虎报,恒生指数周五收涨124点或0.52%,报24,186点,全日成交额1,782亿港元;恒生科技指数涨1.16%至4,108点。联想前一日大跌14%后反弹8%,为表现最佳的蓝筹股,阿里巴巴涨2.3%,快手发布可灵4.0视频生成模型后收涨2.5%,腾讯收平。内地方面,上证指数涨0.95%至3,742点,深证成指涨1.19%。经过前一天的动荡,科技股今天像是先喘了口气。",
+   "en": "The Standard reports the Hang Seng Index closed Friday up 124 points, or 0.52%, at 24,186 on full-day turnover of HK$178.2 billion, while the Hang Seng Tech Index rose 1.16% to 4,108. Lenovo rebounded 8% after a 14% slump the previous day, the top blue chip; Alibaba gained 2.3%, Kuaishou closed up 2.5% after releasing its Kling 4.0 video model, and Tencent ended flat. On the mainland, the Shanghai Composite rose 0.95% to 3,742 and the Shenzhen Component 1.19%. After a bumpy day before, tech shares seemed to catch their breath."
+  },
+  "dda": {
+   "zh": "港股和科技股一天涨、一天跌是常态。定期定额(DDA)按月持续投入,通常能让你不必判断今天是反弹还是下跌的开始。",
+   "en": "Hong Kong and tech shares swinging up one day and down the next is normal. Steady monthly regular (DDA) investing generally means you do not have to judge whether today is the start of a rebound or a decline."
+  },
+  "prs": {
+   "zh": "退休规划着眼于数十年,单日的反弹不改变大方向。可以趁机检视PRS或信托基金里中国与科技的比重是否仍符合自己的风险承受度;PRS每年最高RM3,000税务减免也是持续储蓄的动力。",
+   "en": "Retirement planning spans decades, so a one-day rebound does not change the big picture. It can be a good time to check whether China and tech exposure in your PRS or unit trust funds still fits your risk tolerance; the PRS tax relief of up to RM3,000 a year also supports steady saving."
+  },
+  "lump": {
+   "zh": "在反弹中追入容易受情绪影响。单笔投资可考虑分批进场以分散时机风险,检查对单一市场或单一板块的集中度,并确认期限与目标相符。",
+   "en": "Chasing a rebound can be driven by emotion. A lump sum can consider phasing in to spread timing risk, checking concentration in a single market or sector, and confirming that the time horizon matches the goal."
+  },
+  "bond": {
+   "zh": "港股的涨跌主要影响股票基金,对马来西亚债券基金的直接影响有限。MGS与企业债/伊斯兰债券基金更受国家银行OPR、美国利率预期与令吉走势影响,在组合中通常扮演平衡器。",
+   "en": "Hong Kong moves mainly affect equity funds, with limited direct effect on Malaysian bond funds. MGS and corporate bond and sukuk funds are more influenced by Bank Negara's OPR, US rate expectations and the ringgit, and generally act as portfolio balancers."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/345687/Hong-Kong-shares-close-higher-Lenovo-up-8-percent"
+  }
+ },
+ {
+  "id": "2026-10-16-a2",
+  "time": "2026-10-16T17:00:00+08:00",
+  "tags": ["tech"],
+  "title": {
+   "zh": "台股收涨0.3%报47,111点,重挫后小幅喘息",
+   "en": "Taiwan shares close 0.3% higher at 47,111 after Thursday's plunge"
+  },
+  "analysis": {
+   "zh": "据台湾中央社英文网,台股加权指数周五上涨141.39点或0.3%,收47,111.26点,成交额9,359.6亿新台币。昨天指数才重挫3.41%,今天只是小幅收复部分失地。就像大雨之后天色微亮,但天气是否真正转晴,还要看接下来美国利率预期与科技股的走势。",
+   "en": "Focus Taiwan reports the Taiex rose 141.39 points, or 0.3%, to close Friday at 47,111.26 on turnover of NT$935.96 billion. The index plunged 3.41% the day before, so today's move only recovers part of the ground. It is like a faint brightening after heavy rain; whether the weather really clears depends on US rate expectations and tech shares in the days ahead."
+  },
+  "dda": {
+   "zh": "大跌后的小幅反弹,并不代表走势已经改变。定期定额(DDA)的纪律在于不择时,长期持续投入,让成本随时间平均。",
+   "en": "A small bounce after a big drop does not mean the trend has changed. The discipline of regular (DDA) investing is not to time the market and to keep contributing so that cost averages out over time."
+  },
+  "prs": {
+   "zh": "退休资金的时间很长,短期的波动较难预测。可定期检视组合中科技与单一市场的比重;PRS每年最高RM3,000的税务减免,仍是长期储蓄的好理由。",
+   "en": "Retirement money has a long horizon, and short-term swings are hard to predict. Review the weight of tech and any single market in your portfolio regularly; the PRS tax relief of up to RM3,000 a year remains a good reason to keep saving."
+  },
+  "lump": {
+   "zh": "急跌之后的小反弹,情绪特别容易左右决定。单笔投资可考虑分批进场、检查对台股与半导体的集中度,并与自己的风险承受度对照。",
+   "en": "After a sharp fall, a small bounce can easily sway emotions. A lump sum can consider phasing in, checking concentration in Taiwan and semiconductors, and comparing the choice with your own risk tolerance."
+  },
+  "bond": {
+   "zh": "台股的波动主要影响股票基金。马来西亚债券基金更受美国利率预期、国家银行OPR和令吉影响;在股市动荡时,债券基金通常扮演平衡波动的角色。",
+   "en": "Taiwan's swings mainly affect equity funds. Malaysian bond funds are more influenced by US rate expectations, Bank Negara's OPR and the ringgit; when equities are volatile, bond funds generally play a balancing role."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610160009"
+  }
+ },
+ {
+  "id": "2026-10-16-a3",
+  "time": "2026-10-16T17:00:00+08:00",
+  "tags": ["tech"],
+  "title": {
+   "zh": "台湾经济研究院:2026年经济增长预测12.16%,为39年来最快",
+   "en": "CIER lifts Taiwan's 2026 growth forecast to 12.16%, fastest in 39 years"
+  },
+  "analysis": {
+   "zh": "据台湾中央社英文网,中华经济研究院将今年经济增长预测从7月的10.35%上调至12.16%,若成真将是1987年(12.75%)以来最快。该院表示,AI相关产品需求支撑出口、投资与消费,私人投资预计增长10.77%。院方同时提醒风险,包括主要经济体货币政策转变、金融市场波动,以及云端服务商融资需求与现金流的不确定性。好成绩单固然亮眼,但也提醒我们增长高度依赖AI这一个引擎。",
+   "en": "Focus Taiwan reports the Chung-Hua Institution for Economic Research raised its 2026 GDP growth forecast to 12.16% from 10.35% in July, which would be the fastest since 12.75% in 1987. It says AI-related demand is supporting exports, investment and consumption, with private investment forecast to grow 10.77%. It also flags risks, including monetary policy shifts in major economies, financial market moves, and uncertainty over cloud providers' financing needs and cash flows. A strong report card is impressive, but it also shows how much growth leans on one engine: AI."
+  },
+  "dda": {
+   "zh": "亮眼的增长数据不等于股价只涨不跌。定期定额(DDA)通过信托基金分散投资,有助于不把希望押在单一产业或单一地区。",
+   "en": "Eye-catching growth numbers do not mean prices only rise. Regular (DDA) investing through diversified unit trust funds helps avoid putting all hopes on a single industry or region."
+  },
+  "prs": {
+   "zh": "AI带动的增长是许多全球与亚洲科技基金的长期故事之一,但退休规划更看重整体分散。PRS每年最高RM3,000税务减免可持续善用。",
+   "en": "AI-driven growth is part of the long-term story for many global and Asian tech funds, but retirement planning values overall diversification more. The PRS tax relief of up to RM3,000 a year can be used steadily."
+  },
+  "lump": {
+   "zh": "当增长高度集中在AI主题时,单笔投资可考虑分批进场以分散时机风险,并检查组合是否已过度集中于同一主题,同时对照期限与风险承受度。",
+   "en": "When growth is concentrated in the AI theme, a lump sum can consider phasing in to spread timing risk, check whether the portfolio is already concentrated in one theme, and compare it with the time horizon and risk tolerance."
+  },
+  "bond": {
+   "zh": "台湾的增长数据对马来西亚债券基金的直接影响有限,但全球对AI融资与利率的担忧可能牵动资金流向与令吉。债券基金通常用来平衡股票波动。",
+   "en": "Taiwan's growth data has limited direct effect on Malaysian bond funds, but global worries about AI financing and interest rates may influence capital flows and the ringgit. Bond funds are generally used to balance equity volatility."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610160008"
+  }
+ },
+ {
+  "id": "2026-10-16-a4",
+  "time": "2026-10-16T17:00:00+08:00",
+  "tags": ["my"],
+  "title": {
+   "zh": "吉隆坡综指早盘高开后转跌,市场情绪谨慎",
+   "en": "FBM KLCI gives up opening gains as caution persists"
+  },
+  "analysis": {
+   "zh": "据星报早盘报道(上午9:15),富时综指较前一天下跌6.28点或0.39%,报1,617.42点,开盘时曾高开1.13点至1,624.83点,跟随华尔街隔夜涨势后转弱。跌幅较大的包括荷兰奶粉、国油气化、云顶种植园与金属大厂;电子相关股如马来西亚太平洋工业、ViTrox和Pentamaster则走高。Berjaya Research认为指数将在窄幅内整理,阻力位在1,630至1,640点,支撑在1,600点。这是上午早盘的报道,收盘情况可能有所不同。",
+   "en": "The Star's early-session report (9:15am) says the FBM KLCI was down 6.28 points, or 0.39%, at 1,617.42 after opening 1.13 points higher at 1,624.83, fading after tracking Wall Street's overnight gains. Decliners included Dutch Lady, Petronas Gas, United Plantations and Press Metal, while electronics-linked names such as Malaysian Pacific Industries, ViTrox and Pentamaster gained. Berjaya Research expects the index to trade in a tight range, with resistance at 1,630-1,640 and support at 1,600. This is a morning-session report, so the close may differ."
+  },
+  "dda": {
+   "zh": "本地指数几点的涨跌不需要每天追踪。定期定额(DDA)的优点,是用固定节奏持续投入,把时间交给长期。",
+   "en": "There is no need to track every few points in the local index. The strength of regular (DDA) investing is a steady rhythm of contributions that leaves the work to time."
+  },
+  "prs": {
+   "zh": "退休规划不必因为一个早盘的小幅波动而调整。可定期检视PRS与公积金之外的储蓄是否按计划进行;PRS每年最高RM3,000税务减免值得善用。",
+   "en": "Retirement planning need not change because of a small morning swing. Review regularly whether savings beyond the EPF, including PRS, are on track; the PRS tax relief of up to RM3,000 a year is worth using."
+  },
+  "lump": {
+   "zh": "在窄幅整理的市场,单笔投资可考虑分批进场以分散时机风险,并检查是否集中于少数股票或板块,同时确认投资期限与风险承受度相符。",
+   "en": "In a range-bound market, a lump sum can consider phasing in to spread timing risk, checking concentration in a few stocks or sectors, and confirming the time horizon fits your risk tolerance."
+  },
+  "bond": {
+   "zh": "美国利率预期是目前影响本地市场情绪的因素之一,也会牵动令吉、外资流向,进而影响MGS与企业债/伊斯兰债券基金。债券在组合中通常扮演平衡器。",
+   "en": "US rate expectations are one factor behind local sentiment, and they may influence the ringgit and foreign flows, in turn affecting MGS and corporate bond and sukuk funds. Bonds generally act as portfolio balancers."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/16/fbm-klci-gives-up-opening-gains-as-market-caution-persists"
+  }
+ },
+ {
+  "id": "2026-10-16-a5",
+  "time": "2026-10-16T17:00:00+08:00",
+  "tags": ["my", "fed"],
+  "title": {
+   "zh": "令吉开盘持平于4.08:美元走弱,但美国通胀数据限制涨幅",
+   "en": "Ringgit opens flat near 4.08 as a weaker dollar meets hot US inflation"
+  },
+  "analysis": {
+   "zh": "据星报,令吉周五早上开盘对美元几乎持平,报4.0800/0845,前一日收盘为4.0800/0835。美元指数下跌0.53%至102.005,通常有利令吉,但美国9月生产者物价指数高于预期,加上分析师预期美联储在月底会议上维持紧缩立场,限制了令吉的涨幅。Bank Muamalat经济学家预测当天汇价在4.07至4.09之间,并认为对隔夜政策利率(OPR)正常化的预期将支撑令吉。这是早上8点的开盘报道。",
+   "en": "The Star reports the ringgit opened Friday almost unchanged against the US dollar at 4.0800/0845, versus Thursday's close of 4.0800/0835. The US Dollar Index fell 0.53% to 102.005, which would normally support the ringgit, but the US September producer price index came in above expectations and analysts expect the Fed to keep its restrictive stance at its end-of-month meeting, which limits gains. Bank Muamalat's economist expects USD/MYR to trade between 4.07 and 4.09 and says expectations of OPR normalisation would support the ringgit. This is the 8am opening report."
+  },
+  "dda": {
+   "zh": "汇率的短期波动难以预测。投资海外基金的定期定额(DDA)者,可把汇率视为长期投资过程中的一部分,以持续投入平均成本,而不是猜测汇率高低。",
+   "en": "Short-term currency moves are hard to predict. For those investing in overseas funds through regular (DDA) plans, currency can be seen as part of the long-term journey, with steady contributions averaging the cost rather than guessing exchange-rate highs and lows."
+  },
+  "prs": {
+   "zh": "令吉走势会影响海外投资的马币价值,也影响长期的购买力。退休规划宜保持分散并定期检视;PRS每年最高RM3,000税务减免可持续善用。",
+   "en": "The ringgit affects the ringgit value of overseas investments and long-term purchasing power. Retirement planning should stay diversified and be reviewed regularly; the PRS tax relief of up to RM3,000 a year can be used steadily."
+  },
+  "lump": {
+   "zh": "投资海外资产的单笔投资,汇率是额外的变量。可考虑分批进场以分散时机风险,检查海外资产与单一货币的集中度,并对照目标与风险承受度。",
+   "en": "For a lump sum in overseas assets, currency is an extra variable. Consider phasing in to spread timing risk, checking concentration in overseas assets and a single currency, and comparing with your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "令吉、美国利率预期与国家银行OPR路径,都是马来西亚债券基金的重要影响因素。当美国通胀与利率预期偏高,外资流向和MGS收益率可能受到牵动;债券基金通常在组合中扮演平衡器。",
+   "en": "The ringgit, US rate expectations and the path of Bank Negara's OPR are key influences on Malaysian bond funds. When US inflation and rate expectations stay elevated, foreign flows and MGS yields may be affected; bond funds generally act as portfolio balancers."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/16/ringgit-opens-flat-against-greenback-as-markets-weigh-us-interest-rate-outlook"
+  }
+ },
+ {
+  "id": "2026-10-16-a6",
+  "time": "2026-10-16T17:00:00+08:00",
+  "tags": ["commodities"],
+  "title": {
+   "zh": "油价小幅回落:市场权衡美国可能制裁“影子船队”与中东风险",
+   "en": "Oil edges down as investors weigh possible US sanctions on the 'shadow fleet'"
+  },
+  "analysis": {
+   "zh": "据CNBC周五的报道,布伦特原油期货在格林尼治时间0012下跌41美分或0.39%,报每桶105.51美元,美国西德州中质原油期货下跌54美分或0.55%,报97.43美元。投资者一方面权衡美国可能对“影子船队”油轮采取的措施,另一方面关注中东局势带来的供应风险。油价居高不下,会推高运输与生产成本,最终可能反映到日常物价上。",
+   "en": "CNBC reported Friday that Brent crude futures fell 41 cents, or 0.39%, to $105.51 a barrel at 0012 GMT, while US West Texas Intermediate futures were down 54 cents, or 0.55%, at $97.43. Investors were weighing possible US action on 'shadow fleet' tankers against supply risks from the Middle East. Persistently high oil can raise transport and production costs and may eventually show up in everyday prices."
+  },
+  "dda": {
+   "zh": "油价与地缘消息每天都在变,难以预测。定期定额(DDA)让你不必为每则能源新闻改变计划,按月持续投入即可。",
+   "en": "Oil prices and geopolitical headlines change daily and are hard to predict. Regular (DDA) investing means you need not change your plan for each energy headline; you simply keep contributing monthly."
+  },
+  "prs": {
+   "zh": "能源价格偏高可能推高生活成本,退休规划应把通胀考虑进去并定期检视目标。PRS每年最高RM3,000税务减免有助于长期储蓄。",
+   "en": "High energy prices may push up the cost of living, so retirement plans should allow for inflation and be reviewed regularly. The PRS tax relief of up to RM3,000 a year helps long-term saving."
+  },
+  "lump": {
+   "zh": "由地缘因素推动的价格波动通常难以预料。单笔投资可考虑分批进场,检查对能源相关资产的集中度,并与自己的目标和风险承受度对照。",
+   "en": "Geopolitically driven price swings are generally hard to anticipate. A lump sum can consider phasing in, checking concentration in energy-related assets, and comparing with your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价高企可能推升通胀预期与债券收益率,并影响马来西亚的财政与令吉,进而影响市场对国家银行OPR的预期,以及MGS与企业债/伊斯兰债券基金。债券通常扮演平衡器。",
+   "en": "High oil may lift inflation expectations and bond yields and affect Malaysia's fiscal picture and the ringgit, shaping expectations for Bank Negara's OPR and in turn MGS and corporate bond and sukuk funds. Bonds generally act as portfolio balancers."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://cnbc.com/2026/10/16/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet.html"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-15-m0",
   "kind": "summary",
   "time": "2026-10-15T09:00:00+08:00",
