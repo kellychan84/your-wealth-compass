@@ -1,0 +1,299 @@
+[
+ {
+  "id": "2026-10-18-w0",
+  "kind": "summary",
+  "time": "2026-10-18T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "周末回顾:通胀偏热与AI债务忧虑令标普500周跌2%,中东航运攻击推高油价;下周迎财报潮、联储会议与中国季度数据",
+   "en": "Weekend review: hot inflation and AI-debt worries pull the S&P 500 down 2% on the week, Middle East shipping attacks lift oil; earnings, the Fed and China's quarterly data lie ahead"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,659.44",
+    "change": "-1.09%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "$109.86",
+    "change": "+3.7%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "黄金",
+     "en": "Gold"
+    },
+    "value": "~$4,190",
+    "change": "+0.5%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "美国10年期国债收益率",
+     "en": "US 10-year yield"
+    },
+    "value": ">5.09%",
+    "change": {
+     "zh": "CPI后曾冲至5.33%",
+     "en": "spiked to 5.33% after CPI"
+    },
+    "dir": ""
+   }
+  ],
+  "points": [
+   {
+    "zh": "本周标普500跌2%,为六周内第四个下跌周;纳指综合跌4.5%,道指则连续第二周上涨0.7%。",
+    "en": "The S&P 500 lost 2% on the week, its fourth down week in six; the Nasdaq Composite fell 4.5% while the Dow rose 0.7% for a second straight weekly gain."
+   },
+   {
+    "zh": "联储主席沃什未透露利率方向;CME FedWatch显示10月加息概率约17%,12月约89%。",
+    "en": "Fed Chair Warsh gave no signal on rates; CME FedWatch shows about a 17% chance of an October hike and about 89% for December."
+   },
+   {
+    "zh": "霍尔木兹海峡本周至少12艘船只遭袭,10月为战事开始以来最多;台积电上调全年增长预期至44%,中国周一公布第三季GDP。",
+    "en": "At least 12 ships were attacked near Hormuz this week, the most in any month since the war began; TSMC raised its 2026 growth forecast to 44%, and China reports Q3 GDP on Monday."
+   }
+  ],
+  "takeaway": {
+   "zh": "一周下来,通胀、AI估值和中东局势交织,市场情绪偏谨慎。作为信托基金顾问,我通常建议周末先回到自己的目标与时间表,检视组合是否过度集中在同一主题,而不是被每天的标题牵着走。",
+   "en": "Inflation, AI valuations and the Middle East all tangled together this week, and sentiment leaned cautious. As a unit trust consultant, I'd generally suggest using the weekend to return to your own goals and timeline and check that your portfolio isn't over-concentrated in one theme, rather than being pulled around by daily headlines."
+  },
+  "sources": [
+   {
+    "name": "Trading Economics",
+    "url": "https://tradingeconomics.com/united-states/stock-market"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-18-w1",
+  "time": "2026-10-18T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "一周回顾:标普500周跌2%,纳指综合跌4.5%,热通胀与AI债务忧虑是主因",
+   "en": "Week in review: S&P 500 down 2%, Nasdaq Composite down 4.5% as hot inflation and AI-debt worries weigh"
+  },
+  "analysis": {
+   "zh": "周五收盘,纳指综合指数跌2.1%,结束四周连涨;标普500跌1.2%,本周累计跌2%,为六周内第四个下跌周;道指则微跌0.3%,本周仍涨0.7%。本周CPI与PPI均高于预期,CoreWeave因债务忧虑单日跌12%,半导体ETF SOXX周五跌4%。就像一场长跑中前排选手同时放慢脚步,领头的板块一回落,整体指数就明显受压。",
+   "en": "Friday's close left the Nasdaq Composite down 2.1%, ending a four-week winning streak; the S&P 500 fell 1.2% and lost 2% on the week, its fourth negative week in six, while the Dow slipped 0.3% yet gained 0.7% for the week. Both CPI and PPI came in hotter than expected, CoreWeave dropped 12% on debt worries, and the SOXX semiconductor ETF fell 4% on Friday. It is like a running pack where the front runners slow down together: when the leading sector pulls back, the whole index feels it."
+  },
+  "dda": {
+   "zh": "市场一周的起伏,正是定期定额(DDA)设计要面对的情境。持续投入的长期投资者通常不必判断哪一周是低点,价格回落时同样的金额可能累积到更多单位。",
+   "en": "A week like this is exactly the situation regular (DDA) investing is built for. Long-term investors who keep contributing don't need to call the low; when prices dip, the same amount may accumulate more units."
+  },
+  "prs": {
+   "zh": "退休规划的时间以十年计,一周的跌幅在长河里很短。周末不妨看看退休组合是否过度依赖科技或AI主题,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement planning is measured in decades, so one week's drop is a short stretch of the journey. The weekend is a good time to check whether your retirement mix leans too heavily on tech or AI themes, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "集中度是这类回调最值得检查的一环。单笔投资者一般可以考虑分阶段进场以分散时机风险,并对照自己的目标与风险承受度,而不是追逐热门或因恐慌离场。",
+   "en": "Concentration is the thing to check after a pullback like this. Lump-sum investors can generally consider phasing in to spread timing risk and match choices to their goals and risk tolerance, rather than chasing hot themes or exiting in a panic."
+  },
+  "bond": {
+   "zh": "美国10年期收益率一度冲上5.33%后回落,显示利率预期仍易波动。这可能间接影响马来西亚国债(MGS)与企业债的外资流向,但债券基金的主要角色仍是为组合提供平衡。",
+   "en": "The US 10-year yield spiked to 5.33% before easing, a sign rate expectations remain jumpy. That may indirectly touch foreign flows into Malaysian government bonds (MGS) and corporate bonds, but bond funds' main role is still to balance a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html"
+  }
+ },
+ {
+  "id": "2026-10-18-w2",
+  "time": "2026-10-18T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "下周展望:联储会议前财报潮来袭,市场押注12月加息概率约89%",
+   "en": "Week ahead: earnings season builds before the Fed meeting, with a December hike priced at about 89%"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,下周约有70家标普500成分股公布业绩,包括周二的GE航太、RTX、3M、通用汽车、Netflix和联合航空,以及周三的Meta与特斯拉;联储将于10月下旬开会,按CME FedWatch,10月加息概率约17%、12月约89%。联储静默期持续到10月29日,官员不会公开发言。就像考试前夕的复习周,市场在等待一连串成绩单。",
+   "en": "CNBC reports about 70 S&P 500 companies report next week, including GE Aerospace, RTX, 3M, General Motors, Netflix and United Airlines on Tuesday and Meta and Tesla on Wednesday. The Fed meets in late October, and CME FedWatch puts the odds of an October hike near 17% and a December hike near 89%. The Fed's blackout period runs through October 29, so officials will not speak publicly. It is like exam-eve revision week, with the market waiting for a string of report cards."
+  },
+  "dda": {
+   "zh": "财报与利率消息密集的一周容易让人想暂停投资。对DDA投资者来说,按计划持续投入、不为单一事件调整节奏,通常比预测结果更省心。",
+   "en": "A packed week of earnings and rate news can tempt people to pause. For DDA investors, sticking to the plan rather than adjusting for any single event is generally less stressful than trying to forecast outcomes."
+  },
+  "prs": {
+   "zh": "利率预期上升会影响长期资产的估值,也提醒退休储蓄者留意组合的利率敏感度。可以趁周末检视退休目标,并考虑PRS每年最高RM3,000的税务减免。",
+   "en": "Rising rate expectations can affect the valuation of long-duration assets, and remind retirement savers to look at their portfolio's rate sensitivity. The weekend is a good time to review retirement goals and consider the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "重大事件前后波动可能加大。单笔投资者可以考虑分阶段进场来分散时机风险,同时检查是否过度集中在即将公布财报的热门股。",
+   "en": "Volatility can rise around big events. Lump-sum investors can consider phasing in to spread timing risk, and check whether they are over-concentrated in the popular stocks about to report."
+  },
+  "bond": {
+   "zh": "联储若偏向加息,美国收益率可能维持高位,令吉与外资流向可能受影响,并间接牵动马来西亚国家银行的政策考量。债券基金对利率较为敏感,持有期限与类型值得对照自己的目标。",
+   "en": "If the Fed leans toward hikes, US yields may stay elevated, which could affect the ringgit and foreign flows and indirectly Bank Negara's policy considerations. Bond funds are sensitive to rates, so duration and type are worth matching to your own goals."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://cnbc.com/2026/10/16/major-earnings-reports-market-fears-next-week.html"
+  }
+ },
+ {
+  "id": "2026-10-18-w3",
+  "time": "2026-10-18T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "霍尔木兹局势:本周至少12艘船只遭袭,美伊双方各说各话,布伦特触及110美元",
+   "en": "Hormuz: at least 12 ships attacked this week as the US and Iran trade rival claims; Brent touches $110"
+  },
+  "analysis": {
+   "zh": "半岛电视台报道,截至10月16日的一周,英国海事贸易行动办公室确认至少12艘船只遭袭,10月是战事开始以来最多的月份。Kpler数据显示,截至10月13日的七天里,霍尔木兹的石油流量为每日1,160万桶,约为战前水平的68%。布伦特周五首次触及110美元,为5月以来首次。就像城市主干道被反复封路,即使绕得过去,运输成本也会层层推高。",
+   "en": "Al Jazeera reports that UKMTO confirmed at least 12 ships attacked in the week to October 16, with October the heaviest month of attacks since the war began. Kpler data show Hormuz oil flows at 11.6 million barrels a day in the seven days to October 13, about 68% of the pre-war baseline. Brent touched $110 on Friday for the first time since May. It is like a city's main road being closed again and again: even if traffic gets through, costs build up along the way."
+  },
+  "dda": {
+   "zh": "能源价格上升可能推高通胀,拖累企业成本。长期投资者通常通过分散的信托基金降低对单一事件的依赖,DDA则让投入不依赖对战事走向的判断。",
+   "en": "Higher energy prices may lift inflation and squeeze company costs. Long-term investors often use diversified unit trust funds to reduce reliance on any single event, and DDA keeps contributions from depending on a call about the conflict."
+  },
+  "prs": {
+   "zh": "油价与通胀会侵蚀退休储蓄的购买力,这也是退休规划要把通胀算进去的原因。可以趁此检视退休目标,并留意PRS每年最高RM3,000的税务减免。",
+   "en": "Oil and inflation can erode the purchasing power of retirement savings, which is why retirement plans should allow for inflation. This is a good moment to review goals and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "地缘风险让短期走势难以预测。单笔投资者一般可以考虑分阶段进场,并检查组合是否过度集中在对油价特别敏感的行业。",
+   "en": "Geopolitical risk makes short-term moves hard to predict. Lump-sum investors can generally consider phasing in and checking that the portfolio isn't overly concentrated in sectors highly sensitive to oil."
+  },
+  "bond": {
+   "zh": "油价上涨可能抬高通胀预期,令利率下调的空间变小,对马来西亚债券基金的价格可能带来压力;不过国家银行的OPR取向仍取决于本地通胀与增长。债券基金仍可作为组合的平衡角色。",
+   "en": "Higher oil can lift inflation expectations and narrow room for lower rates, which may weigh on Malaysian bond fund prices, though Bank Negara's OPR stance still depends on local inflation and growth. Bond funds can still serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+  }
+ },
+ {
+  "id": "2026-10-18-w4",
+  "time": "2026-10-18T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台积电上调2026年营收增长预期至44%,资本支出维持600至640亿美元",
+   "en": "TSMC raises 2026 sales growth forecast to 44% and keeps capex at US$60–64 billion"
+  },
+  "analysis": {
+   "zh": "据中央社报道,台积电第三季每股盈余创纪录的新台币29.43元,2纳米占营收8%,毛利率66.4%。全年美元营收增长预期由7月的「略高于40%」上调至44%,第四季营收指引为523亿至543亿美元;CEO魏哲家表示先进制程需求预期保持强劲。就像一家餐厅订单排到下个月,厨房的产能就是最重要的资产。",
+   "en": "CNA reports TSMC's third-quarter EPS hit a record NT$29.43, with 2nm chips at 8% of sales and a gross margin of 66.4%. Its 2026 US-dollar sales growth forecast was raised to 44% from 'slightly more than 40 percent' in July, with Q4 revenue guided at US$52.3–54.3 billion; CEO C.C. Wei said demand for advanced processes is expected to stay strong. It is like a restaurant booked out for the month: the kitchen's capacity is the key asset."
+  },
+  "dda": {
+   "zh": "芯片龙头的强劲业绩与本周AI股的下跌形成对比,提醒我们公司基本面与短期情绪可以不同步。DDA投资者持续投入分散的基金,不必在两者之间押注。",
+   "en": "TSMC's strong results contrast with this week's AI-stock slump, a reminder that fundamentals and short-term sentiment can diverge. DDA investors who keep contributing to diversified funds don't have to bet between the two."
+  },
+  "prs": {
+   "zh": "科技龙头常是全球基金的重要持仓,退休储蓄者不妨看看自己的基金在科技上的比重是否与年龄和风险承受度相符,并考虑PRS每年最高RM3,000的税务减免。",
+   "en": "Tech leaders are often major holdings in global funds, so retirement savers may want to check whether their funds' tech weighting suits their age and risk tolerance, and consider the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "好消息并不等于低风险。单笔投资者可以考虑分阶段进场,并留意单一主题或单一公司在组合中的集中度。",
+   "en": "Good news is not the same as low risk. Lump-sum investors can consider phasing in and watching how concentrated the portfolio is in a single theme or company."
+  },
+  "bond": {
+   "zh": "台积电的消息对马来西亚债券基金的直接影响有限,但全球资金偏向风险资产或避险的变化,可能间接影响令吉与国债需求。债券基金仍是组合中的平衡角色。",
+   "en": "TSMC's news has limited direct effect on Malaysian bond funds, but shifts in global risk appetite may indirectly touch the ringgit and demand for government bonds. Bond funds remain a balancing part of a portfolio."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610150018"
+  }
+ },
+ {
+  "id": "2026-10-18-w5",
+  "time": "2026-10-18T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "中国周一公布第三季GDP:路透调查预估增长4.4%,低于4.5%至5%的全年目标区间",
+   "en": "China reports Q3 GDP on Monday: Reuters poll sees 4.4% growth, below the 4.5–5% full-year target range"
+  },
+  "analysis": {
+   "zh": "据路透调查,50位经济学家预估中国第三季GDP按年增长4.4%,高于第二季的4.3%,但低于7月调查的4.6%;按季预估增长1.1%。数据将于周一(格林尼治时间02:00)连同9月零售、工业产出与投资数据公布。高盛警告地方政府融资限制可能拖累刺激政策的落实,法兴则认为今年达标不难,更大挑战在2027年。就像爬坡的车,油门踩了,但坡度还在。",
+   "en": "A Reuters poll of 50 economists forecasts China's Q3 GDP growth at 4.4% year on year, up from 4.3% in Q2 but below the 4.6% forecast in July; quarter on quarter growth is forecast at 1.1%. The data, due Monday at 0200 GMT together with September retail sales, industrial output and investment, will be watched closely. Goldman Sachs warned that local government financing constraints could hamper stimulus, while Societe Generale said hitting this year's target should be easy, with 2027 the bigger challenge. It is like a car climbing a hill: the accelerator is pressed, but the slope is still there."
+  },
+  "dda": {
+   "zh": "中国数据常牵动亚洲区域市场情绪。长期投资者通常通过分散的亚洲或全球基金参与,DDA可以在情绪起伏中持续累积单位,不必预测单一数据。",
+   "en": "China's data often sways Asian market sentiment. Long-term investors usually participate through diversified Asia or global funds, and DDA keeps accumulating units through sentiment swings without forecasting a single release."
+  },
+  "prs": {
+   "zh": "退休规划要看长期的增长环境。可以借这个机会了解自己的基金在中国与亚洲的敞口,并考虑PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement planning looks at the long-run growth backdrop. This is a chance to learn how much China and Asia exposure your funds carry, and to consider the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单笔投资者在重要数据公布前后,一般可以考虑分阶段进场以分散时机风险,并检查单一国家或地区的集中度。",
+   "en": "Around key data releases, lump-sum investors can generally consider phasing in to spread timing risk and check concentration in any one country or region."
+  },
+  "bond": {
+   "zh": "中国需求疲弱或复苏会影响区域增长与商品价格,进而间接影响马来西亚出口、令吉与通胀预期。债券基金的直接影响通常有限,但可作为组合的平衡角色。",
+   "en": "Weak or recovering Chinese demand affects regional growth and commodity prices, indirectly touching Malaysian exports, the ringgit and inflation expectations. The direct effect on bond funds is usually limited, but they can still balance a portfolio."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/china-q3-growth-set-to-pick-up-on-stimulus-keeping-2026-goal-within-reach-reuters-poll-4950895"
+  }
+ },
+ {
+  "id": "2026-10-18-w6",
+  "time": "2026-10-18T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时隆综指连涨四日至1,627.72点,银行股逢低买盘领涨,但大市参与度偏弱",
+   "en": "FBM KLCI extends winning streak to four sessions at 1,627.72 on bank bargain hunting, but participation stays weak"
+  },
+  "analysis": {
+   "zh": "据星报报道,周三(10月14日)富时隆综指收报1,627.72点,升4.37点或0.26%,为连续第四日上涨。大众银行升5仙至RM4.75,安募控股升7仙至RM6.34,马银行升2仙至RM9.98。Rakuten Trade分析员表示,近期回调令部分蓝筹估值更具吸引力,但上涨范围可能偏向选择性,因为大市参与度偏弱。就像只有几位球员在场上跑动,整体的气势还没完全带起来。",
+   "en": "The Star reports that on Wednesday, October 14 the FBM KLCI closed at 1,627.72, up 4.37 points or 0.26%, its fourth straight gain. Public Bank rose 5 sen to RM4.75, AMMB gained 7 sen to RM6.34 and Maybank added 2 sen to RM9.98. A Rakuten Trade analyst said the recent correction has brought valuations of selected blue chips to more attractive levels, but the recovery may stay selective given weak broader participation. It is like only a few players running on the pitch: the team's momentum hasn't fully built yet."
+  },
+  "dda": {
+   "zh": "本地市场短期的反弹与回调,对每月持续投入的DDA投资者来说只是过程。持续累积单位、保持分散,通常比追逐短线反弹更稳健。",
+   "en": "Short-term rebounds and pullbacks in the local market are just part of the process for monthly DDA investors. Steadily accumulating units and staying diversified is generally more resilient than chasing short-term bounces."
+  },
+  "prs": {
+   "zh": "退休储蓄通常需要同时考虑本地与全球资产。可以借此检视自己的退休基金在马来西亚的比重,并考虑PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement savings usually weigh local and global assets together. This is a chance to check how much of your retirement funds sits in Malaysia, and to consider the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "银行股是大市权重股,但单一行业的集中度仍值得留意。单笔投资者一般可以考虑分阶段进场,并对照自己的目标与风险承受度。",
+   "en": "Banks are heavyweights in the index, yet concentration in a single sector is still worth watching. Lump-sum investors can generally consider phasing in and matching choices to their goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市的反弹对马来西亚债券基金(MGS、企业债与伊斯兰债券)没有直接影响,但外资流向与国家银行的政策取向会影响债券表现。债券基金可作为股市波动时的平衡角色。",
+   "en": "A stock-market rebound has no direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), though foreign flows and Bank Negara's policy stance influence bond performance. Bond funds can balance equity swings."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/15/bursa-extends-winning-streak-on-bargain-hunting"
+  }
+ }
+]
