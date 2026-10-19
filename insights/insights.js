@@ -300,6 +300,140 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-10-19-a1",
+  "time": "2026-10-19T17:00:00+08:00",
+  "tags": ["cn"],
+  "title": {
+   "zh": "中国第三季GDP增长4.5%,略优于预期",
+   "en": "China's Q3 GDP grows 4.5%, slightly above forecasts"
+  },
+  "analysis": {
+   "zh": "据路透社(经Investing.com),中国第三季GDP同比增长4.5%,高于路透民调预期的4.4%,也高于第二季的4.3%;按季增长1.2%,预期为1.1%。全年目标为4.5%至5%。报道指,增长数据减轻了政策制定者推出更大力度刺激措施的压力。这就像考试成绩比预期好一点,老师就不必急着加课。",
+   "en": "Reuters, via Investing.com, reports China's Q3 GDP grew 4.5% from a year earlier, above the 4.4% in a Reuters poll and up from 4.3% in Q2; quarter on quarter growth was 1.2% versus the 1.1% forecast. The full-year target is 4.5% to 5%. The report says the figure eases pressure on policymakers to deliver more aggressive stimulus. It is like a test score slightly better than expected: the teacher feels less need to add extra classes."
+  },
+  "dda": {
+   "zh": "中国增长略有改善,有助于亚洲市场情绪,但单一数据不足以决定长期方向。通过分散的信托基金持续定期投入,可以减少对某一个季度数据的依赖。",
+   "en": "Slightly better growth in China may help Asian sentiment, but one data point does not set the long-term direction. Regular investing through diversified unit trusts can reduce reliance on any single quarter's figures."
+  },
+  "prs": {
+   "zh": "退休规划着眼于数十年,各地区经济增长速度不同,正是分散投资的原因之一。也可以顺便检视PRS每年最高RM3,000的税务减免是否已善用。",
+   "en": "Retirement planning looks across decades, and regions grow at different speeds, which is one reason for diversifying. It may also be a good time to check whether the PRS tax relief of up to RM3,000 a year is being used."
+  },
+  "lump": {
+   "zh": "若考虑增加中国或亚洲相关投资,单笔资金可以分批进场以分散时机风险,并先确认自己的目标与能接受的波动程度。",
+   "en": "If considering more China or Asia exposure, a lump sum can be phased in to spread timing risk, after confirming your goals and the level of volatility you can accept."
+  },
+  "bond": {
+   "zh": "刺激措施的预期降低,通常意味着中国政策利率的变动压力较小;大马债券基金主要受国内利率、通胀和令吉影响,中国数据的影响通常较间接。",
+   "en": "Lower expectations of heavy stimulus generally mean less pressure for big moves in Chinese policy rates; Malaysian bond funds are mainly driven by local rates, inflation and the ringgit, so China's data usually matters indirectly."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-accelerates-to-45-beating-forecast-4956208"
+  }
+ },
+ {
+  "id": "2026-10-19-a2",
+  "time": "2026-10-19T17:00:00+08:00",
+  "tags": ["tech"],
+  "title": {
+   "zh": "台股收跌0.61%,台积电午后收复失地持平",
+   "en": "Taiex closes down 0.61% as TSMC recovers to end flat"
+  },
+  "analysis": {
+   "zh": "据中央社,台湾加权指数周一收在46,822.08点,跌289.18点(0.61%),成交额约新台币8,251亿元;盘中一度跌逾940点,因费城半导体指数周五下跌3.83%。尾盘逢低买盘进场,台积电由早盘下跌转为收平于2,420元新台币,外资净卖出约767亿元。就像下坡路上有人及时踩了刹车,跌势没有继续扩大。",
+   "en": "Focus Taiwan reports the Taiex closed Monday at 46,822.08, down 289.18 points (0.61%), on turnover of about NT$825.1 billion; it fell more than 940 points at one stage after the Philadelphia Semiconductor Index dropped 3.83% on Friday. Bargain hunters stepped in late and TSMC recovered from early losses to close unchanged at NT$2,420, while foreign investors were net sellers of about NT$76.74 billion. It is like someone tapping the brakes on a downhill road, so the slide did not keep widening."
+  },
+  "dda": {
+   "zh": "芯片股短期波动较大时,定期定额让你不必判断低点,按计划持续投入即可,时间有助于平均成本。",
+   "en": "When chip stocks swing sharply, DDA means you do not have to pick the low; investing on plan lets time help average your cost."
+  },
+  "prs": {
+   "zh": "退休基金通常通过分散的基金间接持有科技龙头,了解这一点有助于判断自己的组合对单一主题的依赖程度。",
+   "en": "Retirement funds often hold tech leaders indirectly through diversified funds, and knowing this helps you judge how reliant your portfolio is on a single theme."
+  },
+  "lump": {
+   "zh": "单笔投资若偏重半导体主题,集中度风险较高,可以考虑分批进场,并与自己的风险承受度对照。",
+   "en": "A lump sum tilted toward semiconductors carries higher concentration risk; phasing in and checking against your risk tolerance may help."
+  },
+  "bond": {
+   "zh": "台股的波动对大马债券基金的直接影响有限;分析师提到美国国债收益率的走向是关键,这可能间接影响全球利率环境。债券在组合中通常扮演平衡股票波动的角色。",
+   "en": "Taiwan's equity swings have limited direct effect on Malaysian bond funds; the analyst cited the direction of US Treasury yields as key, which may indirectly shape the global rate backdrop. Bonds generally serve to balance equity volatility."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610190016"
+  }
+ },
+ {
+  "id": "2026-10-19-a3",
+  "time": "2026-10-19T17:00:00+08:00",
+  "tags": ["tech"],
+  "title": {
+   "zh": "三星与SK海力士一周大跌,Q3财报成关注焦点",
+   "en": "Samsung and SK Hynix slide for the week as Q3 results loom"
+  },
+  "analysis": {
+   "zh": "据Investing.com,首尔周一上午报价显示,三星电子报215,500韩元,一周跌13.97%;SK海力士报1,250,000韩元,一周跌22.12%。报道列出的因素包括中国长鑫(CXMT)新一代DRAM进展,以及市场对AI支出的疑虑;文章称两者“便宜但不稳定”,尚未出现趋势反转。SK海力士与三星的第三季财报将在本月稍后公布。这就像热门商品短期内被快速抛售,价格便宜了,但是否稳住还得再观察。",
+   "en": "Investing.com, using Seoul quotes from Monday morning, shows Samsung Electronics at 215,500 won, down 13.97% on the week, and SK Hynix at 1,250,000 won, down 22.12%. Cited factors include China's CXMT advancing a next-generation DRAM design and doubts about AI spending; the article calls both stocks cheap but unstable and sees no trend reversal yet. SK Hynix and Samsung report Q3 results later this month. It is like a hot item sold off quickly: the price looks lower, but whether it steadies remains to be seen."
+  },
+  "dda": {
+   "zh": "单一行业短期大幅回调时,情绪容易主导决定。定期定额把重点放在纪律与时间,而不是猜测财报或低点。",
+   "en": "When one industry pulls back sharply, emotion can drive decisions. DDA puts the focus on discipline and time rather than guessing at earnings or lows."
+  },
+  "prs": {
+   "zh": "退休规划需要长线分散,同一主题的大幅波动提醒我们,检视组合是否过度依赖某个行业是有必要的。",
+   "en": "Retirement planning calls for long-term diversification, and a sharp swing in one theme is a reminder to check whether a portfolio leans too heavily on a single industry."
+  },
+  "lump": {
+   "zh": "对单笔投资者来说,主题性行业波动大,分批进场可以分散时机风险,同时留意自己在科技与存储芯片上的集中度。",
+   "en": "For lump-sum investors, volatile thematic sectors are a case for phasing in to spread timing risk, while watching concentration in tech and memory chips."
+  },
+  "bond": {
+   "zh": "韩国存储芯片股的波动对大马债券基金影响通常有限;若市场转向避险,政府债券需求有时会上升。债券在组合中的角色是平衡股票波动。",
+   "en": "Moves in Korean memory-chip stocks generally have limited direct effect on Malaysian bond funds; if sentiment turns defensive, demand for government bonds can sometimes rise. Bonds' role is to balance equity volatility."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/stock-market-news/samsung-and-sk-hynix-stocks-slide-is-there-a-reversal-in-sight-93CH-4956282"
+  }
+ },
+ {
+  "id": "2026-10-19-a4",
+  "time": "2026-10-19T17:00:00+08:00",
+  "tags": ["commodities", "fed"],
+  "title": {
+   "zh": "沃什讲话降低加息预期,金价升至每盎司4,180美元",
+   "en": "Gold rises to $4,180 as Warsh remarks temper Fed hike bets"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,现货黄金上涨0.4%至每盎司4,180.29美元,美国黄金期货升0.5%至4,200.92美元。交易员认为联储局主席沃什的讲话倾向下周按兵不动,加息四分之一厘的隐含概率降至20%以下;上周较强的美国通胀数据曾推高加息押注和美元。就像天气预报把暴风雨概率调低,人们对雨具的需求自然缓和下来。",
+   "en": "Yahoo Finance reports spot gold rose 0.4% to $4,180.29 an ounce and US gold futures gained 0.5% to $4,200.92. Traders read Fed Chair Warsh's remarks as favouring a hold at next week's meeting, cutting the implied probability of a quarter-point hike to below 20%; a stronger US inflation reading last week had revived hike bets and lifted the dollar. It is like a forecast lowering the chance of a storm: the urgency to buy umbrellas eases."
+  },
+  "dda": {
+   "zh": "利率预期反复时,市场情绪容易摇摆。定期定额让你按计划持续投入,不必为每次联储局言论而调整。",
+   "en": "When rate expectations keep shifting, sentiment can swing. DDA lets you keep investing on plan without reacting to every Fed comment."
+  },
+  "prs": {
+   "zh": "利率与通胀的走向会影响退休储蓄的实际购买力,规划时可以定期检视目标金额,并善用PRS每年最高RM3,000的税务减免。",
+   "en": "The path of rates and inflation affects the real buying power of retirement savings, so it helps to review targets regularly and make use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "黄金价格受利率预期和地缘局势影响,波动可能较大。单笔资金可以分批投入,并检查组合是否过度集中于单一资产。",
+   "en": "Gold prices can swing with rate expectations and geopolitics. A lump sum may be phased in, and it helps to check that the portfolio is not over-concentrated in one asset."
+  },
+  "bond": {
+   "zh": "美国加息预期降温,可能缓和全球债券收益率的上行压力,对大马政府债券(MGS)与企业债券价格较为友好,也可能影响国行政策考量与外资流向;但走势仍取决于通胀数据。",
+   "en": "Cooler US hike expectations may ease upward pressure on global bond yields, which can be more supportive for Malaysian government bonds (MGS) and corporate bonds, and may influence Bank Negara's thinking and foreign flows; the path still depends on inflation data."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://uk.finance.yahoo.com/news/gold-rises-warsh-remarks-curb-014209944.html"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-18-w0",
   "kind": "summary",
   "time": "2026-10-18T09:00:00+08:00",
