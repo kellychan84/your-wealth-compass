@@ -1,0 +1,298 @@
+[
+ {
+  "id": "2026-10-19-m0",
+  "kind": "summary",
+  "time": "2026-10-19T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "AI股抛售拖累纳指单周跌4.5%,油价高企、通胀数据偏热,本周看中国GDP与科技财报",
+   "en": "AI-stock selloff drags Nasdaq down 4.5% on the week; oil stays high, inflation runs hot, and China GDP plus tech earnings are ahead"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,659.44",
+    "change": "-1.09%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "26,140.03",
+    "change": "-2.14%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,607.76",
+    "change": "-0.98%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "$108.35",
+    "change": "-1.4%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周五美股科技股领跌,纳指全周下跌4.5%,为6月下旬以来最差一周;美国9月进口价格月增1.1%,高于预期。",
+    "en": "On Friday US tech led declines, with the Nasdaq down 4.5% on the week, its worst since late June; US import prices rose 1.1% in September, above forecasts."
+   },
+   {
+    "zh": "大马第三季GDP预估增长5.3%优于预期,但综指周五仍跌近1%。",
+    "en": "Malaysia's 3Q GDP advance estimate of 5.3% beat expectations, yet the KLCI still fell almost 1% on Friday."
+   },
+   {
+    "zh": "中国今天公布第三季GDP,路透民调预期同比增长4.4%;台积电称正评估与马斯克Terafab合作。",
+    "en": "China releases Q3 GDP today, with a Reuters poll expecting 4.4% year on year; TSMC says it is evaluating cooperation with Musk's Terafab."
+   }
+  ],
+  "takeaway": {
+   "zh": "好消息和坏消息常常在同一天出现,这很正常。作为信托基金顾问,我通常提醒大家:先回到自己的目标、时间长度与风险承受度,保持分散,比追着每个标题调整更踏实。",
+   "en": "Good and bad news often land on the same day, and that is normal. As a unit trust consultant, I'd generally remind clients to start from their own goals, time horizon and risk tolerance; staying diversified usually feels steadier than reacting to every headline."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/15/stock-market-today-live-updates.html"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/10/16/fbm-klci-falls-nearly-1-despite-better-than-expected-gdp-growth"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-19-m1",
+  "time": "2026-10-19T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "AI股抛售拖累纳指,单周跌4.5%",
+   "en": "Nasdaq falls 4.5% on the week as AI-stock selloff deepens"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,周五纳斯达克综指跌2.1%、标普500跌约1%、道指跌0.4%,纳指全周下跌4.5%,为6月下旬以来最差一周。软件与半导体股领跌,Palantir跌约7%,软件股市值蒸发约2,600亿美元,恐慌指数VIX盘中一度升至22.31。就像一场热门演唱会散场,大家同时挤向出口,拥挤的地方自然最容易出现推挤。",
+   "en": "Yahoo Finance reports that on Friday the Nasdaq Composite fell 2.1%, the S&P 500 about 1% and the Dow 0.4%, leaving the Nasdaq down 4.5% for the week, its worst since late June. Software and semiconductor stocks led, Palantir fell about 7%, software stocks lost roughly $260 billion in value and the VIX briefly reached 22.31. It is like a packed concert ending: when everyone heads for the same exit, the crowded spots feel the pushing most."
+  },
+  "dda": {
+   "zh": "对每月定期投入的人来说,市场下跌时同样的金额通常能买到更多单位,这是定期定额(DDA)的长期特点之一。重点是持续性,而不是猜测哪一天是低点。",
+   "en": "For people investing monthly, the same amount generally buys more units when markets fall, one of the long-run features of regular (DDA) investing. The point is consistency, not guessing which day is the low."
+  },
+  "prs": {
+   "zh": "退休规划的时间跨度通常是数十年,短期一周的跌幅在长线里往往只是一小段波动。也可以顺便检视PRS每年最高RM3,000的税务减免是否已善用。",
+   "en": "Retirement planning usually spans decades, so one weak week is often a small wiggle on a long chart. It may also be a good moment to check whether the PRS tax relief of up to RM3,000 a year is being used."
+  },
+  "lump": {
+   "zh": "单笔投资的基本原则是分批进场以分散时机风险,并检查组合是否过度集中在同一主题(例如AI科技),同时配合自己的目标与风险承受度。",
+   "en": "Basic lump-sum principles: phasing in can spread timing risk, check whether the portfolio is overly concentrated in one theme such as AI tech, and match the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "科技股波动对大马债券基金的直接影响通常有限;资金避险时,政府债券需求有时会上升。债券在组合中的角色,往往是平衡股票波动。",
+   "en": "Tech-stock swings generally have limited direct effect on Malaysian bond funds; when money turns defensive, demand for government bonds can sometimes rise. Bonds often serve as a balancer against equity volatility."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
+  }
+ },
+ {
+  "id": "2026-10-19-m2",
+  "time": "2026-10-19T09:00:00+08:00",
+  "tags": [
+   "us",
+   "fed"
+  ],
+  "title": {
+   "zh": "美国9月进口价格月增1.1%,高于预期",
+   "en": "US import prices rise 1.1% in September, above forecasts"
+  },
+  "analysis": {
+   "zh": "据The Standard引述路透报道,美国9月进口价格(不含关税)月增1.1%,高于经济学家预测的0.8%;同比上升8.1%,为2022年7月以来最大升幅。能源及多类商品价格上涨是主因,市场仍预期联储局10月暂不加息、12月再收紧。通胀就像水位,水位持续上升时,央行就得更小心地控制水龙头。",
+   "en": "The Standard, citing Reuters, reports US import prices (excluding tariffs) rose 1.1% in September versus the 0.8% economists expected, and 8.1% from a year earlier, the biggest annual rise since July 2022. Energy and other goods drove it, and markets still expect the Fed to skip a hike in October and tighten in December. Inflation is like a water level: when it keeps rising, the central bank has to handle the tap more carefully."
+  },
+  "dda": {
+   "zh": "通胀与利率不确定时,定期定额的纪律尤其有帮助:按计划持续投入,可以减少因为情绪而临时进出的冲动。",
+   "en": "When inflation and rates are uncertain, the discipline of DDA helps: investing on a plan can reduce the urge to move in and out on emotion."
+  },
+  "prs": {
+   "zh": "通胀会侵蚀退休金的购买力,这也是退休规划需要把物价上涨考虑进去的原因;可以定期检视目标金额是否仍然足够。",
+   "en": "Inflation can erode the buying power of retirement savings, which is why retirement planning builds in rising prices; it helps to review the target amount regularly."
+  },
+  "lump": {
+   "zh": "利率与通胀偏高的环境里,单笔资金可以考虑分批投入以分散时机风险,并确认自己的风险承受度。",
+   "en": "In a higher-rate, higher-inflation environment, phasing in a lump sum may spread timing risk, and it is worth confirming your risk tolerance."
+  },
+  "bond": {
+   "zh": "美国利率预期上升可能推高全球债券收益率,对大马政府债券(MGS)和企业债券价格可能带来压力,也可能影响国行的政策考量与外资流向。持有到期的债券基金,较高的票息长期而言也可能带来补偿。",
+   "en": "Higher US rate expectations may lift global bond yields, which could pressure prices of Malaysian government bonds (MGS) and corporate bonds, and may also shape Bank Negara's thinking and foreign flows. Over time, the higher coupons on newly issued bonds may partly compensate."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/345712/US-import-prices-increase-more-than-expected-in-September"
+  }
+ },
+ {
+  "id": "2026-10-19-m3",
+  "time": "2026-10-19T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "特朗普暂缓对俄制裁,油价周一早盘下滑",
+   "en": "Oil slips in early Monday trade after Trump waives Russia sanctions"
+  },
+  "analysis": {
+   "zh": "据Investing.com,布伦特原油周一早盘下跌1.4%至每桶108.35美元,此前一周曾大涨近5%。特朗普在制裁生效前签署行政命令暂缓多项对俄制裁,并豁免进口俄油国家的关税,市场押注供应改善;但中东局势(美伊僵持、沙特与胡塞武装冲突)仍支撑油价。油价像一条贯穿所有商品的水管,开关一动,运输和日常开销都会受影响。",
+   "en": "Investing.com reports Brent futures fell 1.4% to $108.35 a barrel in early Monday trade after jumping nearly 5% last week. Trump signed an order suspending many Russia sanctions just before they took effect and waived tariffs on buyers of Russian oil, so markets are positioning for better supply, though Middle East tensions, including the US-Iran standoff and Saudi-Houthi clashes, still support prices. Oil is like a pipe running through every commodity: when the valve moves, transport and everyday costs feel it."
+  },
+  "dda": {
+   "zh": "油价大幅波动时容易引发情绪化操作;定期定额让你不必判断油价高低,持续投入即可。",
+   "en": "Sharp oil swings invite emotional trades; DDA means you do not have to judge the oil price, you simply keep investing."
+  },
+  "prs": {
+   "zh": "高油价会推高生活成本,退休规划时可以考虑把通胀对未来开销的影响纳入估算。",
+   "en": "High oil raises living costs, so retirement planning may factor in how inflation affects future spending."
+  },
+  "lump": {
+   "zh": "能源价格受地缘政治影响大、难以预测,单笔投资时更需要留意是否过度集中于单一主题,并考虑分批投入。",
+   "en": "Energy prices are driven by geopolitics and hard to predict, so for a lump sum it matters even more to check concentration in a single theme and consider phasing in."
+  },
+  "bond": {
+   "zh": "油价上升通常会推高通胀预期,可能影响国行的利率看法与债券收益率。大马作为产油国,油价对令吉和财政也有一定影响,债券基金的利率敏感度值得留意。",
+   "en": "Higher oil usually lifts inflation expectations, which may influence views on interest rates and bond yields. As an oil producer, Malaysia sees some effect on the ringgit and fiscal position too, so a bond fund's rate sensitivity is worth noting."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158"
+  }
+ },
+ {
+  "id": "2026-10-19-m4",
+  "time": "2026-10-19T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "第三季GDP增长5.3%优于预期,吉隆坡综指仍跌近1%",
+   "en": "KLCI falls nearly 1% despite better-than-expected 5.3% GDP growth"
+  },
+  "analysis": {
+   "zh": "据The Star,周五富时综指收在1,607.76点,跌15.94点(0.98%),全周跌0.63%;大马第三季GDP预估增长5.3%(上一季为6%),优于市场预期。令吉兑美元微跌0.01%至4.0822,外资与本地机构周四均为净卖方。好成绩单遇上下跌的市场,就像考得不错却遇上下雨天,短期情绪不一定跟着数据走。",
+   "en": "The Star reports the FBM KLCI closed Friday at 1,607.76, down 15.94 points (0.98%) and 0.63% lower on the week, while Malaysia's 3Q GDP advance estimate of 5.3% (6% in the previous quarter) exceeded expectations. The ringgit slipped 0.01% to 4.0822 against the US dollar, and foreign and local institutions were net sellers on Thursday. A strong report card meeting a falling market is like good exam results on a rainy day: short-term mood does not always follow the data."
+  },
+  "dda": {
+   "zh": "经济增长稳健是长期投资的积极背景,但短期股价不一定同步反映。继续按月投入,让时间平均成本。",
+   "en": "Solid growth is a supportive backdrop for long-term investing, though short-term prices may not reflect it right away. Continuing monthly contributions lets time average out your cost."
+  },
+  "prs": {
+   "zh": "本地经济增长有助于长期的就业与收入,为退休储蓄提供基础。PRS每年最高RM3,000的税务减免,也是长期储蓄的一个辅助。",
+   "en": "Domestic growth supports jobs and incomes over time, a base for retirement saving. The PRS tax relief of up to RM3,000 a year is a helpful extra for long-term saving."
+  },
+  "lump": {
+   "zh": "本地市场窄幅波动时,单笔投资可以分批进场,并检查组合是否过度集中在银行等少数板块。",
+   "en": "When the local market is range-bound, a lump sum can be phased in, and it helps to check concentration in a few sectors such as banks."
+  },
+  "bond": {
+   "zh": "较强的GDP通常对国行维持利率不变有支持作用;目前隔夜政策利率为2.75%。债券基金主要受利率走向、通胀和外资流向影响,稳定的增长对信贷质量也有益。",
+   "en": "Stronger GDP generally supports Bank Negara keeping rates steady; the OPR stands at 2.75%. Bond funds are mainly influenced by the rate path, inflation and foreign flows, and steady growth also helps credit quality."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/16/fbm-klci-falls-nearly-1-despite-better-than-expected-gdp-growth"
+  }
+ },
+ {
+  "id": "2026-10-19-m5",
+  "time": "2026-10-19T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "台积电评估与马斯克Terafab合作,2纳米产能明年将翻倍",
+   "en": "TSMC weighs Terafab cooperation; 2nm capacity set to more than double"
+  },
+  "analysis": {
+   "zh": "据中央社,台积电董事长魏哲家表示正评估与马斯克在德州的Terafab项目合作,目前仍在讨论阶段,且任何晶圆厂都必须由台积电运营。他还说,2纳米产能到2027年预计比一年前增加一倍以上,A14制程2027年试产、2028年量产,全球约有20个晶圆厂项目在进行。这就像一家名店在多个城市开分店,既要扩张,又要守住品质。",
+   "en": "Focus Taiwan reports TSMC chairman C.C. Wei said the company is evaluating cooperation with Elon Musk's Terafab project in Texas, still at the discussion stage, and that any fab involved must be run by TSMC. He added that 2nm capacity should more than double from a year earlier by 2027, A14 enters trial production in 2027 and mass production in 2028, with nearly 20 fab projects underway worldwide. It is like a famous restaurant opening branches in several cities: it wants to expand while protecting quality."
+  },
+  "dda": {
+   "zh": "半导体是长期成长主题,但近期AI相关股票波动明显。定期定额可以让你在起伏中持续参与,而不必押注单一时点。",
+   "en": "Semiconductors are a long-term growth theme, but AI-related shares have been volatile lately. DDA lets you keep participating through the ups and downs without betting on a single moment."
+  },
+  "prs": {
+   "zh": "退休基金通常通过分散的基金间接持有科技龙头,了解这点有助于判断自己的组合对单一主题的依赖程度。",
+   "en": "Retirement funds often hold tech leaders indirectly through diversified funds, and knowing this helps you judge how reliant your portfolio is on one theme."
+  },
+  "lump": {
+   "zh": "单笔投资若偏重半导体或AI主题,集中度风险较高,可以考虑分批进场并与自身风险承受度对照。",
+   "en": "A lump sum tilted toward semiconductors or AI carries higher concentration risk; phasing in and checking against your risk tolerance may help."
+  },
+  "bond": {
+   "zh": "这则消息对大马债券基金的直接影响有限;不过科技投资热潮若带动全球增长与通胀预期,可能间接影响利率走向。债券在组合中的作用,是平衡股票的波动。",
+   "en": "The direct effect on Malaysian bond funds is limited, though if the tech investment boom shapes global growth and inflation expectations it could indirectly influence the rate path. Bonds' role is to balance equity volatility."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610150023"
+  }
+ },
+ {
+  "id": "2026-10-19-m6",
+  "time": "2026-10-19T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "中国今日公布第三季GDP,路透民调预期增长4.4%",
+   "en": "China set to release Q3 GDP today; Reuters poll expects 4.4% growth"
+  },
+  "analysis": {
+   "zh": "据路透社(经Investing.com),民调预期中国第三季GDP同比增长4.4%,略高于第二季的4.3%,但仍低于4.5%至5%的官方目标区间;预测9月工业产出增5.5%、零售销售仅增0.6%,前九个月固定资产投资下降7.3%。分析师形容这是“两速经济”:出口和工厂产出强劲,消费与民间投资偏弱。就像一辆车前轮跑得快、后轮却卡住,整体速度自然受限。",
+   "en": "Reuters, via Investing.com, reports a poll expects China's Q3 GDP to grow 4.4% year on year, up from 4.3% in Q2 but below the official 4.5% to 5% target range; it forecasts September industrial output up 5.5%, retail sales up only 0.6%, and January-September fixed-asset investment down 7.3%. Analysts call it a two-speed economy, with strong exports and factory output masking weak consumption and private investment. Like a car whose front wheels spin fast while the rear ones stick, overall speed is limited."
+  },
+  "dda": {
+   "zh": "中国是全球第二大经济体,其增长动向会影响亚洲市场情绪。通过分散的信托基金进行长期定期投入,能减少对单一市场的依赖。",
+   "en": "China is the world's second-largest economy and its growth shapes Asian market sentiment. Regular long-term investing through diversified unit trusts can reduce reliance on any single market."
+  },
+  "prs": {
+   "zh": "退休规划强调长期分散;了解各地区经济动能不同,有助于理解为什么组合不宜过度集中在某一个市场。",
+   "en": "Retirement planning stresses long-term diversification; knowing regions grow at different speeds helps explain why a portfolio should not lean on one market."
+  },
+  "lump": {
+   "zh": "若考虑增加中国或亚洲相关投资,单笔资金可以分批进场,并先确认自己能接受的波动程度。",
+   "en": "If considering more China or Asia exposure, a lump sum may be phased in, after confirming the level of volatility you can accept."
+  },
+  "bond": {
+   "zh": "中国增长放缓与全球利率走向,可能影响亚洲债券收益率与资金流向;大马债券基金主要受国内利率与令吉走势影响,中国数据的影响通常较间接。",
+   "en": "China's slower growth and global rate trends may affect Asian bond yields and capital flows; Malaysian bond funds are mainly driven by local rates and the ringgit, so China's data usually matters indirectly."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-set-to-pick-up-as-exports-power-ahead-4956122"
+  }
+ }
+]
