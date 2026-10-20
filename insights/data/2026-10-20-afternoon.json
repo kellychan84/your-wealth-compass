@@ -1,0 +1,180 @@
+[
+ {
+  "id": "2026-10-20-a1",
+  "time": "2026-10-20T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒指收盘跌319点,科技股与英国银行税传闻拖累",
+   "en": "Hang Seng closes 319 points lower as tech and UK bank-tax talk weigh"
+  },
+  "analysis": {
+   "zh": "据The Standard,恒生指数周二收跌319点或1.32%,报23,867点,恒生科技指数跌1.52%至4,045点,全日成交HK$1,900亿。联想跌近10%,宁德时代在公布第三季业绩前跌6.58%,阿里巴巴跌3.58%,腾讯跌1.77%;汇丰与渣打也因英国可能征收银行税的报道而下跌。上证综指则微升0.12%至3,735点。就像一艘大船遇上风浪,个别股票的颠簸往往比整体指数更明显。",
+   "en": "The Standard reports the Hang Seng Index closed down 319 points, or 1.32%, at 23,867, with the Hang Seng Tech index off 1.52% at 4,045 on turnover of HK$190 billion. Lenovo fell nearly 10%, CATL lost 6.58% ahead of its third-quarter results, Alibaba dropped 3.58% and Tencent 1.77%; HSBC and Standard Chartered also fell on reports of a possible UK bank tax. The Shanghai Composite edged up 0.12% to 3,735. Like a big ship in rough water, individual stocks often pitch harder than the index as a whole."
+  },
+  "dda": {
+   "zh": "单日大跌是定期定额(DDA)的日常风景。按计划持续投入,价格低时可买到较多单位,长期下来成本会被摊平。",
+   "en": "A sharp one-day drop is a normal part of the DDA journey. Investing on schedule means more units are bought when prices are lower, which generally averages the cost over time."
+  },
+  "prs": {
+   "zh": "退休规划的时间跨度通常是数十年,港股的单日波动对长线影响有限。可以顺便检视PRS每年最高RM3,000税务减免是否已善用。",
+   "en": "Retirement horizons usually span decades, so one day in Hong Kong tends to matter little over the long run. It may also be a good moment to check whether the PRS tax relief of up to RM3,000 a year is being used."
+  },
+  "lump": {
+   "zh": "若手上有一笔资金,可以考虑分批进场以分散时机风险,并留意组合是否过度集中于单一市场或科技主题,同时配合自己的目标与风险承受度。",
+   "en": "With a lump sum, phasing in can spread timing risk. It is worth checking whether the portfolio leans too heavily on one market or on tech, and matching the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股的涨跌对大马债券基金的直接影响通常有限。债券基金更受国家银行OPR、通胀与令吉走势影响,在组合中常扮演平衡股市波动的角色。",
+   "en": "Hong Kong equity moves generally have limited direct effect on Malaysian bond funds, which respond more to Bank Negara's OPR, inflation and the ringgit. Bonds often serve as a balancer against equity swings."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/345956/Hang-Seng-falls-319-points-as-tech-UK-bank-tax-fears-weigh-on-market"
+  }
+ },
+ {
+  "id": "2026-10-20-a2",
+  "time": "2026-10-20T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "台股收跌1.13%,期货结算前观望气氛浓",
+   "en": "Taiwan shares close down 1.13% ahead of futures settlement"
+  },
+  "analysis": {
+   "zh": "据中央社(Focus Taiwan),台湾加权指数周二收跌529.15点或1.13%,报46,292.93点,成交额约NT$7,586.8亿。交易员提到周三十月期货结算在即,担心持有大量空头仓位的外资可能在现货市场卖出。早上的报道指指数开盘为46,712.57点,收盘比开盘更低。台股与亚洲芯片股关系密切,这类结算日前的波动也会影响区域情绪。",
+   "en": "Focus Taiwan (CNA) reports the Taiwan weighted index closed down 529.15 points, or 1.13%, at 46,292.93 on turnover of about NT$758.68 billion. Dealers pointed to Wednesday's October futures settlement and worries that foreign institutions holding many short positions may sell in the spot market. The index had opened at 46,712.57, so it ended the session below the open. Taiwan is closely tied to Asia's chip sector, so settlement-day swings like this can colour regional sentiment."
+  },
+  "dda": {
+   "zh": "科技主题波动较大时,定期定额(DDA)的纪律更显重要。不必猜测短期方向,按计划投入即可。",
+   "en": "When tech themes get choppy, the discipline of DDA matters even more. There is no need to guess short-term direction; investing on schedule is usually enough."
+  },
+  "prs": {
+   "zh": "退休金的投资通常需要分散于不同地区与行业,而不是押注单一主题。长线规划可以让短期波动变得没那么吓人。",
+   "en": "Retirement savings generally benefit from spreading across regions and sectors rather than relying on one theme. A long horizon can make short-term swings feel less alarming."
+  },
+  "lump": {
+   "zh": "单笔投资可以考虑分批进场以分散时机风险,并检查组合在芯片与AI主题上是否过度集中,配合自己的风险承受度。",
+   "en": "For lump sums, phasing in can spread timing risk; check whether chips and AI make up too large a share of the portfolio, in line with your risk tolerance."
+  },
+  "bond": {
+   "zh": "台股走势对大马债券基金影响间接,主要通过全球风险情绪与资金流向。债券基金仍主要看利率、OPR与通胀走势。",
+   "en": "Taiwan's market affects Malaysian bond funds only indirectly, mainly through global risk sentiment and capital flows. Rates, the OPR and inflation remain the main drivers."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610200008"
+  }
+ },
+ {
+  "id": "2026-10-20-a3",
+  "time": "2026-10-20T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "commodities"
+  ],
+  "title": {
+   "zh": "日经指数收跌1.16%,下跌股远多于上涨股",
+   "en": "Nikkei 225 closes down 1.16% as decliners swamp advancers"
+  },
+  "analysis": {
+   "zh": "据Investing.com,日经225周二收跌1.16%,东证下跌股2,821只,上涨股710只。Resonac Holdings跌10.80%,Fujikura跌6.47%,SUMCO跌6.30%。同时段WTI原油约$98.42,布伦特约$109.63,黄金期货约$4,153.32,美元兑日元约158.14。就像一场球赛,领先的球员暂时退场时,整个队伍的节奏都会受影响。",
+   "en": "Investing.com reports the Nikkei 225 closed down 1.16% on Tuesday, with 2,821 decliners against 710 advancers on the TSE. Resonac Holdings fell 10.80%, Fujikura 6.47% and SUMCO 6.30%. In the same report WTI crude was around $98.42, Brent about $109.63, gold futures near $4,153.32 and USD/JPY at 158.14. Like a team whose key players leave the pitch for a spell, the whole rhythm shifts."
+  },
+  "dda": {
+   "zh": "日股与半导体供应链相关的股票大幅波动,提醒我们个别主题风险。定期定额(DDA)分散于多个市场,有助于平滑整体波动。",
+   "en": "Sharp moves in Japanese chip-supply-chain names are a reminder of single-theme risk. Spreading DDA across several markets can help smooth overall volatility."
+  },
+  "prs": {
+   "zh": "退休规划着重长期分散,而不是追逐某个行业。信托基金通常已经分散于多只股票,可以降低单一公司冲击。",
+   "en": "Retirement planning stresses long-term diversification rather than chasing one sector. Unit trusts usually hold many stocks, which can soften the impact of any single company."
+  },
+  "lump": {
+   "zh": "单笔投资可以考虑分批进场,并留意是否在同一主题上重复持有。目标与风险承受度应优先于市场标题。",
+   "en": "For a lump sum, consider phasing in and check for overlapping exposure to the same theme. Goals and risk tolerance should come before market headlines."
+  },
+  "bond": {
+   "zh": "油价与日元走势会影响全球通胀与利率预期,间接牵动大马政府债券(MGS)与回教债券的价格,不过直接影响通常有限。",
+   "en": "Oil and the yen shape global inflation and rate expectations, which may indirectly move MGS and sukuk prices, though the direct effect is usually limited."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-116-4958953"
+  }
+ },
+ {
+  "id": "2026-10-20-a4",
+  "time": "2026-10-20T17:00:00+08:00",
+  "tags": [
+   "fed"
+  ],
+  "title": {
+   "zh": "消息:日本央行或上调通胀预测、维持利率不变",
+   "en": "BOJ may raise its inflation forecast but hold rates, sources say"
+  },
+  "analysis": {
+   "zh": "据路透社(经The Standard),四名消息人士称,由于油价上涨对物价的压力比预期更久,日本央行可能上调下一财年的通胀预测,并在10月30日会议上按兵不动,除非日元进一步走弱。目前政策利率为1.25%,是31年来的高位。许多受访分析师预计到明年6月利率将升至1.75%。这是消息人士的说法,并非正式决定。",
+   "en": "Reuters, via The Standard, reports four sources saying the Bank of Japan may raise its inflation forecast for the next fiscal year because higher oil prices are pressuring prices for longer than expected, and is expected to hold at its October 30 meeting unless the yen weakens further. The policy rate is 1.25%, a 31-year high. Many analysts polled expect 1.75% by June next year. These are sources' views, not a formal decision."
+  },
+  "dda": {
+   "zh": "利率走向会影响全球股债估值。定期定额(DDA)不需要预测央行,按计划投入即可。",
+   "en": "Rate paths affect global equity and bond valuations. DDA does not require predicting central banks; investing on schedule is usually enough."
+  },
+  "prs": {
+   "zh": "通胀上升会侵蚀退休金的购买力,所以退休规划应该把长期通胀纳入考虑。PRS每年最高RM3,000的税务减免也值得善用。",
+   "en": "Rising inflation erodes the buying power of retirement savings, so long-term inflation belongs in any plan. The PRS tax relief of up to RM3,000 a year is also worth using."
+  },
+  "lump": {
+   "zh": "全球利率变化时,单笔投资可以考虑分批进场以分散时机风险,并确认资金用途与时间长度相匹配。",
+   "en": "When global rates shift, phasing in a lump sum can spread timing risk; also check that the money's purpose and time horizon match."
+  },
+  "bond": {
+   "zh": "日本加息会影响全球资金流向与收益率,可能间接影响大马债券基金所涉及的MGS与回教债券。国家银行OPR与通胀仍是主要因素。",
+   "en": "Japanese rate moves can shift global capital flows and yields, which may indirectly affect MGS and sukuk held by Malaysian bond funds. Bank Negara's OPR and inflation remain the main drivers."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/345958/Bank-of-Japan-may-raise-inflation-forecast-stand-pat-on-rates-sources-say"
+  }
+ },
+ {
+  "id": "2026-10-20-a5",
+  "time": "2026-10-20T17:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "大马综指早盘持稳于1,595点,投资者观望",
+   "en": "KLCI steady near 1,595 early Tuesday as investors stay on the sidelines"
+  },
+  "analysis": {
+   "zh": "据The Star,周二早上9.05时,富时综指微跌0.43点至1,595.32点,投资者出于谨慎观望;综指自8月下旬起呈下跌趋势。Apex Securities指出,美国10年期国债收益率约5.15%、30年期约5.48%,可能限制华尔街反弹的正面外溢效应,但第三季GDP增长5.3%优于预期,对股市有利。外资流向是关键变数。以上为早盘数据,并非收盘价。",
+   "en": "The Star reports that at 9.05am on Tuesday the FBM KLCI was down 0.43 points at 1,595.32, with investors on the sidelines out of caution; the index has been in a downtrend since late August. Apex Securities noted that US 10-year yields near 5.15% and 30-year near 5.48% may limit spillover from Wall Street's rebound, while Q3 GDP growth of 5.3% beat expectations and supports equities. Foreign fund flows are the key swing factor. These are early-session figures, not the close."
+  },
+  "dda": {
+   "zh": "大马综指低位徘徊时,定期定额(DDA)的纪律尤其重要:持续按计划投入,价格较低时可累积较多单位。",
+   "en": "With the KLCI hovering at lows, DDA discipline matters: investing steadily on schedule means more units are accumulated when prices are lower."
+  },
+  "prs": {
+   "zh": "退休规划着眼长远,本地市场的数月起伏只是长线的一小段。可检视PRS每年最高RM3,000税务减免是否已善用。",
+   "en": "Retirement planning looks far ahead, and a few months of local weakness is a small part of the journey. Check whether the PRS tax relief of up to RM3,000 a year is being used."
+  },
+  "lump": {
+   "zh": "单笔投资可以考虑分批进场以分散时机风险,同时检查组合是否过度集中于本地或单一行业,并配合目标与风险承受度。",
+   "en": "For a lump sum, phasing in can spread timing risk; check for over-concentration in local or single-sector holdings and match to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国长期收益率偏高与外资流向,可能影响大马政府债券(MGS)与回教债券的价格和令吉。国家银行OPR与通胀仍是核心因素;债券在组合中也常扮演平衡角色。",
+   "en": "High US long-term yields and foreign flows may influence MGS and sukuk prices and the ringgit. Bank Negara's OPR and inflation stay central, and bonds often act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/20/traders-on-bursa-opt-for-the-sidelines"
+  }
+ }
+]
