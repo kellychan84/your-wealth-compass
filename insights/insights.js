@@ -2,6 +2,265 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-10-20-m0",
+  "kind": "summary",
+  "time": "2026-10-20T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "美股科技股反弹、纳指涨1.1%,但富时综指跌破1,600点;油价仍高,中国第三季GDP增长4.5%",
+   "en": "Tech leads a Wall Street rebound with the Nasdaq up 1.1%, but the KLCI slips below 1,600; oil stays high and China's Q3 GDP grows 4.5%"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,690.73",
+    "change": "+0.41%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "26,430.89",
+    "change": "+1.11%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "富时综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,595.75",
+    "change": "-0.75%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "$108.25",
+    "change": "-1.47%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周一美股科技股反弹,纳指涨1.11%,市场正等待Meta、Tesla等大型科技公司的财报。",
+    "en": "US tech stocks rebounded on Monday with the Nasdaq up 1.11%, while investors wait for earnings from Meta, Tesla and other big tech names."
+   },
+   {
+    "zh": "大马综指周一跌0.75%至1,595.75点,为一年多来最低,外资持续流出。",
+    "en": "The KLCI fell 0.75% to 1,595.75 on Monday, its lowest in over a year, as foreign funds kept selling."
+   },
+   {
+    "zh": "中国第三季GDP同比增长4.5%,高于路透民调预期的4.4%。",
+    "en": "China's Q3 GDP grew 4.5% year on year, above the 4.4% Reuters poll forecast."
+   }
+  ],
+  "takeaway": {
+   "zh": "市场起伏的日子,最容易让人想临时改变计划。作为信托基金顾问,我通常建议先回到自己的目标、时间长度和风险承受度,保持分散,会比追着每个标题调整更踏实。",
+   "en": "Volatile days make it tempting to change plans on the spot. As a unit trust consultant, I'd generally suggest returning to your goals, time horizon and risk tolerance first; staying diversified usually feels steadier than chasing every headline."
+  },
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/10/19/fbm-klci-sinks-below-1600-to-lowest-level-in-over-a-year-amid-broad-based-selling"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-accelerates-to-45-beating-forecast-4956208"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-20-m1",
+  "time": "2026-10-20T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "美股科技股反弹,纳指涨1.1%",
+   "en": "Tech stocks rebound as the Nasdaq gains 1.1%"
+  },
+  "analysis": {
+   "zh": "据CNBC,周一纳斯达克综指涨1.11%至26,430.89点,标普500涨0.41%至7,690.73点,道指微跌0.07%。芯片股领涨,Nvidia涨约1.4%,Tesla涨约3.8%,分析师称这是上周大跌后的超卖反弹,后续要看Meta、Tesla等本周财报。就像大雨之后天空放晴一会儿,还不能断定天气已经稳定。",
+   "en": "CNBC reports that on Monday the Nasdaq Composite rose 1.11% to 26,430.89, the S&P 500 gained 0.41% to 7,690.73 and the Dow slipped 0.07%. Chipmakers led, with Nvidia up about 1.4% and Tesla about 3.8%; analysts called it an oversold bounce after last week's selloff, with Meta and Tesla earnings this week the next test. It is like a sunny spell after heavy rain: pleasant, but not yet proof the weather has settled."
+  },
+  "dda": {
+   "zh": "定期定额(DDA)的好处是不需要判断反弹是否持续。无论市场涨或跌,按计划投入,长期下来成本会被摊平。",
+   "en": "The benefit of regular (DDA) investing is that you don't have to judge whether a rebound will last. Investing on schedule through ups and downs generally averages the cost over time."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,单日涨跌通常只是长线中的小波动。可以趁机检视PRS每年最高RM3,000税务减免是否已善用。",
+   "en": "Retirement planning spans decades, so a single day's move is usually a small ripple on a long chart. It may be a good time to check whether the PRS tax relief of up to RM3,000 a year is being used."
+  },
+  "lump": {
+   "zh": "反弹之后不必急着一次投入。单笔投资可以考虑分批进场以分散时机风险,并留意组合是否过度集中于AI科技,同时配合自己的目标与风险承受度。",
+   "en": "After a rebound there is no need to rush in all at once. For lump sums, phasing in can spread timing risk; check whether the portfolio is too concentrated in AI tech and match the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市反弹对大马债券基金的直接影响通常有限,债券基金更受利率、国家银行OPR和通胀预期影响。债券在组合中常扮演平衡股票波动的角色。",
+   "en": "A stock rebound generally has limited direct effect on Malaysian bond funds, which respond more to interest rates, Bank Negara's OPR and inflation expectations. Bonds often serve as a balancer against equity volatility."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html"
+  }
+ },
+ {
+  "id": "2026-10-20-m2",
+  "time": "2026-10-20T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "胡塞袭击沙特设施,油价仍在每桶$108以上",
+   "en": "Houthi attacks on Saudi sites keep oil above $108 a barrel"
+  },
+  "analysis": {
+   "zh": "据Investing.com,布伦特原油(12月期货)约$109.44,WTI约$98.45。胡塞武装称在48小时内袭击沙特阿美位于延布的设施、Shaybah油田和两个机场,伊朗事实上封锁荷尔木兹海峡,约占全球20%的石油供应。另外,特朗普豁免了多数与俄罗斯能源出口相关的制裁,一度压低油价,之后交易员获利了结。油价像家里的水电费,涨得久了,各行各业的成本都会慢慢被推高。",
+   "en": "Investing.com reports Brent (December futures) near $109.44 and WTI near $98.45. The Houthis said they carried out strikes over 48 hours on Saudi Aramco facilities in Yanbu, the Shaybah field and two airports, while Iran's effective closure of the Strait of Hormuz has blocked roughly 20% of world oil supply. Separately, Trump waived most sanctions tied to Russian energy exports, which briefly pushed prices lower before traders took profits. Oil is like the utility bill: when it stays high, costs across the economy slowly rise."
+  },
+  "dda": {
+   "zh": "油价高企可能推升通胀和利率预期,令市场波动加大。定期定额的纪律在这类时期尤其重要,避免因标题而临时中断。",
+   "en": "High oil can lift inflation and rate expectations and make markets choppier. The discipline of regular (DDA) investing matters most in such periods, so plans aren't interrupted by headlines."
+  },
+  "prs": {
+   "zh": "通胀会侵蚀退休金的购买力,所以退休规划要把长期通胀考虑进去。PRS每年最高RM3,000的税务减免也值得善用。",
+   "en": "Inflation erodes the buying power of retirement savings, so long-term inflation belongs in any retirement plan. The PRS tax relief of up to RM3,000 a year is also worth using."
+  },
+  "lump": {
+   "zh": "能源价格受地缘政治影响,短期难以预测。单笔投资可以分批进场、检查是否过度集中在能源或单一主题,并配合自己的目标与风险承受度。",
+   "en": "Energy prices swing on geopolitics and are hard to predict short term. For lump sums, phasing in, checking concentration in energy or any single theme, and matching your goals and risk tolerance are the usual principles."
+  },
+  "bond": {
+   "zh": "油价持续偏高可能带来通胀压力,进而影响市场对利率和国家银行OPR的预期,大马政府债券(MGS)与企业债/回教债券的价格可能因此波动。令吉与外资流向也值得留意。",
+   "en": "Persistently high oil can add inflation pressure and shift expectations for rates and Bank Negara's OPR, which may move prices of MGS and corporate bonds and sukuk. Ringgit moves and foreign flows are also worth watching."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158"
+  }
+ },
+ {
+  "id": "2026-10-20-m3",
+  "time": "2026-10-20T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "中国第三季GDP增长4.5%,优于预期",
+   "en": "China's Q3 GDP grows 4.5%, beating forecasts"
+  },
+  "analysis": {
+   "zh": "据路透社(经Investing.com),中国第三季GDP同比增长4.5%,高于民调预期的4.4%,第二季为4.3%;按季增长1.2%,预期1.1%。全年官方目标为4.5%至5%。报道指增长回升减轻了政策制定者推出更大力度刺激措施的压力,近期当局也扩大了对购房者的支持。就像学生成绩小幅回升,是好消息,但离稳固还要观察几个季度。",
+   "en": "Reuters, via Investing.com, reports China's Q3 GDP rose 4.5% year on year, above the 4.4% poll forecast and up from 4.3% in Q2; quarter on quarter growth was 1.2% versus 1.1% expected. The full-year target is 4.5% to 5%. The report says the rebound eases pressure on policymakers for more aggressive stimulus, and authorities have recently expanded support for home buyers. It is like a student's grades ticking up: encouraging, but a few more quarters are needed to call it solid."
+  },
+  "dda": {
+   "zh": "中国是全球第二大经济体,增长变化会影响亚洲区域基金的表现。长期定期投入时,分散于不同地区有助于降低单一市场的影响。",
+   "en": "China is the world's second-largest economy and its growth can affect Asia-regional funds. For regular long-term investing, spreading across regions may help reduce reliance on any single market."
+  },
+  "prs": {
+   "zh": "退休资金的时间很长,不需要因为单季数据而改变方向,更重要的是定期检视组合是否仍符合退休目标。PRS每年最高RM3,000税务减免可一并考虑。",
+   "en": "Retirement money has a long horizon and doesn't need to change course on one quarter's data; what matters is reviewing regularly that the portfolio still fits retirement goals. The PRS relief of up to RM3,000 a year can be part of that review."
+  },
+  "lump": {
+   "zh": "若考虑投资中国相关市场,单笔投资可以分批进场以分散时机风险,并检查组合在单一国家的集中度,同时配合自己的风险承受度。",
+   "en": "If considering China-related markets, phasing in a lump sum can spread timing risk; check concentration in any one country and match the amount to your risk tolerance."
+  },
+  "bond": {
+   "zh": "中国增长回稳对大马债券基金的直接影响一般有限,但可能通过贸易、大宗商品需求和令吉情绪间接产生作用。债券仍是平衡组合的工具之一。",
+   "en": "Steadier Chinese growth generally has limited direct effect on Malaysian bond funds, though it can work indirectly through trade, commodity demand and ringgit sentiment. Bonds remain one tool for balancing a portfolio."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/chinas-q3-gdp-growth-accelerates-to-45-beating-forecast-4956208"
+  }
+ },
+ {
+  "id": "2026-10-20-m4",
+  "time": "2026-10-20T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时综指跌破1,600点,为一年多来最低",
+   "en": "FBM KLCI sinks below 1,600, its lowest in over a year"
+  },
+  "analysis": {
+   "zh": "据The Star,周一下午5点,富时综指下跌12.01点或0.75%,报1,595.75点,盘中在1,604.90至1,592.10之间波动;跌股741只,涨股322只,成交量24.94亿股,值RM23.9亿。交易员称外资基金持续流出,情绪谨慎。令吉兑美元报4.0825。指数像一条水位线,降到低位时会让人不安,但它反映的是情绪,不等于每个人的投资目标都改变了。",
+   "en": "The Star reports that at 5pm Monday the FBM KLCI fell 12.01 points, or 0.75%, to 1,595.75, trading between 1,604.90 and 1,592.10. Losers beat gainers 741 to 322, with 2.494 billion shares worth RM2.39 billion changing hands. Dealers cited persistent foreign fund outflows and cautious sentiment, and the ringgit was at RM4.0825 per US dollar. An index is like a water mark: a low reading feels unsettling, but it reflects sentiment, not that your own goals have changed."
+  },
+  "dda": {
+   "zh": "大马股市走低时,定期定额投入的每一笔通常能买到更多单位,长期有助于摊平成本。关键是持续,而不是预测低点。",
+   "en": "When Malaysian stocks are lower, each regular (DDA) contribution generally buys more units, which may help average the cost over time. The key is consistency, not predicting the bottom."
+  },
+  "prs": {
+   "zh": "退休规划是长跑,综指短期走低不代表退休目标改变。可以趁机检视PRS每年最高RM3,000的税务减免是否已善用。",
+   "en": "Retirement planning is a marathon; a lower KLCI doesn't change retirement goals. It may be a good moment to check whether the PRS tax relief of up to RM3,000 a year is being used."
+  },
+  "lump": {
+   "zh": "市场低迷时,单笔投资可以分批进场以分散时机风险,同时检查组合是否过度集中于本地某一行业,并配合自己的目标与风险承受度。",
+   "en": "In weak markets, phasing in a lump sum can spread timing risk; check for over-concentration in one local sector and match the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "外资流出股市时,大马债券基金可能受到令吉和外资流向的间接影响,但债券收益主要受国家银行OPR和通胀预期影响。债券在股市波动时常起平衡作用。",
+   "en": "When foreign money leaves equities, Malaysian bond funds may feel indirect effects through the ringgit and foreign flows, though bond returns mostly respond to Bank Negara's OPR and inflation expectations. Bonds often play a balancing role when equities are volatile."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/19/fbm-klci-sinks-below-1600-to-lowest-level-in-over-a-year-amid-broad-based-selling"
+  }
+ },
+ {
+  "id": "2026-10-20-m5",
+  "time": "2026-10-20T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收低但尾盘科技股回升,台积电持平",
+   "en": "Taiwan shares close lower but tech recovers late, TSMC flat"
+  },
+  "analysis": {
+   "zh": "据中央社英文版,周一台湾加权指数下跌289.18点或0.61%,收46,822.08点,盘中一度大跌逾940点,尾盘因买盘进场科技股而收窄跌幅。台积电收报NT$2,420持平,占整体市值逾40%。外资净卖出NT$767.4亿。当一家公司占了大半个市场,它的动向就像大船的方向舵,影响整个指数。",
+   "en": "Focus Taiwan reports the Taiex fell 289.18 points, or 0.61%, to 46,822.08 on Monday after dropping more than 940 points early, as late buying in tech stocks narrowed the loss. TSMC closed unchanged at NT$2,420 and accounts for over 40% of the market's capitalization. Foreign investors were net sellers of NT$76.74 billion. When one company is that large a part of a market, it works like a ship's rudder for the whole index."
+  },
+  "dda": {
+   "zh": "许多全球及亚洲科技基金都持有台积电等大型芯片股,这类集中度提醒我们:定期投入的同时,也要留意基金的持仓是否过于集中。",
+   "en": "Many global and Asian tech funds hold large chip names such as TSMC, a reminder that while investing regularly it also helps to check how concentrated a fund's holdings are."
+  },
+  "prs": {
+   "zh": "退休资金通过基金间接持有科技股的情况很常见。定期检视持仓分布,了解退休组合里科技占比,是长期规划的一部分。PRS每年最高RM3,000税务减免也可一并检视。",
+   "en": "Retirement savings often hold tech stocks indirectly through funds. Reviewing holdings regularly to see how much tech a retirement portfolio carries is part of long-term planning, along with the PRS relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "盘中大跌后尾盘回升,说明短期波动可以很剧烈。单笔投资可以分批进场以分散时机风险,并留意单一主题或单一公司的集中度。",
+   "en": "A big intraday drop followed by a late recovery shows how sharp short-term swings can be. For lump sums, phasing in can spread timing risk, and it helps to check concentration in a single theme or company."
+  },
+  "bond": {
+   "zh": "台股和芯片股的波动对大马债券基金的直接影响通常有限,但外资风险情绪转变可能影响区域资金流向。债券在组合中常扮演平衡股票波动的角色。",
+   "en": "Swings in Taiwan and chip stocks generally have limited direct effect on Malaysian bond funds, though shifts in foreign risk appetite can affect regional flows. Bonds often serve as a balancer against equity volatility."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610190016"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-19-m0",
   "kind": "summary",
   "time": "2026-10-19T09:00:00+08:00",
