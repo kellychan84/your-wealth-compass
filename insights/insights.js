@@ -2,6 +2,266 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-10-21-m0",
+  "kind": "summary",
+  "time": "2026-10-21T09:00:00+08:00",
+  "title": {
+   "zh": "道指涨1%、纳指持平,油价回落但仍在六个月高位;台股跌1.13%,美联储会议临近",
+   "en": "Dow gains 1% and the Nasdaq is flat as oil eases from six-month highs; Taiwan stocks slip 1.13% with the Fed meeting near"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,712.52",
+    "change": "+0.3%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow"
+    },
+    "value": "52,497.42",
+    "change": "+1.0%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "26,424.82",
+    "change": "0.0%",
+    "dir": ""
+   },
+   {
+    "label": {
+     "zh": "台股加权指数",
+     "en": "TAIEX"
+    },
+    "value": "46,292.93",
+    "change": "-1.13%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周二美股收盘,道指涨约1%,医疗保健股领涨,3M因上调全年盈利指引大涨;纳指持平。",
+    "en": "On Tuesday the Dow rose about 1% led by health care, with 3M jumping after raising its full-year profit guidance; the Nasdaq was flat."
+   },
+   {
+    "zh": "布伦特与WTI原油盘中触及六个月高位,收盘分别下跌0.7%与1.8%;美联储10月27至28日开会。",
+    "en": "Brent and WTI touched six-month highs intraday but closed down 0.7% and 1.8%; the Fed meets on October 27-28."
+   },
+   {
+    "zh": "台股周二跌1.13%,外资净卖超;台积电跌0.62%,相对抗跌。",
+    "en": "Taiwan's TAIEX fell 1.13% on Tuesday on foreign selling, while TSMC slipped just 0.62%."
+   }
+  ],
+  "takeaway": {
+   "zh": "消息一天一个样,但长期目标不会因为一天的涨跌而改变。作为信托基金顾问,我通常建议先看自己的时间长度和风险承受度,再决定是否需要调整,而不是追着标题走。",
+   "en": "The headlines change daily, but long-term goals don't change with one day's move. As a unit trust consultant, I'd generally suggest looking at your time horizon and risk tolerance first, rather than chasing headlines."
+  },
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/economy-news/trading-day-oil-reversal-lifts-spirits-4961184"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202610200013"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-21-m1",
+  "time": "2026-10-21T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "道指涨1%,3M与医疗保健股领涨,科技股拖累",
+   "en": "Dow climbs 1% on 3M and health care while tech lags"
+  },
+  "analysis": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "dda": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "prs": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "lump": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "bond": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596"
+  }
+ },
+ {
+  "id": "2026-10-21-m2",
+  "time": "2026-10-21T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "us"
+  ],
+  "title": {
+   "zh": "原油触及六个月高位后回落,长债收益率下滑",
+   "en": "Oil retreats from six-month highs as long-dated yields ease"
+  },
+  "analysis": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "dda": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "prs": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "lump": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "bond": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/economy-news/trading-day-oil-reversal-lifts-spirits-4961184"
+  }
+ },
+ {
+  "id": "2026-10-21-m3",
+  "time": "2026-10-21T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "commodities"
+  ],
+  "title": {
+   "zh": "美联储会议前夕,金价小幅回落",
+   "en": "Gold dips ahead of the Fed meeting"
+  },
+  "analysis": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "dda": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "prs": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "lump": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "bond": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/gold-slips-as-investors-weigh-fed-rate-outlook-4958646"
+  }
+ },
+ {
+  "id": "2026-10-21-m4",
+  "time": "2026-10-21T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股跌1.13%,外资净卖超,台积电相对抗跌",
+   "en": "Taiwan stocks fall 1.13% on foreign selling, TSMC holds up better"
+  },
+  "analysis": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "dda": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "prs": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "lump": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "bond": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610200013"
+  }
+ },
+ {
+  "id": "2026-10-21-m5",
+  "time": "2026-10-21T09:00:00+08:00",
+  "tags": [
+   "my",
+   "fed"
+  ],
+  "title": {
+   "zh": "富时综指跌破1,600点后外资持续卖出,市场关注美联储决议",
+   "en": "KLCI stays under 1,600 as foreign selling continues, with the Fed decision in view"
+  },
+  "analysis": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "dda": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "prs": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "lump": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "bond": {
+   "zh": "zh",
+   "en": "en"
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/19/fbm-klci-falls-as-foreign-selling-continues"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-20-m0",
   "kind": "summary",
   "time": "2026-10-20T09:00:00+08:00",
