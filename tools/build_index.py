@@ -113,10 +113,13 @@ def card_issues(c):
     else:
         if not (c.get("source") or {}).get("url"):
             out.append("missing source.url")
-        for k in BOXES:
+        for k in ("analysis",) + BOXES:
             o = c.get(k) or {}
             if not (o.get("zh") and o.get("en")):
                 out.append(f"box '{k}' missing zh/en")
+            # Placeholder text such as "zh"/"en" or "TODO" got published on 2026-10-21 - real text is much longer.
+            elif len(str(o["zh"]).strip()) < 20 or len(str(o["en"]).strip()) < 30:
+                out.append(f"box '{k}' is too short - placeholder text? (zh {len(str(o['zh']).strip())} chars, en {len(str(o['en']).strip())} chars)")
             elif any(str(o.get(l, "")).lstrip().startswith("🎯") for l in ("zh", "en")):
                 out.append(f"box '{k}' repeats its label (starts with 🎯)")
         texts = [bitext(c.get(k)) for k in ("title", "analysis") + BOXES]

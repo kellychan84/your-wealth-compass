@@ -89,7 +89,11 @@ A valid JSON array (no comments), exactly as specified in `insights/README.md`:
 python3 tools/build_index.py
 ```
 It must print `insights.js rebuilt with N insight cards` (N went up) and **no WARNING lines**. Every WARNING names the card and
-the problem (missing box, label repeated in a box, banned word, "no update" wording…). Fix the JSON and rerun until it is clean.
+the problem (missing box, label repeated in a box, banned word, "no update" wording, placeholder text…). Fix the JSON and rerun until it is clean.
+
+**Then read back what you wrote (Kelly, 2026-10-21).** On 2026-10-21 a generator script published every analysis and box as the
+literal text "zh" / "en". Before committing, print the first news card in full from the JSON file and check that every field
+holds the real sentences you wrote. If you generate the file with a script, pass the actual text, never placeholder strings.
 
 ## 4. Publish
 Only `insights/` may change. If anything else shows in `git status`, do not commit it.

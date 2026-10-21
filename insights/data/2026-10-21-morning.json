@@ -3,47 +3,16 @@
   "id": "2026-10-21-m0",
   "kind": "summary",
   "time": "2026-10-21T09:00:00+08:00",
+  "tags": [],
   "title": {
    "zh": "道指涨1%、纳指持平,油价回落但仍在六个月高位;台股跌1.13%,美联储会议临近",
    "en": "Dow gains 1% and the Nasdaq is flat as oil eases from six-month highs; Taiwan stocks slip 1.13% with the Fed meeting near"
   },
   "figures": [
-   {
-    "label": {
-     "zh": "标普500",
-     "en": "S&P 500"
-    },
-    "value": "7,712.52",
-    "change": "+0.3%",
-    "dir": "up"
-   },
-   {
-    "label": {
-     "zh": "道琼斯",
-     "en": "Dow"
-    },
-    "value": "52,497.42",
-    "change": "+1.0%",
-    "dir": "up"
-   },
-   {
-    "label": {
-     "zh": "纳斯达克",
-     "en": "Nasdaq"
-    },
-    "value": "26,424.82",
-    "change": "0.0%",
-    "dir": ""
-   },
-   {
-    "label": {
-     "zh": "台股加权指数",
-     "en": "TAIEX"
-    },
-    "value": "46,292.93",
-    "change": "-1.13%",
-    "dir": "dn"
-   }
+   { "label": { "zh": "标普500", "en": "S&P 500" }, "value": "7,712.52", "change": "+0.3%", "dir": "up" },
+   { "label": { "zh": "道琼斯", "en": "Dow" }, "value": "52,497.42", "change": "+1.0%", "dir": "up" },
+   { "label": { "zh": "纳斯达克", "en": "Nasdaq" }, "value": "26,424.82", "change": "0.0%", "dir": "" },
+   { "label": { "zh": "台股加权指数", "en": "TAIEX" }, "value": "46,292.93", "change": "-1.13%", "dir": "dn" }
   ],
   "points": [
    {
@@ -64,49 +33,38 @@
    "en": "The headlines change daily, but long-term goals don't change with one day's move. As a unit trust consultant, I'd generally suggest looking at your time horizon and risk tolerance first, rather than chasing headlines."
   },
   "sources": [
-   {
-    "name": "Investing.com",
-    "url": "https://investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596"
-   },
-   {
-    "name": "Investing.com",
-    "url": "https://investing.com/news/economy-news/trading-day-oil-reversal-lifts-spirits-4961184"
-   },
-   {
-    "name": "Focus Taiwan",
-    "url": "https://focustaiwan.tw/business/202610200013"
-   }
+   { "name": "Investing.com", "url": "https://investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596" },
+   { "name": "Investing.com", "url": "https://investing.com/news/economy-news/trading-day-oil-reversal-lifts-spirits-4961184" },
+   { "name": "Focus Taiwan", "url": "https://focustaiwan.tw/business/202610200013" }
   ]
  },
  {
   "id": "2026-10-21-m1",
   "time": "2026-10-21T09:00:00+08:00",
-  "tags": [
-   "us"
-  ],
+  "tags": ["us"],
   "title": {
    "zh": "道指涨1%,3M与医疗保健股领涨,科技股拖累",
    "en": "Dow climbs 1% on 3M and health care while tech lags"
   },
   "analysis": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "周二道指涨1%至52,497.42点,标普500涨0.3%至7,712.52点,纳指收在26,424.82点,基本持平。3M上调全年盈利指引后涨近6%,Equifax和Hasbro各涨逾11%,医疗保健等防御板块走强;通用汽车因盈利预测令人失望跌6.8%。科技股仍然偏弱,标普和纳指上周刚经历6月下旬以来最差的一周。就像一支球队,前锋状态不好时,靠后卫和中场撑住了比分。",
+   "en": "On Tuesday the Dow rose 1% to 52,497.42, the S&P 500 gained 0.3% to 7,712.52 and the Nasdaq ended roughly flat at 26,424.82. 3M rose almost 6% after raising its full-year profit guidance, Equifax and Hasbro each jumped more than 11%, and defensive health care stocks rallied; General Motors fell 6.8% on a disappointing profit forecast. Tech stayed weak after the S&P 500 and Nasdaq had their worst week since late June. It's like a football team whose strikers are off form, with the defence and midfield holding the score."
   },
   "dda": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "这次是不同板块轮流撑场:科技股弱,医疗保健和工业股补上。定期定额投资分散在多个行业的基金,通常不必猜哪个板块领涨;每月固定投入,价格低时买到较多单位,长期有助平均成本。",
+   "en": "Different sectors took turns holding up the market: tech was weak while health care and industrials stepped in. Investing a fixed amount each month in a fund spread across many sectors means you usually don't need to guess which sector leads; you buy more units when prices are low, which helps average out your cost over time."
   },
   "prs": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "退休规划看的是二三十年,不是一周的板块轮动。PRS基金一般已在不同资产和行业之间分散,每年供款还可享最高RM3,000的个人税务减免。与其追当周热门,不如确认自己的配置是否符合年龄和风险承受度。",
+   "en": "Retirement planning spans 20 or 30 years, not one week of sector rotation. PRS funds are generally already spread across assets and sectors, and contributions qualify for personal tax relief of up to RM3,000 a year. Rather than chasing the week's winners, check that your mix suits your age and risk tolerance."
   },
   "lump": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "市场领涨板块常常变动,这样的日子提醒我们留意集中度:如果组合太偏重科技股,波动会更明显。单笔资金可以考虑分阶段投入来分散时间点风险,并检查组合是否与目标和风险承受度相符。",
+   "en": "Market leadership keeps shifting, and days like this are a reminder to watch concentration: a portfolio heavy in tech will swing more. For a lump sum, phasing in can spread timing risk, and it's worth checking that the portfolio matches your goals and risk tolerance."
   },
   "bond": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "美股小涨对马来西亚债券基金的直接影响不大。较值得留意的是美国长期国债收益率仍在5%以上,这会影响外资对新兴市场债券的兴趣和令吉走势。股市轮动时,债券基金一般为组合提供较稳定的收益来源。",
+   "en": "A modest US gain has little direct effect on Malaysian bond funds. More relevant is that long-dated US Treasury yields remain above 5%, which affects foreign appetite for emerging-market bonds and the ringgit. While stocks rotate, bond funds generally give a portfolio a steadier source of income."
   },
   "source": {
    "name": "Investing.com",
@@ -116,33 +74,30 @@
  {
   "id": "2026-10-21-m2",
   "time": "2026-10-21T09:00:00+08:00",
-  "tags": [
-   "commodities",
-   "us"
-  ],
+  "tags": ["commodities", "us"],
   "title": {
    "zh": "原油触及六个月高位后回落,长债收益率下滑",
    "en": "Oil retreats from six-month highs as long-dated yields ease"
   },
   "analysis": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "周二布伦特原油盘中一度升至约112美元、WTI突破110美元,双双创六个月新高,但随后回落,收盘分别跌0.7%和1.8%。WTI仍比一年前贵近80%。路透专栏指出,如果市场以为油价很快会回落,可能需要重新调整预期。美国长期国债收益率同日下跌约5个基点,短期收益率则升约2个基点。",
+   "en": "On Tuesday Brent rose to about $112 a barrel and WTI topped $110, both six-month highs, before pulling back to close down 0.7% and 1.8%. WTI is still nearly 80% pricier than a year ago. A Reuters column warned that if markets expect prices to fall soon, they may have to readjust. Long-dated US Treasury yields fell about 5 basis points, while short-dated yields rose about 2 basis points."
   },
   "dda": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "油价大起大落,能源和交通相关股票也会跟着波动。定期定额的好处是不需要猜油价的高低点,持续投入可以把这类短期波动摊平。",
+   "en": "Big swings in oil move energy and transport stocks too. The advantage of regular fixed investing is that you don't need to call oil's highs and lows; staying invested helps smooth out these short-term swings."
   },
   "prs": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "高油价通常会推高生活成本。对退休规划来说,这提醒我们要考虑通胀:退休后的开支可能比现在估计的更高。PRS长期投资的目标之一,就是让退休金的增长尽量跑赢通胀。",
+   "en": "High oil prices usually push up living costs. For retirement planning, that's a reminder to allow for inflation: spending in retirement may be higher than you estimate today. One aim of long-term PRS investing is to help your savings grow faster than inflation."
   },
   "lump": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "油价接近六个月高位、方向未明时,单笔投入能源主题较难把握时机。一般原则是分阶段投入,避免把资金集中在单一主题上,并确认投资与个人目标相符。",
+   "en": "With oil near six-month highs and the direction unclear, timing a lump sum into an energy theme is hard. The general principles are to phase in, avoid concentrating in a single theme, and make sure the investment fits your goals."
   },
   "bond": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "马来西亚是石油和天然气出口国,油价高一般有助政府收入,但也可能推高通胀,影响国家银行对OPR的考量。美国长期国债收益率回落,有时会减轻新兴市场债券的压力。债券基金经理通常会同时观察这些因素来调整组合。",
+   "en": "Malaysia exports oil and gas, so high prices generally help government revenue, but they can also lift inflation and shape Bank Negara's view on the OPR. Falling long-dated US yields can ease pressure on emerging-market bonds. Bond fund managers usually weigh these factors together when positioning their portfolios."
   },
   "source": {
    "name": "Investing.com",
@@ -152,33 +107,30 @@
  {
   "id": "2026-10-21-m3",
   "time": "2026-10-21T09:00:00+08:00",
-  "tags": [
-   "fed",
-   "commodities"
-  ],
+  "tags": ["fed", "commodities"],
   "title": {
    "zh": "美联储会议前夕,金价小幅回落",
    "en": "Gold dips ahead of the Fed meeting"
   },
   "analysis": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "周二亚洲早盘,现货金跌0.3%至每盎司4,126.84美元,12月期金跌0.3%至4,146美元。投资者在等美联储10月27至28日的议息会议和下周的PCE通胀数据。美联储9月已加息25个基点至3.75%至4.00%;CME FedWatch显示下周维持利率不变的概率为83%,市场对12月加息的预期达94%。利率越高,持有不付利息的黄金的机会成本就越高。",
+   "en": "In early Asian trade on Tuesday, spot gold fell 0.3% to $4,126.84 an ounce and December futures dropped 0.3% to $4,146. Investors are waiting for the Fed's October 27-28 meeting and next week's PCE inflation data. The Fed raised rates by 25 basis points in September to 3.75%-4.00%; CME FedWatch shows an 83% chance of no change next week, and expectations of a December hike stand at 94%. Higher rates raise the opportunity cost of holding gold, which pays no interest."
   },
   "dda": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "金价跟着利率预期上下,短期很难预测。若通过定期定额投资含黄金或大宗商品的基金,重点是长期纪律,而不是每天看金价。",
+   "en": "Gold moves with rate expectations and is hard to predict in the short run. If you invest regularly in a fund that holds gold or commodities, the key is long-term discipline rather than watching the daily price."
   },
   "prs": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "黄金在退休组合中通常扮演分散风险的角色,而不是主要的增长来源。PRS基金本身已有资产配置,一般不需要因为金价一时的涨跌而改变供款计划。",
+   "en": "In a retirement portfolio, gold usually plays a diversifying role rather than being the main source of growth. PRS funds already have their own asset mix, so there's generally no need to change your contribution plan because of a short-term move in gold."
   },
   "lump": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "金价处于4,100美元以上的高位,加上利率可能再升,单笔投入黄金相关资产的时间点风险较大。可以考虑分阶段投入,并留意黄金在整体组合中的比重是否过高。",
+   "en": "With gold above $4,100 and rates possibly heading higher, timing risk is significant for a lump sum into gold-related assets. Consider phasing in, and keep an eye on whether gold is taking up too large a share of the overall portfolio."
   },
   "bond": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "美国加息预期升温,通常会让全球债券收益率维持在较高水平。对马来西亚债券基金来说,较高的收益率意味着新买入的债券收益较好,但现有债券的价格可能承压。国家银行的OPR决定和令吉走势也会影响本地债券表现。",
+   "en": "Rising expectations of US rate hikes usually keep global bond yields high. For Malaysian bond funds, higher yields mean better income on newly bought bonds, though prices of existing bonds may come under pressure. Bank Negara's OPR decisions and the ringgit also shape local bond returns."
   },
   "source": {
    "name": "Investing.com",
@@ -188,33 +140,30 @@
  {
   "id": "2026-10-21-m4",
   "time": "2026-10-21T09:00:00+08:00",
-  "tags": [
-   "tech",
-   "cn"
-  ],
+  "tags": ["tech", "cn"],
   "title": {
    "zh": "台股跌1.13%,外资净卖超,台积电相对抗跌",
    "en": "Taiwan stocks fall 1.13% on foreign selling, TSMC holds up better"
   },
   "analysis": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "周二台股加权指数跌529.15点(1.13%)至46,292.93点,成交额降至新台币7,586.8亿元。外资当天净卖超新台币795.4亿元,本月累计净卖超6,620.7亿元。交易员在周三期货结算前减仓,三星和SK海力士下跌也拖累芯片股。占大盘市值逾四成的台积电只跌0.62%至2,405元,相对抗跌;金融指数则跌2.36%。",
+   "en": "On Tuesday the TAIEX fell 529.15 points (1.13%) to 46,292.93 on lower turnover of NT$758.68 billion. Foreign investors sold a net NT$79.54 billion that day, taking month-to-date net selling to NT$662.07 billion. Traders cut positions ahead of Wednesday's futures settlement, and losses at Samsung and SK Hynix weighed on chip stocks. TSMC, over 40% of the market's value, slipped just 0.62% to NT$2,405, while the financial index fell 2.36%."
   },
   "dda": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "外资流出时,台股和亚洲科技股的波动往往较大。定期定额投资亚洲或科技基金,在这样的下跌日反而能以较低价格累积更多单位,前提是能长期坚持。",
+   "en": "When foreign money flows out, Taiwan and Asian tech stocks tend to swing more. With regular investing in an Asian or tech fund, down days like this let you collect more units at lower prices, provided you stick with it for the long run."
   },
   "prs": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "亚洲科技股是许多区域基金的重要部分,波动也较大。如果离退休还很远,一般可以承受较多波动;接近退休的人,则通常会考虑降低对单一地区或行业的依赖。",
+   "en": "Asian tech is a big part of many regional funds and is also more volatile. If retirement is still far away, you can generally ride out more swings; those close to retirement usually consider relying less on a single region or sector."
   },
   "lump": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "台股单日跌超过1%、外资持续卖出时,单笔资金分批进场是分散时间点风险的一般做法。也要留意组合是否过度集中于半导体或单一市场。",
+   "en": "When Taiwan drops more than 1% in a day and foreign selling continues, phasing a lump sum in is a common way to spread timing risk. It's also worth checking that the portfolio isn't overly concentrated in semiconductors or one market."
   },
   "bond": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "台股下跌对马来西亚债券基金的直接影响有限。不过,外资撤离亚洲股市和美元走强,也可能影响令吉以及外资对本地债券的需求。股市波动时,债券基金一般能为组合提供较稳定的部分。",
+   "en": "Taiwan's fall has limited direct effect on Malaysian bond funds. Still, foreign money leaving Asian stocks and a stronger US dollar can affect the ringgit and foreign demand for local bonds. When stocks are volatile, bond funds generally provide the steadier part of a portfolio."
   },
   "source": {
    "name": "Focus Taiwan",
@@ -224,37 +173,34 @@
  {
   "id": "2026-10-21-m5",
   "time": "2026-10-21T09:00:00+08:00",
-  "tags": [
-   "my",
-   "fed"
-  ],
+  "tags": ["my"],
   "title": {
-   "zh": "富时综指跌破1,600点后外资持续卖出,市场关注美联储决议",
-   "en": "KLCI stays under 1,600 as foreign selling continues, with the Fed decision in view"
+   "zh": "富时隆综指午盘徘徊1,600点下方,投资者观望",
+   "en": "KLCI hovers below 1,600 at midday as investors wait for clarity"
   },
   "analysis": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "周二午休时,富时隆综指涨3.22点至1,598.97点,仍低于1,600点关口;指数前一天跌破1,600点。大市偏弱,下跌股659只、上涨股244只。金融股回升0.49%,科技股跌1.28%,种植股跌0.92%。乐天证券(Rakuten Trade)认为市场缺乏催化剂,预计指数在1,590至1,605点之间波动,并留意全球经济和AI涨势能否持续。",
+   "en": "At Tuesday's midday break the FBM KLCI was up 3.22 points at 1,598.97, still below the 1,600 level it broke the day before. The broader market was weak, with 659 decliners against 244 advancers. Financials recovered 0.49%, while technology fell 1.28% and plantations 0.92%. Rakuten Trade said the market lacks catalysts and expected the index to trade between 1,590 and 1,605, with doubts over the global economy and the AI rally weighing on sentiment."
   },
   "dda": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "富时隆综指处在一年多来的低位附近,对长期投资者来说,这是检验纪律的时候。定期定额投资本地基金,在指数偏低时每月买到的单位较多,长期有助摊低平均成本。",
+   "en": "The KLCI is near its lowest level in more than a year, which tests a long-term investor's discipline. With regular investing in a local fund, each month's contribution buys more units while the index is low, helping to lower your average cost over time."
   },
   "prs": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "本地股市低迷时,有些人会想暂停PRS供款,但退休规划着重的是长期积累。每年供款还可享最高RM3,000的个人税务减免,这个好处不会因为股市一时下跌而消失。",
+   "en": "When the local market is weak, some people think about pausing PRS contributions, but retirement planning is about steady long-term saving. Contributions still qualify for personal tax relief of up to RM3,000 a year, and that benefit doesn't disappear when the market dips."
   },
   "lump": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "指数在区间内上下、方向未明,单笔资金可以考虑分阶段投入来分散时间点风险。也可以趁机检查组合的行业分布,看看是否过度集中在单一板块。",
+   "en": "With the index moving within a range and no clear direction, phasing in a lump sum can help spread timing risk. It's also a good moment to review your sector mix and see whether too much sits in one sector."
   },
   "bond": {
-   "zh": "zh",
-   "en": "en"
+   "zh": "股市偏弱时,资金有时会转向较稳健的资产,例如马来西亚政府债券(MGS)和伊斯兰债券(sukuk)。国家银行的OPR走向、通胀和令吉表现,仍是本地债券基金的主要影响因素。",
+   "en": "When stocks are weak, money sometimes moves into steadier assets such as Malaysian Government Securities (MGS) and sukuk. Bank Negara's OPR path, inflation and the ringgit remain the main drivers for local bond funds."
   },
   "source": {
    "name": "The Star",
-   "url": "https://www.thestar.com.my/business/business-news/2026/10/19/fbm-klci-falls-as-foreign-selling-continues"
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/20/fbm-klci-hovers-below-1600-as-investors-await-clarity"
   }
  }
 ]
