@@ -1,0 +1,144 @@
+[
+  {
+    "id": "2026-10-23-a1",
+    "time": "2026-10-23T17:00:00+08:00",
+    "tags": [
+      "cn"
+    ],
+    "title": {
+      "zh": "港股周五收高:恒指反弹至23,093点,Minimax飙升16%",
+      "en": "Hong Kong shares close higher: Hang Seng rebounds to 23,093 as Minimax jumps 16%"
+    },
+    "analysis": {
+      "zh": "恒生指数周五收报23,093点,上涨158点或0.69%,重新站上23,000点;成交额2,490亿港元,恒生科技指数涨2.05%至3,871点。上证综指涨0.89%至3,670点,深证综指涨2.79%。Minimax大涨16.7%,中国铝业涨近7%,而联想下跌2.25%、多家银行股回落。经过昨天的急跌,这更像是大潮退去后的一次喘息,而不是方向已定。",
+      "en": "The Hang Seng Index closed at 23,093 on Friday, up 158 points or 0.69%, back above the 23,000 level, on turnover of HK$249 billion; the Hang Seng Tech index rose 2.05% to 3,871. The Shanghai Composite gained 0.89% to 3,670 and the Shenzhen Composite 2.79%. Minimax surged 16.7% and Aluminum Corporation of China rose nearly 7%, while Lenovo fell 2.25% and several bank stocks slipped. After yesterday's sharp drop, this looks more like a breather than a change of direction."
+    },
+    "dda": {
+      "zh": "市场一天大跌、一天反弹是常态。定期定额不需要猜哪一天是低点,按月投入,长期下来成本自然被摊平。",
+      "en": "Big drops followed by rebounds are normal. Regular (DDA) investing doesn't ask you to guess the low; investing monthly smooths your average cost over the long run."
+    },
+    "prs": {
+      "zh": "退休规划看的是二三十年的长度,单日涨跌影响有限。可以顺便检视PRS基金的区域分布,每年PRS供款最高RM3,000可享个人税务减免。",
+      "en": "Retirement planning spans 20 to 30 years, so a single day's move matters little. It may be a good time to review your PRS fund's regional mix; contributions of up to RM3,000 a year qualify for personal tax relief."
+    },
+    "lump": {
+      "zh": "单笔投资若涉及中国或港股,留意波动较大和行业集中的特点。分阶段投入可以分散时间点风险,并确认与目标和风险承受度相符。",
+      "en": "If a lump sum touches China or Hong Kong equities, keep in mind the higher volatility and sector concentration. Phasing in can spread timing risk, and it helps to confirm the choice fits your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "港股反弹对大马债券基金(政府债券、企业债券与伊斯兰债券)的直接影响有限,债券基金主要受国家银行OPR、通胀和令吉走势影响。股市波动时,债券一般能发挥平衡组合的作用。",
+      "en": "The Hong Kong rebound has little direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), which respond mainly to Bank Negara's OPR, inflation and the ringgit. When equities swing, bonds generally help balance a portfolio."
+    },
+    "source": {
+      "name": "The Standard",
+      "url": "https://www.thestandard.com.hk/finance/article/346332/Hong-Kong-shares-close-higher-Minimax-advance-16-percent"
+    }
+  },
+  {
+    "id": "2026-10-23-a2",
+    "time": "2026-10-23T17:00:00+08:00",
+    "tags": [
+      "my"
+    ],
+    "title": {
+      "zh": "富时马来西亚综合指数午休回落至1,605点,美股科技股下跌与油价拖累情绪",
+      "en": "FBM KLCI slips to 1,605 at lunch as Wall Street tech sell-off and oil weigh on sentiment"
+    },
+    "analysis": {
+      "zh": "截至周五中午12.49分,富时马来西亚综合指数下跌3.05点或0.19%,报1,605.09点,盘中在1,604.38至1,609.93点之间波动,早盘涨幅回吐。成交18.1亿股、价值10.4亿令吉,下跌股536只多于上涨股345只。Apex Securities指出,市场对AI开支的忧虑再度打压科技股,油价重新飙升也拖累情绪。这是午市报道,收盘数据以Bursa公布为准。",
+      "en": "At the lunch break on Friday (12.49pm MYT) the FBM KLCI was down 3.05 points or 0.19% at 1,605.09, having ranged from 1,604.38 to 1,609.93 and given up its early gains. Volume was 1.81 billion shares worth RM1.04 billion, with 536 decliners against 345 gainers. Apex Securities said renewed concerns over AI spending weighed on technology stocks and that a fresh oil price surge also dampened sentiment. This is a midday report; the official close is set by Bursa."
+    },
+    "dda": {
+      "zh": "本地股市小幅波动时,定期定额的纪律比择时更重要。每月固定投入信托基金,时间拉长后能平滑进场成本。",
+      "en": "When the local market wobbles slightly, the discipline of regular investing matters more than timing. Investing a fixed amount into unit trusts each month helps smooth your entry cost over time."
+    },
+    "prs": {
+      "zh": "退休储蓄的重点是持续供款。PRS每年最高RM3,000的税务减免,可以让持续供款的习惯更有动力。",
+      "en": "The key to retirement saving is consistent contributions. The PRS tax relief of up to RM3,000 a year can add motivation to keep contributing."
+    },
+    "lump": {
+      "zh": "大马股市的半导体与科技相关股份对美股走势较敏感。单笔投资可检查是否过度集中于单一行业,并以分阶段方式分散时间点风险。",
+      "en": "Malaysian semiconductor and tech-related shares can be sensitive to Wall Street. A lump sum is worth checking for over-concentration in one sector, and phasing in can spread timing risk."
+    },
+    "bond": {
+      "zh": "油价上升可能推高通胀预期,而通胀和令吉走势是影响大马债券基金(政府债券、企业债券与伊斯兰债券)的因素之一。一般而言,债券基金在股市波动时有稳定组合的作用。",
+      "en": "Higher oil can lift inflation expectations, and inflation and the ringgit are among the factors that affect Malaysian bond funds (MGS, corporate bonds and sukuk). Generally, bond funds help steady a portfolio when stocks are volatile."
+    },
+    "source": {
+      "name": "The Star",
+      "url": "https://www.thestar.com.my/business/business-news/2026/10/23/fbm-klci-reverses-early-gains-to-end-morning-session-lower"
+    }
+  },
+  {
+    "id": "2026-10-23-a3",
+    "time": "2026-10-23T17:00:00+08:00",
+    "tags": [
+      "commodities",
+      "fed"
+    ],
+    "title": {
+      "zh": "金价触及三个月低点,油价升高令加息忧虑压过避险需求",
+      "en": "Gold hits a three-month low as oil rally fuels rate worries"
+    },
+    "analysis": {
+      "zh": "现货金价周五小幅下跌0.1%至每盎司4,022.53美元,本周预计下跌约3.4%,是四个多月来最大周跌幅;黄金期货报4,037.15美元。布伦特原油一度触及114美元,为5月以来最高。美国与以色列可能对伊朗采取新行动的报道推高油价,而较高利率使不生息的黄金吸引力下降。荷兰国际集团(ING)指出,黄金未能从近期科技股下跌和资金流向美国国债中受益。美联储预计10月27至28日会议按兵不动,市场预期12月加息。",
+      "en": "Spot gold slipped 0.1% to US$4,022.53 an ounce on Friday and was on track for a weekly loss of about 3.4%, its sharpest in more than four months; gold futures were at US$4,037.15. Brent crude touched US$114 a barrel, its highest since May, on reports that the US and Israel are weighing fresh action against Iran, while higher interest rates make non-yielding gold less attractive. ING said gold failed to benefit from the recent tech sell-off and the flight to US Treasuries. The Fed is expected to hold at its October 27-28 meeting, with a hike expected in December."
+    },
+    "dda": {
+      "zh": "金价和油价大幅波动提醒我们,即使是避险资产也会回调。定期定额配合分散配置,比押注单一资产更适合长期投资。",
+      "en": "Sharp swings in gold and oil remind us that even safe-haven assets can pull back. Regular investing combined with diversification generally suits the long term better than a bet on a single asset."
+    },
+    "prs": {
+      "zh": "通胀上升会侵蚀退休储蓄的购买力,这也是退休规划需要长期投资、而非只存现金的原因之一。PRS每年供款最高RM3,000可享个人税务减免。",
+      "en": "Rising inflation can erode the purchasing power of retirement savings, one reason retirement planning usually relies on long-term investing rather than cash alone. PRS contributions of up to RM3,000 a year also qualify for personal tax relief."
+    },
+    "lump": {
+      "zh": "单笔投资者可借此检查组合中商品或黄金的比重是否过高。分阶段投入可以分散时间点风险,并确保与目标和风险承受度相符。",
+      "en": "Lump-sum investors may use this to check whether commodities or gold make up too much of a portfolio. Phasing in can spread timing risk, and it helps to match the mix to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "美联储加息预期和油价推升的通胀忧虑,可能使全球债券收益率维持较高。对大马债券基金(政府债券、企业债券与伊斯兰债券)而言,国家银行OPR、令吉和外资流向是更直接的影响因素。",
+      "en": "Rate-hike expectations and oil-driven inflation worries can keep global bond yields elevated. For Malaysian bond funds (MGS, corporate bonds and sukuk), Bank Negara's OPR, the ringgit and foreign flows are the more direct drivers."
+    },
+    "source": {
+      "name": "Investing.com",
+      "url": "https://investing.com/news/commodities-news/gold-hits-3mth-low-as-oil-rally-fuels-rate-concerns-set-for-weekly-drop-4967928"
+    }
+  },
+  {
+    "id": "2026-10-23-a4",
+    "time": "2026-10-23T17:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "台湾制造业景气升至54个月高位,但台经院提醒AI放缓与美联储风险",
+      "en": "Taiwan manufacturers' sentiment hits 54-month high, but TIER flags AI slowdown and Fed risks"
+    },
+    "analysis": {
+      "zh": "台经院(TIER)9月调查显示,制造业景气综合指数为101.39,较8月上升0.50点,为2022年2月以来最高,受全球AI热潮带动。服务业指数下跌3.15点至92.65,营建业上升2.81点至110.42。未来六个月,24.0%制造业者预期好转,19.8%预期转差。台经院提醒,较强硬的美联储、中东冲突带来的油价、以及AI发展放缓的忧虑,都可能构成风险。热潮之中同时提醒风险,和这几天市场的情绪不谋而合。",
+      "en": "TIER's September survey put the manufacturing composite index at 101.39, up 0.50 points from August and the highest since February 2022, driven by the global AI boom. The services index fell 3.15 points to 92.65, while construction rose 2.81 points to 110.42. Looking six months ahead, 24.0% of manufacturers expect improvement and 19.8% expect deterioration. TIER flagged a more hawkish Fed, Middle East conflict and oil prices, and concerns about slower AI development as risks. A strong boom paired with explicit risk warnings echoes this week's market mood."
+    },
+    "dda": {
+      "zh": "AI相关产业景气良好,但市场对估值的担忧同时存在。定期定额可以让你在热潮和回调中都保持节奏,不必追高或恐慌。",
+      "en": "AI-related industries look healthy, yet valuation worries coexist. Regular investing lets you keep your rhythm through both booms and pullbacks without chasing highs or panicking."
+    },
+    "prs": {
+      "zh": "退休规划需要长期成长,但也要控制风险。检视PRS基金是否过度偏重科技板块,是不错的年度习惯;PRS每年供款最高RM3,000可享税务减免。",
+      "en": "Retirement planning needs long-term growth but also risk control. Reviewing whether your PRS fund leans too heavily on tech is a good yearly habit; PRS contributions of up to RM3,000 a year qualify for tax relief."
+    },
+    "lump": {
+      "zh": "当某个主题(如AI)表现亮眼时,单笔投资更要留意集中度。分阶段投入可以分散时间点风险,并确认与目标和风险承受度相符。",
+      "en": "When a theme such as AI is performing strongly, a lump sum calls for extra attention to concentration. Phasing in can spread timing risk, and it helps to confirm the choice fits your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "台湾制造业数据对大马债券基金(政府债券、企业债券与伊斯兰债券)的直接影响不大,但美联储政策和美元走势会影响区域资金流向与令吉。债券基金一般在股市主题波动时起到平衡作用。",
+      "en": "Taiwan's survey has little direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), but Fed policy and the US dollar can influence regional flows and the ringgit. Bond funds generally act as a balancer when equity themes swing."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202610230009"
+    }
+  }
+]
