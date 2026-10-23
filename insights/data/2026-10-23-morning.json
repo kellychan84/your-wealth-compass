@@ -1,0 +1,297 @@
+[
+ {
+  "id": "2026-10-23-m0",
+  "kind": "summary",
+  "time": "2026-10-23T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "AI忧虑重燃,纳指创6月以来最大跌幅;油价升至5个月高位,亚洲股市普遍下挫,马股逆势收高",
+   "en": "AI worries revive and the Nasdaq has its worst day since June; oil hits a five-month high and Asian stocks slide, while Malaysia's KLCI bucks the trend"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,663.43",
+    "change": "-1.21%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克综合",
+     "en": "Nasdaq Composite"
+    },
+    "value": "26,008.86",
+    "change": "-2.60%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "US$113.17",
+    "change": "+4%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "富时马来西亚综合指数",
+     "en": "FBM KLCI"
+    },
+    "value": "1,608.14",
+    "change": "+0.37%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周四美股科技股重挫,Meta跌约7%,费城半导体指数跌6.7%,纳指为6月以来最差的一天;道指几乎持平。",
+    "en": "On Thursday tech led Wall Street lower: Meta fell about 7%, the Philadelphia semiconductor index dropped 6.7% and the Nasdaq had its worst day since June, while the Dow was almost flat."
+   },
+   {
+    "zh": "胡塞武装袭击沙特后,布伦特原油收报113.17美元,为5月以来最高;美国10年期国债收益率降至约4.95%。",
+    "en": "After fresh Houthi attacks in Saudi Arabia, Brent settled at US$113.17, the highest since May; the US 10-year Treasury yield fell to about 4.95%."
+   },
+   {
+    "zh": "亚洲股市下跌,恒指跌3.03%、台股跌1.81%,但富时马来西亚综合指数连续第三天上涨,收1,608.14点。",
+    "en": "Asian markets fell, with the Hang Seng down 3.03% and Taiwan's TAIEX down 1.81%, but Malaysia's KLCI rose for a third straight day to 1,608.14."
+   }
+  ],
+  "takeaway": {
+   "zh": "市场情绪一天之内可以从乐观转为担忧,但这并不等于你的长期计划出了问题。作为信托基金顾问,我通常建议先看自己的投资年期、风险承受度和组合是否过度集中,再决定要不要调整,而不是被一天的跌幅牵着走。",
+   "en": "Sentiment can swing from upbeat to worried within a day, but that doesn't mean your long-term plan has a problem. As a unit trust consultant, I'd generally suggest checking your time horizon, risk tolerance and concentration first, rather than being led by one day's drop."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/10/22/fbm-klci-defies-regional-rout-extends-gains-for-third-straight-day"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-23-m1",
+  "time": "2026-10-23T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "科技股重挫:Meta下跌约7%,半导体指数暴跌6.7%",
+   "en": "Tech sinks Wall Street: Meta falls about 7% and chip index plunges 6.7%"
+  },
+  "analysis": {
+   "zh": "周四纳指下跌2.60%至26,008.86点,为6月初以来最大单日跌幅;标普500跌1.21%至7,663.43点,道指微涨0.02%至52,867.98点。Meta业绩超预期,但公司出现十多年来首次现金净流出,股价跌约7%;费城半导体指数跌6.7%,英特尔、超威半导体等多只芯片股跌幅超过8%。分析人士称,投资者开始发现AI故事中的一些漏洞。这就像一场热闹的派对,大家忽然开始算账单:好故事还在,但价格要重新衡量。",
+   "en": "On Thursday the Nasdaq Composite fell 2.60% to 26,008.86, its steepest daily drop since early June; the S&P 500 lost 1.21% to 7,663.43 and the Dow edged up 0.02% to 52,867.98. Meta beat estimates but posted its first cash outflow in over a decade and fell about 7%, while the Philadelphia semiconductor index dropped 6.7%, with Intel and AMD each down more than 8%. One strategist said investors are starting to see holes in the AI story. It's like a lively party where guests suddenly start checking the bill: the story is still there, but the price needs a fresh look."
+  },
+  "dda": {
+   "zh": "科技股大幅回调时,定期定额的好处在于不需要判断底部;每月固定投入,价格较低时自然买到较多单位,长期有助摊平平均成本。",
+   "en": "When tech pulls back sharply, the benefit of regular investing is that you don't have to call the bottom; a fixed monthly amount buys more units when prices are lower, which helps smooth your average cost over time."
+  },
+  "prs": {
+   "zh": "退休规划是二三十年的旅程,一次科技股回调不会决定结果。可以趁机检查PRS基金的资产分布是否与年龄相符,每年供款最高RM3,000还可享个人税务减免。",
+   "en": "Retirement planning is a 20-to-30-year journey, and one tech pullback doesn't decide the outcome. It's a good moment to check whether your PRS fund's asset mix suits your age; contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "当少数科技巨头带动大市升跌时,单笔投资要留意集中度。分阶段投入可以分散时间点风险,同时确认配置与目标和风险承受度相符。",
+   "en": "When a few tech giants drive the market's ups and downs, a lump sum calls for a concentration check. Phasing in can spread timing risk, and it's worth confirming the mix matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市下跌时资金常流向国债,美国收益率回落有时会令外资对新兴市场债券的压力减轻,对令吉也可能较友好。大马债券基金(马来西亚政府债券与企业债券、伊斯兰债券)一般能在股市波动时起到平衡组合的作用。",
+   "en": "When stocks fall, money often moves into government bonds, and lower US yields can sometimes ease pressure on emerging-market bonds and be friendlier to the ringgit. Malaysian bond funds (MGS, corporate bonds and sukuk) generally help balance a portfolio when equities swing."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+  }
+ },
+ {
+  "id": "2026-10-23-m2",
+  "time": "2026-10-23T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "布伦特原油升至113.17美元,国债收益率单日大跌",
+   "en": "Brent climbs to US$113.17 as Treasury yields post their biggest one-day drop"
+  },
+  "analysis": {
+   "zh": "胡塞武装再度袭击沙特,布伦特原油上涨约4%,收报113.17美元,为5月4日以来最高。同日美国10年期国债收益率下降近20个基点至约4.95%,为2023年3月以来最大单日跌幅,投资者转向避险资产。文章指出,美联储下周的决议受关注,较高的能源价格可能使通胀前景更复杂。油价像家里的水电费:涨多了,几乎每个人的开销都会慢慢感觉到。",
+   "en": "After fresh Houthi attacks in Saudi Arabia, Brent rose about 4% to settle at US$113.17, the highest since May 4. The same day the US 10-year Treasury yield fell nearly 20 basis points to about 4.95%, its biggest one-day drop since March 2023, as investors sought safe assets. The article notes the Fed's decision next week is in focus and that higher energy prices could complicate the inflation outlook. Oil is like the household utility bill: when it rises, almost everyone feels it in their spending over time."
+  },
+  "dda": {
+   "zh": "油价高企可能推高通胀和成本,但定期定额不需要预测油价走向。持续投入、定期检视,比追逐能源行情更符合长期目标。",
+   "en": "High oil can lift inflation and costs, but regular investing doesn't need an oil forecast. Staying invested and reviewing periodically generally suits long-term goals better than chasing energy moves."
+  },
+  "prs": {
+   "zh": "退休金要面对的是几十年的通胀。能源价格上涨提醒我们,退休目标需要把生活成本上升考虑进去;PRS每年供款最高RM3,000可享税务减免,是长期累积的一个工具。",
+   "en": "Retirement savings have to cope with decades of inflation. Higher energy prices are a reminder to allow for rising living costs in your retirement goal; PRS contributions of up to RM3,000 a year qualify for tax relief and are one tool for long-term accumulation."
+  },
+  "lump": {
+   "zh": "地缘消息推动的油价波动可能很快反转。单笔资金可以分阶段投入以分散时间点风险,并留意组合是否过度集中在对油价敏感的板块。",
+   "en": "Oil moves driven by geopolitical headlines can reverse quickly. A lump sum can be phased in to spread timing risk, and it's worth checking the portfolio isn't overly concentrated in oil-sensitive sectors."
+  },
+  "bond": {
+   "zh": "油价与通胀预期会影响市场对利率的看法,进而影响债券价格;美国收益率下跌通常对债券价格有利。对马来西亚来说,国家银行的隔夜政策利率(OPR)和令吉走势是更直接的因素,油价高也可能让通胀更受关注。",
+   "en": "Oil and inflation expectations shape views on interest rates, which in turn move bond prices; falling US yields generally support bond prices. For Malaysia, Bank Negara's OPR and the ringgit are more direct factors, and high oil can also put inflation back in focus."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865"
+  }
+ },
+ {
+  "id": "2026-10-23-m3",
+  "time": "2026-10-23T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "区域股市暴跌下,富时马来西亚综合指数逆势第三天收高",
+   "en": "KLCI bucks the regional rout to close higher for a third day"
+  },
+  "analysis": {
+   "zh": "在亚洲股市大跌的背景下,富时马来西亚综合指数周四上涨5.87点或0.37%,收1,608.14点,连续第三天走高。不过市场广度偏弱,681只下跌、420只上涨。外资净买入RM43百万,本地机构净卖出RM53百万。令吉兑美元微跌0.03%至4.0820。同日恒指跌3.03%、日经指数跌2.65%、韩国综指跌3.52%。就像大雨中一把还没湿透的伞,马股暂时相对稳,但不代表完全不受影响。",
+   "en": "Against a sharp Asian sell-off, the FBM KLCI rose 5.87 points or 0.37% on Thursday to 1,608.14, its third straight gain. Breadth was weak, with 681 losers against 420 gainers. Foreign funds bought a net RM43 million while local institutions sold a net RM53 million. The ringgit eased 0.03% to 4.0820 against the US dollar. On the same day the Hang Seng fell 3.03%, the Nikkei 2.65% and Korea's Kospi 3.52%. Like an umbrella still dry in heavy rain, Malaysian stocks held up relatively well, but that doesn't mean they are immune."
+  },
+  "dda": {
+   "zh": "马股在区域下跌中相对稳定,是分散投资的一个好例子。定期定额可以同时涉及本地和海外市场,不需要押注某一地区的短期表现。",
+   "en": "Malaysia holding up while the region fell is a good example of why diversification matters. Regular investing can cover both local and overseas markets, so you don't need to bet on one region's short-term performance."
+  },
+  "prs": {
+   "zh": "PRS基金通常由多个资产类别和市场组成,波动时有助于平滑旅程。每年最高RM3,000的供款税务减免,让长期积累多一份动力。",
+   "en": "PRS funds usually combine several asset classes and markets, which can help smooth the journey when markets swing. The tax relief on contributions of up to RM3,000 a year adds an incentive to keep building over the long term."
+  },
+  "lump": {
+   "zh": "一两天的相对强势不代表趋势。单笔投资可考虑分阶段进入,并检查本地与海外的比例是否仍符合你的目标和风险承受度。",
+   "en": "A day or two of relative strength doesn't make a trend. A lump sum can be phased in, and it's worth checking whether your local and overseas mix still matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "外资净买入、令吉基本稳定,对大马政府债券与伊斯兰债券的资金流是正面的背景。国家银行的OPR政策方向与美国利率走势仍是债券基金的关键,美联储下周的决议值得关注。",
+   "en": "Net foreign buying and a broadly steady ringgit are a supportive backdrop for flows into Malaysian government bonds and sukuk. Bank Negara's OPR direction and US rate expectations remain key for bond funds, so the Fed decision next week is worth watching."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/22/fbm-klci-defies-regional-rout-extends-gains-for-third-straight-day"
+  }
+ },
+ {
+  "id": "2026-10-23-m4",
+  "time": "2026-10-23T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收跌1.81%,加权指数回落至46,041点",
+   "en": "Taiwan shares close down 1.81% to 46,041"
+  },
+  "analysis": {
+   "zh": "台湾加权指数周四下跌846.34点或1.81%,收46,041.43点,成交额为新台币8,792.3亿元。报道没有说明下跌原因,但同日美国费城半导体指数暴跌6.7%,亚洲科技股整体承压。这就像坐跷跷板,台股高度依赖芯片,往往跟着全球科技情绪一起上下。",
+   "en": "Taiwan's benchmark index fell 846.34 points, or 1.81%, on Thursday to close at 46,041.43 on turnover of NT$879.23 billion. The report doesn't give a cause, but the same day the Philadelphia semiconductor index plunged 6.7% in the US, and Asian tech came under pressure. Like a seesaw, Taiwan's chip-heavy market tends to move with global tech sentiment."
+  },
+  "dda": {
+   "zh": "单一市场或行业的波动,正是用基金分散投资的原因。定期定额投资全球或亚洲基金时,不必为了半导体的一天走势而改变计划。",
+   "en": "Swings in a single market or industry are exactly why people use funds to diversify. If you invest regularly in global or Asian funds, there's usually no need to change the plan over one day of chip moves."
+  },
+  "prs": {
+   "zh": "长期的退休基金往往已经包含科技类资产。关键是回头看整体配置是否过度偏重某一行业,并按年龄和退休时间表适时调整。",
+   "en": "A long-term retirement fund often already holds technology exposure. The key is to look at whether the overall mix leans too heavily on one industry and adjust over time to your age and retirement timeline."
+  },
+  "lump": {
+   "zh": "半导体股涨跌幅度大,若手上有一笔资金,要留意是否集中在单一主题。分阶段投入可以分散时间点风险,并先确认风险承受度。",
+   "en": "Semiconductor stocks swing widely, so with a lump sum it pays to check you aren't concentrated in a single theme. Phasing in can spread timing risk, and it helps to confirm your risk tolerance first."
+  },
+  "bond": {
+   "zh": "台股回落对大马债券基金没有直接影响,但全球风险情绪转弱时,资金可能流向较安全的资产。债券基金在组合中一般扮演平衡者的角色,减少整体波动。",
+   "en": "Taiwan's pullback has no direct effect on Malaysian bond funds, but when global risk appetite weakens, money may move to safer assets. Bond funds generally play the role of a portfolio balancer, helping to reduce overall volatility."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610220008"
+  }
+ },
+ {
+  "id": "2026-10-23-m5",
+  "time": "2026-10-23T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "油价推高通胀忧虑,金价跌至两周多低位",
+   "en": "Higher oil fuels inflation worries as gold slips to a two-week low"
+  },
+  "analysis": {
+   "zh": "12月黄金期货周四开盘约4,159美元,盘中一度跌至4,104.30美元。文章指出,通胀忧虑继续压制金价:一个月内下跌5.1%,同比仅微升0.5%。布伦特原油当天一度超过111美元,盘中高点为112.68美元,霍尔木兹海峡的船只遇袭和胡塞武装袭击沙特石油设施使油价居高不下。黄金像一块不生息的石头:通胀和利率预期上升时,它的吸引力可能被削弱。",
+   "en": "December gold futures opened near US$4,159 on Thursday and dipped to US$4,104.30 in early trading. The article says inflation concerns continue to weigh on gold, which is down 5.1% over one month and only 0.5% higher year on year. Brent topped US$111 with a session high of US$112.68, kept elevated by attacks on shipping near the Strait of Hormuz and Houthi strikes on Saudi oil infrastructure. Gold is like a stone that pays no interest: when inflation and rate expectations rise, its appeal can weaken."
+  },
+  "dda": {
+   "zh": "黄金通常不是定期定额的核心,但它提醒我们分散的价值:不同资产在不同环境下表现不同。持续、定期的投入比判断金价高低更重要。",
+   "en": "Gold usually isn't the core of a regular-investing plan, but it illustrates the value of diversification: different assets behave differently in different environments. Steady, regular contributions generally matter more than guessing gold's direction."
+  },
+  "prs": {
+   "zh": "通胀会侵蚀退休储蓄的购买力,这是规划时要考虑的长期因素。PRS每年最高RM3,000供款可享税务减免,并可根据年龄选择不同风险程度的基金。",
+   "en": "Inflation can erode the purchasing power of retirement savings, which is a long-term factor to build into planning. PRS contributions of up to RM3,000 a year qualify for tax relief, and funds with different risk levels are available to suit your age."
+  },
+  "lump": {
+   "zh": "黄金价格也会短期大幅波动。若考虑单笔投入,先确认它符合目标与风险承受度,留意单一资产的比重,并可分阶段投入来分散时间点风险。",
+   "en": "Gold prices can also swing sharply in the short term. For a lump sum, first confirm it fits your goals and risk tolerance, watch the weight of any single asset, and consider phasing in to spread timing risk."
+  },
+  "bond": {
+   "zh": "通胀预期上升可能使市场更关注利率走向,对债券价格带来压力;大马债券基金还要看国家银行的OPR和令吉走势。中长期来看,债券的票息收入仍是组合稳定性的来源。",
+   "en": "Rising inflation expectations can put interest-rate paths in focus and weigh on bond prices; Malaysian bond funds also depend on Bank Negara's OPR and the ringgit. Over the medium to long term, a bond's coupon income remains a source of portfolio stability."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-october-22-2026-no-real-upward-price-momentum-for-gold-103501157.html"
+  }
+ },
+ {
+  "id": "2026-10-23-m6",
+  "time": "2026-10-23T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "港股暴跌逾700点,恒指跌破23,000点",
+   "en": "Hang Seng crashes over 700 points, falling below 23,000"
+  },
+  "analysis": {
+   "zh": "恒生指数周四下跌逾700点,跌破23,000点,创近四个月低位。英文虎报称,有传闻说内地投资者需要卖股票来缴税,引发恐慌性抛售。另据The Star的区域行情,恒指全天收报22,934.68点,下跌3.03%,上证综指跌1.48%。市场传闻往往像滚雪球:越滚越大,但真假与持续性还要看后续的官方说明。",
+   "en": "The Hang Seng Index fell by more than 700 points on Thursday, dropping below 23,000 to a near four-month low. The Standard reported that rumours mainland investors would need to sell stocks to pay taxes triggered panic selling. According to the regional table in The Star, the index closed at 22,934.68, down 3.03%, while the Shanghai Composite fell 1.48%. Market rumours can snowball, but whether they hold up and last depends on what official statements follow."
+  },
+  "dda": {
+   "zh": "港股大跌是波动的提醒。定期定额的好处是低价时买到较多单位,但投资中国或香港基金前,要确认它符合你的年期与风险承受度。",
+   "en": "A sharp Hong Kong sell-off is a reminder of volatility. Regular investing buys more units at lower prices, but before investing in China or Hong Kong funds, make sure they suit your time horizon and risk tolerance."
+  },
+  "prs": {
+   "zh": "退休规划强调分散与长期。单一市场的恐慌性下跌不应该主导决策,可以检查PRS基金的地区分布,每年最高RM3,000的供款税务减免依旧适用。",
+   "en": "Retirement planning stresses diversification and the long term. A panic-driven fall in one market shouldn't dominate decisions; you can check the regional spread of your PRS fund, and the tax relief on contributions of up to RM3,000 a year still applies."
+  },
+  "lump": {
+   "zh": "传闻驱动的急跌可能很快波动。单笔资金要留意单一市场的集中度,分阶段投入可以分散时间点风险,并先明确投资目标。",
+   "en": "Rumour-driven drops can reverse or extend quickly. With a lump sum, watch concentration in any single market, and phasing in can spread timing risk once your objective is clear."
+  },
+  "bond": {
+   "zh": "港股下跌对大马债券基金直接影响有限,但区域风险情绪转弱时,资金可能流向较稳健的资产。债券基金在组合中通常起到缓冲波动的作用。",
+   "en": "The Hong Kong drop has limited direct effect on Malaysian bond funds, but when regional risk appetite weakens, money may move to steadier assets. Bond funds generally act as a buffer against volatility in a portfolio."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/news/article/346259/Night-Recap-October-22-2026"
+  }
+ }
+]
