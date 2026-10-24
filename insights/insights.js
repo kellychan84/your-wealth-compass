@@ -2,6 +2,342 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-10-24-w0",
+  "kind": "summary",
+  "time": "2026-10-24T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "周末回顾:AI股抛售与油价飙升令美股连续第二周下跌,下周迎联储会议与财报高峰",
+   "en": "Weekend review: an AI-stock sell-off and surging oil leave Wall Street down a second straight week, with the Fed and peak earnings ahead"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,623.68",
+    "change": "-0.52%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "$116.72",
+    "change": "+3.1%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "黄金",
+     "en": "Gold"
+    },
+    "value": "~$4,016",
+    "change": {
+     "zh": "本周约-3.5%",
+     "en": "about -3.5% this week"
+    },
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时隆综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,611.56",
+    "change": "+0.21%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "标普500与纳指连续第二周下跌,道指周五跌1.23%,但本周仍上涨;周四的AI科技股抛售是主因之一。",
+    "en": "The S&P 500 and Nasdaq each lost ground for a second week, and the Dow fell 1.23% on Friday yet still ended the week higher; Thursday's AI-tech sell-off was a main driver."
+   },
+   {
+    "zh": "布伦特原油周五收于每桶116.72美元,为六个月高位;黄金因利率预期上升录得四个多月来最大单周跌幅。",
+    "en": "Brent settled at $116.72 a barrel, a six-month high, while gold headed for its steepest weekly drop in more than four months as rate expectations rose."
+   },
+   {
+    "zh": "下周联储于周三公布决议,Alphabet、微软、亚马逊等巨头发布财报;马来西亚富时隆综指四连涨,逆势收高。",
+    "en": "The Fed decides on Wednesday and Alphabet, Microsoft and Amazon report; Malaysia's FBM KLCI rose for a fourth straight session against the global tide."
+   }
+  ],
+  "takeaway": {
+   "zh": "这一周油价、利率预期和AI估值互相牵动,情绪偏谨慎。作为信托基金顾问,我通常提醒客户周末先回到自己的目标与时间表,检视组合是否过度集中在同一主题,而不是被每天的标题牵着走。",
+   "en": "Oil, rate expectations and AI valuations pulled on each other this week and sentiment leaned cautious. As a unit trust consultant, I generally remind clients to use the weekend to return to their own goals and timeline and check that a portfolio isn't over-concentrated in one theme, rather than being tugged around by daily headlines."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/10/23/fbm-klci-extends-winning-streak-ends-week-higher"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-24-w1",
+  "time": "2026-10-24T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "一周回顾:AI股抛售拖累美股,标普500与纳指连续第二周下跌",
+   "en": "Week in review: AI-stock sell-off drags Wall Street to a second straight weekly loss"
+  },
+  "analysis": {
+   "zh": "周五收盘,道指跌652.82点(1.23%)至52,215.16,标普500跌0.52%至7,623.68,纳指综合跌0.21%至25,955.34;标普500与纳指连续第二周下跌,道指本周则收高。周四科技股遭重挫,分析师认为市场担心AI投资热潮可能已见顶,Tesla下调全年资本开支指引20%,CoreWeave等AI概念股承压。就像热门餐厅突然被质疑座位订太满,整个街区的生意都会跟着紧张。",
+   "en": "On Friday the Dow fell 652.82 points (1.23%) to 52,215.16, the S&P 500 slipped 0.52% to 7,623.68 and the Nasdaq Composite eased 0.21% to 25,955.34; the S&P 500 and Nasdaq each posted a second straight weekly loss while the Dow finished the week higher. Thursday's tech rout came as analysts voiced fears that the AI investment boom may have peaked, with Tesla cutting full-year capex guidance by 20% and AI names such as CoreWeave under pressure. It is like a popular restaurant suddenly being asked whether it has booked too many seats: the whole street gets nervous."
+  },
+  "dda": {
+   "zh": "一周的震荡正是定期定额(DDA)要面对的情境。持续投入的长期投资者通常不必判断低点,价格回落时同样的金额可能累积到更多单位。",
+   "en": "A week like this is exactly what regular (DDA) investing is designed for. Long-term investors who keep contributing generally don't need to call the low, and when prices dip the same amount may buy more units."
+  },
+  "prs": {
+   "zh": "退休规划以十年计,一周的回调在长河里很短。周末可以看看退休组合是否过度依赖科技或AI主题,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement planning is measured in decades, so one week's pullback is a short stretch. The weekend is a good time to check whether a retirement mix leans too heavily on tech or AI themes, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "热门主题回调时,集中度是最值得检查的地方。单笔投资者一般可以考虑分阶段进场以分散时机风险,并对照自己的目标与风险承受度。",
+   "en": "After a hot theme pulls back, concentration is the thing to check. Lump-sum investors can generally consider phasing in to spread timing risk and match choices to their goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市震荡时,资金有时转向较稳健的资产,这可能对马来西亚国债(MGS)与企业债带来间接支持,但实际影响还取决于利率与令吉走势。债券基金的主要角色仍是为组合提供平衡。",
+   "en": "When equities wobble, money sometimes rotates toward steadier assets, which may offer indirect support to Malaysian government bonds (MGS) and corporate bonds, though the actual effect depends on rates and the ringgit. Bond funds' main role remains balancing a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+  }
+ },
+ {
+  "id": "2026-10-24-w2",
+  "time": "2026-10-24T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "油价升至六个月高位:布伦特收于116.72美元,中东局势持续推高通胀忧虑",
+   "en": "Oil at a six-month high: Brent settles at $116.72 as Middle East tension feeds inflation worries"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,布伦特原油周五上涨3.1%,收于每桶116.72美元,为四月底以来最高;WTI收于103.27美元。海峡附近油轮遭袭增加,结束战事的努力陷入僵局,胡塞武装也袭击沙特设施。油价像是家庭水电费的总开关,一旦升高,运输、食品和制造业成本都可能随之上扬。",
+   "en": "CNBC reports Brent rose 3.1% on Friday to settle at $116.72 a barrel, the highest since late April, while WTI settled at $103.27. Attacks on tankers near the Strait of Hormuz have mounted, efforts to end the war are deadlocked, and Houthi strikes hit Saudi infrastructure. Oil is like the master switch on a household's utility bill: when it rises, transport, food and manufacturing costs may follow."
+  },
+  "dda": {
+   "zh": "油价推升通胀预期时,市场情绪容易反复。对DDA投资者而言,按计划持续投入、不因单一消息调整节奏,通常比预测油价更省心。",
+   "en": "When oil lifts inflation expectations, sentiment can swing. For DDA investors, sticking to the plan rather than reacting to a single headline is generally less stressful than trying to forecast oil."
+  },
+  "prs": {
+   "zh": "通胀会侵蚀退休储蓄的购买力,这是长期规划需要考虑的现实。可以趁周末检视退休目标,并考虑PRS每年最高RM3,000的税务减免。",
+   "en": "Inflation can erode the purchasing power of retirement savings, a reality long-term plans need to allow for. The weekend is a good time to review retirement goals and consider the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "能源价格大幅波动时,单笔投资者一般可以考虑分阶段进场,并检查是否过度集中在能源或对油价敏感的行业。",
+   "en": "When energy prices swing sharply, lump-sum investors can generally consider phasing in and check for over-concentration in energy or oil-sensitive sectors."
+  },
+  "bond": {
+   "zh": "油价高企可能推高通胀与利率预期,对马来西亚债券的估值和外资流向可能带来压力;令吉与国家银行的政策立场也值得留意。债券基金仍可在组合中扮演平衡角色。",
+   "en": "High oil may lift inflation and rate expectations, which can weigh on Malaysian bond valuations and foreign flows; the ringgit and Bank Negara's policy stance are worth watching. Bond funds can still play a balancing role in a portfolio."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html"
+  }
+ },
+ {
+  "id": "2026-10-24-w3",
+  "time": "2026-10-24T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "黄金录得四个多月来最大单周跌幅,油价推高利率预期",
+   "en": "Gold heads for its steepest weekly drop in over four months as oil lifts rate expectations"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,周五亚洲早盘现货黄金约报每盎司4,016美元,一度触及7月20日以来低点,本周累计下跌约3.5%,为六月以来最差的一周。能源价格走高强化了联储更长时间维持高利率的预期,令不生息的黄金吸引力下降。就像银行存款利息上调后,不付利息的资产自然显得逊色。",
+   "en": "CNBC reports spot gold traded near $4,016 an ounce in early Asian hours on Friday after touching its lowest since July 20, down about 3.5% on the week and on track for its worst week since June. Higher energy prices have strengthened expectations of the Fed keeping rates high for longer, which reduces the appeal of non-yielding bullion. It is like a bank raising its deposit rate: assets that pay no interest look less attractive."
+  },
+  "dda": {
+   "zh": "黄金短期波动不应改变长期计划。对DDA投资者来说,保持纪律、按期投入,通常比追涨杀跌更能度过起伏。",
+   "en": "Short-term gold swings need not change a long-term plan. For DDA investors, staying disciplined and contributing on schedule generally helps weather the ups and downs better than chasing moves."
+  },
+  "prs": {
+   "zh": "黄金常被当作分散工具,但它不产生利息,价格也会大幅波动。退休组合不妨检视分散程度,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "Gold is often used as a diversifier, but it pays no interest and its price can swing widely. A retirement mix is worth checking for diversification, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "一周大跌提醒我们,即使是被视为避险的资产也有波动。单笔投资者可以考虑分阶段进场,并确认单一资产的占比符合自己的风险承受度。",
+   "en": "A sharp weekly drop is a reminder that even assets seen as havens fluctuate. Lump-sum investors can consider phasing in and confirming that any single asset's weight suits their risk tolerance."
+  },
+  "bond": {
+   "zh": "利率预期走高通常对债券价格不利,但较高的收益率也可能提高新增投资的票息。马来西亚债券基金的影响取决于国债收益率与国家银行OPR走向。",
+   "en": "Rising rate expectations usually weigh on bond prices, though higher yields can also lift income on new purchases. For Malaysian bond funds the effect depends on MGS yields and the path of Bank Negara's OPR."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/amp/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
+  }
+ },
+ {
+  "id": "2026-10-24-w4",
+  "time": "2026-10-24T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "下周展望:联储周三公布决议,Alphabet、微软与亚马逊领衔财报高峰",
+   "en": "Week ahead: the Fed decides on Wednesday as Alphabet, Microsoft and Amazon lead peak earnings"
+  },
+  "analysis": {
+   "zh": "据路透社报道,下周是本财报季最繁忙的一周,Alphabet与微软周三、亚马逊周四公布业绩,英特尔、礼来、埃克森美孚、雪佛龙和卡特彼勒也将发布;联储周三公布利率决议,主席沃什随后举行记者会。联邦基金期货显示本次会议加息概率低于10%,12月加息概率约80%。第三季标普500盈利预计同比增长逾32%,美国期中选举将于11月3日举行。就像考试前夕的复习周,市场在等待一连串成绩单。",
+   "en": "Reuters reports next week is the busiest of the earnings season, with Alphabet and Microsoft reporting Wednesday and Amazon Thursday, alongside Intel, Eli Lilly, Exxon, Chevron and Caterpillar. The Fed announces its decision on Wednesday, followed by a press conference from Chair Warsh; fed funds futures imply under a 10% chance of a hike at this meeting and roughly 80% for December. Third-quarter S&P 500 earnings are on pace to rise more than 32% from a year ago, and US midterm elections are on November 3. It is like exam-eve revision week, with the market waiting for a string of report cards."
+  },
+  "dda": {
+   "zh": "事件密集的一周容易让人想暂停投资。对DDA投资者而言,按计划持续投入、不为单一事件调整节奏,通常比预测结果更省心。",
+   "en": "A week crowded with events can tempt people to pause. For DDA investors, sticking to the plan rather than adjusting for any single event is generally less stressful than trying to forecast outcomes."
+  },
+  "prs": {
+   "zh": "利率预期升高会影响长期资产的估值,也提醒退休储蓄者留意组合的利率敏感度。可趁周末检视退休目标,并考虑PRS每年最高RM3,000的税务减免。",
+   "en": "Rising rate expectations can affect the valuation of long-duration assets and remind retirement savers to look at their portfolio's rate sensitivity. The weekend is a good time to review goals and consider the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "重大事件前后波动可能加大。单笔投资者可以考虑分阶段进场来分散时机风险,并检查是否过度集中在即将公布财报的热门股。",
+   "en": "Volatility can rise around big events. Lump-sum investors can consider phasing in to spread timing risk and check whether they are over-concentrated in popular stocks about to report."
+  },
+  "bond": {
+   "zh": "联储的决议与加息预期会影响美国国债收益率,进而可能间接影响马来西亚国债(MGS)的外资流向与国家银行的政策空间。债券基金仍是组合中的平衡力量。",
+   "en": "The Fed's decision and rate-hike expectations move US Treasury yields, which may indirectly affect foreign flows into Malaysian government bonds (MGS) and the room Bank Negara has on policy. Bond funds remain a balancing force in a portfolio."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/earnings-flood-fed-meeting-pose-pivotal-tests-for-rickety-ai-market-rally-4968724"
+  }
+ },
+ {
+  "id": "2026-10-24-w5",
+  "time": "2026-10-24T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时隆综指四连涨,本周微升0.24%,外资连续净卖出",
+   "en": "FBM KLCI rises for a fourth session, up 0.24% on the week, as foreign investors stay net sellers"
+  },
+  "analysis": {
+   "zh": "据The Star报道,富时隆综指周五收报1,611.56点,上涨3.42点(0.21%),本周累计上涨3.80点。成交量31.8亿股,价值24.7亿令吉,涨跌股数基本持平;投资者因缺乏新催化剂而保持谨慎。周四外资净卖出9,800万令吉,本地机构净买入8,600万令吉。大马市场像一艘稳重的渡船,在区域风浪中摇晃得较少。",
+   "en": "The Star reports the FBM KLCI closed at 1,611.56 on Friday, up 3.42 points (0.21%) and 3.80 points higher on the week. Turnover was 3.18 billion shares worth RM2.47 billion with advancers and decliners about even, as investors stayed cautious for lack of fresh catalysts. On Thursday foreign investors were net sellers of RM98 million while local institutions bought RM86 million. The local market is like a steady ferry, rocking less than most in regional waves."
+  },
+  "dda": {
+   "zh": "本地市场平稳不代表没有风险。长期投资者按期投入(DDA),通常可借时间分散进场价格,而不需要判断短期涨跌。",
+   "en": "A calm local market doesn't mean no risk. Long-term investors who contribute regularly (DDA) can generally spread their entry prices over time without having to judge short-term moves."
+  },
+  "prs": {
+   "zh": "大马蓝筹稳健但行业分布有限,退休组合可检视本地与海外的分散程度。别忘了PRS每年最高RM3,000的税务减免。",
+   "en": "Malaysian blue chips are steady but sector-limited, so a retirement mix can be reviewed for local versus global diversification. Don't forget the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "市场表现平稳时也要留意集中度。单笔投资者一般可以考虑分阶段进场,并对照目标与风险承受度做决定。",
+   "en": "Even in calm markets, watch concentration. Lump-sum investors can generally consider phasing in and make decisions against their goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "外资持续净卖出本地股票,值得留意其对令吉与马来西亚国债(MGS)资金流的影响;国家银行的利率立场仍是债券基金的关键。",
+   "en": "Continued foreign selling of local equities is worth watching for its effect on the ringgit and flows into Malaysian government bonds (MGS); Bank Negara's rate stance remains key for bond funds."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/23/fbm-klci-extends-winning-streak-ends-week-higher"
+  }
+ },
+ {
+  "id": "2026-10-24-w6",
+  "time": "2026-10-24T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台湾9月工业生产年增19.17%,连续第31个月增长,AI需求带动晶圆代工",
+   "en": "Taiwan's September industrial output jumps 19.17%, a 31st straight month of growth, led by AI-driven chipmaking"
+  },
+  "analysis": {
+   "zh": "据中央社报道,台湾经济部公布9月工业生产指数年增19.17%至140.76;电子零组件业增23.62%,主要由12吋晶圆代工、IC封测、存储器、IC设计带动,计算机与光电业激增45.92%。第三季工业生产年增21.95%。经济部预期AI热潮与年终购物需求将支撑全年余下时间,但提醒地缘政治与贸易政策仍是不确定因素。就像一家工厂订单排到明年,但原料运输却要看天气。",
+   "en": "Focus Taiwan reports the Ministry of Economic Affairs said industrial production rose 19.17% year on year to 140.76 in September, with electronics up 23.62% led by 12-inch wafer foundries, IC packaging and testing, memory chips and IC design, and computer and optoelectronics output up 45.92%. Third-quarter industrial production rose 21.95%. The ministry expects the AI boom and year-end shopping to keep supporting output, while flagging geopolitical tension and trade policies as uncertainties. It is like a factory with orders booked into next year but shipping routes that depend on the weather."
+  },
+  "dda": {
+   "zh": "AI需求强劲是长期趋势,但科技股本周也经历大幅波动。DDA投资者可借定期投入平滑进场成本,并避免因单一数据而追高。",
+   "en": "Strong AI demand is a long-term trend, yet tech stocks also swung sharply this week. DDA investors can smooth entry costs through regular contributions and avoid chasing on a single data point."
+  },
+  "prs": {
+   "zh": "基金组合往往已间接持有大量科技与半导体股份。退休储蓄者可检视是否过度集中在这一主题,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "Fund portfolios often already hold plenty of tech and semiconductor exposure indirectly. Retirement savers can check for over-concentration in this theme and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "强劲数据并不意味着股价会持续上涨。单笔投资者一般可以考虑分阶段进场,并确认科技主题占比符合自己的风险承受度。",
+   "en": "Strong data doesn't mean prices keep rising. Lump-sum investors can generally consider phasing in and confirm that the weight in tech suits their risk tolerance."
+  },
+  "bond": {
+   "zh": "台湾出口与芯片景气对马来西亚债券的直接影响有限,但亚洲半导体链也牵动大马的电子出口与资金流。债券基金的主要角色仍是为组合提供平衡。",
+   "en": "Taiwan's export and chip boom has limited direct effect on Malaysian bonds, though the Asian semiconductor chain also touches Malaysia's electronics exports and capital flows. Bond funds' main role remains balancing a portfolio."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610230013"
+  }
+ },
+ {
+  "id": "2026-10-24-w7",
+  "time": "2026-10-24T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒生指数周五反弹0.69%至23,093点,科技股领涨,MiniMax飙升16.7%",
+   "en": "Hang Seng rebounds 0.69% to 23,093 on Friday as tech leads and Minimax jumps 16.7%"
+  },
+  "analysis": {
+   "zh": "据The Standard报道,恒指周五上涨158点(0.69%)收报23,093,成交额2,490亿港元,恒生科技指数涨2.05%至3,871;MiniMax涨16.7%至160.7港元,中国铝业涨近7%,联想跌2.25%,汇丰跌1%。沪综指涨0.89%,深综指涨2.79%。这是前一日大跌后的反弹,像是暴雨过后的第一缕阳光,但天气是否转晴仍待观察。",
+   "en": "The Standard reports the Hang Seng Index rose 158 points (0.69%) to close at 23,093 on Friday, with turnover of HK$249 billion and the tech gauge up 2.05% to 3,871. Minimax gained 16.7% to HK$160.7, Aluminum Corporation of China rose nearly 7%, Lenovo fell 2.25% and HSBC dropped 1%. The Shanghai Composite added 0.89% and the Shenzhen Composite jumped 2.79%. The rebound follows a sharp fall the day before, like the first sunshine after a downpour, though whether the weather has really cleared remains to be seen."
+  },
+  "dda": {
+   "zh": "短线反弹不等于趋势反转。长期投资者以定期定额(DDA)分批投入,通常可减轻择时压力。",
+   "en": "A short rebound isn't a trend reversal. Long-term investors using regular (DDA) investing generally ease the pressure of timing."
+  },
+  "prs": {
+   "zh": "中国与香港市场波动较大,若退休组合含有区域或新兴市场基金,可检视占比是否合适,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "China and Hong Kong markets can be volatile; if a retirement mix includes regional or emerging-market funds, check the weighting suits you, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单日大涨大跌时容易情绪化。单笔投资者一般可以考虑分阶段进场,并留意单一市场或主题的集中度。",
+   "en": "Big one-day moves invite emotional decisions. Lump-sum investors can generally consider phasing in and watch concentration in any single market or theme."
+  },
+  "bond": {
+   "zh": "港股波动对马来西亚债券的直接影响有限,但风险偏好变化会影响区域资金流向与令吉。债券基金仍可为组合提供缓冲。",
+   "en": "Hong Kong equity swings have limited direct effect on Malaysian bonds, though shifts in risk appetite can affect regional flows and the ringgit. Bond funds can still provide a cushion in a portfolio."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/346332/Hong-Kong-shares-close-higher-Minimax-advance-16-percent"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-23-m0",
   "kind": "summary",
   "time": "2026-10-23T09:00:00+08:00",
