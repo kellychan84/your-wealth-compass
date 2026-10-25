@@ -1,0 +1,261 @@
+[
+ {
+  "id": "2026-10-25-w0",
+  "kind": "summary",
+  "time": "2026-10-25T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "周末回顾:霍尔木兹海峡紧张推高布伦特至约117美元,下周联储决议前市场押注按兵不动",
+   "en": "Weekend review: Hormuz tensions push Brent to about $117, and markets bet the Fed holds steady on Wednesday"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "道指",
+     "en": "Dow"
+    },
+    "value": "52,215.16",
+    "change": "-1.23%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,623.68",
+    "change": "-0.52%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳指综合",
+     "en": "Nasdaq Composite"
+    },
+    "value": "25,955.34",
+    "change": "-0.21%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "$116.72",
+    "change": {
+     "zh": "六个月高位",
+     "en": "six-month high"
+    },
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周五美股收低,标普500与纳指连续第二周下跌,道指本周仍收高;美国10年期国债收益率报4.988%。",
+    "en": "Wall Street closed lower on Friday, with the S&P 500 and Nasdaq down for a second straight week while the Dow still finished the week higher; the 10-year Treasury yield stood at 4.988%."
+   },
+   {
+    "zh": "半岛水域局势升温:半岛电视台报道,伊朗称不会让美国军舰靠近,布伦特升至约117美元,为4月以来最高。",
+    "en": "Gulf tensions escalated: Al Jazeera reports Iran says it won't let US warships get close, and Brent rose to about $117, its highest since April."
+   },
+   {
+    "zh": "联储周三开会,联邦基金期货显示10月加息概率约5%,市场普遍预期维持利率不变。",
+    "en": "The Fed meets on Wednesday, and fed funds futures put the odds of an October hike at about 5%, with a hold widely expected."
+   }
+  ],
+  "takeaway": {
+   "zh": "这个周末的关键词是油价、利率与耐心。能源价格走高会让通胀担忧延续,但信托基金顾问更想提醒大家:长期计划不需要因为一周的头条而推倒重来,先回头看看自己的目标、期限和风险承受度是否仍然匹配。",
+   "en": "The keywords this weekend are oil, rates and patience. Higher energy prices keep inflation worries alive, but as a unit trust consultant my reminder is that a long-term plan doesn't need to be torn up over one week's headlines; first check that your goals, time horizon and risk tolerance still match."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html"
+   },
+   {
+    "name": "Al Jazeera",
+    "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-25-w1",
+  "time": "2026-10-25T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "伊朗称不会让美军舰靠近,油价升至约117美元,市场关注霍尔木兹海峡",
+   "en": "Iran says it won't let US warships close in as Brent climbs to about $117 and markets watch the Strait of Hormuz"
+  },
+  "analysis": {
+   "zh": "半岛电视台10月24日报道,伊朗军方表示有能力向进入该区域的美国军舰开火,特朗普则称美国“可能再来一次Epic Fury”。伊斯兰革命卫队称有7艘油轮遭袭击或触雷,另有两艘超级油轮周五触雷,布伦特升至约117美元,为4月以来最高。就像一条主要水道随时可能封路,所有依赖它的货车都会提高运费。",
+   "en": "Al Jazeera reported on 24 October that Iran's military says it can fire on US warships entering the area, while Trump said the US “may do another Epic Fury”. The Revolutionary Guards said seven tankers were attacked or hit mines, and two supertankers struck mines on Friday; Brent rose to about $117, its highest since April. It is like a main waterway that may be closed at any moment: every truck that depends on it raises its freight rate."
+  },
+  "dda": {
+   "zh": "能源价格波动可能牵动通胀与企业成本。定期定额(DDA)的长期投资者通常不需要预测油价,持续投入的纪律更重要。",
+   "en": "Energy-price swings may feed into inflation and company costs. Long-term regular (DDA) investors generally don't need to predict oil; the discipline of contributing steadily matters more."
+  },
+  "prs": {
+   "zh": "退休规划要考虑通胀会侵蚀购买力。可以借这个机会检视退休目标是否已把物价上涨算进去,并留意PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement planning has to allow for inflation eroding purchasing power. It is a good moment to check that retirement goals already allow for rising prices, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "地缘新闻驱动的行情往往反复。单笔投资者一般可以考虑分阶段进场以分散时机风险,并检查组合是否过度集中在能源或某一主题。",
+   "en": "Markets driven by geopolitical headlines often swing back and forth. Lump-sum investors can generally consider phasing in to spread timing risk, and check whether a portfolio is too concentrated in energy or any single theme."
+  },
+  "bond": {
+   "zh": "油价上升可能推高通胀预期,并影响马来西亚国债(MGS)与企业债的收益率,令吉与外资流向也可能受牵动。债券基金一般仍扮演平衡组合的角色,但短期净值可能随利率波动。",
+   "en": "Higher oil may lift inflation expectations and influence Malaysian government bond (MGS) and corporate bond yields, with the ringgit and foreign flows possibly affected too. Bond funds generally remain a portfolio balancer, though short-term values may move with interest rates."
+  },
+  "source": {
+   "name": "Al Jazeera",
+   "url": "https://aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks"
+  }
+ },
+ {
+  "id": "2026-10-25-w2",
+  "time": "2026-10-25T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "联储周三开会:10月加息概率降至约5%,市场预期按兵不动",
+   "en": "Fed meets Wednesday: odds of an October hike fall to about 5% as markets expect a hold"
+  },
+  "analysis": {
+   "zh": "雅虎财经周五的市场报道显示,联储将于10月28日开会,联邦基金期货定价的10月加息概率约5%,低于本周早些时候的15%和9月底的37%。同日10年期美债收益率报4.988%,仍低于5%,WTI原油收于103.27美元。就像天气预报的降雨概率一路下调,但出门带不带伞仍要看之后的数据。",
+   "en": "Yahoo Finance's Friday market coverage shows the Fed meets on 28 October, with fed funds futures putting the odds of an October hike at about 5%, down from 15% earlier in the week and 37% at the end of September. The 10-year Treasury yield was 4.988%, still below 5%, and WTI crude settled at 103.27. It is like a rain forecast being cut day by day, though whether to carry an umbrella still depends on the data that follow."
+  },
+  "dda": {
+   "zh": "利率预期的转变提醒我们,短期预测经常改变。定期定额(DDA)让投资者不必押注某一次会议的结果。",
+   "en": "The shift in rate expectations is a reminder that short-term forecasts keep changing. Regular (DDA) investing means not having to bet on the outcome of any single meeting."
+  },
+  "prs": {
+   "zh": "美国利率走向会影响全球资产定价,进而影响退休组合的长期回报。退休规划以十年计,可以检视组合是否分散,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "US rate direction influences global asset pricing and so the long-run returns of retirement portfolios. Retirement planning runs in decades, so check diversification and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "重要央行会议前后市场波动可能加大。单笔投资者一般可考虑分阶段进场,并确认投资期限与风险承受度相符。",
+   "en": "Volatility can pick up around major central-bank meetings. Lump-sum investors can generally consider phasing in and confirm the investment horizon matches their risk tolerance."
+  },
+  "bond": {
+   "zh": "美国利率与美元走势可能影响令吉、外资流向,以及马来西亚国债(MGS)与企业债的收益率。国家银行的OPR仍以本地通胀和增长为主要依据。",
+   "en": "US rates and the dollar may influence the ringgit, foreign flows and Malaysian government (MGS) and corporate bond yields, while Bank Negara's OPR decisions mainly rest on local inflation and growth."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html"
+  }
+ },
+ {
+  "id": "2026-10-25-w3",
+  "time": "2026-10-25T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "专栏:市场的“痛”对联储仍然太轻,沃什未必会因此转向",
+   "en": "Column: markets' pain is still too mild for the Fed, and Warsh may not pivot because of it"
+  },
+  "analysis": {
+   "zh": "The Star于10月24日刊登Mike Dolan的专栏,指出近期股市与债市抛售虽然收紧了金融环境,但还不足以让联储主席沃什“松一口气”。文章写道,经济仍具韧性,物价涨幅依旧偏快,沃什也多次表示融资渠道并没有明显受限。简单说,就像考试成绩只是小幅退步,老师未必会改变教学方式。",
+   "en": "The Star published a column by Mike Dolan on 24 October arguing that the recent stock and bond sell-offs have tightened financial conditions but are “far from enough” to let Fed chair Kevin Warsh off the hook. The economy remains resilient and price growth uncomfortably fast, and Warsh has repeatedly said access to finance shows little sign of being restricted. It is like a student whose grades slip only a little: the teacher may not change the lesson plan."
+  },
+  "dda": {
+   "zh": "如果利率维持较高水平更久,市场可能持续波动。定期定额(DDA)通常能让投资者在不同价格水平上累积单位。",
+   "en": "If rates stay higher for longer, markets may stay choppy. Regular (DDA) investing generally lets investors accumulate units across different price levels."
+  },
+  "prs": {
+   "zh": "较高利率对退休储蓄是一把双刃剑:储蓄回报可能提高,但股票估值可能承压。可以确认退休组合的分散程度,并善用PRS每年最高RM3,000的税务减免。",
+   "en": "Higher rates cut both ways for retirement savings: returns on cash-like holdings may improve while equity valuations may face pressure. Check retirement-portfolio diversification and make use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "政策不确定时,单笔投资的重点是节奏与集中度。一般可考虑分阶段进场,并对照自己的目标和风险承受度。",
+   "en": "When policy is uncertain, pace and concentration matter most for lump sums. Generally consider phasing in and checking against your own goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国利率维持高位可能压低债券价格,并牵动马来西亚国债(MGS)与企业债、sukuk的收益率。债券基金的久期越长,对利率越敏感,但其作为组合平衡器的角色仍然存在。",
+   "en": "US rates staying high may weigh on bond prices and influence Malaysian MGS, corporate bond and sukuk yields. The longer a bond fund's duration, the more sensitive it is to rates, though its role as a portfolio balancer remains."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/insight/2026/10/24/markets-pain-still-too-mild-for-fed"
+  }
+ },
+ {
+  "id": "2026-10-25-w4",
+  "time": "2026-10-25T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "当通胀回归,美债可能不再是股票的“避风港”:60/40组合面临考验",
+   "en": "As inflation returns, Treasuries may stop hedging equities: a test for the 60/40 portfolio"
+  },
+  "analysis": {
+   "zh": "The Star于10月24日刊登Simon White的文章,指出在通胀持续偏高的环境下,美国国债正在失去对冲股票风险的作用。文章提到,当10年期美债收益率长期处于约5.25%至5.5%以上时,股债相关性几乎总是为正,也就是说两者可能一起下跌。就像两把伞同时漏水,下雨时就起不到互补的作用。",
+   "en": "The Star published a piece by Simon White on 24 October arguing that US Treasuries are losing their role as an equity hedge in a persistently elevated inflation regime. When 10-year yields stay above roughly 5.25%–5.5%, the stock-bond correlation has almost always been positive, meaning both can fall together. It is like two umbrellas leaking at once: they stop complementing each other in the rain."
+  },
+  "dda": {
+   "zh": "这提醒我们分散不只是“股加债”,还要看资产之间在不同环境下的关系。定期定额(DDA)配合多元化,有助于平滑长期过程。",
+   "en": "It reminds us that diversification is more than “stocks plus bonds”; it also depends on how assets relate in different regimes. Regular (DDA) investing alongside diversification may help smooth the long journey."
+  },
+  "prs": {
+   "zh": "退休组合常以股债搭配为基础。可以了解各部分在高通胀环境下的角色,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement portfolios are often built on a stock-and-bond mix. Learn what each part does in a high-inflation setting, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单笔投资前,先检查组合是否过度集中在同一类风险上。一般可考虑分阶段进场,并让期限、目标与风险承受度相互匹配。",
+   "en": "Before investing a lump sum, check whether the portfolio is concentrated in one kind of risk. Generally consider phasing in, and match horizon, goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "文章讨论的是美国国债。马来西亚债券基金投资于国债(MGS)、企业债与sukuk,受国家银行OPR、本地通胀和令吉影响,与美国情况不一定同步,但全球利率走势仍可能带来间接影响。",
+   "en": "The article is about US Treasuries. Malaysian bond funds hold MGS, corporate bonds and sukuk, shaped by Bank Negara's OPR, local inflation and the ringgit, so they need not move in step with the US, although global rate trends may still have indirect effects."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/insight/2026/10/24/6040-portfolio-in-inflation-trap"
+  }
+ },
+ {
+  "id": "2026-10-25-w5",
+  "time": "2026-10-25T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台积电前九个月净利达2.42万亿新台币,同比增68.5%,全年营收增长预期上调至44%",
+   "en": "TSMC's nine-month net profit hits NT$2.42 trillion, up 68.5%, with its 2026 sales-growth forecast raised to 44%"
+  },
+  "analysis": {
+   "zh": "中央社(Focus Taiwan)10月24日报道,台积电前九个月净利为2.42万亿新台币,同比增长68.5%;公司10月15日把2026年美元营收增长预期从7月的略高于40%上调至44%。同一篇报道提到,因台风取消运动会,台积电向非管理层员工发放每人3万新台币的特别奖金。就像一家餐厅生意旺到连员工的红包都比去年更大。",
+   "en": "Focus Taiwan reported on 24 October that TSMC's net profit for the first nine months was NT$2.42 trillion, up 68.5% year on year, and that on 15 October the company lifted its 2026 US-dollar sales-growth forecast to 44% from slightly above 40% in July. The same report said TSMC will pay non-managerial staff a special NT$30,000 bonus after a typhoon cancelled Sports Day. It is like a restaurant so busy that even the staff red packets are bigger than last year's."
+  },
+  "dda": {
+   "zh": "AI需求强劲,但本周AI股也出现剧烈震荡。定期定额(DDA)的长期投资者通常不需要追逐热门主题,持续投入、分散布局更重要。",
+   "en": "AI demand is strong, yet AI stocks swung sharply this week. Long-term regular (DDA) investors generally don't need to chase hot themes; steady contributions and diversification matter more."
+  },
+  "prs": {
+   "zh": "许多退休组合通过基金间接持有科技与半导体公司。可以看看自己的组合在科技上的占比是否合适,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "Many retirement portfolios hold tech and semiconductor companies indirectly through funds. Check whether the tech share of your own mix is suitable, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "业绩亮眼不代表股价一路向上,主题集中度才是单笔投资要留意的地方。一般可考虑分阶段进场,并对照自己的风险承受度。",
+   "en": "Strong results don't mean prices only go up; theme concentration is what lump-sum investors should watch. Generally consider phasing in and checking against your own risk tolerance."
+  },
+  "bond": {
+   "zh": "这则新闻对马来西亚债券基金的直接影响有限,不过亚洲科技出口景气可能间接支持区域经济与资金流向。债券基金在组合中仍主要扮演平衡角色。",
+   "en": "This story has limited direct effect on Malaysian bond funds, though strong Asian tech exports may indirectly support regional growth and capital flows. Bond funds still mainly serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610240008"
+  }
+ }
+]
