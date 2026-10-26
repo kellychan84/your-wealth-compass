@@ -1,0 +1,297 @@
+[
+ {
+  "id": "2026-10-26-m0",
+  "kind": "summary",
+  "time": "2026-10-26T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "油价升至布伦特116.72美元,道指周五跌逾600点;金价跌破4,000美元,本周聚焦美联储会议;马股连续四天上涨",
+   "en": "Brent rises to US$116.72 and the Dow sheds over 600 points on Friday; gold slips below US$4,000 as the Fed meets this week, while Malaysia's KLCI notches a fourth straight gain"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,623.68",
+    "change": "-0.5%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "52,215.16",
+    "change": "-1.2%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "US$116.72",
+    "change": "+3.1%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "富时马来西亚综合指数",
+     "en": "FBM KLCI"
+    },
+    "value": "1,611.56",
+    "change": "+0.21%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周五美股收低:标普500跌0.5%至7,623.68点,道指跌1.2%至52,215.16点,油价上涨令通胀与加息忧虑重燃。",
+    "en": "Wall Street ended lower on Friday: the S&P 500 fell 0.5% to 7,623.68 and the Dow lost 1.2% to 52,215.16 as higher oil revived inflation and rate-hike worries."
+   },
+   {
+    "zh": "布伦特原油收报116.72美元;市场预期美联储本周会议按兵不动的机率约91%,金价则一度跌至约3,998美元,为三个月低点。",
+    "en": "Brent settled at US$116.72, and markets priced roughly a 91% chance the Fed holds this week; spot gold dipped to about US$3,998, a three-month low."
+   },
+   {
+    "zh": "富时马来西亚综合指数周五收1,611.56点,连续第四个交易日上涨,本周累计升0.24%。",
+    "en": "Malaysia's FBM KLCI closed Friday at 1,611.56, up for a fourth straight session and 0.24% higher on the week."
+   }
+  ],
+  "takeaway": {
+   "zh": "当油价、利率和科技股同时牵动情绪,新闻会很吵,但长期计划不需要每天改写。作为信托基金顾问,我通常建议先回到自己的投资年期、风险承受度和组合集中度,再看这些消息对你有多大的实际影响。",
+   "en": "When oil, interest rates and tech stocks all move sentiment at once, the headlines get loud, but a long-term plan doesn't need rewriting every day. As a unit trust consultant, I'd generally suggest going back to your time horizon, risk tolerance and concentration first, then asking how much these headlines really affect you."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-drop-elevated-223557989.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/10/23/fbm-klci-extends-winning-streak-ends-week-higher"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-26-m1",
+  "time": "2026-10-26T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "美股周五收跌:道指跌逾600点,科技股连续第二周走弱",
+   "en": "Wall Street slips on Friday: Dow drops over 600 points and tech weakens for a second week"
+  },
+  "analysis": {
+   "zh": "周五标普500下跌0.5%至7,623.68点,道指下跌1.2%至52,215.16点,纳斯达克综合指数跌约0.2%;标普500与纳指连续第二周下跌,道指本周则上涨。航空股因能源成本上升走弱,运通宣布裁员约5%后下跌3%,苹果与英伟达的市值都在约5.1万亿美元附近。指数涨跌不大,但内部轮动很明显,就像一场球赛,比分变化不大,场上的球员却一直在换位。",
+   "en": "On Friday the S&P 500 fell 0.5% to 7,623.68, the Dow lost 1.2% to 52,215.16 and the Nasdaq Composite slipped about 0.2%; the S&P 500 and Nasdaq both finished a second straight week lower while the Dow gained on the week. Airlines weakened on higher energy costs, American Express fell 3% after announcing about 5% job cuts, and Apple and Nvidia were each worth around US$5.1 trillion. The index moves were modest but the rotation underneath was clear, like a match where the score barely changes while the players keep swapping positions."
+  },
+  "dda": {
+   "zh": "指数起伏时,定期定额的价值在于纪律:每月固定投入,不必判断今天是涨是跌,价格低时自然买到较多单位,长期有助平均成本。",
+   "en": "When indices wobble, the value of regular (DDA) investing is discipline: a fixed amount each month means you don't have to judge whether today is up or down, and lower prices naturally buy more units, which may help smooth your average cost over time."
+  },
+  "prs": {
+   "zh": "退休规划以数十年计,一周的涨跌不会决定结果。可以借此检视PRS基金的资产分布是否与年龄相符;每年供款最高RM3,000可享个人税务减免。",
+   "en": "Retirement planning is measured in decades, so one week's moves won't decide the outcome. It's a good time to check whether your PRS fund's asset mix suits your age; contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "市场内部轮动加快时,单笔投资要留意是否过度集中在少数热门板块。分阶段投入可以分散时间点风险,并确认配置与目标和风险承受度相符。",
+   "en": "When rotation inside the market speeds up, a lump sum calls for a concentration check on a few popular sectors. Phasing in can spread timing risk, and it's worth confirming the mix matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市转弱时,资金有时会流向政府债券,令收益率波动。大马债券基金(马来西亚政府债券、企业债券与伊斯兰债券)通常在股市起伏时帮助平衡组合,但也会受利率与资金流向影响。",
+   "en": "When equities weaken, money sometimes moves into government bonds and yields swing. Malaysian bond funds (MGS, corporate bonds and sukuk) generally help balance a portfolio when stocks fluctuate, though they are also affected by interest rates and fund flows."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+  }
+ },
+ {
+  "id": "2026-10-26-m2",
+  "time": "2026-10-26T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "布伦特原油升至116.72美元,通胀忧虑升温,美联储本周开会",
+   "en": "Brent jumps to US$116.72, reviving inflation worries ahead of this week's Fed meeting"
+  },
+  "analysis": {
+   "zh": "周五油价因中东局势再度紧张而上涨:WTI升3.8%至103.27美元,布伦特升3.1%至116.72美元,为4月以来最高结算价。报道称美国与以色列可能准备对伊朗发动新一轮打击。较高的油价令市场重新担心通胀和加息,但目前市场预期美联储本周会议维持利率不变的机率约91%。油价像家里的水电费:涨了,几乎每个人的开销都会慢慢感觉到。",
+   "en": "Oil rose on Friday as Middle East tensions flared: WTI gained 3.8% to US$103.27 and Brent rose 3.1% to US$116.72, its highest settlement since April, amid reports that the US and Israel could prepare fresh strikes on Iran. Higher oil revived worries about inflation and possible rate hikes, although markets currently price about a 91% chance that the Fed holds rates at this week's meeting. Oil is like the household utility bill: when it rises, almost everyone feels it in their spending over time."
+  },
+  "dda": {
+   "zh": "油价高企可能推高成本与通胀,但定期定额不需要预测油价。持续投入并定期检视,通常比追逐能源行情更符合长期目标。",
+   "en": "High oil can lift costs and inflation, but regular (DDA) investing doesn't need an oil forecast. Staying invested and reviewing periodically generally suits long-term goals better than chasing energy moves."
+  },
+  "prs": {
+   "zh": "退休金要面对几十年的通胀。能源价格上涨提醒我们,退休目标需要把生活成本上升考虑进去;PRS每年供款最高RM3,000可享税务减免,是长期累积的工具之一。",
+   "en": "Retirement savings have to cope with decades of inflation. Higher energy prices are a reminder to allow for rising living costs in your retirement goal; PRS contributions of up to RM3,000 a year qualify for tax relief and are one tool for long-term accumulation."
+  },
+  "lump": {
+   "zh": "地缘消息推动的油价可能很快反转。单笔资金可考虑分阶段投入以分散时间点风险,并检查组合是否过度集中在对油价敏感的板块。",
+   "en": "Geopolitics-driven oil can reverse quickly. A lump sum can be phased in to spread timing risk, and it's worth checking whether the portfolio is too concentrated in oil-sensitive sectors."
+  },
+  "bond": {
+   "zh": "油价与加息预期上升时,债券价格可能承压。大马债券基金受国家银行OPR、通胀和令吉走势影响;马来西亚作为产油国,油价上涨对国家收入可能有一定支持,但通胀仍需留意。债券基金通常仍扮演平衡组合的角色。",
+   "en": "When oil and rate-hike expectations rise, bond prices may come under pressure. Malaysian bond funds are influenced by Bank Negara's OPR, inflation and the ringgit; as an oil producer, Malaysia may see some support to national revenue from higher oil, but inflation still needs watching. Bonds generally remain a portfolio balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-drop-elevated-223557989.html"
+  }
+ },
+ {
+  "id": "2026-10-26-m3",
+  "time": "2026-10-26T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "金价跌破4,000美元创三个月低点,本周为美联储会议周",
+   "en": "Gold slips below US$4,000 to a three-month low as the Fed meets this week"
+  },
+  "analysis": {
+   "zh": "周五现货金价一度跌至约3,998美元/盎司,为7月中旬以来首次跌破4,000美元,并面临6月以来最差的一周。原因是油价上涨强化通胀忧虑,令市场对美联储加息的押注升温:据CME FedWatch,美联储10月27至28日会议按兵不动的机率约92%,12月加息的机率约78%。黄金不派息,所以对利率预期特别敏感,就像一棵不结果子的树,利率越高,人们越不愿意守着它。",
+   "en": "On Friday spot gold dipped to about US$3,998 an ounce, its first move below US$4,000 since mid-July, and was headed for its worst week since June. Higher oil strengthened inflation worries and lifted bets on Fed rate hikes: CME FedWatch showed about a 92% chance the Fed holds at its October 27–28 meeting and roughly a 78% chance of a hike in December. Gold pays no interest, so it is especially sensitive to rate expectations, like a tree that bears no fruit: the higher rates go, the less people want to hold it."
+  },
+  "dda": {
+   "zh": "金价大起大落时,定期定额的思路同样适用:不需要判断顶底,把黄金视为组合中的一小部分,长期分散风险即可。",
+   "en": "The same regular (DDA) mindset applies when gold swings: you don't need to call tops or bottoms, and treating gold as one small part of a diversified portfolio can help spread risk over the long term."
+  },
+  "prs": {
+   "zh": "退休资产需要的是长期分散。黄金价格的短期波动提醒我们,不要把退休金押在单一资产上;PRS每年供款最高RM3,000可享税务减免。",
+   "en": "Retirement assets need long-term diversification. Short-term gold swings are a reminder not to rest retirement savings on a single asset; PRS contributions of up to RM3,000 a year qualify for tax relief."
+  },
+  "lump": {
+   "zh": "单笔资金若想增加黄金相关投资,应先看它占整体组合的比重,并确认符合目标和风险承受度。分阶段投入可以分散时间点风险。",
+   "en": "If a lump sum is considered for gold-related investments, first look at its weight in the overall portfolio and confirm it matches your goals and risk tolerance. Phasing in can spread timing risk."
+  },
+  "bond": {
+   "zh": "美联储加息预期上升通常令美元和美国收益率偏强,可能对新兴市场债券与令吉构成压力。大马债券基金一般仍有票息收入,并在组合中起平衡作用,但需留意利率和资金流向变化。",
+   "en": "Rising Fed rate-hike expectations usually support the US dollar and US yields, which may pressure emerging-market bonds and the ringgit. Malaysian bond funds generally still earn coupon income and balance a portfolio, but interest-rate and fund-flow changes are worth watching."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
+  }
+ },
+ {
+  "id": "2026-10-26-m4",
+  "time": "2026-10-26T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时马来西亚综合指数连续第四天上涨,周五收1,611.56点",
+   "en": "Malaysia's FBM KLCI extends its winning run to a fourth day, closing Friday at 1,611.56"
+  },
+  "analysis": {
+   "zh": "富时马来西亚综合指数周五上涨3.42点或0.21%,收1,611.56点,连续第四个交易日上涨,本周累计升3.80点或0.24%。当天涨跌股几乎各半(528只上涨、529只下跌),成交量31.8亿股、价值24.7亿令吉。交易员指出,缺乏新催化剂,投资者仍然谨慎;周四外资净卖出9,800万令吉,本地机构净买入8,600万令吉。这像一艘稳稳前行的船,海面不平静,但本地资金仍在掌舵。",
+   "en": "The FBM KLCI rose 3.42 points, or 0.21%, on Friday to close at 1,611.56, its fourth straight gain and up 3.80 points, or 0.24%, on the week. Breadth was evenly split (528 gainers, 529 losers), with 3.18 billion shares worth RM2.47 billion traded. Dealers cited a lack of fresh catalysts and cautious investors; on Thursday foreign investors were net sellers of RM98 million while local institutions bought a net RM86 million. It's like a ship moving steadily ahead: the sea isn't calm, but local funds are still at the helm."
+  },
+  "dda": {
+   "zh": "本地市场温和上涨时,定期定额仍是简单的方法:不需要猜测短期走势,按月投入、长期持有,让时间帮你平均成本。",
+   "en": "When the local market inches higher, regular (DDA) investing remains a simple approach: no need to guess short-term direction, just invest monthly and hold for the long term so time helps average your cost."
+  },
+  "prs": {
+   "zh": "大马退休规划需要考虑本地与海外资产的搭配。PRS每年供款最高RM3,000可享个人税务减免,是为退休长期累积的工具之一。",
+   "en": "Malaysian retirement planning should consider a mix of local and overseas assets. PRS contributions of up to RM3,000 a year qualify for personal tax relief and are one tool for long-term accumulation."
+  },
+  "lump": {
+   "zh": "指数连涨不代表接下来继续上涨。单笔投资可分阶段进行以分散时间点风险,并留意大马组合是否过度集中在少数蓝筹股。",
+   "en": "A winning streak doesn't mean further gains. A lump sum can be phased in to spread timing risk, and it's worth checking whether a Malaysian portfolio is too concentrated in a few blue chips."
+  },
+  "bond": {
+   "zh": "外资流向、令吉走势和国家银行OPR是影响大马债券基金的关键。市场谨慎、缺乏新催化剂时,大马政府债券与企业债券、伊斯兰债券通常提供较稳定的票息,起到平衡组合的作用。",
+   "en": "Foreign flows, the ringgit and Bank Negara's OPR are key for Malaysian bond funds. When markets are cautious and lack fresh catalysts, MGS, corporate bonds and sukuk generally offer steadier coupon income and help balance a portfolio."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/23/fbm-klci-extends-winning-streak-ends-week-higher"
+  }
+ },
+ {
+  "id": "2026-10-26-m5",
+  "time": "2026-10-26T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台湾9月工业生产年增19.17%,AI需求连续31个月推动增长",
+   "en": "Taiwan's September industrial output rises 19.17% as AI demand extends growth to 31 months"
+  },
+  "analysis": {
+   "zh": "台湾经济部周五公布,9月工业生产指数年增19.17%至140.76,连续第31个月增长;制造业年增20.21%。电子零组件年增23.62%,计算机、电子及光学产品年增45.92%。第三季工业生产年增21.95%。经济部表示,增长主要来自AI相关需求,并预期AI热潮与年底购物季将支撑余下几个月的生产,但地缘紧张和主要经济体的贸易政策仍带来不确定性。",
+   "en": "Taiwan's Ministry of Economic Affairs reported on Friday that September industrial production rose 19.17% year on year to an index of 140.76, the 31st consecutive month of growth, with manufacturing up 20.21%. Electronics rose 23.62% and computer and optoelectronics products jumped 45.92%; third-quarter output grew 21.95%. The ministry credited AI-related demand and expects the AI boom and year-end holiday shopping to support production for the rest of the year, while geopolitical tensions and major economies' trade policies add uncertainty."
+  },
+  "dda": {
+   "zh": "AI供应链的强劲数据显示科技业基本面,但股价已反映许多期望。定期定额可以让你不必猜测何时是最佳入场点,长期参与科技增长。",
+   "en": "Strong AI supply-chain data shows the sector's fundamentals, but prices already reflect plenty of expectations. Regular (DDA) investing means you don't have to guess the best entry point and can take part in tech growth over the long term."
+  },
+  "prs": {
+   "zh": "退休基金往往间接持有科技与半导体企业。了解这些数据有助你理解PRS基金的组合,但退休规划仍以长期分散为主;每年供款最高RM3,000可享税务减免。",
+   "en": "Retirement funds often hold technology and semiconductor companies indirectly. Understanding such data helps you read your PRS fund's holdings, but retirement planning still rests on long-term diversification; contributions of up to RM3,000 a year qualify for tax relief."
+  },
+  "lump": {
+   "zh": "科技板块近期波动较大。单笔投资应留意科技占整体组合的比重,分阶段投入可分散时间点风险,并确认符合你的目标和风险承受度。",
+   "en": "The tech sector has been volatile lately. A lump sum should check how much of the overall portfolio sits in technology; phasing in can spread timing risk, and the mix should match your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这则消息对大马债券基金的直接影响有限。不过强劲的亚洲出口与科技需求,也可能有利马来西亚半导体与数据中心相关行业,间接影响企业信用。债券基金仍可在股市波动时起平衡作用。",
+   "en": "The direct effect on Malaysian bond funds is limited. Still, strong Asian exports and tech demand may help Malaysia's semiconductor and data-centre related industries, indirectly touching corporate credit. Bond funds generally remain a balancer when equities swing."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610230013"
+  }
+ },
+ {
+  "id": "2026-10-26-m6",
+  "time": "2026-10-26T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "SK海力士取消Solidigm美国上市计划,称受资本市场状况影响",
+   "en": "SK Hynix drops its US IPO plan for Solidigm, citing capital market conditions"
+  },
+  "analysis": {
+   "zh": "SK海力士披露,已决定中止对旗下闪存业务Solidigm进行首次公开募股及上市前融资的评估,理由是资本市场状况和股东价值。Solidigm生产NAND闪存和固态硬盘,原本正为扩大产能寻求融资;此前有报道称它考虑进行约5万亿韩元(约38亿美元)的上市前融资,并可能在美国纳斯达克上市,集资最多150亿美元。科技股近期的回调让不少公司重新考虑上市时机,就像天气转阴时,大家先把野餐推迟。",
+   "en": "SK Hynix disclosed that it has decided to discontinue its review of a pre-IPO round and an initial public offering for Solidigm, its flash-memory unit, citing capital market conditions and shareholder value. Solidigm makes NAND flash and SSDs and had been exploring financing to expand capacity; earlier reports said it was weighing a pre-IPO raise of about 5 trillion won (about US$3.8 billion) and a Nasdaq listing that could raise up to US$15 billion. The recent tech pullback is making companies rethink their listing timing, like postponing a picnic when the sky turns grey."
+  },
+  "dda": {
+   "zh": "科技与半导体企业的上市和融资计划变化,反映市场情绪起伏。定期定额的好处是不依赖单一事件,持续投入、长期持有更重要。",
+   "en": "Changes to tech and chip listing and funding plans reflect shifting market sentiment. The strength of regular (DDA) investing is that it doesn't depend on any single event; staying consistent over the long term matters more."
+  },
+  "prs": {
+   "zh": "许多退休基金持有全球科技企业。这类新闻提醒我们,科技股会因情绪和融资环境而波动,退休规划应着眼长期并保持分散;PRS每年供款最高RM3,000可享税务减免。",
+   "en": "Many retirement funds hold global tech companies. Stories like this are a reminder that tech stocks swing with sentiment and funding conditions, so retirement planning should stay long-term and diversified; PRS contributions of up to RM3,000 a year qualify for tax relief."
+  },
+  "lump": {
+   "zh": "新股上市和热门科技题材容易带来集中投资的冲动。单笔资金宜先检查集中度与自己的风险承受度,分阶段投入可分散时间点风险。",
+   "en": "IPOs and hot tech themes can tempt people to concentrate. A lump sum should first check concentration and your own risk tolerance, and phasing in can spread timing risk."
+  },
+  "bond": {
+   "zh": "这项新闻对大马债券基金的直接影响不大。企业融资环境收紧时,信用状况较弱的发行人可能面对更高成本,这也是选择债券基金时关注信用质量的原因;债券基金仍可在组合中提供平衡。",
+   "en": "The direct effect on Malaysian bond funds is small. When corporate financing conditions tighten, weaker issuers may face higher costs, which is why credit quality matters when choosing bond funds; bonds can still add balance to a portfolio."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/sk-hynix-scraps-solidigm-ipo-plans-citing-market-conditions-4967830"
+  }
+ }
+]
