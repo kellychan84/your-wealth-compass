@@ -1,0 +1,200 @@
+[
+ {
+  "id": "2026-10-27-a1",
+  "time": "2026-10-27T17:00:00+08:00",
+  "tags": ["my", "tech"],
+  "title": {
+   "zh": "马股午盘回升至1,608.54点,科技股领涨",
+   "en": "KLCI rebounds to 1,608.54 at midday as tech stocks lead"
+  },
+  "analysis": {
+   "zh": "根据The Star的午盘报道,周二中午12点30分富时马来西亚综合指数升4.18点或0.26%至1,608.54点,上涨585只、下跌358只,成交额RM12.4亿。YTL电力升15仙至RM5.11,国能升4仙至RM13.32;科技股表现突出,MPI升62仙至RM41.20,ViTrox与UMS Integration也走高,种植股则受压。Apex Securities认为,Anthropic递交上市文件改善了全球风险情绪,油价回落也带来舒缓。早上还在退潮,中午潮水又回来了一点。",
+   "en": "According to The Star's midday report, at 12.30pm on Tuesday the FBM KLCI was up 4.18 points, or 0.26%, at 1,608.54, with 585 gainers against 358 losers and turnover of RM1.24 billion. YTL Power rose 15 sen to RM5.11 and Tenaga 4 sen to RM13.32; tech stocks stood out, with MPI up 62 sen to RM41.20 and ViTrox and UMS Integration also higher, while plantations lagged. Apex Securities said Anthropic's IPO filing improved global risk sentiment and easing oil prices offered relief. The tide that ebbed on Monday came back in a little by lunchtime."
+  },
+  "dda": {
+   "zh": "昨天跌、今天升,是股市常见的节奏。定期定额不必跟着每天的起落调整,长期持续投入本身就是在消化这些短期波动。",
+   "en": "Down yesterday, up today is a familiar market rhythm. Regular (DDA) investing doesn't need adjusting to each day's moves; steady long-term contributions are themselves a way of absorbing short-term swings."
+  },
+  "prs": {
+   "zh": "本地科技与半导体股回升,提醒我们大马市场也有成长型行业。检视PRS基金时,可以了解它对本地与区域增长资产的配置是否符合自己的退休年期;供款每年最高可享RM3,000税务减免。",
+   "en": "The rebound in local tech and semiconductor names is a reminder that Bursa has growth sectors too. When reviewing a PRS fund, see whether its exposure to local and regional growth assets suits your retirement horizon; contributions qualify for tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单日行业轮动明显时(科技升、种植跌),单笔投资更需要留意组合是否过度集中在某一板块。分阶段投入可分散时间点风险,并以目标和风险承受度为依据。",
+   "en": "When sectors rotate sharply in a single day (tech up, plantations down), a lump sum calls for a closer look at whether a portfolio leans too much on one sector. Phasing in can spread timing risk, guided by your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市午盘小幅回升,对大马债券基金的直接影响一般不大。政府债券与伊斯兰债券收益率更受国家银行OPR取向、本周美联储决定与外资流向影响;股市来回波动时,债券基金通常发挥稳定组合的作用。",
+   "en": "A modest midday gain in stocks usually has little direct effect on Malaysian bond funds. MGS and sukuk yields respond more to Bank Negara's OPR stance, this week's Fed decision and foreign flows; when equities swing back and forth, bond funds generally help steady a portfolio."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/2026/10/27/bursa-malaysia-higher-at-midday-on-improved-global-risk-sentiment"
+  }
+ },
+ {
+  "id": "2026-10-27-a2",
+  "time": "2026-10-27T17:00:00+08:00",
+  "tags": ["tech"],
+  "title": {
+   "zh": "台积电反弹,台股小涨0.12%收46,096点",
+   "en": "Taiwan shares edge up 0.12% to 46,096 as TSMC bounces back"
+  },
+  "analysis": {
+   "zh": "周二台湾加权指数收46,096.23点,升54.80点或0.12%,成交额新台币9,765.5亿元,盘中在45,676点至46,585点之间震荡。台积电升0.63%至新台币2,400元,带动大市回稳;记忆体股吸引低接买盘,南亚科升6.52%。外资在主板净卖超新台币81亿元。分析师表示,市场对台积电基本面的信心不变,但投资者在等美国大型云端企业的业绩,看人工智能开支的走向,情绪仍偏谨慎。",
+   "en": "On Tuesday the Taiex closed at 46,096.23, up 54.80 points or 0.12%, on turnover of NT$976.55 billion after swinging between 45,676 and 46,585. TSMC rose 0.63% to NT$2,400, steadying the market, while memory chipmakers drew bargain hunting, with Nanya Technology up 6.52%. Foreign investors were net sellers of NT$8.10 billion on the main board. An analyst said faith in TSMC's fundamentals was unchanged, but sentiment stayed cautious as investors await results from major US cloud providers for clues on AI spending."
+  },
+  "dda": {
+   "zh": "芯片股在财报季前常常上下震荡。定期定额持有科技或亚洲基金的投资者,不需要预测云端企业的业绩,长期持续投入有助平均成本。",
+   "en": "Chip stocks often swing ahead of earnings season. Investors holding tech or Asian funds through regular (DDA) investing don't need to predict cloud companies' results; steady long-term contributions may help average out costs."
+  },
+  "prs": {
+   "zh": "台积电占台股市值超过四成,说明单一市场可能高度集中于少数公司。规划退休时,可了解PRS基金的持股分散程度,并善用每年最高RM3,000的税务减免。",
+   "en": "TSMC makes up over 40% of Taiwan's market value, showing how a single market can hinge on a few companies. For retirement planning, it helps to understand how diversified your PRS fund's holdings are, and to use the tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "当一个市场的表现高度依赖一家公司时,单笔投资要特别检视集中度风险。分阶段进场可以分散时间点风险,也让你有空间观察财报季的变化。",
+   "en": "When a market depends heavily on one company, a lump sum deserves an extra check on concentration risk. Phasing in can spread timing risk and leaves room to see how earnings season unfolds."
+  },
+  "bond": {
+   "zh": "台股与芯片股的波动对大马债券基金影响通常有限。不过,外资在亚洲股市进出可能牵动区域货币与资金流向;债券基金在组合中一般扮演平衡科技股波动的角色。",
+   "en": "Moves in Taiwan and chip stocks usually have limited effect on Malaysian bond funds, although foreign money moving in and out of Asian equities may touch regional currencies and flows. In a portfolio, bond funds generally help balance tech-stock volatility."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610270015"
+  }
+ },
+ {
+  "id": "2026-10-27-a3",
+  "time": "2026-10-27T17:00:00+08:00",
+  "tags": ["cn"],
+  "title": {
+   "zh": "汇丰季度盈利略逊预期,港股股价跌逾5%拖累恒指",
+   "en": "HSBC's quarterly profit narrowly misses forecasts; Hong Kong shares slide over 5% and weigh on the Hang Seng"
+  },
+  "analysis": {
+   "zh": "汇丰第三季除税前利润按年升32%至96.3亿美元,但略低于市场预期的97亿美元;收入升5%至186.2亿美元,也低于约190亿美元的预期。银行同时宣布再回购最多10亿美元股份。周二下午汇丰港股跌5.56%至134.30港元,盘中低见132.60港元,为4月2日以来最低;恒生指数下午跌约0.73%。盈利增长了,但没有达到大家心中的分数,股价就先反映了失望。",
+   "en": "HSBC's third-quarter pretax profit rose 32% from a year earlier to US$9.63 billion, narrowly missing the US$9.7 billion estimate, while revenue rose 5% to US$18.62 billion, short of forecasts around US$19 billion. The bank also announced a further buyback of up to US$1 billion. On Tuesday afternoon its Hong Kong shares fell 5.56% to HK$134.30 after touching HK$132.60, the lowest since April 2, and the Hang Seng Index was down about 0.73%. Profit grew, but it fell short of the score people had in mind, so the share price reflected the disappointment first."
+  },
+  "dda": {
+   "zh": "大型银行股一天跌逾5%,说明即使是稳健企业,短期股价也会因预期落差而波动。定期定额的长期投资者,通常更关注企业长期盈利能力,而不是单一季度。",
+   "en": "A big bank stock falling more than 5% in a day shows that even solid companies can swing on an expectations gap. Long-term regular (DDA) investors usually focus more on lasting earnings power than on a single quarter."
+  },
+  "prs": {
+   "zh": "银行股常被视为收息资产,但股价同样会波动。退休组合可以同时包含收息与增长部分,并按年龄调整比重;PRS供款每年最高RM3,000可扣税。",
+   "en": "Bank shares are often seen as income assets, yet their prices still move. A retirement portfolio can hold both income and growth parts and adjust the balance with age; PRS contributions of up to RM3,000 a year are tax-deductible."
+  },
+  "lump": {
+   "zh": "单笔投资若集中在同一行业或少数大型股,财报一次不如预期就可能明显影响组合。分阶段投入、分散行业,通常有助降低这类风险。",
+   "en": "If a lump sum is concentrated in one sector or a few large stocks, a single earnings miss can noticeably dent the portfolio. Phasing in and spreading across sectors generally helps reduce that kind of risk."
+  },
+  "bond": {
+   "zh": "汇丰盈利略逊预期属于股票层面的消息,对大马债券基金的直接影响有限。银行业整体信用状况才是企业债券的关注点;债券基金在股市受压时,一般能为组合提供缓冲。",
+   "en": "HSBC's slight earnings miss is an equity-level story with limited direct effect on Malaysian bond funds. For corporate bonds the bigger question is the banking sector's overall credit health, and bond funds generally offer a cushion when equities are under pressure."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/earnings/hsbc-3q-pretax-profit-rises-32-narrowly-misses-estimates-as-income-grows-4974166"
+  }
+ },
+ {
+  "id": "2026-10-27-a4",
+  "time": "2026-10-27T17:00:00+08:00",
+  "tags": ["us", "tech"],
+  "title": {
+   "zh": "英伟达向Meta投资30亿美元,深化人工智能合作",
+   "en": "Nvidia invests US$3 billion in Meta, deepening AI ties"
+  },
+  "analysis": {
+   "zh": "英伟达周二宣布向Meta的股票发行投资30亿美元,双方将加强在Meta人工智能助理Muse及相关模型上的合作,目标是提升效能、降低成本。Meta已把这次股票发行规模提高到975亿美元,是公司史上最大的集资,用来加快人工智能基础设施投资。就像修路公司入股物流公司,双方都押注同一条高速公路会越来越繁忙。",
+   "en": "Nvidia announced on Tuesday it will invest US$3 billion in Meta's equity offering, with the two deepening work on Meta's Muse AI assistant and related models to improve performance and cut costs. Meta has raised the offering to US$97.5 billion, the largest fundraising in its history, to speed up AI infrastructure spending. It is a bit like a road builder buying into a logistics firm: both are betting the same highway gets busier."
+  },
+  "dda": {
+   "zh": "科技巨头之间互相投资,显示人工智能投入规模庞大,但回报需要时间验证。定期定额可以让你长期参与科技主题,而不必在每则大新闻出现时做决定。",
+   "en": "Tech giants investing in each other shows how large AI spending has become, though the returns will take time to prove out. Regular (DDA) investing lets you take part in the tech theme over the long run without deciding on every big headline."
+  },
+  "prs": {
+   "zh": "人工智能是长期趋势,但退休资金需要的是稳定与分散,而不是追逐单一主题。可以检视PRS基金在科技与其他资产之间的平衡,同时善用每年最高RM3,000的税务减免。",
+   "en": "AI is a long-term trend, but retirement money needs stability and diversification rather than chasing one theme. Review how your PRS fund balances tech with other assets, and make use of the tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "当市场热议人工智能巨额集资时,单笔投资容易被情绪带动。原则上可分阶段投入以分散时间点风险,并确认科技比重没有超出自己的风险承受度。",
+   "en": "When the market buzzes about giant AI fundraisings, a lump sum can easily be swayed by emotion. In principle, phasing in spreads timing risk, and it is worth confirming that tech exposure stays within your risk tolerance."
+  },
+  "bond": {
+   "zh": "企业大规模集资属于股市层面的新闻,对大马债券基金的直接影响很小。马来西亚政府债券与企业债券更受利率、通胀与令吉走势影响;债券在组合中通常用来平衡高增长资产的波动。",
+   "en": "Large corporate fundraisings are equity-market news with little direct effect on Malaysian bond funds. MGS and corporate bonds respond more to rates, inflation and the ringgit; in a portfolio, bonds usually help balance the swings of high-growth assets."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/346624/Nvidia-Meta-deepen-AI-ties-with-US3-billion-investment-deal"
+  }
+ },
+ {
+  "id": "2026-10-27-a5",
+  "time": "2026-10-27T17:00:00+08:00",
+  "tags": ["commodities"],
+  "title": {
+   "zh": "中东外交斡旋带来希望,布伦特原油回落至约114.85美元",
+   "en": "Brent slips to about US$114.85 on hopes for Middle East diplomacy"
+  },
+  "analysis": {
+   "zh": "周二撰稿时,布伦特原油报每桶114.85美元,较上周末一度超过117美元回落;西德州中质原油约100.87美元。沙特、土耳其与巴基斯坦官员前往德黑兰商讨结束冲突,有分析师形容这是获利回吐。不过,胡塞武装对沙特能源设施的袭击以及霍尔木兹海峡的油轮遇袭仍支撑油价,国际能源署也警告供应中断可能延续至明年。就像暴雨稍停,但天空还没放晴。",
+   "en": "At the time of writing on Tuesday, Brent crude traded at US$114.85 a barrel, down from above US$117 late last week, with WTI near US$100.87. Saudi, Turkish and Pakistani officials travelled to Tehran to discuss ending hostilities, and one analyst described the dip as profit-taking. Still, Houthi attacks on Saudi energy facilities and strikes on tankers in the Strait of Hormuz continue to support prices, and the International Energy Agency warned supply disruption could extend into next year. The heavy rain has eased, but the sky has not cleared."
+  },
+  "dda": {
+   "zh": "油价随外交消息起伏,很难事先判断。定期定额让你不用因为每一则中东新闻调整计划,长期持续投入更有助应对这类不确定性。",
+   "en": "Oil moves with diplomatic headlines that are hard to predict. Regular (DDA) investing means you don't need to change the plan for every Middle East update; steady long-term contributions may handle this kind of uncertainty better."
+  },
+  "prs": {
+   "zh": "能源价格长期偏高,会推高生活成本,也让退休开支估算更需要预留通胀空间。可以借此检视PRS供款是否足够,并记得每年最高RM3,000的税务减免。",
+   "en": "Persistently high energy prices raise living costs, so retirement spending estimates need more room for inflation. It is a good prompt to check whether your PRS contributions are enough, and to remember the tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "地缘政治消息可能让能源相关资产短期大起大落。单笔投资不宜因一时的涨跌追进或撤出,分阶段投入与分散配置通常更稳妥。",
+   "en": "Geopolitical news can make energy-linked assets swing sharply in the short term. A lump sum is better not driven in or out by a single move; phasing in and diversifying are generally the steadier approach."
+  },
+  "bond": {
+   "zh": "油价若持续高企,可能推高通胀预期与利率,对债券价格不利;不过马来西亚是石油出口国,油价也可能支持令吉与政府收入。大马债券基金的表现,通常取决于通胀、国家银行OPR与外资流向的综合影响。",
+   "en": "If oil stays high it may lift inflation expectations and rates, which weighs on bond prices; yet Malaysia is an oil exporter, so oil may also support the ringgit and government revenue. Malaysian bond funds usually reflect the combined effect of inflation, Bank Negara's OPR and foreign flows."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/energy/articles/oil-prices-drop-despite-threat-061557278.html"
+  }
+ },
+ {
+  "id": "2026-10-27-a6",
+  "time": "2026-10-27T17:00:00+08:00",
+  "tags": ["tech"],
+  "title": {
+   "zh": "前英特尔总裁基辛格:人工智能不是泡沫,但会有\"减速带\"",
+   "en": "Ex-Intel CEO Gelsinger: AI is not a bubble, but expect 'speed bumps'"
+  },
+  "analysis": {
+   "zh": "前英特尔总裁基辛格周二在台北一场科技峰会上表示,人工智能投资可能会经历干扰和市场调整,但他不认为这是泡沫:\"我们不把它看作人工智能泡沫,但会有一些减速带。\"他认为人工智能是\"长达二十多年的投资与扩张超级周期\",温和的回调反而可能有利于行业长期发展。此前纳斯达克100指数在截至10月16日的一周下跌5.5%,是2025年4月以来最大单周跌幅。长途旅程中遇到减速带很正常,重要的是方向和耐心。",
+   "en": "Speaking at a tech summit in Taipei on Tuesday, former Intel CEO Pat Gelsinger said AI investment may face disruption and market corrections but rejected the bubble label: \"We do not think of it as an AI bubble, but we'll have some speed bumps.\" He described AI as \"a two-decade-plus supercycle of investments and expansion\" and suggested mild pullbacks could even help the sector's long-term growth. The Nasdaq 100 fell 5.5% in the week ending October 16, its steepest weekly drop since April 2025. On a long journey, speed bumps are normal; direction and patience are what count."
+  },
+  "dda": {
+   "zh": "如果人工智能真是长周期,中途的回调就是过程的一部分。定期定额的设计,正是让投资者在\"减速带\"时也能持续累积单位。",
+   "en": "If AI really is a long cycle, pullbacks along the way are part of the journey. Regular (DDA) investing is designed to keep you accumulating units even over the speed bumps."
+  },
+  "prs": {
+   "zh": "二十年的周期与很多人的退休年期相近。退休规划可以纳入长期成长主题,但也要与年龄和风险承受度相配;PRS每年最高RM3,000的税务减免可帮助长期储蓄。",
+   "en": "A two-decade cycle is close to many people's retirement horizon. Retirement plans can include long-term growth themes, matched to age and risk tolerance; the PRS tax relief of up to RM3,000 a year can support long-term saving."
+  },
+  "lump": {
+   "zh": "专家也提醒会有调整,这正是单笔投资不宜一次性重押单一主题的原因。分阶段投入可以分散时间点风险,同时留意组合集中度。",
+   "en": "Even industry veterans expect corrections, which is why a lump sum is better not committed heavily to one theme at once. Phasing in can spread timing risk while you keep an eye on concentration."
+  },
+  "bond": {
+   "zh": "科技股的\"减速带\"对大马债券基金一般没有直接影响,但当股市回调时,政府债券、企业债券与伊斯兰债券通常能在组合中起到缓冲作用,这正是股债搭配的意义。",
+   "en": "Tech-stock speed bumps generally have no direct effect on Malaysian bond funds, but when equities pull back, MGS, corporate bonds and sukuk usually act as a cushion in a portfolio, which is the point of pairing stocks with bonds."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610270008"
+  }
+ }
+]
