@@ -305,6 +305,223 @@ window.INSIGHTS = [].concat(
  }
 ],
 [
+  {
+    "id": "2026-10-28-a1",
+    "time": "2026-10-28T17:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "台股收盘大涨2.04%,收报47,035.58点,台积电升1.04%",
+      "en": "Taiex jumps 2.04% to close at 47,035.58 as TSMC gains 1.04%"
+    },
+    "analysis": {
+      "zh": "周三台股加权指数收盘上涨939.35点,报47,035.58点,成交额新台币7,221.4亿元。费城半导体指数前一晚升3.60%,联发科升6.94%、南亚科升8.16%;台积电升1.04%至2,425元,单靠它就贡献约200点,占总市值逾四成。外资当天净买超约159.2亿元新台币。好比一支球队里的明星球员发挥出色,整体成绩跟着大幅提升,但也说明成绩高度依赖他。",
+      "en": "The Taiex rose 939.35 points on Wednesday to close at 47,035.58, on turnover of NT$722.14 billion. After the Philadelphia Semiconductor Index gained 3.60% overnight, MediaTek rose 6.94% and Nanya Technology 8.16%; TSMC added 1.04% to NT$2,425 and alone contributed about 200 points, as it makes up over 40% of the market's value. Foreign investors were net buyers of about NT$15.92 billion. It is like a star player lifting the whole team's score: great for results, but it also shows how much the team leans on one person."
+    },
+    "dda": {
+      "zh": "单日的大涨或大跌都不必成为调整计划的理由。定期定额(DDA)的做法是按固定日期投入,让不同价位的成本自然平均;若持有的信托基金包含亚洲科技股,不妨留意它们在组合中的占比。",
+      "en": "A big one-day move does not have to be a reason to change a plan. Regular (DDA) investing puts in a fixed amount on set dates so costs average out over time; if your unit trust holds Asian tech, it is worth noticing how large that share is in the portfolio."
+    },
+    "prs": {
+      "zh": "退休储蓄的时间跨度很长,短期的市场热潮或回调影响有限。可以趁此检视PRS基金的资产配置是否仍符合年龄与退休目标;每年PRS供款最高RM3,000可享个人所得税减免。",
+      "en": "Retirement saving runs for decades, so short bursts of enthusiasm or pullbacks matter less. It is a good time to check that your PRS fund's mix still suits your age and retirement goal; PRS contributions of up to RM3,000 a year also qualify for personal tax relief."
+    },
+    "lump": {
+      "zh": "当单一公司占整个市场四成以上时,集中度风险特别值得留意。单笔投资可以考虑分阶段进场以分散时间点风险,并确认配置与自己的目标和风险承受度相符。",
+      "en": "When a single company makes up over 40% of a market, concentration risk deserves attention. For a lump sum, phasing in may spread timing risk, and it is worth confirming the mix fits your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "台股涨势对大马债券基金(政府债券、企业债券与伊斯兰债券)的直接影响一般有限。债券基金更受美联储决定、国家银行利率政策与令吉走势影响,在股市波动时通常扮演组合平衡器的角色。",
+      "en": "Gains in Taiwan shares generally have limited direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk). Those funds respond more to the Fed, Bank Negara's rate policy and the ringgit, and usually serve as a portfolio balancer when equities swing."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202610280019"
+    }
+  },
+  {
+    "id": "2026-10-28-a2",
+    "time": "2026-10-28T17:00:00+08:00",
+    "tags": [
+      "cn",
+      "tech"
+    ],
+    "title": {
+      "zh": "亚洲股市追随美股科技涨势:韩股飙6.8%,日经升1.1%,港股微升0.2%",
+      "en": "Asia follows Wall Street's tech rally: Kospi surges 6.8%, Nikkei up 1.1%, Hang Seng edges up 0.2%"
+    },
+    "analysis": {
+      "zh": "据美联社周三亚洲交易时段报道,韩国综合指数大涨6.8%至6,023.73点,日经225升1.1%至63,954.19点,上海综合指数升0.5%至3,666.50点,港股恒指在抹去早段跌幅后微升0.2%至23,089.22点。内存芯片商SK海力士是亚洲最大的推动力之一。就像一场接力赛,美国科技股先跑一棒,亚洲市场随后接棒,但接棒的步伐并不一致。",
+      "en": "Per an AP report on Wednesday's Asian session, South Korea's Kospi jumped 6.8% to 6,023.73, Japan's Nikkei 225 rose 1.1% to 63,954.19, the Shanghai Composite gained 0.5% to 3,666.50, and Hong Kong's Hang Seng rose 0.2% to 23,089.22 after erasing earlier losses. Memory chipmaker SK Hynix was among the biggest movers. It is like a relay race: US tech runs the first leg and Asia takes the baton, but not every runner moves at the same pace."
+    },
+    "dda": {
+      "zh": "市场日涨幅惊人时,最容易让人想追高。定期定额(DDA)的纪律在于不必预测高低点,每月按计划投入,长期有助于平滑成本。",
+      "en": "When daily gains look spectacular it is easy to feel the urge to chase. The discipline of regular (DDA) investing is that you need not predict highs and lows; investing on schedule may help smooth your cost over time."
+    },
+    "prs": {
+      "zh": "亚洲市场短期涨跌幅度大,提醒我们退休投资宜着眼十年、二十年的长期目标。PRS基金通常分散于不同市场,可定期检视是否仍符合风险取向;每年供款最高RM3,000可享税务减免。",
+      "en": "Big short-term swings in Asian markets are a reminder that retirement investing is about ten- and twenty-year goals. PRS funds generally spread across markets, so it helps to review that they still match your risk profile; contributions of up to RM3,000 a year also qualify for tax relief."
+    },
+    "lump": {
+      "zh": "单日涨6.8%这类大幅波动,意味着进场时点的影响可能被放大。单笔投资可考虑分阶段投入,同时检视组合是否过度集中在单一地区或主题。",
+      "en": "A one-day move of 6.8% shows how much entry timing can matter. A lump sum may be phased in, alongside a check on whether the portfolio is too concentrated in one region or theme."
+    },
+    "bond": {
+      "zh": "亚洲股市反弹对大马债券基金(政府债券、企业债券与伊斯兰债券)影响通常间接,主要通过外资流向与令吉走势传导。债券基金仍可在组合中发挥平衡波动的作用。",
+      "en": "An Asian equity rebound usually affects Malaysian bond funds (MGS, corporate bonds and sukuk) only indirectly, mainly through foreign flows and the ringgit. Bond funds can still help balance out portfolio swings."
+    },
+    "source": {
+      "name": "Yahoo Finance (AP)",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-rise-rally-wall-035813504.html"
+    }
+  },
+  {
+    "id": "2026-10-28-a3",
+    "time": "2026-10-28T17:00:00+08:00",
+    "tags": [
+      "cn",
+      "tech"
+    ],
+    "title": {
+      "zh": "香港9月出口同比增64.9%,为逾四十年来最快",
+      "en": "Hong Kong's September exports surge 64.9%, the fastest in over four decades"
+    },
+    "analysis": {
+      "zh": "香港政府统计处数据显示,9月出口同比增长64.9%,高于预测的51.6%,为连续第20个月双位数增长;出口额7,626亿港元,进口增57.8%。出口至台湾增159.3%、至马来西亚增131.5%,电机及零件增66.2%。政府发言人把增长归因于人工智能相关投资,同时提醒中东冲突与保护主义措施带来风险。这好比一家工厂接到大批订单,账面亮眼,但订单是否持续仍要观察。",
+      "en": "Census and Statistics Department data show Hong Kong's exports rose 64.9% year on year in September, versus a forecast of 51.6%, the 20th straight month of double-digit growth; export value was HK$762.6 billion and imports rose 57.8%. Exports to Taiwan rose 159.3% and to Malaysia 131.5%, while electrical machinery and parts rose 66.2%. A government spokesman linked the growth to AI-related investment and flagged risks from Middle East conflict and protectionist trade measures. It is like a factory receiving a flood of orders: the books look great, but whether the orders last still has to be watched."
+    },
+    "dda": {
+      "zh": "贸易数据反映全球科技投资周期,但这类周期有起有落。定期定额(DDA)让你在不同阶段都持续参与,而不必押注单一时点。",
+      "en": "Trade data reflects the global tech investment cycle, and such cycles have ups and downs. Regular (DDA) investing keeps you participating through different phases without betting on one point in time."
+    },
+    "prs": {
+      "zh": "出口数据强劲有助区域经济,但退休规划仍应以长期目标为主。可趁机检视PRS基金是否分散于不同地区与资产类别;每年PRS供款最高RM3,000可享税务减免。",
+      "en": "Strong export data supports the regional economy, but retirement planning should still centre on long-term goals. It is a good moment to check that your PRS fund is spread across regions and asset classes; PRS contributions of up to RM3,000 a year also qualify for tax relief."
+    },
+    "lump": {
+      "zh": "当某一主题(如人工智能)带动数据大幅走强,单笔投资要留意是否过度押注同一主题。分阶段进场可分散时间点风险,并与目标和风险承受度对照。",
+      "en": "When one theme such as AI drives data sharply higher, a lump sum should watch for over-reliance on that theme. Phasing in may spread timing risk, and the plan should be checked against your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "出口至马来西亚大增,反映区域供应链联系紧密,但对大马债券基金(政府债券、企业债券与伊斯兰债券)的直接影响有限;其收益率更受国家银行政策利率与美国利率走向影响。",
+      "en": "The jump in exports to Malaysia reflects tight regional supply chains, but the direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk) is limited; their yields respond more to Bank Negara's policy rate and the direction of US rates."
+    },
+    "source": {
+      "name": "The Standard",
+      "url": "https://www.thestandard.com.hk/finance/article/346765/HK-exports-growth-gallops-at-fastest-pace-in-four-decades-up-65pc-in-September"
+    }
+  },
+  {
+    "id": "2026-10-28-a4",
+    "time": "2026-10-28T17:00:00+08:00",
+    "tags": [
+      "my"
+    ],
+    "title": {
+      "zh": "富时大马综指早盘延续反弹,报1,614.42点,分析员:关键看联储决定",
+      "en": "FBM KLCI extends its rebound to 1,614.42 in early trade; analysts say the Fed decision is key"
+    },
+    "analysis": {
+      "zh": "The Star周三上午9时03分报道,富时大马综指升2.18点至1,614.42点,由金融股领涨:Hong Leong Bank升16仙至RM21.36,Maybank升1仙至RM10,雀巢因财报亮眼大涨RM1.72至RM96。SK海力士优于预期的财报带动区域人工智能相关股。Apex Securities认为若联储不出现鹰派意外、中东局势不升温,指数可望续弹;TA Securities指阻力在1,659点,涨幅料有限。(此为早盘报道,非收盘数据。)这好比雨后的路面,看似转干,但还需要观察天气是否再变。",
+      "en": "The Star reported at 9.03am on Wednesday that the FBM KLCI was up 2.18 points at 1,614.42, led by financial heavyweights: Hong Leong Bank rose 16 sen to RM21.36, Maybank 1 sen to RM10, and Nestle jumped RM1.72 to RM96 after strong earnings. SK Hynix's better-than-expected results lifted regional AI-related stocks. Apex Securities expects the index to keep rebounding if the Fed does not turn hawkish and Middle East tensions do not flare; TA Securities sees resistance at 1,659 and expects gains to stay limited. (This is an early-session report, not the close.) It is like a road after rain: it looks drier, but you still need to see whether the weather turns."
+    },
+    "dda": {
+      "zh": "本地股市短期起伏难免,定期定额(DDA)的优点在于不必每天关注指数,按月投入即可,让时间帮忙平滑成本。",
+      "en": "Short-term ups and downs in the local market are normal. The advantage of regular (DDA) investing is that you need not watch the index daily; investing monthly lets time help smooth your cost."
+    },
+    "prs": {
+      "zh": "大马股市的波动不应影响退休计划的节奏。可检视PRS基金的本地与海外比重是否合适;每年PRS供款最高RM3,000可享个人税务减免。",
+      "en": "Local market swings should not disrupt the rhythm of a retirement plan. Check whether your PRS fund's local and overseas mix is suitable; PRS contributions of up to RM3,000 a year also qualify for personal tax relief."
+    },
+    "lump": {
+      "zh": "本地蓝筹反弹时,单笔投资可留意金融股等重量级股在组合中的占比。分阶段投入可分散时间点风险,并对照目标与风险承受度。",
+      "en": "When local blue chips rebound, a lump sum can check how much weight financial heavyweights carry in the portfolio. Phasing in may spread timing risk, and it should be matched to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "分析员点出美联储决定为本周焦点。美国利率走向可能影响资金流向与令吉,进而影响大马政府债券、企业债券与伊斯兰债券基金的收益率;国家银行下一次利率会议在11月5日。",
+      "en": "Analysts point to the Fed decision as this week's focus. The direction of US rates may influence capital flows and the ringgit, and in turn yields on Malaysian bond funds (MGS, corporate bonds and sukuk); Bank Negara's next rate meeting is on 5 November."
+    },
+    "source": {
+      "name": "The Star",
+      "url": "https://www.thestar.com.my/business/business-news/2026/10/28/fbm-klci-extends-recovery-on-ai-rally"
+    }
+  },
+  {
+    "id": "2026-10-28-a5",
+    "time": "2026-10-28T17:00:00+08:00",
+    "tags": [
+      "commodities",
+      "fed"
+    ],
+    "title": {
+      "zh": "胡塞武装袭击沙特令油价反弹,布伦特约115.5美元",
+      "en": "Oil rebounds as Houthi attacks on Saudi Arabia overshadow diplomacy, Brent near US$115.5"
+    },
+    "analysis": {
+      "zh": "据Investing.com报道,布伦特12月期货升1.5%至115.54美元,WTI升1.5%至101.39美元。胡塞武装称向沙特最大炼油厂Ras Tanura发射弹道导弹,荷尔木兹海峡航运仍严重受阻;此前沙特、土耳其与巴基斯坦已在德黑兰与伊朗官员会谈。美国原油库存按API数据减少203万桶。ING分析员认为要到11月3日美国中期选举后局势才可能更明朗。就像一场谈判进行中,场外仍有人敲门,价格自然来回摇摆。",
+      "en": "Investing.com reported Brent December futures up 1.5% at US$115.54 and WTI up 1.5% at US$101.39. The Houthis said they fired a ballistic missile at Saudi Arabia's largest refinery, Ras Tanura, and Strait of Hormuz traffic remains severely disrupted; earlier, Saudi Arabia, Turkey and Pakistan held talks with Iranian officials in Tehran. API data showed US crude inventories down 2.03 million barrels. ING analysts say clarity may not come until after the 3 November US midterms. It is like a negotiation with someone still knocking at the door: prices naturally swing back and forth."
+    },
+    "dda": {
+      "zh": "油价波动会影响通胀预期与企业成本,但不必因此中断计划。定期定额(DDA)让你在波动的环境里依然持续投入,不必猜测油价走向。",
+      "en": "Oil swings can affect inflation expectations and company costs, but a plan need not be interrupted. Regular (DDA) investing lets you keep contributing through volatile conditions without guessing the oil price."
+    },
+    "prs": {
+      "zh": "较高的油价可能推高生活成本,退休规划应把通胀因素算进去。可检视PRS基金能否在长期抵御通胀;每年PRS供款最高RM3,000可享税务减免。",
+      "en": "Higher oil may push up living costs, so retirement planning should allow for inflation. Review whether your PRS fund can help keep pace with inflation over the long run; PRS contributions of up to RM3,000 a year also qualify for tax relief."
+    },
+    "lump": {
+      "zh": "地缘政治消息容易造成短线剧烈波动。单笔投资可考虑分阶段进场以分散时间点风险,并留意组合是否过度集中在能源等单一板块。",
+      "en": "Geopolitical headlines can cause sharp short-term swings. A lump sum may be phased in to spread timing risk, with a check on whether the portfolio is overly concentrated in one sector such as energy."
+    },
+    "bond": {
+      "zh": "油价高企可能推升通胀,影响利率预期,进而牵动大马政府债券、企业债券与伊斯兰债券基金的收益率;令吉与外资流向也是变数。国家银行的政策取向值得留意。",
+      "en": "High oil may lift inflation and rate expectations, which can move yields on Malaysian bond funds (MGS, corporate bonds and sukuk); the ringgit and foreign flows are further variables. Bank Negara's policy stance is worth watching."
+    },
+    "source": {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/commodities-news/oil-rebounds-as-houthi-attacks-on-saudi-arabia-overshadow-diplomatic-efforts-4977356"
+    }
+  },
+  {
+    "id": "2026-10-28-a6",
+    "time": "2026-10-28T17:00:00+08:00",
+    "tags": [
+      "fed",
+      "us"
+    ],
+    "title": {
+      "zh": "美联储今晚宣布利率决定前,美债10年期收益率约5%,GDP与PCE数据随后公布",
+      "en": "US 10-year yield near 5% before tonight's Fed decision, with GDP and PCE data to follow"
+    },
+    "analysis": {
+      "zh": "据Investing.com分析,10月26日美债2年期收益率约4.68%、10年期约5.00%、30年期约5.31%;自10月1日起2年期下降10个基点、10年期下降24个基点,曲线收窄。联储9月加息25个基点至3.75%-4.00%,美东时间周三下午2时公布决定,周四早上再公布第三季GDP初值与9月PCE通胀数据;8月总体PCE同比3.4%、核心3.0%,均高于2%目标。这就像先听老师宣布考试结果,第二天再公布分数细节。",
+      "en": "An Investing.com analysis put US Treasury yields at about 4.68% (2-year), 5.00% (10-year) and 5.31% (30-year) on 26 October; since 1 October the 2-year is down 10 basis points and the 10-year down 24, narrowing the curve. The Fed raised rates 25 basis points in September to 3.75%-4.00%, with its decision due Wednesday at 2pm ET and the advance Q3 GDP and September PCE inflation data coming Thursday at 8:30am ET; August headline PCE was 3.4% year on year and core 3.0%, both above the 2% target. It is like hearing the teacher announce the exam result first, with the detailed marks released the next day."
+    },
+    "dda": {
+      "zh": "利率与通胀数据公布前后市场常出现波动。定期定额(DDA)不依赖预测单一数据结果,长期坚持有助于平滑成本。",
+      "en": "Markets often swing around rate and inflation releases. Regular (DDA) investing does not rely on predicting any single data result, and sticking with it may help smooth costs over the long term."
+    },
+    "prs": {
+      "zh": "长期高利率环境下,通胀与利率会同时影响退休储蓄的实际购买力。可检视PRS基金是否包含不同资产类别;每年PRS供款最高RM3,000可享个人税务减免。",
+      "en": "In a prolonged high-rate environment, inflation and rates both affect the real purchasing power of retirement savings. Check whether your PRS fund spans different asset classes; PRS contributions of up to RM3,000 a year also qualify for personal tax relief."
+    },
+    "lump": {
+      "zh": "重大数据公布前后波动可能加大。单笔投资可考虑分阶段进场,分散时间点风险,并确认配置与目标和风险承受度一致。",
+      "en": "Volatility may rise around major data releases. A lump sum may be phased in to spread timing risk, and the mix should be confirmed against your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "美债收益率处于高位,可能影响全球资金流向与令吉,进而牵动大马政府债券、企业债券与伊斯兰债券基金的收益率。大马债券基金仍可在组合中发挥平衡器作用;国家银行11月5日的利率会议也值得留意。",
+      "en": "High US yields may influence global capital flows and the ringgit, which in turn can move yields on Malaysian bond funds (MGS, corporate bonds and sukuk). These funds can still act as a portfolio balancer; Bank Negara's 5 November rate meeting is also worth watching."
+    },
+    "source": {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/analysis/treasury-yields-face-2-tests-as-fed-decides-before-gdp-and-pce-200690359"
+    }
+  }
+],
+[
  {
   "id": "2026-10-27-m0",
   "kind": "summary",
