@@ -1,0 +1,304 @@
+[
+ {
+  "id": "2026-10-28-m0",
+  "kind": "summary",
+  "time": "2026-10-28T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "芯片股带动美股周二走高,美联储今晚公布利率决定,料按兵不动;马股反弹、金价逼近4,000美元",
+   "en": "Chip stocks lift Wall Street on Tuesday as the Fed decision looms tonight with a hold expected; KLCI rebounds and gold hovers near US$4,000"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,723",
+    "change": "+0.60%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "富时马来西亚综合指数",
+     "en": "FBM KLCI"
+    },
+    "value": "1,611.85",
+    "change": "+0.47%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "台湾加权指数",
+     "en": "Taiex"
+    },
+    "value": "46,096.23",
+    "change": "+0.12%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "12月黄金期货开盘",
+     "en": "Dec gold futures (open)"
+    },
+    "value": "US$4,032.80",
+    "change": "-0.1%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周二标普500升0.6%至7,723点,纳斯达克综合指数升1.18%至26,478点,芯片股领涨;波音因交付目标落空大跌10.69%。",
+    "en": "On Tuesday the S&P 500 rose 0.60% to 7,723 and the Nasdaq Composite gained 1.18% to 26,478, led by chips; Boeing fell 10.69% after missing delivery targets."
+   },
+   {
+    "zh": "美联储今晚(马来西亚时间周四凌晨)公布决定,市场预期维持3.75%至4%利率,焦点是会否暗示12月再加息;9月CPI按年升3.7%,高于预期。",
+    "en": "The Fed decides tonight (early Thursday Malaysia time); markets expect rates to stay at 3.75% to 4%, with attention on any hint of a December hike after September CPI came in hotter than expected at 3.7% year on year."
+   },
+   {
+    "zh": "富时马来西亚综合指数周二升0.47%至1,611.85点;台股收涨0.12%,台积电升0.63%。",
+    "en": "Malaysia's FBM KLCI rose 0.47% to 1,611.85 on Tuesday; Taiwan shares closed up 0.12% with TSMC up 0.63%."
+   }
+  ],
+  "takeaway": {
+   "zh": "今晚有美联储决定,接着是微软、谷歌和亚马逊的财报,短期消息会很密集。作为信托基金顾问,我通常提醒客户:行情再热闹,也回到自己的投资年期、目标和风险承受度来检视就好。",
+   "en": "With the Fed decision tonight and Microsoft, Alphabet and Amazon earnings to follow, the short-term headlines will be dense. As a unit trust consultant, I generally remind clients that however loud the market gets, the useful check is your own time horizon, goals and risk tolerance."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-215009735.html"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-federal-reserve-october-meeting-kevin-warsh-161129201.html"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/2026/10/27/bursa-malaysia-ends-higher-on-bargain-hunting"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202610270015"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-october-27-2026-gold-prices-slipping-closer-to-4000-ahead-of-fed-meeting-110812319.html"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-28-m1",
+  "time": "2026-10-28T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "芯片股推动美股周二收高,纳指升1.2%",
+   "en": "Chip stocks push Wall Street higher on Tuesday as the Nasdaq gains 1.2%"
+  },
+  "analysis": {
+   "zh": "周二标普500升0.6%、纳斯达克综合指数升约1.2%,道指几乎持平。据路透专栏,费城半导体指数升约3.6%,戴尔与美超微各升约7.5%;亚洲方面,韩国股市升约3%、日本升约1.7%。Anthropic递交上市文件后,市场对人工智能的热情再度升温。这就像热门餐厅排长队,周边的小店也跟着热闹,但热闹不等于每家都赚钱。",
+   "en": "On Tuesday the S&P 500 rose 0.6% and the Nasdaq Composite about 1.2%, while the Dow was roughly flat. A Reuters column on Yahoo Finance put the SOX chip index up about 3.6%, with Dell and Super Micro each up about 7.5%; in Asia, South Korean shares gained about 3% and Japan about 1.7%. Anthropic's IPO filing has renewed enthusiasm for AI. It is like a popular restaurant with a long queue: neighbouring shops get busy too, but busy does not mean every shop profits."
+  },
+  "dda": {
+   "zh": "单日的科技股涨幅并不代表趋势。定期定额的好处,是不必猜测哪一天是高点,每月固定投入,长期有助于平滑成本。",
+   "en": "One day of tech gains is not a trend. The benefit of regular (DDA) investing is that you do not need to guess the high point; a fixed monthly amount may help smooth your cost over the long run."
+  },
+  "prs": {
+   "zh": "退休规划的时间以数十年计,人工智能热潮只是其中一段。可以趁机检视PRS基金的资产配置是否仍符合年龄与目标;每年供款最高RM3,000可享个人税务减免。",
+   "en": "A retirement horizon runs for decades and the AI cycle is only one chapter. It is a good moment to check whether your PRS fund's asset mix still suits your age and goals; contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "芯片与科技股集中度高时,单笔投资要留意组合是否过度偏重同一主题。分阶段投入可以分散时间点风险,并确认与目标和风险承受度相符。",
+   "en": "When chips and tech carry a heavy weight, a lump sum calls for a check on whether the portfolio leans too far on one theme. Phasing in can spread timing risk, and it is worth confirming the mix matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市情绪转好对大马债券基金(政府债券、企业债券与伊斯兰债券)的直接影响通常有限,债券仍是组合的平衡器;收益率更可能受美联储决定与国家银行11月5日利率会议的影响。",
+   "en": "Better equity sentiment usually has limited direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), which remain a portfolio balancer; yields are more likely to respond to the Fed decision and Bank Negara's rate meeting on 5 November."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-ai-wave-lifts-210415373.html"
+  }
+ },
+ {
+  "id": "2026-10-28-m2",
+  "time": "2026-10-28T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "美联储今晚决定利率:预期按兵不动,但市场关注12月加息信号",
+   "en": "Fed decides tonight: a hold is expected, but markets watch for December hike signals"
+  },
+  "analysis": {
+   "zh": "据雅虎财经报道,美联储预期把利率维持在3.75%至4%,9月曾加息25个基点。CME FedWatch显示10月不变的机率约90%。9月CPI按年升3.7%、按月升0.6%,核心CPI按年升2.6%,均高于预期;10年期美债收益率约4.99%。分析师预期是“鹰派暂停”,即暂不行动,但保留进一步加息的可能。这好比天气预报说今天不下雨,但提醒你下周可能要带伞。",
+   "en": "Yahoo Finance reports the Fed is expected to hold its target range at 3.75% to 4% after a 25-basis-point hike in September, with CME FedWatch showing roughly a 90% chance of no move. September CPI rose 3.7% year on year (0.6% on the month) and core CPI 2.6%, both hotter than expected, while the 10-year Treasury yield sits near 4.99%. Analysts expect a \"hawkish pause\": no move now, but the door left open to more hikes. It is like a forecast saying no rain today but suggesting you may want an umbrella next week."
+  },
+  "dda": {
+   "zh": "利率消息容易让市场短期波动。定期定额不需要预测利率,按计划持续投入,时间越长越能分摊不同市况下的成本。",
+   "en": "Rate news can make markets swing in the short run. Regular (DDA) investing does not require forecasting rates; investing on schedule spreads your cost across different market conditions over time."
+  },
+  "prs": {
+   "zh": "美国加息的讨论提醒我们通胀会侵蚀退休储蓄的购买力。检视退休目标时,可以把通胀因素考虑进去;PRS每年供款最高RM3,000可享税务减免。",
+   "en": "Talk of US hikes is a reminder that inflation can erode the buying power of retirement savings. When reviewing retirement goals, it helps to factor inflation in; PRS contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "决定公布前后波动可能加大。单笔投资不必押注某一天,可以考虑分阶段投入以分散时间点风险,并先确认资金的用途与年期。",
+   "en": "Volatility may rise around the announcement. A lump sum does not need to be a bet on one day; phasing in can spread timing risk, after first confirming what the money is for and over what horizon."
+  },
+  "bond": {
+   "zh": "美国利率走向会影响全球债券收益率与资金流向。大马债券基金通常也会受国家银行利率取向与令吉走势影响;国家银行将于11月5日开会,值得留意。",
+   "en": "US rate direction can influence global bond yields and capital flows. Malaysian bond funds are generally also influenced by Bank Negara's rate stance and the ringgit; its meeting on 5 November is worth watching."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-federal-reserve-october-meeting-kevin-warsh-161129201.html"
+  }
+ },
+ {
+  "id": "2026-10-28-m3",
+  "time": "2026-10-28T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "波音因交付目标落空股价重挫10.69%",
+   "en": "Boeing sinks 10.69% after missing its delivery target"
+  },
+  "analysis": {
+   "zh": "波音周二收报168.18美元,跌10.69%,成交量约4,680万股,为三个月平均的近7倍。第三季营收242亿美元,高于预期的238亿美元,但每股调整后亏损0.34美元,比预期的0.25美元更差;公司表示今年无法达成交付500架737 MAX的目标,生产提速比预期慢。好消息是营收超预期,坏消息是通往盈利的路被拉长了。这提醒我们,单一公司的消息可以让股价一天内大幅波动。",
+   "en": "Boeing closed at US$168.18 on Tuesday, down 10.69%, on volume of about 46.8 million shares, roughly seven times its three-month average. Third-quarter revenue of US$24.2 billion beat the US$23.8 billion expected, but the adjusted loss of US$0.34 a share was worse than the US$0.25 forecast; the company said it will miss its target of 500 737 MAX deliveries this year as production ramps more slowly than planned. Revenue beat, but the road to profitability got longer. It is a reminder that a single company's news can move its share price sharply in one day."
+  },
+  "dda": {
+   "zh": "单一公司的消息会造成大幅波动,而信托基金通常分散投资于多家公司,个别股票的冲击会被稀释。定期定额则能让你不必为单一事件做决定。",
+   "en": "A single company's news can cause sharp swings, whereas unit trust funds typically spread across many companies, which may dilute the effect of any one stock. Regular (DDA) investing also means you need not make decisions around a single event."
+  },
+  "prs": {
+   "zh": "退休投资重视长期与分散。检视PRS基金时,可以留意基金是否分散于不同行业与地区,而不是依赖少数公司;每年供款最高RM3,000可享税务减免。",
+   "en": "Retirement investing values long horizons and diversification. When reviewing a PRS fund, it helps to see whether it spreads across sectors and regions rather than relying on a few companies; contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "把大笔资金集中在单一股票风险较高。单笔投资前,先检视集中度,并考虑分阶段投入,确认与目标和风险承受度相符。",
+   "en": "Concentrating a large sum in one stock carries higher risk. Before a lump sum, check concentration, consider phasing in, and confirm the mix matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这类个股消息对大马债券基金的直接影响通常很小。债券基金的角色,是在股市大幅波动时帮助平衡整体组合。",
+   "en": "Company-specific news like this usually has very little direct effect on Malaysian bond funds. Their role is to help balance the overall portfolio when equity markets swing."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-27-215009735.html"
+  }
+ },
+ {
+  "id": "2026-10-28-m4",
+  "time": "2026-10-28T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时马来西亚综合指数低位反弹,周二收1,611.85点",
+   "en": "FBM KLCI rebounds from the lows to close at 1,611.85 on Tuesday"
+  },
+  "analysis": {
+   "zh": "据星报,富时马来西亚综合指数周二升7.49点或0.47%,收1,611.85点,涨跌股为683对380;成交额由周一的RM21.5亿增至RM31.0亿。领涨的有杨忠礼电力(YTL Power)与国家能源(Tenaga Nasional),金融与种植指数上扬,能源指数下滑。乐天证券的分析师认为指数估值偏吸引,但提醒外资卖压、成交薄弱,以及美联储决定与科技股财报前的不确定性,预期本周在1,600至1,630点区间整固。这像一场落雨后的小反弹,但天气还未完全放晴。",
+   "en": "The Star reports the FBM KLCI rose 7.49 points, or 0.47%, to 1,611.85 on Tuesday, with 683 gainers against 380 losers; turnover rose to RM3.10 billion from RM2.15 billion on Monday. Heavyweights YTL Power and Tenaga Nasional led, the Financial Services and Plantation indices rose and the Energy index slipped. Rakuten Trade's analyst sees the index as attractively valued but flags foreign selling, thin liquidity and uncertainty ahead of the Fed decision and big tech earnings, expecting consolidation in a 1,600 to 1,630 range this week. It is a small rebound after the rain, but the sky has not fully cleared."
+  },
+  "dda": {
+   "zh": "本地股市的短期起伏很正常。定期定额让你在指数低位时买到更多单位,高位时买到较少,长期有助平均成本。",
+   "en": "Short-term ups and downs in the local market are normal. Regular (DDA) investing buys more units when prices are low and fewer when they are high, which may help average your cost over time."
+  },
+  "prs": {
+   "zh": "退休储蓄不需要因一两天的指数波动而改变计划。可以每年检视PRS供款是否持续,最高RM3,000的税务减免也值得善用。",
+   "en": "Retirement savings do not need to change course because of a day or two of index moves. It is worth reviewing each year that PRS contributions continue, and making use of the tax relief of up to RM3,000."
+  },
+  "lump": {
+   "zh": "指数反弹时容易追高。单笔投资可以先确认资金用途与年期,再考虑分阶段投入,并检视是否过度集中在少数行业。",
+   "en": "Rebounds can tempt people to chase prices. For a lump sum, confirm what the money is for and over what horizon first, then consider phasing in and check whether it leans too far on a few sectors."
+  },
+  "bond": {
+   "zh": "国家银行将于11月5日召开货币政策委员会会议。利率取向会影响大马政府债券、企业债券与伊斯兰债券的收益率,债券基金在股市波动时通常能起到平衡作用。",
+   "en": "Bank Negara's Monetary Policy Committee meets on 5 November. Its rate stance can influence yields on MGS, corporate bonds and sukuk, and bond funds generally help balance a portfolio when equities swing."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/2026/10/27/bursa-malaysia-ends-higher-on-bargain-hunting"
+  }
+ },
+ {
+  "id": "2026-10-28-m5",
+  "time": "2026-10-28T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收涨0.12%,台积电午后反弹升0.63%",
+   "en": "Taiwan shares edge up 0.12% as TSMC bounces back to gain 0.63%"
+  },
+  "analysis": {
+   "zh": "据中央社,台湾加权指数周二收涨54.80点或0.12%,报46,096.23点,成交额约9,766亿新台币,外资净卖约81亿新台币。台积电一度下跌,尾盘被逢低买盘拉升,收2,400新台币,升0.63%;南亚科升6.52%,联发科跌1.25%。分析师说,在微软、谷歌和亚马逊公布财报前,市场情绪偏谨慎,想看人工智能开支的线索。台积电占台股总市值逾四成,所以它的表现几乎等于大盘的风向标。",
+   "en": "Focus Taiwan reports the Taiex closed up 54.80 points, or 0.12%, at 46,096.23 on turnover of about NT$976.55 billion, with foreign investors net sellers of about NT$8.10 billion. TSMC dipped early before bargain hunters lifted it to NT$2,400, up 0.63%; Nanya Technology rose 6.52% and MediaTek fell 1.25%. Analysts said sentiment stayed cautious ahead of Microsoft, Alphabet and Amazon earnings, for clues on AI spending. TSMC makes up over 40% of Taiwan's market value, so it is almost the weather vane for the whole index."
+  },
+  "dda": {
+   "zh": "芯片与人工智能主题涨跌快,定期定额让你不必判断芯片股的高低点,长期持续投入反而更踏实。",
+   "en": "Chip and AI themes can rise and fall quickly. Regular (DDA) investing means you do not have to judge the highs and lows of chip stocks; steady contributions over the long term can feel more grounded."
+  },
+  "prs": {
+   "zh": "许多退休基金也持有亚洲科技股。可以了解自己的PRS基金在科技与亚洲市场的比重,并留意每年最高RM3,000的税务减免。",
+   "en": "Many retirement funds also hold Asian tech stocks. It is useful to understand how much of your PRS fund sits in technology and Asian markets, and to remember the tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单一市场里的一家公司占比超过四成,说明集中度风险的真实性。单笔投资时,可以检视组合是否过度依赖同一家公司或同一主题,并考虑分阶段投入。",
+   "en": "One company making up over 40% of a market shows how real concentration risk can be. For a lump sum, check whether the portfolio leans too heavily on one company or theme, and consider phasing in."
+  },
+  "bond": {
+   "zh": "台股与芯片的消息对大马债券基金的直接影响较小,但全球科技开支与资金流向,可能间接影响区域资金与令吉走势,进而影响债券的外资流向。",
+   "en": "Taiwan stock and chip news usually has little direct effect on Malaysian bond funds, but global tech spending and fund flows may indirectly influence regional capital and the ringgit, and with them foreign flows into bonds."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610270015"
+  }
+ },
+ {
+  "id": "2026-10-28-m6",
+  "time": "2026-10-28T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "金价逼近4,000美元,油价与联储决定成为关键",
+   "en": "Gold hovers near US$4,000 as oil and the Fed decision take centre stage"
+  },
+  "analysis": {
+   "zh": "据雅虎财经,12月黄金期货周二开盘报每盎司4,032.80美元,较周一收盘下跌0.1%,一周跌3.1%、一个月跌6.4%,已连续三天在4,000美元区间开盘。渣打银行的分析师称这是黄金的“关键时刻”,若油价继续上升,通胀风险将受关注,支撑可能在3,886美元下方迅速减弱。这就像一座在斜坡上的楼梯,下一步取决于油价与利率这两个扶手。",
+   "en": "Yahoo Finance reports December gold futures opened Tuesday at US$4,032.80 an ounce, down 0.1% from Monday's close, down 3.1% on the week and 6.4% on the month, and opening in the US$4,000 range for a third straight day. Standard Chartered's Suki Cooper called it a \"critical juncture\", saying higher oil keeps inflation risks in focus and that support could fade quickly below US$3,886. It is like a staircase on a slope: the next step depends on oil and rates."
+  },
+  "dda": {
+   "zh": "黄金价格短期波动较大,不适合用来预测买卖时机。定期定额分散投资于不同资产的好处,是不必依赖单一资产的表现。",
+   "en": "Gold prices can swing sharply in the short run, so they are not a good tool for timing. A benefit of regular (DDA) investing across different assets is that you need not rely on any single asset."
+  },
+  "prs": {
+   "zh": "退休投资强调长期分散。黄金可能在组合中扮演小角色,但应根据自己的目标与风险承受度检视;PRS每年供款最高RM3,000可享税务减免。",
+   "en": "Retirement investing stresses long-term diversification. Gold may play a small part in a portfolio, but it should be reviewed against your own goals and risk tolerance; PRS contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "商品价格接近关键水平时波动容易放大。单笔投资时,可以避免把资金集中于单一资产,并考虑分阶段投入以分散时间点风险。",
+   "en": "Volatility can grow when commodity prices sit near key levels. For a lump sum, it helps to avoid concentrating in one asset and to consider phasing in to spread timing risk."
+  },
+  "bond": {
+   "zh": "油价和通胀会影响利率预期,进而影响债券收益率。大马债券基金(政府债券、企业债券与伊斯兰债券)通常对利率变化较敏感,这也是它们能平衡组合的原因之一。",
+   "en": "Oil and inflation shape rate expectations and, through them, bond yields. Malaysian bond funds (MGS, corporate bonds and sukuk) are generally sensitive to rate changes, which is part of why they can balance a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-october-27-2026-gold-prices-slipping-closer-to-4000-ahead-of-fed-meeting-110812319.html"
+  }
+ }
+]
