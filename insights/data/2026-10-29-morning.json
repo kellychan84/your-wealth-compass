@@ -1,0 +1,337 @@
+[
+ {
+  "id": "2026-10-29-m0",
+  "kind": "summary",
+  "time": "2026-10-29T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "美联储按兵不动、通胀仍偏高,美股连升三日;微软财报亮眼、谷歌失望,台股大涨2%",
+   "en": "Wall Street rises for a third day as the Fed holds with inflation still elevated; Microsoft impresses, Alphabet disappoints and Taiwan shares jump 2%"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,744",
+    "change": "+0.28%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "台湾加权指数",
+     "en": "Taiex"
+    },
+    "value": "47,035.58",
+    "change": "+2.04%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "美元/令吉",
+     "en": "USD/MYR"
+    },
+    "value": "4.0745",
+    "change": {
+     "zh": "令吉走强(前收4.0865)",
+     "en": "ringgit firmer (prior close 4.0865)"
+    },
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "黄金",
+     "en": "Gold"
+    },
+    "value": "US$4,068.14",
+    "change": "+0.10%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "标普500升0.28%至约7,744点,纳指升0.27%至26,550点;美联储维持利率不变,称通胀「仍偏高」,市场预期12月加息的概率升至约87%。",
+    "en": "The S&P 500 rose 0.28% to about 7,744 and the Nasdaq 0.27% to 26,550; the Fed held rates, said inflation 'remains elevated', and markets now price about an 87% chance of a December hike."
+   },
+   {
+    "zh": "盘后微软云业务强劲、股价升2.6%;谷歌营收和盈利不及预期,盘后跌逾10%。",
+    "en": "After the bell Microsoft's cloud strength lifted its shares 2.6%, while Alphabet missed on revenue and earnings and fell more than 10%."
+   },
+   {
+    "zh": "SK海力士公布创纪录季度利润,台股收涨2.04%,令吉兑美元走强至4.0745。",
+    "en": "SK Hynix reported record quarterly profit, Taiwan shares closed up 2.04%, and the ringgit firmed to 4.0745 against the dollar."
+   }
+  ],
+  "takeaway": {
+   "zh": "消息面很热闹:加息预期、人工智能支出和财报一起来。作为信托基金顾问,我通常提醒客户,不必追着每个头条走,回到自己的投资年期、目标和风险承受度来检视就好。",
+   "en": "The headlines are busy: rate-hike bets, AI spending and earnings all at once. As a unit trust consultant, I generally remind clients not to chase every headline, but to come back to their own time horizon, goals and risk tolerance."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-28-220317072.html"
+   },
+   {
+    "name": "The Standard",
+    "url": "https://www.thestandard.com.hk/finance/article/346836/Wall-Street-ends-higher-as-Fed-holds-key-rate-steady-focus-turns-to-earnings"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202610280019"
+   },
+   {
+    "name": "The Star",
+    "url": "https://thestar.com.my/business/business-news/2026/10/28/ringgit-ends-higher-against-greenback-amid-confidence-in-malaysias-economic-fundamentals"
+   }
+  ]
+ },
+ {
+  "id": "2026-10-29-m1",
+  "time": "2026-10-29T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "美联储维持利率不变,美股连升三日,12月加息预期升温",
+   "en": "Fed holds rates and Wall Street rises a third day, while December hike bets grow"
+  },
+  "analysis": {
+   "zh": "周三标普500升0.28%至约7,744点,纳指升0.27%至26,550点,道指升0.19%至52,475点。美联储如预期维持利率不变,主席沃什强调要对抗通胀;据CME FedWatch,市场押注12月加息的概率从78.3%升至87.4%(The Standard)。这好比天气预报说「雨可能还没停」,出门带伞是谨慎,但不必因此取消行程。",
+   "en": "On Wednesday the S&P 500 rose 0.28% to about 7,744, the Nasdaq 0.27% to 26,550 and the Dow 0.19% to 52,475. The Fed held rates as expected and Chair Kevin Warsh stressed the fight against inflation; per CME FedWatch, the market-implied chance of a December hike rose from 78.3% to 87.4% (The Standard). It is like a forecast saying the rain may not be over: carrying an umbrella is prudent, but there is no need to cancel the trip."
+  },
+  "dda": {
+   "zh": "利率预期反复时,股市波动会增加。定期定额每月固定投入,通常有助于平滑进场成本,不需要预测美联储下一步。",
+   "en": "When rate expectations keep shifting, equity swings tend to grow. Regular (DDA) investing of a fixed amount each month generally helps smooth your entry cost without having to predict the Fed's next move."
+  },
+  "prs": {
+   "zh": "高利率环境持续,对退休储蓄的影响是长期的。可以检视PRS基金的资产配置是否仍符合年龄与目标;每年供款最高RM3,000可享个人税务减免。",
+   "en": "A lasting high-rate backdrop works on retirement savings over the long run. It may be a good time to check whether your PRS fund's asset mix still suits your age and goals; contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "加息消息频繁时,单笔投资可以先检视组合是否过度集中,并考虑分阶段投入以分散时间点风险,同时确认与目标和风险承受度相符。",
+   "en": "When rate headlines are frequent, a lump sum calls for a check on concentration first. Phasing in can spread timing risk, and it is worth confirming the mix matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国加息预期上升,可能影响美债收益率与美元走势,进而影响国家银行的政策考量和外资流向,大马政府债券、企业债券与伊斯兰债券的价格可能因此波动;债券基金仍是组合中的平衡器。",
+   "en": "Rising US hike expectations may move Treasury yields and the dollar, which can feed into Bank Negara's thinking and foreign flows, so prices of MGS, corporate bonds and sukuk may fluctuate. Bond funds generally remain a portfolio balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-28-220317072.html"
+  }
+ },
+ {
+  "id": "2026-10-29-m2",
+  "time": "2026-10-29T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "谷歌营收和盈利不及预期,盘后股价跌逾10%",
+   "en": "Alphabet misses on revenue and earnings, shares fall more than 10% after hours"
+  },
+  "analysis": {
+   "zh": "谷歌母公司第三季营收1,276亿美元,低于预期的1,282亿美元;调整后每股盈利2.67美元,远低于预期的3.02美元。自由现金流为负90.7亿美元,财务长表示2027年资本开支将明显增加。云业务收入307.1亿美元则好于预期(The Standard)。好比餐厅生意旺,但装修费用烧得更快,投资人自然会皱眉。",
+   "en": "Alphabet's third-quarter revenue was US$127.6 billion versus the US$128.2 billion expected, and adjusted EPS was US$2.67 versus US$3.02. Free cash flow was negative US$9.07 billion, and the CFO said capex will rise significantly in 2027. Google Cloud revenue of US$30.71 billion did beat estimates (The Standard). It is like a busy restaurant whose renovation bill is growing even faster than sales: investors naturally frown."
+  },
+  "dda": {
+   "zh": "单一公司财报带来的跌幅,不代表长期趋势。定期定额不需要押注某一家公司,通过信托基金分散持有,有助于降低单一股票的冲击。",
+   "en": "One company's earnings reaction is not a long-term trend. Regular (DDA) investing does not rely on any single company, and holding through a unit trust fund may help reduce single-stock shocks."
+  },
+  "prs": {
+   "zh": "退休基金的时间跨度很长,短期财报波动影响有限。可以检视PRS基金的全球股票部分是否过度偏重少数科技巨头;每年供款最高RM3,000可享税务减免。",
+   "en": "A retirement horizon is long, so short-term earnings swings matter less. You may check whether your PRS fund's global equity portion leans too heavily on a few tech giants; contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "大型科技股高度集中的组合,财报季特别容易波动。单笔投资时留意主题是否过度重叠,分阶段投入可以分散时间点风险。",
+   "en": "Portfolios concentrated in mega-cap tech tend to swing in earnings season. With a lump sum, watch for overlapping themes; phasing in can spread timing risk."
+  },
+  "bond": {
+   "zh": "个别美国科技股的财报对大马债券基金直接影响有限,但若引发避险情绪,可能带动资金流向较稳定的资产。债券基金在组合中通常起平衡作用。",
+   "en": "One US tech company's results usually have limited direct effect on Malaysian bond funds, though risk-off moods may nudge money towards steadier assets. Bond funds generally play a balancing role."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/346845/Alphabet-shares-fall-after-revenue-miss-cash-burn-worsens"
+  }
+ },
+ {
+  "id": "2026-10-29-m3",
+  "time": "2026-10-29T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "微软云业务增长强劲,自由现金流超预期",
+   "en": "Microsoft's cloud growth and free cash flow beat expectations"
+  },
+  "analysis": {
+   "zh": "微软季度营收增两成至922.8亿美元;Azure收入增长48%至331.7亿美元,高于预期的328.4亿美元;调整后每股盈利4.89美元,高于预期的4.73美元。资本开支为452亿美元,低于公司此前预估的500亿美元;盘后股价升2.6%(The Standard)。",
+   "en": "Microsoft's quarterly revenue rose by a fifth to US$92.28 billion; Azure revenue grew 48% to US$33.17 billion versus US$32.84 billion expected, and adjusted EPS was US$4.89 against US$4.73. Capex was US$45.2 billion, below the company's own US$50 billion projection, and shares rose 2.6% after hours (The Standard)."
+  },
+  "dda": {
+   "zh": "人工智能的热潮里,有赢家也有失望者,同一晚的结果就差别很大。通过定期定额投资多元化的信托基金,不必在其中挑选个股。",
+   "en": "In the AI boom there are winners and disappointments, and the same evening showed both. Regular (DDA) investing in diversified unit trust funds means you do not have to pick individual stocks."
+  },
+  "prs": {
+   "zh": "全球股票型的PRS基金通常持有这类大型科技公司。可以看看基金的前十大持股,了解自己的退休储蓄间接投资了什么;每年供款最高RM3,000可享税务减免。",
+   "en": "Global-equity PRS funds often hold such large tech companies. Looking at a fund's top ten holdings shows what your retirement savings indirectly own; contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "好消息之后追高的风险值得留意。单笔投资宜对照自己的目标和风险承受度,分阶段投入可分散时间点风险。",
+   "en": "It is worth being cautious about chasing after good news. A lump sum should be checked against your goals and risk tolerance, and phasing in can spread timing risk."
+  },
+  "bond": {
+   "zh": "科技财报对大马债券基金的直接影响通常有限;债券收益率更可能受美联储路径和国家银行11月5日的利率会议影响。",
+   "en": "Tech earnings usually have limited direct effect on Malaysian bond funds; yields are more likely to respond to the Fed's path and Bank Negara's rate meeting on 5 November."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/346844/Microsofts-cloud-growth-cash-flow-offer-respite-from-AI-spending-fears"
+  }
+ },
+ {
+  "id": "2026-10-29-m4",
+  "time": "2026-10-29T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "SK海力士录得创纪录季度利润,股价收涨约11%",
+   "en": "SK Hynix posts record quarterly profit, shares close about 11% higher"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,SK海力士第三季营业利润按年大增约632%、按季增38%,首尔股价收涨约11%。强劲的人工智能存储需求是主要推动力。这像是卖水的人在淘金热里生意最好,但热潮的周期也可能转向。",
+   "en": "CNBC reported that SK Hynix's third-quarter operating profit rose about 632% year on year and 38% from the prior quarter, with shares closing about 11% higher in Seoul. Strong AI memory demand was the main driver. It is like the people selling water in a gold rush doing best, though cycles can also turn."
+  },
+  "dda": {
+   "zh": "半导体行业的周期起伏很大,今天的亮丽数字未必会延续。定期定额让你在高低点都持续投入,长期有助于平滑成本。",
+   "en": "The semiconductor industry swings through big cycles, and today's strong figures may not carry on. Regular (DDA) investing keeps you contributing through highs and lows, which may help smooth cost over time."
+  },
+  "prs": {
+   "zh": "亚洲科技股常出现在区域或全球股票基金中。退休规划着重长期,可以看看PRS基金的地区与行业分布是否均衡;每年供款最高RM3,000可享税务减免。",
+   "en": "Asian tech names often appear in regional and global equity funds. Retirement planning is long-term, so it may help to check whether your PRS fund's regional and sector mix is balanced; contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "单一行业大涨之后,单笔投资要检查组合是否过度偏重芯片主题;分阶段投入可以分散时间点风险。",
+   "en": "After a sharp rally in one sector, a lump sum calls for a check on whether the portfolio leans too far on chips; phasing in can spread timing risk."
+  },
+  "bond": {
+   "zh": "韩国芯片股的涨跌对大马债券基金直接影响不大。债券基金仍可作为组合的平衡器,缓冲股市的起伏。",
+   "en": "Korean chip-stock moves have little direct effect on Malaysian bond funds, which can still act as a balancer that cushions equity swings."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+  }
+ },
+ {
+  "id": "2026-10-29-m5",
+  "time": "2026-10-29T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "美国科技股带动台股大涨2.04%,台积电升1.04%",
+   "en": "Taiwan shares jump 2.04% on the US tech rally as TSMC gains 1.04%"
+  },
+  "analysis": {
+   "zh": "台湾加权指数周三收涨939.35点或2.04%,报47,035.58点;台积电升1.04%至新台币2,425元,单靠它就贡献约200点。外资净买超159.2亿新台币。费城半导体指数隔夜升3.60%,加上Anthropic递交上市文件带动人工智能热情;但成交额降至7,221亿新台币,显示不少投资者在等待财报(Focus Taiwan)。",
+   "en": "The Taiex closed up 939.35 points, or 2.04%, at 47,035.58 on Wednesday; TSMC rose 1.04% to NT$2,425 and alone added about 200 points. Foreign investors bought a net NT$15.92 billion. The Philadelphia Semiconductor Index rose 3.60% overnight and Anthropic's IPO filing renewed AI enthusiasm, though turnover fell to NT$722.14 billion, suggesting many stayed on the sidelines awaiting earnings (Focus Taiwan)."
+  },
+  "dda": {
+   "zh": "一个市场里单一公司占比很高时,指数的涨跌会被它左右。定期定额投资分散的基金,可降低依赖单一公司的风险。",
+   "en": "When one company carries a huge weight in a market, the index follows it. Regular (DDA) investing in diversified funds may reduce reliance on a single company."
+  },
+  "prs": {
+   "zh": "长期退休储蓄可以考虑区域分散。检视PRS基金是否涵盖多个市场;每年供款最高RM3,000可享税务减免。",
+   "en": "Long-term retirement savings may benefit from regional diversification. Check whether your PRS fund covers several markets; contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "单日大涨后,单笔投资者要留意进场时机风险,分阶段投入可分散时间点风险,并确认符合风险承受度。",
+   "en": "After a big one-day rally, lump-sum investors should keep timing risk in mind; phasing in can spread it, and the mix should still match your risk tolerance."
+  },
+  "bond": {
+   "zh": "台股涨势对大马债券基金直接影响有限,它们主要受利率、令吉和资金流向影响,在组合中通常发挥平衡作用。",
+   "en": "Taiwan's rally has limited direct impact on Malaysian bond funds, which respond mainly to interest rates, the ringgit and fund flows, and generally play a balancing role."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610280019"
+  }
+ },
+ {
+  "id": "2026-10-29-m6",
+  "time": "2026-10-29T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "令吉周三兑美元走强至4.0745",
+   "en": "Ringgit firms to 4.0745 against the US dollar on Wednesday"
+  },
+  "analysis": {
+   "zh": "据The Star报道,令吉周三兑美元收于4.0745/0790,前一日收盘为4.0865/0900,同时兑欧元、英镑和日元走强。报道指投资者对大马经济基本面的信心,包括与人工智能相关的投资和预期的内需增长,是支撑因素。令吉走强好比出国购物时手上的钱更经花。",
+   "en": "The Star reported that the ringgit ended Wednesday at 4.0745/0790 against the US dollar from 4.0865/0900 the day before, also gaining against the euro, pound and yen. It cited investor confidence in Malaysia's fundamentals, including AI-related investment and expected domestic growth. A firmer ringgit is like your money stretching further on an overseas shopping trip."
+  },
+  "dda": {
+   "zh": "令吉走强会影响投资海外基金的美元资产换算值。定期定额分批投入,通常有助于平滑汇率波动的影响。",
+   "en": "A firmer ringgit can change the ringgit value of overseas fund holdings. Regular (DDA) investing in instalments generally helps smooth out currency swings."
+  },
+  "prs": {
+   "zh": "退休储蓄中的海外资产会受汇率影响。检视PRS基金的外币资产占比是否符合自己的风险承受度;每年供款最高RM3,000可享税务减免。",
+   "en": "Overseas assets in retirement savings are exposed to exchange rates. You may check whether your PRS fund's foreign-currency share suits your risk tolerance; contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "投资海外资产的单笔投资,要留意汇率风险;分阶段投入可以分散时间点风险。",
+   "en": "A lump sum into overseas assets carries currency risk; phasing in can spread timing risk."
+  },
+  "bond": {
+   "zh": "令吉走强通常对大马债券有一定支持,外资流入政府债券和伊斯兰债券的意愿可能提高;但仍取决于国家银行的政策和美国利率走向。",
+   "en": "A firmer ringgit generally offers some support to Malaysian bonds and may make foreign investors more willing to hold MGS and sukuk, but the outcome still depends on Bank Negara's policy and US rates."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://thestar.com.my/business/business-news/2026/10/28/ringgit-ends-higher-against-greenback-amid-confidence-in-malaysias-economic-fundamentals"
+  }
+ },
+ {
+  "id": "2026-10-29-m7",
+  "time": "2026-10-29T09:00:00+08:00",
+  "tags": [
+   "fed"
+  ],
+  "title": {
+   "zh": "沃什宣布联邦公开市场委员会会议将调整:2027年起设战略专题会议",
+   "en": "Warsh announces FOMC meeting changes, with strategy-only meetings from 2027"
+  },
+  "analysis": {
+   "zh": "美联储主席沃什宣布,2027年八次例会中有一次将专注讨论货币政策大方向,预计不投票决定利率、也不发表政策声明;2028年将有两次战略会议、六次政策会议。他说目前尚不明确战略会议后会披露什么,细节有待公布(The Standard)。这好比公司每年留一天不开营运会议,专门讨论长远方向。",
+   "en": "Fed Chair Kevin Warsh announced that from 2027 one of the eight regular meetings will focus on broad monetary policy strategy, with no rate vote or policy statement expected; 2028 will have two strategy meetings and six policy meetings. He said it is 'not obvious' what will be disclosed afterwards, with details to come (The Standard). It is like a company setting aside one day a year with no operations meeting, purely to discuss long-term direction."
+  },
+  "dda": {
+   "zh": "央行的沟通方式改变,可能让市场对利率走向更难揣测。长期投资者不必猜测每次会议结果,定期定额更能淡化时间点判断。",
+   "en": "Changes in how the central bank communicates may make rate paths harder to read. Long-term investors need not guess each meeting's outcome, and regular (DDA) investing helps take timing judgement out of the picture."
+  },
+  "prs": {
+   "zh": "退休规划以数十年计,央行的会议安排只是背景。定期检视PRS基金是否仍符合退休目标即可;每年供款最高RM3,000可享税务减免。",
+   "en": "Retirement planning runs for decades, and meeting schedules are only background. A periodic check that your PRS fund still fits your retirement goals is enough; contributions of up to RM3,000 a year also qualify for tax relief."
+  },
+  "lump": {
+   "zh": "政策沟通不确定性增加时,单笔投资更适合分阶段投入以分散时间点风险,并核对集中度与风险承受度。",
+   "en": "When policy communication is less certain, a lump sum may be better phased in to spread timing risk, with concentration and risk tolerance checked."
+  },
+  "bond": {
+   "zh": "美联储沟通方式改变,可能增加美债收益率的波动,间接影响大马债券基金所持的政府债券与伊斯兰债券价格;国家银行的政策仍是更直接的因素。",
+   "en": "A change in Fed communication may add volatility to US yields and indirectly affect prices of MGS and sukuk held by Malaysian bond funds, though Bank Negara's own policy remains the more direct factor."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/346842/Feds-Warsh-announces-changes-in-how-future-FOMC-meetings-will-go"
+  }
+ }
+]
