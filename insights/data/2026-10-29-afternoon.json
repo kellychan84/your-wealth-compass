@@ -1,0 +1,181 @@
+[
+ {
+  "id": "2026-10-29-a1",
+  "time": "2026-10-29T17:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "谷歌失望、微软亮眼:美股期货分化,市场重新审视AI投入回报",
+   "en": "Alphabet disappoints, Microsoft impresses: US futures split as investors weigh the payoff from AI spending"
+  },
+  "analysis": {
+   "zh": "周四早段,纳指100期货下跌1.22%,标普500期货跌0.41%,道指期货升0.35%。谷歌盘前下挫10.5%,原因是搜索广告表现不佳、AI建设令现金消耗急升;微软盘前升3.5%,现金流大幅超预期并预告云业务增长强劲。一位分析师说,投资者不再给所有大型云端企业「无限花钱的通行证」(Investing.com/路透)。好比同一个班的两个学生都在补习,家长开始问的是:谁的成绩真的进步了?",
+   "en": "In early Thursday trading Nasdaq 100 futures were down 1.22%, S&P 500 futures down 0.41% and Dow futures up 0.35%. Alphabet slid 10.5% in premarket trade on weak search advertising and a sharp jump in cash burn from AI build-out, while Microsoft rose 3.5% on a large cash-flow beat and a strong cloud outlook. One analyst said investors are no longer giving every hyperscaler a 'free pass' to spend without limit (Investing.com/Reuters). It is like two students both paying for tuition: parents now ask whose grades actually improved."
+  },
+  "dda": {
+   "zh": "同一主题下赢家与输家差距拉大时,单一公司的波动会变大。定期定额投资于分散的信托基金,通常能把个别公司财报的冲击摊薄,不必为一两只股票的涨跌调整节奏。",
+   "en": "When winners and losers under one theme drift apart, single-company swings tend to grow. Regular (DDA) investing in diversified unit trust funds generally dilutes the impact of any one earnings report, so there is little need to change your rhythm over one or two stocks."
+  },
+  "prs": {
+   "zh": "科技股占比高的基金会随这类消息波动。退休储蓄的时间跨度长,可以趁此检视PRS基金的持仓是否过于集中在少数科技巨头;每年供款最高RM3,000可享个人税务减免。",
+   "en": "Funds with heavy technology weightings may swing on news like this. Retirement savings have a long horizon, so it may be a good moment to check whether your PRS fund leans too much on a few tech giants; contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "单笔投资若集中在少数大型科技股,今天的分化正好说明集中度风险。可以先检视现有持仓,再考虑分阶段投入来分散时间点风险,并确认与目标和风险承受度相符。",
+   "en": "A lump sum concentrated in a few large tech names shows exactly the concentration risk today's split illustrates. It helps to review existing holdings first, then consider phasing in to spread timing risk, and confirm the mix matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这则新闻对大马债券基金的直接影响有限,但科技股波动加大时,资金可能转向较稳健的资产,债券基金(大马政府债券、企业债券与伊斯兰债券)通常扮演组合平衡器的角色。",
+   "en": "The direct effect on Malaysian bond funds is limited, but when tech shares get choppier, money may lean toward steadier assets. Bond funds (MGS, corporate bonds and sukuk) generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Investing.com (Reuters)",
+   "url": "https://www.investing.com/news/economy-news/nasdaq-futures-slide-as-mixed-big-tech-results-test-ai-trade-4981842"
+  }
+ },
+ {
+  "id": "2026-10-29-a2",
+  "time": "2026-10-29T17:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "恒指收盘失守23,000点,科技股午后跌势加剧",
+   "en": "Hang Seng closes below 23,000 as the afternoon tech selloff deepens"
+  },
+  "analysis": {
+   "zh": "恒生指数周四收报22,958点,跌136点或0.6%,恒生科技指数跌2.8%至3,744点,成交额1,895亿港元(The Standard)。早盘走势一度反复,午后科技股卖压加快,把指数拖到23,000点之下。好比一场马拉松的后半程,领跑的科技股先喘不过气,整个队伍的节奏就慢了下来。",
+   "en": "The Hang Seng Index closed at 22,958 on Thursday, down 136 points or 0.6%, while the Hang Seng Tech Index fell 2.8% to 3,744 on turnover of HK$189.5 billion (The Standard). The index had wavered earlier before the selloff in tech quickened in the afternoon and pulled it below 23,000. It is like the second half of a marathon: when the front-runners (tech) tire, the whole pack slows."
+  },
+  "dda": {
+   "zh": "港股波动较大时,定期定额让您在高低点都持续投入,通常能平均成本。投资中国或亚洲基金时,保持长期视角比追踪每天的指数更实际。",
+   "en": "When Hong Kong shares swing, regular (DDA) investing keeps you buying at both highs and lows, which generally averages your cost. For China or Asia funds, a long-term view is usually more practical than tracking the daily index."
+  },
+  "prs": {
+   "zh": "若退休组合包含亚洲或中国股票基金,可以留意其占整体的比重是否仍与退休年限相符;PRS每年供款最高RM3,000可享个人税务减免。",
+   "en": "If your retirement mix includes Asia or China equity funds, it may help to check that their share still suits your retirement timeline; PRS contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "港股科技股波动明显时,单笔投资可先检视区域和行业的集中度,并考虑分阶段投入以分散时间点风险,同时确认与目标和风险承受度相符。",
+   "en": "When Hong Kong tech is volatile, a lump sum calls for a look at regional and sector concentration first. Phasing in can spread timing risk, and it is worth confirming the mix matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股下跌对大马债券基金的直接影响不大,但区域风险情绪转弱时,外资流向可能影响令吉和大马政府债券的价格。债券基金通常是组合里的平衡器。",
+   "en": "The direct effect on Malaysian bond funds is small, but when regional risk appetite weakens, foreign flows may affect the ringgit and MGS prices. Bond funds generally serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/346900/Hang-Seng-Index-loses-23000-point-mark-on-Thursday-as-tech-selloff-quickens"
+  }
+ },
+ {
+  "id": "2026-10-29-a3",
+  "time": "2026-10-29T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收盘下跌1.42%,报46,368点",
+   "en": "Taiwan shares close down 1.42% at 46,368"
+  },
+  "analysis": {
+   "zh": "台湾加权指数周四收盘下跌667.25点或1.42%,报46,368.33点,成交额7,891.5亿新台币(约243.4亿美元)(Focus Taiwan)。台股早盘只是小幅低开,最终在美国大型科技股财报分化的背景下收跌。台股权重集中在半导体,所以科技情绪变化会很快反映在指数上。",
+   "en": "Taiwan's benchmark index ended down 667.25 points, or 1.42%, at 46,368.33 on turnover of NT$789.15 billion (about US$24.34 billion) (Focus Taiwan). It had opened only slightly lower, at 47,014.87, before sliding. Taiwan's index is heavily weighted toward semiconductors, so shifts in tech sentiment tend to show up in it quickly."
+  },
+  "dda": {
+   "zh": "昨天台股大涨、今天回吐,正是短线波动的写照。定期定额不需要判断高低点,长期投资者通常更关注基金的整体分散程度。",
+   "en": "Yesterday's big gain and today's pullback are a picture of short-term volatility. Regular (DDA) investing does not require calling highs and lows; long-term investors generally pay more attention to how diversified a fund is."
+  },
+  "prs": {
+   "zh": "半导体与AI主题在许多亚洲和全球基金中占比不小。为退休而投资时,可以了解基金的前十大持仓,看看是否过度依赖单一主题;PRS每年供款最高RM3,000可享个人税务减免。",
+   "en": "Semiconductor and AI themes carry real weight in many Asian and global funds. For retirement investing, it may help to read a fund's top holdings and see whether it relies too much on one theme; PRS contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "单笔投资进入科技或亚洲基金前,可先检视是否已持有相近的主题,避免重复集中。分阶段投入可分散时间点风险,并需与目标和风险承受度相符。",
+   "en": "Before putting a lump sum into a tech or Asia fund, check whether you already hold similar themes to avoid doubling up. Phasing in can spread timing risk, and the choice should match your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "台股的涨跌对大马债券基金影响间接,主要通过全球风险情绪和资金流向传导。债券基金一般在股市波动时起到平衡组合的作用。",
+   "en": "Taiwan's moves reach Malaysian bond funds only indirectly, through global risk sentiment and capital flows. Bond funds generally help balance a portfolio when equities are choppy."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610290007"
+  }
+ },
+ {
+  "id": "2026-10-29-a4",
+  "time": "2026-10-29T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "三星创纪录盈利仍遭抛售,韩股回吐,SK海力士续升",
+   "en": "Samsung sold off despite record profit as Kospi gives back gains; SK Hynix extends its rise"
+  },
+  "analysis": {
+   "zh": "韩国综合指数周四收跌1.2%,盘中一度跌3%,前一日曾大涨近7%。三星电子公布创纪录的第三季盈利,股价仍跌近4%,投资者聚焦半导体利润不及预期,其手机业务录得8,000亿韩元营业亏损;SK海力士在周三劲升11%后再涨2.6%。三星同时表示,AI带动的存储需求将在2027年超过行业供应。日本日经225指数升约1%,恒生科技指数跌2.6%,沪深300指数跌1%,芯片股领跌(Investing.com)。就像考试成绩破了纪录,但没达到老师的预期,同学们依然失望。",
+   "en": "The Kospi ended 1.2% lower after falling as much as 3% intraday, following a near-7% surge on Wednesday. Samsung Electronics fell almost 4% despite record third-quarter earnings, as investors focused on a miss in semiconductor profit expectations and a 800 billion won operating loss at its mobile unit; SK Hynix rose a further 2.6% after jumping 11% on Wednesday. Samsung also said AI-driven memory demand would outstrip industry supply in 2027. Japan's Nikkei 225 edged up about 1%, the Hang Seng Tech index slid 2.6% and the CSI 300 fell 1%, led lower by chip stocks (Investing.com). It is like a record exam score that still falls short of what the teacher expected: the class is disappointed anyway."
+  },
+  "dda": {
+   "zh": "芯片股一天暴涨、一天回吐,说明择时很难。定期定额按固定节奏投入,通常比追逐短线涨跌更适合长期目标。",
+   "en": "Chip stocks surging one day and giving back gains the next shows how hard timing is. Regular (DDA) investing at a steady rhythm generally suits long-term goals better than chasing short-term moves."
+  },
+  "prs": {
+   "zh": "存储芯片周期起伏较大,若退休基金含相关主题,较长的投资期限有助于消化波动。可以检视PRS基金的资产配置是否仍符合年龄与目标;每年供款最高RM3,000可享个人税务减免。",
+   "en": "Memory-chip cycles can swing widely; if a retirement fund holds the theme, a long horizon helps absorb the ups and downs. It may be worth checking whether your PRS fund's asset mix still suits your age and goals; contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "单笔投资者看到芯片股大涨后容易追高。可先检视集中度,考虑分阶段投入分散时间点风险,并确认与目标和风险承受度相符。",
+   "en": "Lump-sum investors may feel tempted to chase after a big chip rally. It helps to review concentration first, consider phasing in to spread timing risk, and confirm the mix matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "韩国和日本的股市消息对大马债券基金影响间接,主要透过区域风险情绪与资金流向。债券基金通常是股市波动时的组合平衡器。",
+   "en": "Korean and Japanese stock news affects Malaysian bond funds only indirectly, through regional risk sentiment and capital flows. Bond funds generally act as a portfolio balancer when equities swing."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-alphabet-samsung-results-disappoint-more-tech-earnings-loom-4981441"
+  }
+ },
+ {
+  "id": "2026-10-29-a5",
+  "time": "2026-10-29T17:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "和谈希望令油价回落,布伦特仍高于114美元",
+   "en": "Oil slips on peace-talk hopes, with Brent still above US$114"
+  },
+  "analysis": {
+   "zh": "路透报道,周四(格林尼治时间07:20)布伦特原油报114.47美元,跌0.7%;西德州中质油报101.65美元,跌1.1%。伊朗和谈有望恢复令供应忧虑稍缓,但胡塞武装袭击沙特目标、以及对美国中期选举(11月3日)后可能攻击伊朗的担忧,令跌幅受限。野村分析师高岛说,卖压占上风,但「跌幅依然有限」(Yahoo Finance/路透)。油价高企是目前通胀和加息预期的主要推手之一,好比厨房的煤气价格,一涨就牵动整个家庭的开销。",
+   "en": "Reuters reported that at 0720 GMT on Thursday Brent was US$114.47 a barrel, down 0.7%, and WTI US$101.65, down 1.1%. Hopes that peace talks may resume eased supply worries, but Houthi attacks on Saudi targets and fears of a US strike on Iran after the November 3 midterm elections limited the decline. Nomura's Yuki Takashima said selling pressure is prevailing but 'the decline remains limited' (Yahoo Finance/Reuters). High oil is one of the main drivers behind inflation and rate-hike expectations, like cooking-gas prices: when they rise, the whole household budget feels it."
+  },
+  "dda": {
+   "zh": "油价与通胀的消息此起彼伏时,市场情绪容易反复。定期定额让您不必猜测油价走向,继续按计划投入。",
+   "en": "When oil and inflation headlines come and go, market mood tends to flip-flop. Regular (DDA) investing means you do not have to guess where oil goes next and can keep to your plan."
+  },
+  "prs": {
+   "zh": "通胀持续偏高会侵蚀退休储蓄的购买力,这是长期规划需要考虑的因素。可以检视PRS基金的组合是否仍符合目标;每年供款最高RM3,000可享个人税务减免。",
+   "en": "Persistently high inflation can erode the purchasing power of retirement savings, which is a long-term planning factor. It may be worth checking that your PRS fund's mix still suits your goals; contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "能源价格剧烈波动时,单笔投资可先检视是否过度集中在对油价敏感的行业,再考虑分阶段投入分散时间点风险,并与目标和风险承受度相符。",
+   "en": "When energy prices swing sharply, a lump sum calls for a check on exposure to oil-sensitive sectors first. Phasing in can spread timing risk, and the choice should match your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价高企推高通胀和美国加息预期,可能影响美债收益率、令吉和外资流向,进而影响国家银行的政策考量,大马政府债券、企业债券与伊斯兰债券价格可能因此波动。大马同时是产油国,油价也牵动国家财政,债券基金仍是组合中的平衡器。",
+   "en": "High oil lifts inflation and US rate-hike expectations, which may move Treasury yields, the ringgit and foreign flows, and in turn Bank Negara's thinking, so prices of MGS, corporate bonds and sukuk may fluctuate. Malaysia is also an oil producer, so oil prices touch the national finances too. Bond funds generally remain a portfolio balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance (Reuters)",
+   "url": "https://finance.yahoo.com/energy/articles/us-oil-prices-fall-investors-002744802.html"
+  }
+ }
+]
