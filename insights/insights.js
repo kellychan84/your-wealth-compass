@@ -340,6 +340,221 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-10-30-a1",
+  "time": "2026-10-30T17:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "恒指周五收涨335点至23,294,沪深两市却下挫",
+   "en": "Hang Seng gains 335 points to 23,294 on Friday while mainland indices slide"
+  },
+  "analysis": {
+   "zh": "10月最后一个交易日,恒生指数上涨335点或1.5%,收报23,294点,成交额2,143亿港元;恒生科技指数升0.3%至3,754点。但上证指数跌1.44%至3,599点,深证成指重挫2.73%至10,833点(The Standard)。同一天港股和内地A股走势分歧,就像同一条街上两家店的生意各有各的节奏,提醒我们不同市场的驱动力并不一样。",
+   "en": "On the last trading day of October the Hang Seng Index rose 335 points, or 1.5%, to 23,294 on turnover of HK$214.3 billion, and the Hang Seng Tech Index gained 0.3% to 3,754. Mainland indices went the other way: the Shanghai Composite fell 1.44% to 3,599 and the Shenzhen Component slumped 2.73% to 10,833 (The Standard). Hong Kong and the mainland moving apart is like two shops on one street having different days, a reminder that each market has its own drivers."
+  },
+  "dda": {
+   "zh": "港股和A股同日走势不同,说明单一市场很难预测。定期定额按月投入,通常能把买入时间分散到不同的市场环境中。",
+   "en": "Hong Kong and mainland shares moving differently on the same day shows how hard a single market is to predict. Regular (DDA) investing each month generally spreads purchases across different market conditions."
+  },
+  "prs": {
+   "zh": "退休储蓄的年期很长,地区分散是常见的思路之一。可以和信托基金顾问一起检视PRS基金的地区配置是否仍符合自己的年龄;每年供款最高RM3,000可享个人税务减免。",
+   "en": "Retirement savings run for decades, and regional diversification is one common approach. You can review with your unit trust consultant whether your PRS fund's regional mix still suits your age; contributions of up to RM3,000 a year also qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "单日上涨1.5%不代表趋势转向。单笔投资可考虑分阶段投入以分散时间点风险,同时留意组合是否过度集中在单一地区,并配合自己的目标和风险承受度。",
+   "en": "A 1.5% one-day gain does not mean the trend has turned. A lump sum may be phased in to spread timing risk, while checking that the portfolio is not overly concentrated in one region and matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "中港股市的涨跌对大马政府债券与伊斯兰债券的直接影响通常有限,主要通过人民币、美元和资金流向间接传导。债券基金在股市分化时,通常扮演稳定组合的角色。",
+   "en": "Moves in Hong Kong and China equities generally have limited direct effect on Malaysian government bonds and sukuk, mostly feeding through via the yuan, the US dollar and fund flows. Bond funds usually act as a stabiliser when equity markets diverge."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/347029/Hang-Seng-Index-jumps-over-300-points-on-Friday"
+  }
+ },
+ {
+  "id": "2026-10-30-a2",
+  "time": "2026-10-30T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收跌2.49%报45,211.83点,成交额8,777亿新台币",
+   "en": "Taiwan shares close down 2.49% at 45,211.83 on NT$877.73 billion turnover"
+  },
+  "analysis": {
+   "zh": "周五台湾加权指数下跌1,156.50点或2.49%,收报45,211.83点,成交额8,777.3亿新台币(约269.6亿美元)(Focus Taiwan)。早盘开盘时指数已下跌228.54点至46,139.79点,跌幅在午后进一步扩大。这与昨夜美国科技股因谷歌和英特尔财报而下挫的气氛一致,亚洲科技股对美股人工智能话题相当敏感。",
+   "en": "On Friday the Taiex fell 1,156.50 points, or 2.49%, to close at 45,211.83 on turnover of NT$877.73 billion (about US$26.96 billion) (Focus Taiwan). The index had opened down 228.54 points at 46,139.79, so losses widened through the session. That fits the weak mood in US tech after the Alphabet and Intel results, and shows how sensitive Asian tech shares are to the AI story in the US."
+  },
+  "dda": {
+   "zh": "科技股单日跌2.49%时,每月固定投入的定期定额不需要猜低点,通常能平滑买入成本。",
+   "en": "When tech shares drop 2.49% in a day, a fixed monthly DDA contribution does not require guessing the low and generally smooths the average cost."
+  },
+  "prs": {
+   "zh": "许多退休相关基金也持有亚洲科技股,短期波动难免。以数十年的角度看,可检视基金持仓的集中度是否仍适合自己;PRS每年供款最高RM3,000可享税务减免。",
+   "en": "Many retirement-oriented funds also hold Asian tech shares, so short-term swings are expected. Over decades, it helps to check how concentrated fund holdings are; PRS contributions of up to RM3,000 a year qualify for tax relief."
+  },
+  "lump": {
+   "zh": "当单一板块占比较高时,一次下跌就会明显影响整体。单笔投资可分阶段投入,并先确认是否过度集中在半导体或科技股。",
+   "en": "When one sector is a large share of a portfolio, a single drop can be felt across the whole. A lump sum may be phased in, after first checking whether it is overly concentrated in semiconductors or tech."
+  },
+  "bond": {
+   "zh": "台股下跌对大马债券基金的直接影响有限,但若资金避险,美元和美债收益率的变化可能间接影响大马政府债券。债券基金通常在股市波动时帮助稳定组合。",
+   "en": "A Taiwan equity drop has limited direct effect on Malaysian bond funds, though if money turns to safety, shifts in the US dollar and Treasury yields may indirectly affect MGS and sukuk. Bond funds usually help steady a portfolio when equities swing."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610300008"
+  }
+ },
+ {
+  "id": "2026-10-30-a3",
+  "time": "2026-10-30T17:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "日月光上调先进封测2026年销售预期至40亿美元",
+   "en": "ASE lifts 2026 advanced packaging and testing sales forecast to US$4 billion"
+  },
+  "analysis": {
+   "zh": "日月光(ASE)把2026年先进封装与测试(LEAP)销售预期从37亿美元上调至40亿美元,并预期2027年大约翻倍;资本开支增加10亿美元至115亿美元。第三季净利创纪录,达269.96亿新台币,按年增长148%,毛利率22.1%同创新高(Focus Taiwan)。公司把动力归因于全球人工智能应用需求强劲。这好比餐厅的订单排到了明年,于是决定先加建厨房。",
+   "en": "ASE raised its 2026 leading-edge (LEAP) packaging and testing sales forecast to US$4 billion from US$3.7 billion and expects it to roughly double in 2027, with capital spending up US$1 billion to US$11.5 billion. Third-quarter net profit was a record NT$26.996 billion, up 148% year on year, with a record 22.1% gross margin (Focus Taiwan). It credited strong global demand for AI applications. It is like a restaurant with bookings full into next year deciding to build a bigger kitchen."
+  },
+  "dda": {
+   "zh": "好消息出现在股市下跌当天,说明短期价格和公司基本面不一定同步。定期定额的好处,是不需要判断哪一天是好时机。",
+   "en": "Good company news arriving on a day the market fell shows that short-term prices and fundamentals do not always move together. The benefit of DDA is that you do not have to judge which day is the right one."
+  },
+  "prs": {
+   "zh": "科技供应链的长期增长故事可能出现在许多全球基金的持仓中,但退休规划更看重分散。可检视PRS基金是否分散在不同行业与地区;每年供款最高RM3,000可享税务减免。",
+   "en": "The long-term tech supply-chain story may sit in many global funds, but retirement planning values diversification above all. You can check whether your PRS fund spans different sectors and regions; contributions of up to RM3,000 a year qualify for tax relief."
+  },
+  "lump": {
+   "zh": "单一行业的好消息容易吸引资金集中涌入。单笔投资可分阶段投入,并检查组合中半导体相关持仓的比重是否与风险承受度相符。",
+   "en": "Good news in one industry can attract crowded money. A lump sum may be phased in, and it is worth checking whether the semiconductor-related share of the portfolio matches your risk tolerance."
+  },
+  "bond": {
+   "zh": "这类企业盈利消息对大马债券基金的直接影响较小,债券基金主要受利率、国家银行的OPR、通胀和令吉走势影响,在组合中通常起平衡作用。",
+   "en": "Corporate earnings news like this has little direct effect on Malaysian bond funds, which are driven mainly by interest rates, Bank Negara's OPR, inflation and the ringgit, and generally serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202610300006"
+  }
+ },
+ {
+  "id": "2026-10-30-a4",
+  "time": "2026-10-30T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台湾第三季GDP初估年增14.36%,优于预期",
+   "en": "Taiwan's Q3 preliminary GDP grows 14.36%, beating forecasts on AI demand"
+  },
+  "analysis": {
+   "zh": "台湾第三季GDP初估按年增长14.36%,高于路透社调查中经济学家预期的12%,也快于第二季的12.93%。报道把增长归因于人工智能相关芯片与科技产品的强劲需求(The Standard)。这像一位全班靠单一科目拿高分的学生,成绩亮眼,但也提醒我们经济对少数产业的依赖。",
+   "en": "Taiwan's preliminary third-quarter GDP grew 14.36% year on year, above the 12% economists expected in a Reuters poll and faster than 12.93% in the second quarter. The report credits strong demand for AI-related chips and technology (The Standard). It is like a student scoring high mainly on one subject: impressive, but also a reminder of reliance on a few industries."
+  },
+  "dda": {
+   "zh": "亮眼的经济数据不一定转化为短期股价上涨,当天台股仍下跌。定期定额让你不必为数据与股价的时间差烦恼。",
+   "en": "Strong economic data does not always become short-term gains; Taiwan shares still fell the same day. DDA saves you from worrying about the gap between data and prices."
+  },
+  "prs": {
+   "zh": "亚洲科技增长故事可能出现在全球或亚洲基金里,退休规划可留意基金是否过度依赖单一主题,并善用PRS每年最高RM3,000的税务减免。",
+   "en": "The Asian tech growth story may show up in global or Asia funds; for retirement planning, watch whether a fund leans too heavily on one theme, and make use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "增长集中在AI主题时,估值和预期都可能偏高。单笔投资可考虑分阶段投入,并先确认主题型持仓比重是否合适。",
+   "en": "When growth is concentrated in the AI theme, valuations and expectations may run high. A lump sum may be phased in, after checking that thematic holdings are a suitable share."
+  },
+  "bond": {
+   "zh": "台湾的增长数据对大马债券的直接影响不大,但亚洲出口与科技周期可能影响区域资金流和令吉。债券基金通常在这类主题行情中起平衡作用。",
+   "en": "Taiwan's growth figures have little direct effect on Malaysian bonds, though the Asian export and tech cycle may influence regional flows and the ringgit. Bond funds generally play a balancing role during theme-driven markets."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/347028/Taiwan-Q3-preliminary-GDP-beats-forecasts-on-solid-AI-demand"
+  }
+ },
+ {
+  "id": "2026-10-30-a5",
+  "time": "2026-10-30T17:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时隆综指早盘持平于1,611点,投资者谨慎观望",
+   "en": "FBM KLCI near flat at 1,611 in early trade as investors stay cautious"
+  },
+  "analysis": {
+   "zh": "周五上午9时12分,富时隆综指微升0.12点至1,611.28点。Apex Securities指出,谷歌和英特尔的疲弱消息使美国人工智能交易再度承压,同时伊朗局势紧张、第三季财报以及隆综指成分股从30只扩至50只的分阶段安排,加上砂拉越和马六甲州选举,令投资者保持谨慎;该机构预期指数短期内区间波动,并带有「选择性防御」倾向(The Star)。这是早盘的报道,并非收盘数字。",
+   "en": "At 9.12am on Friday the FBM KLCI was up 0.12 points at 1,611.28. Apex Securities said the US AI trade came under renewed pressure after weak news from Alphabet and Intel, while tensions with Iran, 3Q26 results, the phased expansion of the KLCI from 30 to 50 constituents and the Sarawak and Melaka polls keep investors cautious; it expects the index to stay range-bound with a 'selective defensive bias' (The Star). This is an early-session report, not the close."
+  },
+  "dda": {
+   "zh": "市场在不确定性中区间波动时,定期定额每月固定投入,通常比试图抓准入市点更省心。",
+   "en": "When markets drift in a range amid uncertainty, investing a fixed amount monthly via DDA is generally less stressful than trying to time entry."
+  },
+  "prs": {
+   "zh": "退休储蓄是长跑,短期情绪与政治新闻通常不改变长期规划。可趁机检视PRS基金的资产组合;每年供款最高RM3,000可享个人税务减免。",
+   "en": "Retirement saving is a long race, and short-term sentiment and political headlines generally do not change the long-term plan. It is a good time to review your PRS fund's mix; contributions of up to RM3,000 a year qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "分析师提到的「防御性」思路,提醒我们检查组合的集中度。单笔投资可分阶段投入以分散时间点风险,并与目标和风险承受度相符。",
+   "en": "The analyst's 'defensive' tilt is a reminder to check portfolio concentration. A lump sum may be phased in to spread timing risk and matched to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "国家银行下周的议息会议是大马债券的关键关注点。OPR走向会影响政府债券与伊斯兰债券的收益率和价格;债券基金通常在股市观望期间提供组合的稳定作用。",
+   "en": "Next week's Bank Negara meeting is a key focus for Malaysian bonds. The OPR path may affect MGS and sukuk yields and prices, and bond funds generally add stability while equities wait on the sidelines."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/30/fbm-klci-stays-little-changed-amid-heightened-uncertainty"
+  }
+ },
+ {
+  "id": "2026-10-30-a6",
+  "time": "2026-10-30T17:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "亚马逊罕见财报不及预期,美股期货盘前走低",
+   "en": "Amazon's rare earnings miss pushes US futures lower before the open"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance周五报道,亚马逊录得罕见的财报不及预期,盘前股价跌约7%,市场担忧集中在人工智能开支;英特尔第四季展望不理想,盘前跌约25%。盘前标普500期货约跌0.8%,纳指期货约跌1.9%。这是开盘前的数字,并非美股收盘。继谷歌之后,又一家大型科技股令市场对人工智能投入回报的疑虑升温。",
+   "en": "Yahoo Finance reported on Friday that Amazon posted a rare earnings miss, with its shares down about 7% in premarket trading amid worries over AI spending, while Intel fell about 25% premarket after a disappointing fourth-quarter outlook. S&P 500 futures were down about 0.8% and Nasdaq futures about 1.9%. These are pre-open figures, not the Wall Street close. After Alphabet, another big tech name is raising doubts about the return on AI investment."
+  },
+  "dda": {
+   "zh": "大型科技股接连波动时,定期定额按月投入,通常能把买入分散在不同价位,不必预测财报结果。",
+   "en": "When big tech names swing in succession, monthly DDA investing generally spreads purchases across price levels without having to predict earnings."
+  },
+  "prs": {
+   "zh": "许多退休基金持有大型美国科技股,短期财报冲击一般不会改变数十年的规划。可检视基金的集中度;PRS每年供款最高RM3,000可享税务减免。",
+   "en": "Many retirement funds hold large US tech stocks, and a short-term earnings shock generally does not change a plan spanning decades. You can check fund concentration; PRS contributions of up to RM3,000 a year qualify for tax relief."
+  },
+  "lump": {
+   "zh": "连续几家巨头同时下挫,提醒我们留意组合是否过度集中在少数科技龙头。单笔投资可分阶段投入,并配合自己的风险承受度。",
+   "en": "Several giants falling together is a reminder to check whether a portfolio leans too heavily on a few tech leaders. A lump sum may be phased in and matched to your risk tolerance."
+  },
+  "bond": {
+   "zh": "美股科技股走弱时,资金有时转向美债,美债收益率和美元的变化可能间接影响大马政府债券与伊斯兰债券。债券基金通常在股市波动时发挥平衡作用。",
+   "en": "When US tech weakens, money sometimes rotates into Treasuries, and changes in US yields and the dollar may indirectly affect MGS and sukuk. Bond funds generally help balance a portfolio during equity swings."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html"
+  }
+ }
+],
+[
+ {
   "id": "2026-10-29-m0",
   "kind": "summary",
   "time": "2026-10-29T09:00:00+08:00",
