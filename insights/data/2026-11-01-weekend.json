@@ -1,0 +1,334 @@
+[
+  {
+    "id": "2026-11-01-w0",
+    "kind": "summary",
+    "time": "2026-11-01T09:00:00+08:00",
+    "tags": [],
+    "title": {
+      "zh": "下周展望:苹果与AMD财报、美国中期选举和非农数据登场,而中国10月制造业PMI跌至49.3、黄金触及一年低位、台股周一恐承压",
+      "en": "Week ahead: Apple and AMD earnings, the US midterms and the jobs report arrive, while China's October factory PMI slips to 49.3, gold sits at a one-year low and Taiwan stocks face pressure Monday"
+    },
+    "figures": [
+      {
+        "label": {
+          "zh": "标普500",
+          "en": "S&P 500"
+        },
+        "value": "7,580.07",
+        "change": "-1.82%",
+        "dir": "dn"
+      },
+      {
+        "label": {
+          "zh": "纳斯达克",
+          "en": "Nasdaq"
+        },
+        "value": "25,437.00",
+        "change": "-2.86%",
+        "dir": "dn"
+      },
+      {
+        "label": {
+          "zh": "现货黄金(美元/盎司)",
+          "en": "Spot gold (US$/oz)"
+        },
+        "value": "3,910.53",
+        "change": "-2.7%",
+        "dir": "dn"
+      },
+      {
+        "label": {
+          "zh": "布伦特原油(美元)",
+          "en": "Brent crude (US$)"
+        },
+        "value": "114.88",
+        "change": "-0.44",
+        "dir": "dn"
+      }
+    ],
+    "points": [
+      {
+        "zh": "下周重点:周一苹果与Palantir财报、周二美国中期选举、周五10月非农就业(预期约5.5万),本周共有138家标普500成分股公布业绩。",
+        "en": "Next week: Apple and Palantir report Monday, the US midterms are Tuesday and the October jobs report lands Friday (about 55,000 expected), with 138 S&P 500 companies reporting."
+      },
+      {
+        "zh": "中国10月官方制造业PMI由9月的50.1降至49.3,低于50的荣枯线,新订单与出口订单仍在收缩。",
+        "en": "China's official October manufacturing PMI fell to 49.3 from 50.1, below the 50 line, with new and export orders still contracting."
+      },
+      {
+        "zh": "台积电美国存托凭证周五夜间跌近6%,分析师预期台股周一承压;黄金跌至一年低位,油价则仍在每桶115美元附近。",
+        "en": "TSMC's ADRs fell nearly 6% overnight and an analyst expects heavy pressure on Taiwan stocks Monday; gold is at a one-year low while oil stays near US$115 a barrel."
+      }
+    ],
+    "takeaway": {
+      "zh": "下周事件密集,短期波动可能加大。信托基金顾问通常会提醒客户:先看自己的目标与投资期限,再看新闻标题;定期投资的纪律往往比预测每一次起伏更有帮助。",
+      "en": "Next week is event-heavy, so short-term swings may widen. A unit trust consultant would usually remind clients to start from their own goals and time horizon rather than the headlines; the discipline of regular investing often helps more than trying to predict every move."
+    },
+    "sources": [
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data.html"
+      },
+      {
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-01-w1",
+    "time": "2026-11-01T09:00:00+08:00",
+    "tags": [
+      "us"
+    ],
+    "title": {
+      "zh": "下周华尔街大考:苹果财报、美国中期选举与非农数据同周登场",
+      "en": "Big week for Wall Street: Apple earnings, the US midterms and the jobs report all land together"
+    },
+    "analysis": {
+      "zh": "据CNBC报道,下周一苹果和Palantir公布财报,周二AMD等公司跟进,本周共有138家标普500成分股交卷;周二是美国中期选举,周五公布10月非农就业,市场预期新增约5.5万人、失业率4.2%,9月数据已下修至2.9万。分析师也提醒,第三季盈利增长虽预计近30%,但超出预期的幅度只有1.4%,低于五年平均的7.5%。这就像一周内同时有大考、换班主任和体检,消息多,情绪也容易起伏。",
+      "en": "CNBC reports that Apple and Palantir report on Monday, with AMD and others following Tuesday, and 138 S&P 500 companies in all this week. The midterm elections are Tuesday and the October jobs report is due Friday, with about 55,000 jobs and 4.2% unemployment expected after September was revised down to 29,000. Q3 earnings growth is projected near 30%, but companies are beating estimates by only 1.4% versus a 7.5% five-year average. It is like an exam, a change of class teacher and a health check all in one week: plenty of news, and plenty of room for mood swings."
+    },
+    "dda": {
+      "zh": "事件密集的一周,价格波动可能加大。定期定额(DDA)的好处是不需要押注某一天,按月投入自然把成本分散在不同价位。",
+      "en": "In a crowded news week prices may swing more. The benefit of regular (DDA) investing is that you do not have to bet on one particular day; monthly contributions naturally spread your cost across different prices."
+    },
+    "prs": {
+      "zh": "选举和财报都是短期事件,退休目标通常以十几二十年计。可以趁此检视PRS账户的投资组合是否仍符合年龄与风险承受度,并留意每年最高RM3,000的税务减免。",
+      "en": "Elections and earnings are short-term events, while retirement goals usually run 10 to 20 years or more. It is a good moment to check that a PRS portfolio still suits your age and risk tolerance, and to remember the tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "单笔投资者若担心恰好投在事件前后,可以考虑分批投入以分散时机风险,同时检查自己是否过度集中在少数大型科技股,并确认资金的使用期限。",
+      "en": "A lump-sum investor worried about investing right around these events can consider phasing in to spread timing risk, check for heavy concentration in a few large tech stocks, and confirm when the money will be needed."
+    },
+    "bond": {
+      "zh": "美国非农数据会影响市场对美联储利率的预期,进而牵动美债收益率与令吉。对大马债券基金(MGS、企业债与伊斯兰债券)而言,影响多经由利率预期间接传导,债券一般仍扮演平衡股票波动的角色。",
+      "en": "The US jobs data shapes expectations for Fed rates, which in turn moves US Treasury yields and the ringgit. For Malaysian bond funds (MGS, corporate bonds and sukuk) the effect usually travels indirectly through rate expectations, and bonds generally still act as a balancer against equity swings."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+    }
+  },
+  {
+    "id": "2026-11-01-w2",
+    "time": "2026-11-01T09:00:00+08:00",
+    "tags": [
+      "cn"
+    ],
+    "title": {
+      "zh": "中国10月官方制造业PMI降至49.3,低于预期并跌破荣枯线",
+      "en": "China's October official factory PMI falls to 49.3, missing forecasts and slipping below 50"
+    },
+    "analysis": {
+      "zh": "据路透社报道,中国国家统计局公布10月官方制造业PMI为49.3,低于9月的50.1,也低于路透调查预期的50.0;非制造业PMI由50.2降至49.7。新订单与出口订单继续收缩,生产与采购也由扩张转为收缩,原因包括内需偏软、出口转弱,以及圣诞订单在9月提前出货。不过铁路、航天、电子制造等行业的分项指数仍在53以上,第三季GDP增长4.5%,显示经济呈现“冷热不均”。",
+      "en": "Reuters reports that China's National Bureau of Statistics put the October official manufacturing PMI at 49.3, down from 50.1 in September and below the 50.0 forecast in a Reuters poll, while the non-manufacturing PMI eased to 49.7 from 50.2. New and export orders kept contracting and production and purchasing slipped into contraction, as domestic demand stayed soft, exports weakened and Christmas orders were front-loaded into September. Yet sub-indexes for rail, aerospace and electronics manufacturing stayed at or above 53, and Q3 GDP grew 4.5%, so the picture is uneven."
+    },
+    "dda": {
+      "zh": "中国需求放缓可能影响亚洲出口链与大宗商品需求。长期投资者可通过分散于不同地区的信托基金来降低对单一市场的依赖,并继续按月定投。",
+      "en": "Softer Chinese demand may affect Asia's export chain and commodity demand. Long-term investors can reduce reliance on any single market through funds diversified across regions, while continuing to invest monthly."
+    },
+    "prs": {
+      "zh": "退休投资的时间很长,单月的经济数据一般不会改变方向。重点是确认PRS组合的地区分布是否合理,而不是追逐短期消息;每年最高RM3,000的税务减免依然适用。",
+      "en": "Retirement investing has a long horizon, and one month of data generally does not change direction. The focus is checking that a PRS portfolio's regional mix is sensible rather than chasing short-term news; the tax relief of up to RM3,000 a year still applies."
+    },
+    "lump": {
+      "zh": "若打算单笔投资中国或亚洲主题基金,可考虑分阶段投入,并留意单一国家或行业的集中度,同时确认自己的风险承受度与投资期限相符。",
+      "en": "If considering a lump sum in China or Asia-themed funds, phasing in may help spread timing risk; watch single-country or single-sector concentration and make sure your risk tolerance and holding period match."
+    },
+    "bond": {
+      "zh": "中国需求偏弱可能压低大宗商品与区域增长预期,这对大马债券基金的直接影响有限,主要通过全球利率与资金流向传导。债券基金一般仍是组合中的稳定器。",
+      "en": "Weak Chinese demand may dampen commodity and regional growth expectations, but the direct effect on Malaysian bond funds is limited and mostly runs through global rates and capital flows. Bond funds generally remain a stabiliser in a portfolio."
+    },
+    "source": {
+      "name": "Investing.com (Reuters)",
+      "url": "https://www.investing.com/news/economy-news/chinas-october-factory-activity-contracts-at-fastest-pace-in-3-months-pmi-survey-shows-4989032"
+    }
+  },
+  {
+    "id": "2026-11-01-w3",
+    "time": "2026-11-01T09:00:00+08:00",
+    "tags": [
+      "commodities",
+      "fed"
+    ],
+    "title": {
+      "zh": "黄金跌至一年低位,白银跌破50美元:利率“更高更久”压制贵金属",
+      "en": "Gold hits a one-year low and silver drops below US$50 as the higher-for-longer rate view weighs"
+    },
+    "analysis": {
+      "zh": "据CNBC报道,现货黄金一度下跌2.7%至每盎司3,910.53美元,为2025年10月以来最低,10月累计已跌5.9%;现货白银跌5.8%至49.34美元,是去年11月以来首次跌破50美元。美联储在主席沃什带领下维持利率不变,市场预期利率将维持高位,甚至有经济学家预期12月加息;油价上涨也推高通胀忧虑。Commerzbank则认为这轮跌幅“被夸大”,仍预期价格回升。黄金不产生利息,利率越高,持有它的机会成本就越明显。",
+      "en": "CNBC reports that spot gold fell as much as 2.7% to US$3,910.53 an ounce, its lowest since October 2025 and down 5.9% so far in October, while spot silver slid 5.8% to US$49.34, its first drop below US$50 since November 2025. The Fed under Chair Warsh left rates unchanged, markets expect rates to stay high and some economists see a December hike, while higher oil added to inflation worries. Commerzbank called the fall \"exaggerated\" and still expects a recovery. Gold pays no interest, so the higher rates go, the more visible the cost of holding it."
+    },
+    "dda": {
+      "zh": "黄金价格的大幅波动提醒我们:任何单一资产都有起伏。定期投资多元化的信托基金,比押注某一种资产的涨跌更能平滑长期过程。",
+      "en": "Gold's sharp move is a reminder that any single asset can swing. Regularly investing in diversified funds usually smooths the long journey better than betting on one asset."
+    },
+    "prs": {
+      "zh": "退休组合若持有黄金相关基金,可检视其占整体组合的比重是否仍合适;长期规划更看重分散,而非预测短期价格。别忘了PRS每年最高RM3,000的税务减免。",
+      "en": "If a retirement portfolio holds gold-related funds, check whether their weight is still appropriate; long-term planning values diversification over short-term price forecasts. Remember the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "想趁价格回落单笔投入黄金主题的投资者,应先确认这是否符合自己的目标,并考虑分批投入以分散时机风险,避免过度集中于单一商品。",
+      "en": "An investor tempted to put a lump sum into gold-themed funds after the dip should first confirm it fits their goals, and may consider phasing in to spread timing risk while avoiding over-concentration in one commodity."
+    },
+    "bond": {
+      "zh": "“利率更高更久”的预期会影响美债收益率与令吉走势,进而影响大马债券基金(MGS、企业债与伊斯兰债券)。国家银行的OPR决定及通胀走向仍是关键,债券基金一般扮演平衡组合波动的角色。",
+      "en": "The higher-for-longer view can affect US Treasury yields and the ringgit, and through them Malaysian bond funds (MGS, corporate bonds and sukuk). Bank Negara's OPR decision and the inflation path remain key, and bond funds generally act as a balancer of portfolio volatility."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data.html"
+    }
+  },
+  {
+    "id": "2026-11-01-w4",
+    "time": "2026-11-01T09:00:00+08:00",
+    "tags": [
+      "commodities"
+    ],
+    "title": {
+      "zh": "布伦特油价约115美元:和平谈判消息与中期选举后的军事风险并存",
+      "en": "Brent near US$115: peace-talk headlines sit alongside post-midterm military risk"
+    },
+    "analysis": {
+      "zh": "据CNBC报道,10月29日布伦特原油期货收报每桶114.88美元,下跌44美分;WTI收报102.00美元。美国与伊朗重新接触、七天和平计划的传闻缓解了供应中断的忧虑,但投资者仍在衡量胡塞武装袭击的风险,以及11月3日中期选举后美国对伊朗采取军事行动的可能。油价居高不下推高通胀,使美联储的决策更为复杂;一位经济学家指出,若WTI降向每桶70美元,将增加日后降息的理由。",
+      "en": "CNBC reports that on 29 October Brent crude futures settled at US$114.88 a barrel, down 44 cents, and WTI at US$102.00. Renewed US-Iran outreach and talk of a seven-day peace plan eased supply fears, but investors are still weighing Houthi attack risks and the possibility of US military action against Iran after the 3 November midterms. High crude feeds inflation and complicates the Fed's path; one economist noted that WTI falling toward US$70 would strengthen the case for eventual rate cuts."
+    },
+    "dda": {
+      "zh": "油价推高通胀,可能影响各类资产。定期定额的好处在于不必猜测油价走向,持续投入、分散于不同资产类别更为稳妥。",
+      "en": "High oil can lift inflation and ripple across asset classes. The benefit of regular investing is not having to guess where oil goes; steady contributions spread across asset classes are a more resilient approach."
+    },
+    "prs": {
+      "zh": "通胀是退休规划的长期敌人,会侵蚀未来的购买力。可以借此检视退休目标金额是否已考虑通胀,并留意PRS每年最高RM3,000的税务减免。",
+      "en": "Inflation is a long-term enemy of retirement plans because it erodes future purchasing power. It is a good time to check that your retirement target allows for inflation, and to remember the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "地缘消息可能让油价短期大幅波动。单笔投资者可考虑分批投入,避免在消息高峰期一次性下注,并检查组合是否过度集中于能源或单一主题。",
+      "en": "Geopolitical headlines can swing oil sharply in the short run. Lump-sum investors can consider phasing in rather than committing all at once at a headline peak, and check for over-concentration in energy or any single theme."
+    },
+    "bond": {
+      "zh": "油价高企推高通胀预期,可能使各国央行维持高利率更久,影响债券收益率。大马作为能源出口国,令吉也可能受到油价支撑,但债券基金仍需留意通胀与OPR方向。",
+      "en": "High oil raises inflation expectations and may keep central banks' rates higher for longer, which affects bond yields. As an energy exporter Malaysia's ringgit may draw some support from oil, but bond funds still need to watch inflation and the OPR path."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html"
+    }
+  },
+  {
+    "id": "2026-11-01-w5",
+    "time": "2026-11-01T09:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "台积电ADR一夜跌近6%,分析师预期台股周一承压",
+      "en": "TSMC's ADRs slump nearly 6% overnight; analyst expects heavy pressure on Taiwan stocks Monday"
+    },
+    "analysis": {
+      "zh": "据中央社英文版报道,受美国科技股因AI开支忧虑而下挫影响,台积电美国存托凭证一夜下跌5.95%,费城半导体指数跌7.20%;台股周五已收跌1,156.50点(2.49%)至45,211.83,台指期货夜盘再跌1.91%。台积电占台股总市值逾四成,外资10月净卖超约9,943亿新台币。太平洋证券投顾的分析师Tony Huang认为,台股比费半与南韩市场更具韧性,但仍需关注中期选举及11月中旬的一宗重大IPO等风险。",
+      "en": "Focus Taiwan reports that after US tech stocks fell on AI-spending worries, TSMC's ADRs dropped 5.95% overnight and the Philadelphia Semiconductor Index fell 7.20%. The Taiex had already closed Friday down 1,156.50 points (2.49%) at 45,211.83 and Taiex futures lost another 1.91% overnight. TSMC accounts for more than 40% of the Taiex's market capitalisation, and foreign investors sold a net NT$994.3 billion in October. Analyst Tony Huang of Taishin Securities Investment Advisory says the Taiex is more resilient than the SOX or Korea's market, but the midterms and a planned mid-November IPO remain risks."
+    },
+    "dda": {
+      "zh": "单一公司在指数中占比过高时,波动会被放大。定期定额投资于全球或区域分散的信托基金,可避免整体投资过度依赖少数芯片股。",
+      "en": "When one company dominates an index, volatility is amplified. Regular investing in globally or regionally diversified funds can keep an overall portfolio from leaning too heavily on a few chip stocks."
+    },
+    "prs": {
+      "zh": "许多退休与PRS基金间接持有台积电等大型科技股。可以了解自己的基金前十大持仓,检视科技集中度是否仍符合退休目标;每年最高RM3,000的PRS税务减免依然适用。",
+      "en": "Many retirement and PRS funds hold large tech names such as TSMC indirectly. Look at your fund's top holdings and see whether technology concentration still fits your retirement goal; the PRS tax relief of up to RM3,000 a year still applies."
+    },
+    "lump": {
+      "zh": "芯片股急跌时,单笔投资者不宜凭情绪行动。可考虑分批投入以分散时机风险,并确认投资期限足够长,能承受科技主题的较大波动。",
+      "en": "When chip stocks drop quickly, lump-sum investors should avoid acting on emotion. Phasing in may spread timing risk, and it helps to confirm that the holding period is long enough to ride out bigger swings in a tech theme."
+    },
+    "bond": {
+      "zh": "股市波动加大时,资金有时转向较稳健的资产,可能对大马国债、企业债和伊斯兰债券带来支撑,但这仍取决于利率、通胀与令吉。债券基金一般扮演平衡组合波动的角色。",
+      "en": "When equity volatility rises, money sometimes moves to steadier assets, which may support Malaysian government bonds, corporate bonds and sukuk, though rates, inflation and the ringgit still decide the outcome. Bond funds generally act as a portfolio balancer."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202610310008"
+    }
+  },
+  {
+    "id": "2026-11-01-w6",
+    "time": "2026-11-01T09:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "台湾第三季GDP增长14.36%,创48年同季新高,AI出口与设备投资推动",
+      "en": "Taiwan's Q3 GDP grows 14.36%, a 48-year high for the quarter, driven by AI exports and equipment investment"
+    },
+    "analysis": {
+      "zh": "据中央社英文版报道,台湾主计总处估计第三季经济同比增长14.36%,比8月预测高出2.94个百分点,为连续第四个季度两位数增长。资本设备进口增58.5%,其中半导体设备进口增35.66%;民间消费增5.37%。AI、高效能运算和云端服务需求带动出口,台股创纪录的高位也支撑消费。前三季增长约14.22%,为半个世纪来同期最高。这说明AI热潮在实体经济里确实有真金白银的投入,但也让市场更关心这些投资能否带来回报。",
+      "en": "Focus Taiwan reports that Taiwan's statistics agency estimates Q3 GDP grew 14.36% year on year, 2.94 percentage points above its August forecast and the fourth straight quarter of double-digit growth. Capital equipment imports rose 58.5%, with semiconductor equipment imports up 35.66%, and private consumption grew 5.37%. Demand for AI, high-performance computing and cloud services lifted exports, while record-high Taiwan share prices supported spending. Growth for the first three quarters was about 14.22%, the highest for the period in half a century. It shows the AI boom is backed by real spending, which is also why markets keep asking whether those investments will pay back."
+    },
+    "dda": {
+      "zh": "强劲的增长数据不代表股价一定上涨,估值与预期同样重要。长期投资者通过定期定额参与,可降低在高位一次性投入的风险。",
+      "en": "Strong growth data does not mean share prices will necessarily rise, since valuations and expectations matter too. Long-term investors using regular (DDA) contributions may reduce the risk of committing everything at a high."
+    },
+    "prs": {
+      "zh": "科技增长故事吸引人,但退休资金更需要稳健。可以检视PRS基金在科技与其他行业之间的分布,并善用每年最高RM3,000的税务减免。",
+      "en": "A tech growth story is attractive, but retirement money needs steadiness. Review how a PRS fund is spread between technology and other sectors, and make use of the annual tax relief of up to RM3,000."
+    },
+    "lump": {
+      "zh": "在热门主题上投入单笔资金,应特别留意集中度。可考虑分批进场,并确认自己能接受该主题的价格起伏。",
+      "en": "When putting a lump sum into a popular theme, pay particular attention to concentration. Phasing in may help, and it is worth confirming that you can accept the theme's price swings."
+    },
+    "bond": {
+      "zh": "亚洲出口强劲对区域货币和资金流向可能有正面作用,但对大马债券基金的影响主要是间接的,仍取决于利率与通胀。债券基金一般仍是组合的稳定器。",
+      "en": "Strong Asian exports may be positive for regional currencies and capital flows, but the effect on Malaysian bond funds is mainly indirect and still depends on rates and inflation. Bond funds generally remain a portfolio stabiliser."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202610300021"
+    }
+  },
+  {
+    "id": "2026-11-01-w7",
+    "time": "2026-11-01T09:00:00+08:00",
+    "tags": [
+      "my"
+    ],
+    "title": {
+      "zh": "令吉开盘走强至4.0720:市场关注下周国家银行货币政策会议",
+      "en": "Ringgit opens firmer at 4.0720 as markets watch next week's Bank Negara policy meeting"
+    },
+    "analysis": {
+      "zh": "据星报引述Bernama报道,10月29日早上8点令吉兑美元升至4.0720/0800,前一日收盘为4.0745/0790;市场正关注国家银行货币政策委员会下周的会议,目前隔夜政策利率(OPR)为2.75%。Bank Muamalat的经济学家Afzanizam表示,美联储采取“审慎”态度,预计令吉可获得良好支撑。美元指数同日下跌0.19%至102.127点。令吉走稳,对进口成本和海外教育开销的规划较为有利。",
+      "en": "The Star, citing Bernama, reports that at 8am on 29 October the ringgit rose to 4.0720/0800 against the US dollar from the previous close of 4.0745/0790, as the market looks to Bank Negara's Monetary Policy Committee meeting next week, with the overnight policy rate (OPR) now at 2.75%. Bank Muamalat's economist Afzanizam said the Fed is taking a \"guarded\" approach and that the ringgit could be well supported. The US dollar index fell 0.19% to 102.127 that day. A steadier ringgit helps anyone planning for import costs or overseas education expenses."
+    },
+    "dda": {
+      "zh": "令吉稳定对海外投资基金的回报换算有帮助,但汇率始终会波动。定期定额投资海外基金,可让汇率的影响随时间被分散。",
+      "en": "A steadier ringgit helps when converting returns from overseas funds, though exchange rates always fluctuate. Regular investing in overseas funds spreads the currency effect over time."
+    },
+    "prs": {
+      "zh": "国家银行的利率方向会影响退休储蓄的实际回报与通胀对比。检视PRS组合时,可一并考虑本地与海外资产的比重,并留意每年最高RM3,000的税务减免。",
+      "en": "Bank Negara's rate direction influences how retirement savings compare with inflation. When reviewing a PRS portfolio, consider the balance of local and overseas assets, and remember the tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "临近央行会议,汇率与利率预期可能带来短期波动。单笔投资者可考虑分批投入,并确认海外资产的汇率风险是自己能承受的。",
+      "en": "Ahead of a central bank meeting, currency and rate expectations may cause short-term swings. Lump-sum investors can consider phasing in and confirm that the currency risk on overseas assets is one they can accept."
+    },
+    "bond": {
+      "zh": "OPR的任何调整会直接影响大马国债(MGS)、企业债与伊斯兰债券的收益率:利率上升时已有债券价格一般承压,利率持平则偏向稳定。债券基金的久期与信用质量值得留意,它们一般扮演平衡组合的角色。",
+      "en": "Any OPR change directly affects yields on Malaysian government securities (MGS), corporate bonds and sukuk: when rates rise existing bond prices are generally pressured, while a steady OPR tends to be stabilising. A bond fund's duration and credit quality are worth watching, and such funds generally act as a portfolio balancer."
+    },
+    "source": {
+      "name": "The Star",
+      "url": "https://www.thestar.com.my/business/business-news/2026/10/29/ringgit-opens-higher-against-us-on-expectations-of-opr-normalisation"
+    }
+  }
+]
