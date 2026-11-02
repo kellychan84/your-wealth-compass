@@ -1,0 +1,182 @@
+[
+ {
+  "id": "2026-11-02-a1",
+  "time": "2026-11-02T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "港股收涨0.42%,科技股领涨,银行股承压",
+   "en": "Hong Kong stocks close 0.42% higher as tech leads and banks lag"
+  },
+  "analysis": {
+   "zh": "恒生指数收报23,393点,升98点或0.42%,成交额2,048亿港元;恒生科技指数涨2.25%至3,839点。小米涨6.1%、宁德时代涨6%、阿里巴巴涨2.5%、腾讯涨2.2%;中银香港跌5.7%、中国银行跌4.6%,是表现最差的两只权重股(The Standard)。这好比同一支球队里,前锋冲得猛,后卫却在退。",
+   "en": "The Hang Seng Index closed at 23,393, up 98 points or 0.42%, on turnover of HK$204.8 billion, while the Hang Seng Tech Index gained 2.25% to 3,839. Xiaomi rose 6.1%, CATL 6%, Alibaba 2.5% and Tencent 2.2%, while BOC Hong Kong fell 5.7% and Bank of China 4.6%, the two weakest index heavyweights (The Standard). It is like a team where the forwards charge ahead while the defenders fall back."
+  },
+  "dda": {
+   "zh": "科技股单日反弹不代表趋势改变。定期定额的好处,是不必判断今天是反弹还是回调,每月按纪律投入即可。",
+   "en": "One day's tech rebound does not confirm a trend. The advantage of regular (DDA) investing is that you need not judge whether today is a bounce or a dip; you simply keep to your monthly discipline."
+  },
+  "prs": {
+   "zh": "中港股市的波动可能影响部分PRS基金的海外配置表现,但退休规划着眼数十年。可借此检视基金的地区分布是否分散;每年最高RM3,000的PRS供款可享税务减免。",
+   "en": "Swings in China and Hong Kong shares may affect the overseas holdings of some PRS funds, but retirement planning looks decades ahead. It is a good time to check regional diversification; PRS contributions of up to RM3,000 a year qualify for tax relief."
+  },
+  "lump": {
+   "zh": "板块之间表现分化,提醒我们单笔投资时要留意集中度:若资金大量押在同一主题或地区,波动可能被放大。可考虑分阶段投入,并先对照自己的目标和风险承受度。",
+   "en": "Sector divergence is a reminder to check concentration for lump-sum investing: money heavily tied to one theme or region may magnify swings. Phasing in can spread timing risk, always checked against your own goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股涨跌对马来西亚债券基金的直接影响通常有限,债券基金更受国家银行OPR、通胀和令吉走势影响。在股市波动时,债券基金通常扮演组合平衡者的角色。",
+   "en": "Hong Kong equity moves generally have limited direct effect on Malaysian bond funds, which respond more to Bank Negara's OPR, inflation and the ringgit. When equities swing, bond funds usually act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/347224/Hong-Kong-shares-close-higher-on-tech-gains"
+  }
+ },
+ {
+  "id": "2026-11-02-a2",
+  "time": "2026-11-02T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "fed"
+  ],
+  "title": {
+   "zh": "人民银行改以隔夜利率为政策锚,并注入5,410亿元",
+   "en": "PBOC shifts to an overnight policy rate and injects 541 billion yuan"
+  },
+  "analysis": {
+   "zh": "人民银行周一通过隔夜逆回购注入5,410亿元,利率1.25%;并正式把主要政策利率锚转为隔夜利率,每天开展隔夜逆回购,取代单一固定利率的七天期操作。分析师估算这使利率框架的下限降低约15个基点,ANZ的邢兆鹏称这实际上是针对金融机构的定向降息,但并非传统意义的降息(The Standard)。好比把水管的出水口调低一点,水流自然更顺。",
+   "en": "On Monday the PBOC injected 541 billion yuan through overnight reverse repos at 1.25% and formally moved its main policy-rate anchor to the overnight rate, running overnight reverse repos daily in place of a single fixed-rate seven-day operation. Analysts estimate the change lowers the floor of China's rate framework by about 15 basis points; ANZ's Zhaopeng Xing called it effectively a targeted 15bp cut for financial institutions, though not a conventional rate cut (The Standard). It is like lowering a tap's outlet slightly so the water flows more easily."
+  },
+  "dda": {
+   "zh": "中国政策调整带来的影响多为间接。定期定额投资者可继续按计划投入,不必因单一政策消息而改变节奏。",
+   "en": "China's policy adjustment mainly has indirect effects. Regular (DDA) investors can generally stay with their plan rather than changing pace over a single policy headline."
+  },
+  "prs": {
+   "zh": "退休资金着重长期复利与分散。若PRS基金含中国或亚洲资产,可留意其占比;每年最高RM3,000的供款享个人税务减免。",
+   "en": "Retirement money relies on long-term compounding and diversification. If a PRS fund holds China or Asian assets, it may be worth noting the share; contributions of up to RM3,000 a year receive personal tax relief."
+  },
+  "lump": {
+   "zh": "政策利好的消息往往让市场短线波动。单笔投资可考虑分阶段投入,并检视是否过度集中于单一市场,同时对照个人目标与风险承受度。",
+   "en": "Policy-support headlines often cause short-term swings. Phasing in a lump sum can spread timing risk; also check for over-concentration in one market and match the investment to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "中国资金成本下降可能推动当地债券收益率走低,对马来西亚债券基金的直接影响一般有限,更重要的仍是国家银行OPR、通胀和外资流向。",
+   "en": "Lower funding costs in China may help local bond yields ease, but the direct effect on Malaysian bond funds is generally limited; Bank Negara's OPR, inflation and foreign flows usually matter more."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/347190/China-lowers-funding-costs-with-shift-to-overnight-policy-rate"
+  }
+ },
+ {
+  "id": "2026-11-02-a3",
+  "time": "2026-11-02T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收跌0.65%,台积电跌1.69%,外资净卖出约735亿新台币",
+   "en": "Taiwan shares close down 0.65%, TSMC off 1.69%, foreigners net sellers"
+  },
+  "analysis": {
+   "zh": "加权指数收报44,920.14点,下跌291.69点或0.65%,盘中一度大跌812.73点;成交额7,588.8亿新台币。台积电跌1.69%至2,330新台币,此前其ADR周五跌5.95%;外资净卖出735.2亿新台币。市场担忧集中在AI基础设施的庞大开支(Focus Taiwan)。就像一场急雨,早盘冲击很大,午后才稍稍回稳。",
+   "en": "The Taiex closed at 44,920.14, down 291.69 points or 0.65%, after falling as much as 812.73 points intraday, on turnover of NT$758.88 billion. TSMC fell 1.69% to NT$2,330 after its ADRs dropped 5.95% on Friday, and foreign investors sold a net NT$73.52 billion; concern centred on questions over massive AI infrastructure spending (Focus Taiwan). It was like a sudden downpour: heavy at the open, easing a little later."
+  },
+  "dda": {
+   "zh": "半导体股波动大,但定期定额不需要预测低点。分批投入可平滑成本,适合长期目标。",
+   "en": "Chip stocks can be volatile, but regular (DDA) investing does not require calling the bottom. Spreading contributions can smooth the average cost for long-term goals."
+  },
+  "prs": {
+   "zh": "许多PRS基金通过全球科技股间接持有台积电等公司,退休期限很长,短期回调通常只是旅程的一小段。可检视基金的行业集中度。",
+   "en": "Many PRS funds hold chip leaders indirectly through global tech exposure. With a long retirement horizon, a short-term pullback is generally a small part of the journey; checking a fund's sector concentration is worthwhile."
+  },
+  "lump": {
+   "zh": "今年涨幅显著的主题,回落时也可能较猛。单笔投资可考虑分阶段投入,并检视组合是否过度集中于科技或单一市场。",
+   "en": "Themes that have risen sharply this year can also fall hard. For lump sums, phasing in may spread timing risk, and it is worth checking whether the portfolio is over-concentrated in tech or a single market."
+  },
+  "bond": {
+   "zh": "台股与芯片股的波动对马来西亚债券基金没有直接冲击,但风险偏好转弱时,资金可能流向较稳健资产。债券基金通常能为组合提供缓冲。",
+   "en": "Taiwan chip-stock swings have no direct hit on Malaysian bond funds, but when risk appetite weakens money may move toward steadier assets. Bond funds generally provide a cushion within a portfolio."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611020016"
+  }
+ },
+ {
+  "id": "2026-11-02-a4",
+  "time": "2026-11-02T17:00:00+08:00",
+  "tags": [
+   "my",
+   "tech"
+  ],
+  "title": {
+   "zh": "大马股市早盘走低,科技与半导体股延续跌势",
+   "en": "Bursa Malaysia opens lower as tech and semiconductor stocks extend losses"
+  },
+  "analysis": {
+   "zh": "富时隆综指早盘9时17分跌7.03点或0.44%至1,608.57点,开盘报1,613.21点。马来西亚太平洋工业跌58仙至RM39.20,ViTrox跌22仙至RM10.68,Mi Technovation跌14仙。乐天证券预期指数在1,610至1,620之间波动(The Star,为早盘报道)。",
+   "en": "The FBM KLCI was down 7.03 points or 0.44% at 1,608.57 at 9.17am after opening at 1,613.21. Malaysian Pacific Industries fell 58 sen to RM39.20, ViTrox 22 sen to RM10.68 and Mi Technovation 14 sen. Rakuten Trade expects a 1,610-1,620 range (The Star, an opening report)."
+  },
+  "dda": {
+   "zh": "本地半导体股受全球科技股拖累。定期定额让你在市场回调时自然累积更多单位,不必猜测何时反弹。",
+   "en": "Local semiconductor shares followed global tech lower. Regular (DDA) investing naturally accumulates more units in pullbacks without guessing when the rebound comes."
+  },
+  "prs": {
+   "zh": "退休规划以数十年计,科技股单日跌幅通常不改变长远目标。可检视PRS基金的配置是否适合你的年龄;每年最高RM3,000供款可享税务减免。",
+   "en": "Retirement planning spans decades, so a one-day tech drop generally does not change long-term goals. Check that your PRS fund suits your age; contributions of up to RM3,000 a year receive tax relief."
+  },
+  "lump": {
+   "zh": "若单笔资金集中于少数本地科技股,波动可能放大。可考虑分阶段投入,并对照自己的目标和风险承受度。",
+   "en": "If a lump sum is concentrated in a few local tech stocks, swings may be magnified. Phasing in can spread timing risk, and it should match your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "国家银行本周四(11月5日)将议息,OPR走向会影响马来西亚债券基金的收益率与价格。债券基金通常在股市动荡时扮演平衡角色。",
+   "en": "Bank Negara's OPR decision on Thursday 5 November may influence yields and prices of Malaysian bond funds. In volatile equity markets, bond funds generally play a balancing role."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/02/bursa-malaysia-opens-lower-tech-and-semiconductor-stocks-extend-losses"
+  }
+ },
+ {
+  "id": "2026-11-02-a5",
+  "time": "2026-11-02T17:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "金价在跌破4,000美元后反弹,油价因伊朗谈判下跌逾3%",
+   "en": "Gold bounces after falling below US$4,000 as oil drops over 3% on Iran talks"
+  },
+  "analysis": {
+   "zh": "现货黄金升0.7%至每盎司3,900.90美元,此前周五暴跌3.5%、跌破4,000美元,为2025年10月以来最低;原油因伊朗代表在多哈举行第三天谈判而下跌逾3%。CME FedWatch显示交易员押注12月加息的概率约73%,三名联储官员周五主张进一步加息(CNBC)。能源价格高企使利率可能维持在较高水平,不生息的黄金因此承压。",
+   "en": "Spot gold rose 0.7% to US$3,900.90 an ounce after Friday's 3.5% slump below US$4,000, its lowest since October 2025, while oil fell more than 3% as Iranian negotiators held a third day of talks in Doha. CME FedWatch shows traders pricing about a 73% chance of a December rate hike, and three Fed officials argued on Friday for further increases (CNBC). High energy prices raise the odds of higher-for-longer rates, which weighs on non-yielding gold."
+  },
+  "dda": {
+   "zh": "商品和利率消息纷杂时,定期定额的纪律尤其有价值:不必押注金价或油价方向,按计划持续投入即可。",
+   "en": "When commodity and rate headlines pile up, DDA discipline is especially useful: no need to bet on gold or oil, just keep investing on plan."
+  },
+  "prs": {
+   "zh": "利率较高的环境对退休储蓄有两面性:债券类资产收益可能改善,但股市估值可能承压。PRS基金分散配置有助于缓和单一因素的影响;每年最高RM3,000供款可享税务减免。",
+   "en": "A higher-rate environment cuts both ways for retirement savings: bond income may improve while equity valuations can come under pressure. A diversified PRS fund helps soften any single factor; contributions of up to RM3,000 a year receive tax relief."
+  },
+  "lump": {
+   "zh": "黄金近期大幅波动,提醒我们避风港资产也有风险。单笔投资可考虑分阶段投入,并检视是否过度集中于某一资产类别。",
+   "en": "Gold's sharp swing is a reminder that safe-haven assets carry risk too. Phasing in a lump sum may spread timing risk, and it is worth checking for over-concentration in any one asset class."
+  },
+  "bond": {
+   "zh": "美国加息预期升温可能推高全球收益率,令吉与外资流向也可能受影响,进而波及马来西亚政府债券(MGS)与债券基金。同时要留意国家银行11月5日的议息决定。",
+   "en": "Rising US rate-hike expectations may lift global yields and influence the ringgit and foreign flows, which in turn can affect Malaysian government bonds (MGS) and bond funds. Bank Negara's 5 November decision is also worth watching."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+  }
+ }
+]
