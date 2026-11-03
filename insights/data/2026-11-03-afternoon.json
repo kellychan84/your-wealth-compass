@@ -1,0 +1,180 @@
+[
+ {
+  "id": "2026-11-03-a1",
+  "time": "2026-11-03T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "台股周二收跌3.59%至43,307.54点,成交额9,280.6亿新台币",
+   "en": "Taiwan shares close down 3.59% at 43,307.54 on NT$928.06 billion turnover"
+  },
+  "analysis": {
+   "zh": "台湾加权指数周二下跌1,612.60点,跌幅3.59%,收在43,307.54点,成交额为9,280.6亿新台币(约284.8亿美元)。这是今早台股平开走低后的收盘结果,比早上的情况明显扩大。报道没有说明下跌原因,我们只能确认数字;但对重仓科技的市场来说,单日跌幅这么大,提醒我们集中在单一主题的风险。就像一艘船载了太多同一种货,浪来时晃得特别明显。",
+   "en": "Taiwan's benchmark index fell 1,612.60 points, or 3.59%, on Tuesday to close at 43,307.54, with turnover of NT$928.06 billion (about US$28.48 billion). The market had opened lower this morning and the loss widened by the close. The report gives no reason for the drop, so we can only confirm the numbers; for a market heavy in technology, a fall this size is a reminder of the risk of concentrating on a single theme. It is like a ship loaded with one kind of cargo: waves are felt more strongly."
+  },
+  "dda": {
+   "zh": "单日大跌正是定期定额(DDA)的考验:固定金额、固定节奏投资,通常能让你不必猜测何时是低点,长期下来自然平均成本。",
+   "en": "A big one-day drop is the test of regular (DDA) investing: a fixed amount at a fixed rhythm generally means you need not guess the low, and your cost averages out over time."
+  },
+  "prs": {
+   "zh": "退休基金的年期以数十年计,单日波动一般不会改变长期计划。PRS每年最高RM3,000的供款可享个人税务减免,可趁机检视所持基金是否过度偏重科技主题。",
+   "en": "Retirement money runs for decades, so a single-day swing generally does not change the long-term plan. PRS contributions of up to RM3,000 a year qualify for personal tax relief, and it is a good time to check whether your fund leans too heavily on technology."
+  },
+  "lump": {
+   "zh": "科技比重很高的市场出现大幅回落,提醒单笔投资者检视集中度。单笔资金可考虑分阶段投入以分散时间点风险,并对照自己的目标与风险承受度。",
+   "en": "A sharp fall in a tech-heavy market is a prompt for lump-sum investors to check concentration. A lump sum may be phased in to spread timing risk, always matched to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "台股下跌对马来西亚债券基金的直接影响有限,但全球风险情绪转弱时,资金有时会流向相对稳定的资产,也可能影响令吉与外资流向。债券基金(MGS与伊斯兰债券)在股市波动时通常扮演组合平衡角色。",
+   "en": "The direct effect on Malaysian bond funds is limited, but when global risk appetite weakens, money may move toward steadier assets, which can also touch the ringgit and foreign flows. Bond funds (MGS and sukuk) generally act as a portfolio balancer when equities swing."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611030013"
+  }
+ },
+ {
+  "id": "2026-11-03-a2",
+  "time": "2026-11-03T17:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "港股周二收涨0.57%至23,525点,京东涨5.6%、联想跌6%",
+   "en": "Hong Kong shares close up 0.57% at 23,525; JD.com gains 5.6% while Lenovo drops 6%"
+  },
+  "analysis": {
+   "zh": "恒生指数周二收报23,525点,上涨132点或0.57%,成交额2,364亿港元;恒生科技指数涨0.74%至3,867点。个股方面,京东涨5.6%、海底捞涨6.4%、携程涨6%、网易涨3%;联想跌6%、华虹半导体跌5%、中芯国际跌2.3%。内地方面,上证综指跌0.82%至3,608点,深证成指跌1.21%至10,876点。同一个市场里,互联网与芯片股走势截然不同,像一条街上有的店客满、有的店冷清。",
+   "en": "The Hang Seng Index closed at 23,525 on Tuesday, up 132 points or 0.57%, on turnover of HK$236.4 billion, while the Hang Seng Tech Index rose 0.74% to 3,867. JD.com gained 5.6%, Haidilao 6.4%, Trip.com 6% and Netease 3%, while Lenovo fell 6%, Hua Hong Semiconductor 5% and SMIC 2.3%. On the mainland, the Shanghai Composite fell 0.82% to 3,608 and the Shenzhen Component 1.21% to 10,876. Internet and chip stocks moved very differently in the same market, like one street where some shops are packed and others quiet."
+  },
+  "dda": {
+   "zh": "个股分化时,定期定额(DDA)投资于分散的基金,不必押注哪一只股票领先,通常更符合长期投资者的节奏。",
+   "en": "When individual stocks diverge, regular (DDA) investing through diversified funds means you need not bet on which stock leads, which generally suits a long-term investor's rhythm."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,中港市场的单日板块分化一般不会改变长期方向。PRS每年最高RM3,000的供款可享税务减免,重点是持之以恒与适合自己年龄的风险水平。",
+   "en": "Retirement planning looks decades ahead, so one day of sector divergence in China and Hong Kong generally does not change direction. PRS contributions of up to RM3,000 a year qualify for tax relief; consistency and a risk level suited to your age matter most."
+  },
+  "lump": {
+   "zh": "内地与香港指数涨跌不一,说明市场内部分化。单笔资金可考虑分阶段投入,并检视是否过度集中于单一市场或行业。",
+   "en": "Mainland and Hong Kong indices moved in opposite directions, showing divergence inside the market. A lump sum may be phased in, with a check on over-concentration in one market or sector."
+  },
+  "bond": {
+   "zh": "港股与内地股市的单日表现对马来西亚债券基金影响较间接,主要透过全球风险情绪、人民币与区域资金流向传导。债券基金在权益市场分化时一般起平衡作用。",
+   "en": "Daily moves in Hong Kong and mainland stocks affect Malaysian bond funds only indirectly, mainly through global risk appetite, the yuan and regional flows. Bond funds generally play a balancing role when equity markets diverge."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/347353/Hong-Kong-shares-rise-at-close-driven-by-tech-giants"
+  }
+ },
+ {
+  "id": "2026-11-03-a3",
+  "time": "2026-11-03T17:00:00+08:00",
+  "tags": [
+   "my",
+   "tech"
+  ],
+  "title": {
+   "zh": "富时隆综指午间微涨0.17%至1,622.31点,科技与半导体股承压",
+   "en": "FBM KLCI edges up 0.17% to 1,622.31 at midday as tech and semiconductor stocks stay under pressure"
+  },
+  "analysis": {
+   "zh": "截至周二午休(中午12时47分),富时隆综指上涨2.80点或0.17%至1,622.31点;跌股585只多于涨股308只,成交量15.97亿股、价值12.1亿令吉。银行股撑住大市:RHB银行涨28仙至RM7.78,艾资银行涨19仙至RM6.46。科技半导体股则承压:马来西亚太平洋工业(MPI)跌48仙至RM39.30,Mi Technovation跌25仙至RM6.05。Apex证券预期指数近期在1,600至1,630点区间整固,并提到国家银行11月5日的隔夜政策利率(OPR)决定;大马交易所收市时间为下午5时,以上为午间数据。",
+   "en": "At Tuesday's midday break (12:47pm), the FBM KLCI was up 2.80 points, or 0.17%, at 1,622.31, with decliners (585) outnumbering gainers (308) on turnover of 1.597 billion shares worth RM1.21 billion. Banks held the index up: RHB Bank rose 28 sen to RM7.78 and AmBank 19 sen to RM6.46. Technology and semiconductor stocks stayed under pressure, with Malaysian Pacific Industries down 48 sen to RM39.30 and Mi Technovation down 25 sen to RM6.05. Apex Securities expects the index to consolidate within 1,600-1,630 and flagged Bank Negara's overnight policy rate (OPR) decision on 5 November. Bursa closes at 5pm, so these are midday figures."
+  },
+  "dda": {
+   "zh": "大马本地指数在银行股支撑下相对稳定,而科技股承压,提醒我们分散的重要。定期定额(DDA)每月固定投入,通常能在不同市况下平均成本。",
+   "en": "The local index is steadied by banks while tech lags, a reminder of why diversification matters. Regular (DDA) monthly investing generally helps average your cost across different market conditions."
+  },
+  "prs": {
+   "zh": "国家银行11月5日的OPR决定是退休规划者可留意的背景因素,因为利率环境会影响退休基金中债券与股票的表现。PRS每年最高RM3,000的供款可享个人税务减免。",
+   "en": "Bank Negara's OPR decision on 5 November is useful background for retirement planners, since the rate environment influences both the bond and equity parts of retirement funds. PRS contributions of up to RM3,000 a year qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "大马股市内部板块分化,单笔资金可考虑分阶段投入,并检视是否过度集中在银行或科技等单一板块,同时对照自己的目标与风险承受度。",
+   "en": "With sectors diverging inside the local market, a lump sum may be phased in, with a check on concentration in a single sector such as banks or tech, matched to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "国家银行即将公布OPR决定,通常会影响马来西亚政府债券(MGS)与企业债、伊斯兰债券的收益率预期。债券基金价格对利率较敏感,持有期限与信用质量也同样重要。",
+   "en": "Bank Negara's upcoming OPR decision generally shapes yield expectations for MGS, corporate bonds and sukuk. Bond fund prices are sensitive to rates, and holding period and credit quality matter just as much."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/03/banking-stocks-keep-fbm-klci-in-positive-territory-at-midday"
+  }
+ },
+ {
+  "id": "2026-11-03-a4",
+  "time": "2026-11-03T17:00:00+08:00",
+  "tags": [
+   "fed"
+  ],
+  "title": {
+   "zh": "澳洲央行加息25个基点至4.85%,创2008年以来新高,并大幅上调通胀预测",
+   "en": "RBA hikes 25bp to 4.85%, highest since 2008, and sharply raises inflation forecasts"
+  },
+  "analysis": {
+   "zh": "澳洲央行周二将现金利率调高25个基点至4.85%,为2008年11月以来最高,也是今年第五次加息;表决为6票赞成、3票主张维持。央行预期通胀将在2027年大部分时间维持高位,并要到2027年底才回到2%至3%目标区间,比先前预测晚约三个季度,原因包括燃料与大宗商品价格上升,以及人工智能投资推高科技产品价格。行长布洛克说,通胀上行风险正在「成为现实」。这就像水壶烧得比预期久,央行还得继续看着火候。",
+   "en": "The Reserve Bank of Australia raised its cash rate by 25 basis points to 4.85% on Tuesday, the highest since November 2008 and the fifth hike this year, in a 6-3 split vote. It expects inflation to stay elevated through much of 2027 and not return to the 2%-3% target range until late 2027, about three quarters later than previously forecast, citing higher fuel and commodity prices and AI-related investment lifting technology goods prices. Governor Michele Bullock said upside inflation risks are \"materializing.\" It is like a kettle taking longer to cool than expected: the central bank keeps watching the heat."
+  },
+  "dda": {
+   "zh": "全球利率偏高的环境下,定期定额(DDA)不必预测央行的下一步,固定金额、固定节奏投资,通常更能应对利率与市场的起伏。",
+   "en": "In a high-rate world, regular (DDA) investing does not require predicting the next central bank move; a fixed amount at a steady rhythm generally copes better with swings in rates and markets."
+  },
+  "prs": {
+   "zh": "全球利率上升通常使退休基金里的债券和股票估值受压,但也让新投入的债券收益更有吸引力。PRS每年最高RM3,000的供款可享个人税务减免,长期而言纪律通常比择时重要。",
+   "en": "Rising global rates generally pressure bond and equity valuations inside retirement funds, but also raise the yield on newly invested bonds. PRS contributions of up to RM3,000 a year qualify for personal tax relief, and over the long run discipline usually matters more than timing."
+  },
+  "lump": {
+   "zh": "利率走高时,各类资产估值都可能受影响。单笔资金可考虑分阶段投入以分散时间点风险,并先确认资金用途与风险承受度。",
+   "en": "When rates rise, valuations across asset classes may be affected. A lump sum may be phased in to spread timing risk, after confirming its purpose and your risk tolerance."
+  },
+  "bond": {
+   "zh": "澳洲央行加息反映全球通胀压力仍在,可能让市场对其他央行的利率路径更为敏感,间接影响马来西亚政府债券(MGS)与伊斯兰债券的外资流向和令吉。国家银行11月5日的OPR决定仍是本地债券基金的主要看点。",
+   "en": "The RBA hike reflects persistent global inflation pressure and may make markets more sensitive to other central banks' paths, indirectly touching foreign flows into MGS and sukuk and the ringgit. Bank Negara's 5 November OPR decision remains the main local focus for bond funds."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
+  }
+ },
+ {
+  "id": "2026-11-03-a5",
+  "time": "2026-11-03T17:00:00+08:00",
+  "tags": [
+   "us",
+   "commodities"
+  ],
+  "title": {
+   "zh": "美国中期选举投票日:期指小幅走低,油价在伊朗消息中先跌后涨",
+   "en": "US midterm election day: futures edge lower and oil reverses on mixed Iran signals"
+  },
+  "analysis": {
+   "zh": "周二美国中期选举投票,美股期货小幅走低:标普500期货约跌0.17%、道指期货跌0.41%、纳指100期货跌0.04%。油价一度下跌逾7%,但在美军据报打击伊朗盖什姆岛后部分回升,WTI约97.02美元、布伦特约105.24美元。交易平台Trade Nation的分析师莫里森表示,市场历来能看穿政治交接,但民主党获胜可能增加对数据中心建设的反对。当天另有AMD、Amgen等公司公布财报。选举与地缘消息交织,短期波动可能加大。",
+   "en": "US stock futures edged lower on Tuesday as Americans voted in the midterm elections: S&P 500 futures were down about 0.17%, Dow futures 0.41% and Nasdaq 100 futures 0.04%. Oil initially fell more than 7% but partly reversed after reported US strikes on Iran's Qeshm Island, with WTI at about US$97.02 and Brent at about US$105.24. Trade Nation analyst David Morrison said markets have historically looked past political transitions, though a Democratic win could boost opposition to the data-center build-out. AMD and Amgen report earnings the same day. With elections and geopolitics overlapping, short-term swings may be larger."
+  },
+  "dda": {
+   "zh": "选举与地缘消息带来的短期波动,正是定期定额(DDA)的价值所在:不必预测结果,以固定节奏投资,让时间分散风险。",
+   "en": "Short-term swings from elections and geopolitics show the value of regular (DDA) investing: you need not predict outcomes, and a steady rhythm lets time spread the risk."
+  },
+  "prs": {
+   "zh": "退休储蓄的年期很长,选举周期与油价波动一般不会改变长期规划。PRS每年最高RM3,000的供款可享个人税务减免,可趁机检视基金是否仍符合自己的年龄与目标。",
+   "en": "Retirement savings run for decades, so election cycles and oil swings generally do not change the long-term plan. PRS contributions of up to RM3,000 a year qualify for personal tax relief, and it is a good time to check your fund still fits your age and goals."
+  },
+  "lump": {
+   "zh": "事件密集的日子,单笔资金可考虑分阶段投入以分散时间点风险,并检视是否集中于受政策影响较大的主题,同时对照自己的目标与风险承受度。",
+   "en": "On event-heavy days, a lump sum may be phased in to spread timing risk, with a check on concentration in themes sensitive to policy, matched to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价高位反复会影响通胀预期,进而影响利率走向,对马来西亚政府债券(MGS)与伊斯兰债券价格可能带来波动;外资流向与令吉同样重要。债券基金在市场不确定时一般扮演组合平衡角色。",
+   "en": "Oil swinging at high levels affects inflation expectations and in turn the rate outlook, which may bring volatility to MGS and sukuk prices; foreign flows and the ringgit matter too. Bond funds generally act as a portfolio balancer in uncertain markets."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-061652788.html"
+  }
+ }
+]
