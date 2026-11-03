@@ -1,0 +1,340 @@
+[
+ {
+  "id": "2026-11-03-m0",
+  "kind": "summary",
+  "time": "2026-11-03T09:00:00+08:00",
+  "title": {
+   "zh": "科技股抛售延续、纳指再跌1.1%,但油价重挫约8%、道指逆势上涨;苹果财报后盘后回落",
+   "en": "Tech selling extends and the Nasdaq slips another 1.1%, but oil plunges about 8% and the Dow gains; Apple dips after earnings"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,541.40",
+    "change": "-0.5%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "25,164.32",
+    "change": "-1.1%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow"
+    },
+    "value": "51,983.98",
+    "change": "+0.4%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "现货黄金(美元/盎司)",
+     "en": "Spot gold (US$/oz)"
+    },
+    "value": "3,943.62",
+    "change": "+1.8%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周一美股:标普500跌0.5%、纳指跌1.1%、道指涨0.4%;美国原油期货因中东外交希望下跌约8%至95.84美元。",
+    "en": "Monday on Wall Street: the S&P 500 fell 0.5%, the Nasdaq 1.1% and the Dow rose 0.4%; US crude futures dropped about 8% to US$95.84 on hopes for Middle East diplomacy."
+   },
+   {
+    "zh": "苹果第四财季营收1,145亿美元、每股盈余2.10美元均优于预期,但指引显示毛利率受存储器成本压力,盘后股价约跌2.8%。",
+    "en": "Apple's fiscal Q4 revenue of about US$114.5 billion and EPS of US$2.10 both beat estimates, but margin pressure from memory costs left the shares about 2.8% lower after hours."
+   },
+   {
+    "zh": "台股周一收跌0.65%至44,920.14;恒指涨0.42%、恒生科技指数涨2.25%。",
+    "en": "Taiwan's Taiex closed down 0.65% at 44,920.14 on Monday, while the Hang Seng rose 0.42% and the Hang Seng Tech Index jumped 2.25%."
+   }
+  ],
+  "takeaway": {
+   "zh": "市场最近被人工智能开支的疑虑搅动,但同一天油价下跌也缓解了通胀担忧。作为信托基金顾问,我通常提醒客户:短期头条起伏难免,回到自己的投资年期和目标,比预测每天的涨跌更重要。",
+   "en": "Markets have been shaken by doubts over AI spending, yet cheaper oil the same day eased inflation worries. As a unit trust consultant, I generally remind clients that headlines will swing in the short run, and returning to your own time horizon and goals matters more than predicting each day's move."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-amid-more-selling-211229247.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/amp/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-apple-tops-q4-2026-estimates-but-shares-fall-after-hours-93CH-4993172"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202611020016"
+   },
+   {
+    "name": "The Standard",
+    "url": "https://www.thestandard.com.hk/finance/article/347224/Hong-Kong-shares-close-higher-on-tech-gains"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-03-m1",
+  "time": "2026-11-03T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "美股分化:科技股再挫、道指上涨,油价重挫约8%",
+   "en": "Wall Street splits: tech slides again, the Dow rises and oil plunges about 8%"
+  },
+  "analysis": {
+   "zh": "周一道指涨0.4%至51,983.98,标普500跌0.5%至7,541.40,纳指跌1.1%至25,164.36。微软跌2.8%、Meta跌1.3%,市场担心超大型云端企业的资本开支、现金流与人工智能投资回报;美国原油期货则因中东外交消息下跌约8%至95.84美元。10年期美债收益率降至4.904%。E*TRADE的Chris Larkin表示,股市长期看涨的叙事「可能受到一些打击,但依然完整」。这就像天气一边下雨一边出太阳:同一天里,不同板块的感受截然不同。",
+   "en": "On Monday the Dow rose 0.4% to 51,983.98, the S&P 500 fell 0.5% to 7,541.40 and the Nasdaq lost 1.1% to 25,164.36. Microsoft fell 2.8% and Meta 1.3% on worries about hyperscalers' capital spending, cash flow and returns on AI investment, while US crude futures dropped about 8% to US$95.84 on Middle East diplomacy news. The 10-year Treasury yield eased to 4.904%. E*TRADE's Chris Larkin said the market's longer-term bullish narrative \"may have taken some hits... but it's still intact.\" It is like sun and rain on the same day: different sectors felt very different weather."
+  },
+  "dda": {
+   "zh": "指数内部轮动时,定期定额(DDA)的好处是不必判断哪个板块领先,每月以固定金额分批投入,通常能自然平均成本。",
+   "en": "When leadership rotates inside the index, regular (DDA) investing means you need not judge which sector leads; a fixed monthly amount generally helps average your cost over time."
+  },
+  "prs": {
+   "zh": "退休储蓄的年期很长,单日板块轮动一般不会改变长远规划。每年最高RM3,000的PRS供款可享个人税务减免,可趁此检视基金风格是否仍符合自己的年龄。",
+   "en": "Retirement savings run for decades, so a one-day sector rotation generally does not change the long-term plan. PRS contributions of up to RM3,000 a year qualify for personal tax relief, and this is a good moment to check your fund's style still suits your age."
+  },
+  "lump": {
+   "zh": "科技股与传统板块走势分化,提醒我们检视单笔投资是否过度集中于单一主题。单笔资金可考虑分阶段投入,以分散时间点风险,并对照自己的目标与风险承受度。",
+   "en": "The split between tech and old-economy stocks is a prompt to check whether a lump sum is too concentrated in one theme. It may be phased in to spread timing risk, always matched to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价大跌和美债收益率回落,通常有助缓解通胀与利率担忧,对马来西亚政府债券(MGS)和伊斯兰债券价格可能偏正面,但外资流向与令吉走势同样重要。债券基金在股市波动时一般扮演组合平衡角色。",
+   "en": "Cheaper oil and lower Treasury yields generally ease inflation and rate worries, which may be mildly supportive for MGS and sukuk prices, although foreign flows and the ringgit matter too. Bond funds generally act as a portfolio balancer when stocks swing."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/dow-rises-amid-more-selling-211229247.html"
+  }
+ },
+ {
+  "id": "2026-11-03-m2",
+  "time": "2026-11-03T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "黄金反弹1.8%至3,943.62美元,油价走软令市场重新评估美联储路径",
+   "en": "Gold rebounds 1.8% to US$3,943.62 as softer oil makes markets reassess the Fed"
+  },
+  "analysis": {
+   "zh": "现货黄金周一上涨1.8%至每盎司3,943.62美元,此前周五下跌3.6%,创去年10月以来新低;十二月黄金期货收于3,969.60美元。伊朗与卡塔尔举行第三天会谈,油价下跌约8%。据CME FedWatch,交易员认为十二月加息的概率约为75%,低于一周前的80%。Zaner Metals的Peter Grant指出,油价走低「在减轻通胀担忧方面提供了一些缓解」。可以把黄金看成市场情绪的温度计:通胀担忧降温,它就比较容易喘口气。",
+   "en": "Spot gold rose 1.8% to US$3,943.62 an ounce on Monday after ending 3.6% lower on Friday at its lowest since October 2025; December futures settled at US$3,969.60. Oil fell about 8% after a third day of Iran-Qatar talks. According to CME FedWatch, traders see roughly a 75% chance of a December US rate hike, down from 80% a week earlier. Zaner Metals' Peter Grant said weaker oil prices \"have provided some relief... in terms of reducing inflation concerns.\" Think of gold as a thermometer of sentiment: when inflation worries cool, it finds room to breathe."
+  },
+  "dda": {
+   "zh": "商品价格短期波动剧烈,正是定期定额的价值所在:不必预测拐点,以固定节奏投资,让时间帮忙分散风险。",
+   "en": "Sharp commodity swings show the value of regular (DDA) investing: you need not call turning points, and a steady rhythm lets time help spread the risk."
+  },
+  "prs": {
+   "zh": "美联储利率预期会影响全球利率环境与退休基金的债券部分。PRS每年最高RM3,000的供款可享税务减免,长期而言纪律比择时重要。",
+   "en": "Fed rate expectations influence the global rate backdrop, including the bond part of retirement funds. PRS contributions of up to RM3,000 a year qualify for tax relief, and over the long run discipline usually matters more than timing."
+  },
+  "lump": {
+   "zh": "黄金一日涨跌近2%提醒我们,任何单一资产都可能剧烈波动。单笔投资可考虑分阶段进入,并检视组合中单一资产的占比是否符合自己的风险承受度。",
+   "en": "A near-2% daily move in gold is a reminder that any single asset can swing sharply. A lump sum may be phased in, and it helps to check that no single asset's share exceeds your risk tolerance."
+  },
+  "bond": {
+   "zh": "美联储若维持较高利率,全球收益率可能在高位停留较久,国家银行的政策取向、通胀和令吉走势也会影响大马债券基金。油价回落一般对通胀较有利,可能对债券偏正面。",
+   "en": "If the Fed keeps rates higher for longer, global yields may stay elevated for a while, and Bank Negara's stance, inflation and the ringgit also shape Malaysian bond funds. Lower oil generally helps the inflation picture, which may be mildly positive for bonds."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/amp/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+  }
+ },
+ {
+  "id": "2026-11-03-m3",
+  "time": "2026-11-03T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "苹果业绩优于预期,但存储器成本压力令盘后股价回落",
+   "en": "Apple beats estimates, but memory-cost pressure sends shares lower after hours"
+  },
+  "analysis": {
+   "zh": "苹果第四财季营收1,144.8亿美元、增长12%,高于预期的1,133.8亿美元;每股盈余2.10美元,高于预期1.99美元(含关税退款带来的0.05美元)。iPhone营收576亿美元、增长17%,服务业务316亿美元、增长10%。公司指引十二月季度营收增长7%至10%,毛利率45%至46%,管理层称存储器价格「前所未有」,是毛利率下滑的主因。财报后股价盘后约跌2.8%至328.85美元。就像一场成绩不错的考试,但老师说下学期成本会上升,同学们便先缓一缓。",
+   "en": "Apple's fiscal Q4 revenue was US$114.48 billion, up 12% and above the US$113.38 billion expected; EPS was US$2.10 versus US$1.99 expected, including US$0.05 from tariff refunds. iPhone revenue was US$57.6 billion, up 17%, and Services US$31.6 billion, up 10%. It guided December-quarter revenue growth of 7% to 10% and gross margin of 45% to 46%, with management calling memory pricing \"unprecedented\" and the main reason for the margin decline. The shares fell about 2.8% to US$328.85 after hours. It is like a good exam score paired with a warning that next term's costs will rise, so classmates pause."
+  },
+  "dda": {
+   "zh": "单一公司的财报波动对长期投资者影响有限,基金通常持有许多公司。定期定额让您不必因一份财报而改变节奏。",
+   "en": "One company's earnings swing matters little to long-term investors, as funds typically hold many companies. Regular (DDA) investing means one report need not change your rhythm."
+  },
+  "prs": {
+   "zh": "PRS基金通常分散投资于全球多家企业,单一大型科技股的短期反应一般不会左右退休目标。每年最高RM3,000的供款可享个人税务减免。",
+   "en": "PRS funds generally spread across many companies worldwide, so one big tech stock's short-term reaction usually does not decide your retirement goal. Contributions of up to RM3,000 a year qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "业绩好但股价跌,说明市场看的是未来而非过去。单笔投资时可检视组合是否过度依赖少数大型科技股,并考虑分阶段投入。",
+   "en": "Good results with a falling share price show markets look forward, not back. For a lump sum, check whether the portfolio leans too heavily on a few large tech names and consider phasing in."
+  },
+  "bond": {
+   "zh": "苹果财报对大马债券基金的直接影响很小,但存储器与关税成本反映的通胀压力,值得留意其对利率预期的间接影响。债券基金在组合中仍是平衡股市波动的角色。",
+   "en": "Apple's report has little direct effect on Malaysian bond funds, but the cost pressure from memory and tariffs touches on inflation, which may indirectly affect rate expectations. Bond funds still serve as a portfolio balancer against equity swings."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-apple-tops-q4-2026-estimates-but-shares-fall-after-hours-93CH-4993172"
+  }
+ },
+ {
+  "id": "2026-11-03-m4",
+  "time": "2026-11-03T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收跌0.65%,台积电跌1.69%;外资净卖出新台币735亿元",
+   "en": "Taiex closes down 0.65% and TSMC slips 1.69% as foreign investors sell NT$73.5 billion"
+  },
+  "analysis": {
+   "zh": "台股加权指数周一收跌291.69点、0.65%,至44,920.14点,盘中一度下挫812点至44,399.10点后收复部分失地。台积电跌1.69%至新台币2,330元,而其美国存托凭证周五曾跌5.95%;联发科涨1.40%,鸿海涨2.24%。外资主板净卖出约新台币735.2亿元。成交额降至7,588.8亿元。好比早上被浪头打翻的小船,下午稍稍稳住了舵。",
+   "en": "The Taiex closed down 291.69 points, or 0.65%, at 44,920.14 on Monday after plunging 812 points to 44,399.10 early in the session and recovering part of the loss. TSMC fell 1.69% to NT$2,330, after its ADRs dropped 5.95% on Friday, while MediaTek rose 1.40% and Hon Hai 2.24%. Foreign institutions sold a net NT$73.52 billion on the main board, and turnover eased to NT$758.88 billion. It is like a boat tossed by a wave in the morning that steadied its rudder by afternoon."
+  },
+  "dda": {
+   "zh": "亚洲科技股受全球人工智能情绪牵动。定期定额可让您在波动中持续投入,而不必猜测哪天是低点。",
+   "en": "Asian tech stocks follow global AI sentiment. Regular (DDA) investing lets you keep contributing through volatility without guessing which day is the low."
+  },
+  "prs": {
+   "zh": "许多退休基金持有亚洲科技龙头。数月的波动对跨越数十年的退休规划通常影响有限;每年最高RM3,000的PRS供款可享税务减免。",
+   "en": "Many retirement funds hold Asian tech leaders. A few months of volatility generally has limited impact on a plan spanning decades, and PRS contributions of up to RM3,000 a year qualify for tax relief."
+  },
+  "lump": {
+   "zh": "半导体板块波动大,单笔投资应留意区域与行业集中度。分阶段投入可以分散时间点风险,并需符合自己的目标与风险承受度。",
+   "en": "The semiconductor sector is volatile, so a lump sum should consider regional and sector concentration. Phasing in can spread timing risk and should match your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "外资从股市流出时,新兴亚洲的资金流向和汇率可能受影响,间接波及大马政府债券(MGS)与伊斯兰债券。债券基金通常在这类时刻起到平衡作用。",
+   "en": "When foreign money leaves equities, flows and exchange rates across emerging Asia may shift, indirectly touching MGS and sukuk. Bond funds generally play a balancing role at such times."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611020016"
+  }
+ },
+ {
+  "id": "2026-11-03-m5",
+  "time": "2026-11-03T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台湾官员:人工智能开支疑虑只会带来短期冲击,订单可持续到2027年底",
+   "en": "Taiwan official: AI-spending worries to have only short-term impact, orders seen running to end-2027"
+  },
+  "analysis": {
+   "zh": "台湾国发会主委叶俊显表示,人工智能开支的疑虑对台股只会带来「短期冲击」,硬件厂商订单预计累积到2027年底,科技企业没有流动性或现金流恶化迹象,并称台积电持续创下纪录盈利;他还预计台湾2026年经济增长可能达约12%,高于8月主计总处的11.05%预测。投资者担心云端服务商投入巨资建设人工智能基础设施,却尚未产生足够收入,这引发了全球科技股抛售。官员的乐观需要时间验证,就像天气预报员说雨很快停,我们还是先带着伞。",
+   "en": "Taiwan's National Development Council minister Yeh Chun-hsien said AI-spending concerns should have only a \"short-term impact\" on Taiwan's stock market, with hardware orders expected to keep accumulating through the end of 2027, no signs of weaker liquidity or cash flow at tech firms, and TSMC still posting record earnings. He also said 2026 growth could reach about 12%, above the DGBAS's August forecast of 11.05%. Investors worry that cloud providers have invested heavily in AI infrastructure without enough revenue yet, which triggered the global tech sell-off. An official's optimism takes time to verify; like a forecaster saying the rain will pass soon, we still carry an umbrella."
+  },
+  "dda": {
+   "zh": "官员的乐观或悲观都只是一方观点。定期定额的优势是不依赖任何单一预测,以纪律面对不确定性。",
+   "en": "An official's optimism or pessimism is only one view. The strength of regular (DDA) investing is that it does not depend on any single forecast; it faces uncertainty with discipline."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年而非数个季度。可定期检视PRS基金的地区与行业分布;每年最高RM3,000的供款可享个人税务减免。",
+   "en": "Retirement planning looks decades ahead rather than a few quarters. It helps to review your PRS fund's regional and sector mix from time to time, and contributions of up to RM3,000 a year qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "亚洲科技增长故事吸引资金,但估值与预期也高。单笔投资可考虑分阶段投入,并避免把大部分资金押在同一主题上。",
+   "en": "Asia's tech growth story attracts capital, but valuations and expectations are high too. A lump sum may be phased in, and it is wise to avoid placing most funds on a single theme."
+  },
+  "bond": {
+   "zh": "亚洲经济强劲增长通常有利区域信贷环境,但对大马债券基金的直接影响有限,主要仍看国家银行政策、通胀与令吉。债券基金在组合中仍是平衡角色。",
+   "en": "Strong Asian growth generally supports the regional credit backdrop, but the direct effect on Malaysian bond funds is limited; Bank Negara policy, inflation and the ringgit matter more. Bond funds remain a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611020010"
+  }
+ },
+ {
+  "id": "2026-11-03-m6",
+  "time": "2026-11-03T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "港股收涨0.42%,恒生科技指数劲升2.25%,银行股下挫",
+   "en": "Hong Kong shares rise 0.42% as the Hang Seng Tech Index jumps 2.25% and banks drop"
+  },
+  "analysis": {
+   "zh": "恒生指数周一上涨98点、0.42%,收于23,393点,全日成交额2,048亿港元;恒生科技指数飙升2.25%至3,839点。银行股在上周业绩公布后普遍下跌:中银香港跌5.7%、中国银行跌4.6%,是恒指成分股中表现最差的两只,招商银行跌2.8%、工商银行跌1.5%。内地方面,上证指数涨1.08%至3,638点,深证成指涨1.63%至11,010点。这像一场接力赛:科技股接过了银行股交出的棒。",
+   "en": "The Hang Seng Index rose 98 points, or 0.42%, to 23,393 on Monday with turnover of HK$204.8 billion, while the Hang Seng Tech Index jumped 2.25% to 3,839. Banks fell broadly after last week's results: BOC Hong Kong dropped 5.7% and Bank of China 4.6%, the two worst HSI performers, with China Merchants Bank down 2.8% and ICBC 1.5%. On the mainland, the Shanghai Composite rose 1.08% to 3,638 and the Shenzhen Component 1.63% to 11,010. It was like a relay race in which tech took the baton from the banks."
+  },
+  "dda": {
+   "zh": "中国与香港股市风格切换频繁。通过定期定额分散投入,有助于避免把时机押在某一天。",
+   "en": "Style rotations in China and Hong Kong shares are frequent. Spreading contributions through regular (DDA) investing helps avoid betting everything on one day."
+  },
+  "prs": {
+   "zh": "许多PRS基金包含亚洲或中国相关投资,单日板块切换不会改变长期方向。每年最高RM3,000的供款可享个人税务减免。",
+   "en": "Many PRS funds include Asian or China-related holdings, and a one-day sector switch does not change the long-term direction. Contributions of up to RM3,000 a year qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "科技与银行一升一降,显示集中于单一板块的风险。单笔投资可考虑分阶段进入,并检视地区与行业分布是否均衡。",
+   "en": "Tech up and banks down shows the risk of concentrating in one sector. A lump sum may be phased in, and it helps to check that regional and sector exposure is balanced."
+  },
+  "bond": {
+   "zh": "港中银行股下跌与利率环境、盈利预期有关,对大马债券基金直接影响不大;若涉及亚洲信贷,需留意发行人的信用质量。债券基金通常起到组合平衡作用。",
+   "en": "Weakness in HK and Chinese bank shares relates to the rate environment and earnings expectations and has little direct effect on Malaysian bond funds; for Asian credit, issuer quality is worth watching. Bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/347224/Hong-Kong-shares-close-higher-on-tech-gains"
+  }
+ },
+ {
+  "id": "2026-11-03-m7",
+  "time": "2026-11-03T09:00:00+08:00",
+  "tags": [
+   "my",
+   "tech"
+  ],
+  "title": {
+   "zh": "吉隆坡综指开盘走低,科技与半导体股延续跌势",
+   "en": "Bursa Malaysia opens lower as tech and semiconductor stocks extend losses"
+  },
+  "analysis": {
+   "zh": "富时隆综指周一早盘开盘下跌2.39点至1,613.21点,9时17分报1,608.57点,跌7.03点、0.44%。科技与半导体股受「全球科技情绪转弱」拖累:马来西亚太平洋工业(MPI)跌58仙至RM39.20,ViTrox跌22仙至RM10.68。Rakuten Trade预计综指在1,610至1,620点之间,并看到银行、种植和防御性股的选择性逢低买盘;Malacca Securities则认为市场将保持谨慎。就像本地市场紧跟着全球科技风向变脸,但仍有稳健板块守住阵脚。",
+   "en": "The FBM KLCI opened 2.39 points lower at 1,613.21 on Monday and stood at 1,608.57 at 9.17am, down 7.03 points or 0.44%. Technology and semiconductor stocks were hit by \"weaker global sector sentiment\": Malaysian Pacific Industries fell 58 sen to RM39.20 and ViTrox 22 sen to RM10.68. Rakuten Trade expects a 1,610-1,620 range with selective bargain hunting in banking, plantation and defensive stocks, while Malacca Securities expects cautious trading. Local markets follow the global tech mood, though steadier sectors held the line."
+  },
+  "dda": {
+   "zh": "本地市场随全球科技情绪起伏。定期定额可让您在每个月以相同纪律投入,而不必判断综指的短期位置。",
+   "en": "Local markets follow global tech sentiment. Regular (DDA) investing lets you contribute with the same discipline each month without judging the KLCI's short-term level."
+  },
+  "prs": {
+   "zh": "大马PRS基金持有本地与海外资产,单日跌幅一般不会影响数十年的退休规划。每年最高RM3,000的供款可享个人税务减免。",
+   "en": "Malaysian PRS funds hold local and overseas assets, and a single day's fall generally does not affect a plan that spans decades. Contributions of up to RM3,000 a year qualify for personal tax relief."
+  },
+  "lump": {
+   "zh": "分析师提到银行、种植与防御性板块出现逢低买盘,提醒我们分散布局的重要。单笔投资可考虑分阶段投入,并检视对本地科技股的集中程度。",
+   "en": "Analysts noted bargain hunting in banking, plantation and defensive sectors, a reminder of why diversification matters. A lump sum may be phased in, with a check on concentration in local tech stocks."
+  },
+  "bond": {
+   "zh": "股市走弱时,资金有时转向较稳健资产,可能对大马政府债券(MGS)与伊斯兰债券有所支持,但仍取决于国家银行政策、通胀与令吉。债券基金通常在股市波动时扮演平衡角色。",
+   "en": "When equities weaken, money sometimes shifts to steadier assets, which may support MGS and sukuk, though Bank Negara policy, inflation and the ringgit still decide. Bond funds generally play a balancing role during equity swings."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/02/bursa-malaysia-opens-lower-tech-and-semiconductor-stocks-extend-losses"
+  }
+ }
+]
