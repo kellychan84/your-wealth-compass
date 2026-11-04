@@ -2,6 +2,308 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-11-04-m0",
+  "kind": "summary",
+  "time": "2026-11-04T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "芯片股周二反弹,纳指涨约0.8%,但台股与韩股单日大跌3.59%;美国期中选举结果牵动周三市场",
+   "en": "Chip stocks rebound and the Nasdaq gains about 0.8%, but Taiwan and Korea tumble 3.59% in a day; US midterm results now in focus"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,568.92",
+    "change": "+0.36%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "25,372.01",
+    "change": "+0.83%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "台股加权指数",
+     "en": "Taiex"
+    },
+    "value": "43,307.54",
+    "change": "-3.59%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时隆综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,621.85",
+    "change": "+0.14%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周二美股:标普500涨约0.4%、纳指涨约0.8%、道指跌约0.4%;费城半导体指数涨约2.6%,AMD盘后财报优于预期。",
+    "en": "Tuesday on Wall Street: the S&P 500 rose about 0.4%, the Nasdaq about 0.8% and the Dow fell about 0.4%; the Philadelphia Semiconductor index gained about 2.6% and AMD beat estimates after the close."
+   },
+   {
+    "zh": "台股周二收跌3.59%至43,307.54,外资净卖出约1,073亿新台币;韩国Kospi同样跌约3.59%。",
+    "en": "Taiwan's Taiex closed down 3.59% at 43,307.54 with foreign investors net selling about NT$107.3 billion; Korea's Kospi also fell about 3.59%."
+   },
+   {
+    "zh": "富时隆综指微升0.14%至1,621.85,令吉小跌至4.0755;市场等待周四(11月5日)国家银行利率决定,多数预期隔夜政策利率维持2.75%。",
+    "en": "The FBM KLCI edged up 0.14% to 1,621.85 and the ringgit slipped to 4.0755; markets await Bank Negara's decision on 5 November, with most dealers expecting the OPR to stay at 2.75%."
+   }
+  ],
+  "takeaway": {
+   "zh": "同一天里美国科技股反弹、亚洲芯片股却大跌,说明市场对人工智能投资的看法仍在摇摆。作为信托基金顾问,我通常提醒客户:短期波动难以预测,回到自己的投资年期、目标和风险承受度,往往比追逐头条更重要。",
+   "en": "US tech bounced while Asian chip stocks sank on the same day, showing how unsettled views on AI spending still are. As a unit trust consultant, I generally remind clients that short-term swings are hard to predict, and returning to your own time horizon, goals and risk tolerance usually matters more than chasing headlines."
+  },
+  "sources": [
+   {
+    "name": "Investing.com (Reuters)",
+    "url": "https://investing.com/news/economy-news/ai-trade-rebounds-midterms-awaited-4996694"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202611030023"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/03/fbm-klci-ekes-out-gains-despite-regional-market-weakness"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-04-m1",
+  "time": "2026-11-04T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "AI概念股反弹:纳指涨约0.8%、半导体指数涨约2.6%,道指微跌",
+   "en": "AI trade rebounds: Nasdaq up about 0.8% and chip index up about 2.6%, while the Dow slips"
+  },
+  "analysis": {
+   "zh": "周二路透社报道,科技股龙头反弹带动标普500涨约0.4%、纳指涨约0.8%,道指跌约0.4%;费城半导体指数涨约2.6%,AMD财报后上涨约8%。同日油价下跌约1%、接近四周低位,黄金跌约0.5%、仍低于4,000美元,美债长端收益率最多上升7个基点。这就像潮水退了一阵又涨回来:大型科技股先前的急跌,在这一天出现了喘息。",
+   "en": "Reuters reported on Tuesday that a rebound in tech heavyweights lifted the S&P 500 about 0.4% and the Nasdaq about 0.8%, while the Dow fell about 0.4%. The Philadelphia Semiconductor index rose about 2.6% and AMD gained about 8% after results. Oil fell about 1% to near four-week lows, gold slipped about 0.5% and stayed below US$4,000 an ounce, and long-end Treasury yields rose by as much as 7 basis points. It is like a tide that pulled back and then came in again: after the recent sharp drops, big tech got a breather."
+  },
+  "dda": {
+   "zh": "科技股一天涨、一天跌,正是定期定额(DDA)的日常。每月固定金额投入,通常能让买入成本自然分散在不同价位,不必猜哪一天是低点。",
+   "en": "Tech rising one day and falling the next is exactly the backdrop regular (DDA) investing is built for. A fixed monthly amount generally spreads your entry cost across different price levels, so you need not guess the low."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,单日的反弹或下跌一般不改变长远方向。每年最高RM3,000的PRS供款可享个人税务减免,可借此检视自己的基金风格是否仍与年龄和退休年期相符。",
+   "en": "Retirement planning looks decades ahead, so one day's rebound or drop generally does not change the direction. PRS contributions of up to RM3,000 a year qualify for personal tax relief, and this is a good moment to check that your fund style still suits your age and retirement horizon."
+  },
+  "lump": {
+   "zh": "半导体指数短期大起大落,提醒我们检视单笔资金是否过度集中于科技或单一主题。单笔投资可考虑分阶段投入以分散时间点风险,并对照自己的目标与风险承受度。",
+   "en": "Sharp swings in the chip index are a prompt to check whether a lump sum is too concentrated in tech or any single theme. A lump sum may be phased in to spread timing risk, always matched to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美债长端收益率上升、油价回落,对马来西亚政府债券(MGS)和伊斯兰债券的影响方向不一,要看通胀预期、国家银行的利率取向以及外资流向与令吉。债券基金在股市波动时通常扮演组合稳定器的角色。",
+   "en": "Higher long-end US yields alongside lower oil point in different directions for Malaysian government securities (MGS) and sukuk, depending on inflation expectations, Bank Negara's rate stance, and foreign flows and the ringgit. Bond funds generally act as a portfolio balancer when equities swing."
+  },
+  "source": {
+   "name": "Investing.com (Reuters)",
+   "url": "https://investing.com/news/economy-news/ai-trade-rebounds-midterms-awaited-4996694"
+  }
+ },
+ {
+  "id": "2026-11-04-m2",
+  "time": "2026-11-04T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "Palantir财报后股价跌1.65%:营收首破20亿美元,但估值与合约增速成焦点",
+   "en": "Palantir slips 1.65% after results: revenue tops US$2 billion, but valuation and contract growth take focus"
+  },
+  "analysis": {
+   "zh": "Motley Fool在Yahoo Finance的文章指出,Palantir周二收于175.40美元、跌1.65%,成交量比三个月均量高约66%。公司营收首次突破20亿美元,并把2026年销售指引上调至85.3亿美元,美国商业营收年增148%至9.84亿美元;不过剩余履约义务为49亿美元、与第二季持平,合约总价值年增11%、远低于第二季的153%,预期市盈率约86倍。好比一家业绩亮眼的餐厅,食客开始问:订位还排得满吗?",
+   "en": "A Motley Fool article on Yahoo Finance says Palantir closed at US$175.40 on Tuesday, down 1.65%, on volume about 66% above its three-month average. Revenue topped US$2 billion for the first time and 2026 sales guidance was raised to US$8.53 billion, with US commercial revenue up 148% to US$984 million. But remaining performance obligations were US$4.9 billion, flat from Q2, total contract value grew 11% against 153% in Q2, and the forward earnings multiple is about 86. It is like a busy restaurant where diners now ask whether the bookings are still full."
+  },
+  "dda": {
+   "zh": "单一热门股的财报反应,不应主导长期计划。定期定额(DDA)投资于多元化的信托基金,通常能降低受个别公司消息影响的程度。",
+   "en": "The market reaction to one popular stock's earnings should not steer a long-term plan. Regular (DDA) investing into diversified unit trust funds generally reduces how much any single company's news affects you."
+  },
+  "prs": {
+   "zh": "退休储蓄的基金通常持有众多公司,个别高估值股票的波动对整体影响有限。可顺便了解自己的PRS基金持有哪些主题,并记得每年最高RM3,000的税务减免额度。",
+   "en": "Retirement funds usually hold many companies, so swings in one richly valued stock tend to have a limited effect on the whole. It is a good time to see which themes your PRS fund holds, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "高估值股票对增长预期特别敏感。单笔资金若集中在少数热门主题,可检视集中度,并考虑分阶段投入以分散时间点风险,同时对照自己的目标。",
+   "en": "Richly valued stocks are especially sensitive to growth expectations. If a lump sum leans on a few popular themes, check concentration and consider phasing in to spread timing risk, matched to your own goals."
+  },
+  "bond": {
+   "zh": "这则是个别美国科技公司的消息,对马来西亚债券基金的直接影响有限;债券基金的价格主要受利率、通胀和国家银行政策影响,在股票估值受质疑时可作为组合的平衡部分。",
+   "en": "This is single-company US tech news with little direct effect on Malaysian bond funds, whose prices mainly follow interest rates, inflation and Bank Negara policy. When equity valuations are questioned, bonds can serve as a balancing part of a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-3-221709194.html"
+  }
+ },
+ {
+  "id": "2026-11-04-m3",
+  "time": "2026-11-04T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech",
+   "fed"
+  ],
+  "title": {
+   "zh": "期中选举夜:AMD、美超微盘后走高,策略师提醒AI概念股或受选举结果影响",
+   "en": "Midterm night: AMD and Super Micro jump after hours as strategists flag possible pressure on AI stocks"
+  },
+  "analysis": {
+   "zh": "CNBC直播报道,AMD盘后上涨约7%(调整后每股盈余2.09美元,高于预期的1.95美元),美超微涨逾9%,Arista涨12%。与此同时,标普500期货在晚间转跌,交易员预期民主党可能赢得众议院;Kalshi预测市场显示参议院控制权的概率约80%。部分策略师警告,民主党表现强劲可能因市场担心数据中心监管收紧而压抑周三的AI概念股。Osaic的Philip Blancato则认为,市场也许需要几天消化结果,但全年仍可能收高。",
+   "en": "CNBC's live coverage says AMD rose about 7% after hours (adjusted EPS of US$2.09 versus US$1.95 expected), Super Micro jumped more than 9% and Arista gained 12%. Meanwhile S&P 500 futures turned lower in the evening as traders expected Democrats could win the House, and Kalshi odds for Senate control rose to around 80%. Some strategists warned that a strong Democratic showing could pressure AI-linked stocks on Wednesday on fears of tighter data-centre restrictions. Osaic's Philip Blancato said the market may need a few days to absorb the results but could still finish the year higher."
+  },
+  "dda": {
+   "zh": "选举带来的波动通常是短期的。定期定额(DDA)的好处是不用在选举前后择时,以固定金额持续投入,把重点放在多年的投资期上。",
+   "en": "Election-driven swings are usually short-lived. Regular (DDA) investing means you need not time around elections: a fixed amount keeps going in, with the focus on a multi-year horizon."
+  },
+  "prs": {
+   "zh": "政治消息常让人想改变退休计划,但长期规划通常应以年龄、目标和风险承受度为依据。每年最高RM3,000的PRS税务减免依然是值得善用的规划工具。",
+   "en": "Political headlines can tempt people to change a retirement plan, but long-term planning is generally better anchored on age, goals and risk tolerance. The PRS tax relief of up to RM3,000 a year remains a useful planning tool."
+  },
+  "lump": {
+   "zh": "选举夜的消息可能令市场短线波动。若手上有单笔资金,可考虑分阶段投入以分散时间点风险,并检视是否过度集中在AI主题。",
+   "en": "Election-night news can move markets in the short term. If you hold a lump sum, it may be phased in to spread timing risk, and it is worth checking for over-concentration in the AI theme."
+  },
+  "bond": {
+   "zh": "美国政治与监管走向可能影响美债收益率与美元,进而间接影响令吉和外资流向,这些都是马来西亚债券基金的参考因素;但本地债券主要仍受国家银行利率决定影响。",
+   "en": "US politics and regulation may affect Treasury yields and the dollar, and indirectly the ringgit and foreign flows, all factors for Malaysian bond funds; local bonds still mainly respond to Bank Negara's rate decisions."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+  }
+ },
+ {
+  "id": "2026-11-04-m4",
+  "time": "2026-11-04T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股单日暴跌3.59%,外资净卖约1,073亿新台币;台积电跌1.50%",
+   "en": "Taiex plunges 3.59% in a day as foreigners net sell about NT$107.3 billion; TSMC drops 1.50%"
+  },
+  "analysis": {
+   "zh": "中央社报道,台股加权指数周二下跌1,612.60点、收43,307.54,为史上第七大单日点数跌幅;成交额9,280.6亿新台币。台积电跌1.50%至2,295元,占大盘市值逾四成,拖累指数约280点;南亚科跌停10%、联发科跌7.43%、日月光投控跌8.61%。外资主板净卖超1,073.1亿新台币。康和证券分析师黄志祥表示:「对AI投资的担忧持续打击情绪」,并称美国期中选举的谨慎情绪同样压抑大盘。这就像一个大型派对里最大的一桌宾客先离席,整个场面自然冷清下来。",
+   "en": "Focus Taiwan reports the Taiex fell 1,612.60 points to 43,307.54 on Tuesday, the 7th steepest single-day point decline on record, on turnover of NT$928.06 billion. TSMC dropped 1.50% to NT$2,295, accounts for over 40% of market value and cost the index about 280 points; Nanya Technology hit its 10% limit-down, MediaTek lost 7.43% and ASE Technology 8.61%. Foreign investors net sold NT$107.31 billion on the main board. Concord Securities analyst Kerry Huang said \"fears over AI investments continued to hurt sentiment\" and that caution about the US midterms also weighed. It is like the biggest table at a party leaving first: the whole room feels quieter."
+  },
+  "dda": {
+   "zh": "单日暴跌最能考验投资纪律。定期定额(DDA)让你在下跌时以同样金额买入更多单位,长期下来通常有助拉低平均成本,但前提是选择适合自己的信托基金并持之以恒。",
+   "en": "A one-day plunge is a real test of discipline. Regular (DDA) investing buys more units for the same amount when prices fall, which generally helps lower the average cost over time, provided the fund suits you and you stay consistent."
+  },
+  "prs": {
+   "zh": "退休资金的年期很长,一两天的区域股市大跌一般不应令人轻易改变计划。可检视自己的PRS基金是否分散于不同地区与行业,并记得每年最高RM3,000的税务减免。",
+   "en": "Retirement money has a long horizon, so a one- or two-day regional sell-off generally should not prompt hasty changes. Check whether your PRS fund is spread across regions and sectors, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "台股由单一公司占大盘逾四成,说明集中度风险的真实含义。单笔资金可检视是否过度集中于某一市场或主题,并考虑分阶段投入以分散时间点风险。",
+   "en": "With one company making up over 40% of Taiwan's market value, this is a vivid example of concentration risk. A lump sum can be checked for over-reliance on one market or theme, and may be phased in to spread timing risk."
+  },
+  "bond": {
+   "zh": "亚洲股市大跌时,资金有时流向较稳定的资产,但对马来西亚债券基金的直接影响取决于外资流向、令吉与国家银行利率。债券基金通常可在股票波动较大时扮演平衡角色。",
+   "en": "When Asian equities sell off, money sometimes shifts to steadier assets, but the direct effect on Malaysian bond funds depends on foreign flows, the ringgit and Bank Negara's rate path. Bond funds generally act as a balancer when equities are volatile."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611030023"
+  }
+ },
+ {
+  "id": "2026-11-04-m5",
+  "time": "2026-11-04T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时隆综指微升0.14%至1,621.85,银行股撑市;市场等待国家银行周四利率决定",
+   "en": "FBM KLCI edges up 0.14% to 1,621.85 on bank stocks as markets await Bank Negara's decision"
+  },
+  "analysis": {
+   "zh": "星报报道,富时隆综指周二收盘升2.34点至1,621.85,在区域股市疲弱下逆势微涨;下跌股652只、上涨403只,成交约26.3亿股、价值RM26.4亿。银行股领涨,AmBank和RHB各升21仙至RM6.48和RM7.71。令吉兑美元跌0.1%至4.0755。投资者等待11月5日的国家银行货币政策会议,交易员普遍预期隔夜政策利率(OPR)维持在2.75%。同日MSCI亚太(日本除外)指数跌1.82%,KLCI的表现相对稳定。",
+   "en": "The Star reports the FBM KLCI closed up 2.34 points at 1,621.85 on Tuesday, bucking weakness across the region; decliners beat gainers 652 to 403 on about 2.63 billion shares worth RM2.64 billion. Banks led, with AmBank and RHB each up 21 sen to RM6.48 and RM7.71. The ringgit eased 0.1% against the US dollar to 4.0755. Investors await Bank Negara's policy meeting on 5 November, with dealers widely expecting the overnight policy rate (OPR) to stay at 2.75%. MSCI's Asia ex-Japan index fell 1.82% the same day, so the KLCI held up comparatively well."
+  },
+  "dda": {
+   "zh": "本地银行股稳定了大马大盘,提醒我们多元化的价值。定期定额(DDA)投资多元化的信托基金,通常不必依赖单一板块的表现。",
+   "en": "Steady bank stocks supported the local market, a reminder of the value of diversification. Regular (DDA) investing in diversified unit trust funds generally avoids relying on any single sector."
+  },
+  "prs": {
+   "zh": "利率决定前后的市场波动,对着眼数十年的退休规划影响通常有限。每年最高RM3,000的PRS供款可享个人税务减免,可趁机检视自己的供款计划是否持续。",
+   "en": "Market movements around a rate decision generally have limited effect on a plan that looks decades ahead. PRS contributions of up to RM3,000 a year qualify for personal tax relief, so it is a good time to check your contribution routine is on track."
+  },
+  "lump": {
+   "zh": "在国家银行决定公布前,不必为猜测结果而匆忙行动。单笔资金可考虑分阶段投入以分散时间点风险,并对照自己的目标和风险承受度。",
+   "en": "There is no need to rush on a guess before Bank Negara announces. A lump sum may be phased in to spread timing risk, matched to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "国家银行若维持OPR在2.75%,一般意味着短期利率环境稳定,对马来西亚政府债券(MGS)和伊斯兰债券基金的利息收入较为有利于预测;决定公布后的指引语气以及令吉走势,才是债券基金更值得留意的地方。",
+   "en": "If Bank Negara holds the OPR at 2.75%, the short-term rate backdrop is generally stable for MGS and sukuk funds. The tone of its guidance after the decision, and the ringgit, are what bond fund holders may want to watch."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/03/fbm-klci-ekes-out-gains-despite-regional-market-weakness"
+  }
+ },
+ {
+  "id": "2026-11-04-m6",
+  "time": "2026-11-04T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "纳指升1.06%但进入调整区后的反弹;摩根士丹利称调整已进入「最后阶段」",
+   "en": "Nasdaq up 1.06% in a rebound after correction territory; Morgan Stanley says the pullback is in its \"final innings\""
+  },
+  "analysis": {
+   "zh": "英文虎报报道,纳指周二升1.06%至25,431.03,标普500升0.59%至7,585.95,道指跌0.24%;科技板块升1.49%,居11个板块之首,英伟达在连跌四天后涨3%,苹果因存储器成本将压缩假期季度毛利率而跌1.8%。纳指100指数周一收盘已较10月6日纪录高位低逾10%、进入调整区,标普500仍较高点低约3%、今年累计上涨11%。摩根士丹利认为,自6月开始的调整已进入「最后阶段」。Infrastructure Capital的Jay Hatfield称这是「逢低买入」。数字因收盘前后的报道而与其他来源略有差异。",
+   "en": "The Standard reports the Nasdaq rose 1.06% to 25,431.03 on Tuesday, the S&P 500 gained 0.59% to 7,585.95 and the Dow fell 0.24%; tech was the strongest sector, up 1.49%, with Nvidia up 3% after four straight losing sessions, while Apple fell 1.8% after warning memory-chip costs would pressure holiday-quarter margins. The Nasdaq-100 closed Monday more than 10% below its 6 October record, in correction territory, while the S&P 500 is about 3% below its high and up 11% for 2026. Morgan Stanley says the correction that began in June is in its \"final innings,\" and Infrastructure Capital's Jay Hatfield called it \"dip-buying.\" Figures differ slightly from other sources because of reporting time."
+  },
+  "dda": {
+   "zh": "市场从调整区反弹,并不代表走势已定。定期定额(DDA)的方式不依赖判断底部,通常适合想长期累积的投资者。",
+   "en": "A rebound from correction territory does not settle where markets go next. Regular (DDA) investing does not depend on calling the bottom, and generally suits people building wealth over the long term."
+  },
+  "prs": {
+   "zh": "调整是长期投资中常见的一环。对于退休储蓄,可借此回顾自己的风险承受度,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Corrections are a common part of long-term investing. For retirement savings, this is a chance to review your risk tolerance and make good use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "分析师的观点不同,有人认为调整接近尾声,也有人持谨慎态度。单笔资金可考虑分阶段投入以分散时间点风险,并避免过度集中于少数科技股。",
+   "en": "Analysts differ, with some seeing the correction nearing its end and others staying cautious. A lump sum may be phased in to spread timing risk, while avoiding over-concentration in a few tech stocks."
+  },
+  "bond": {
+   "zh": "美国股市调整时,资金风向可能影响美债收益率与美元,间接影响令吉。马来西亚债券基金仍主要受国家银行利率与本地通胀影响,在股市波动时可作为组合的平衡部分。",
+   "en": "During US equity corrections, shifting money flows may affect Treasury yields and the dollar, and indirectly the ringgit. Malaysian bond funds still mainly follow Bank Negara rates and local inflation, and can balance a portfolio when equities swing."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/347418/Nasdaq-rallies-as-AI-heavyweights-rebound-ahead-of-midterm-results"
+  }
+ }
+],
+[
+ {
   "id": "2026-11-03-m0",
   "kind": "summary",
   "time": "2026-11-03T09:00:00+08:00",
