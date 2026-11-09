@@ -306,6 +306,150 @@ window.INSIGHTS = [].concat(
   }
 ],
 [
+  {
+    "id": "2026-11-09-a1",
+    "time": "2026-11-09T17:00:00+08:00",
+    "tags": [
+      "tech"
+    ],
+    "title": {
+      "zh": "台股强力反弹4.94%收41,661点,稳定基金入市承诺提振情绪,台积电涨4.68%",
+      "en": "Taiex rebounds 4.94% to 41,661 on the stabilization-fund pledge, with TSMC up 4.68%"
+    },
+    "analysis": {
+      "zh": "Focus Taiwan报道,台股周一收41,661.70点,上涨1,960.06点或4.94%,是史上第二大单日点数涨幅,成交额新台币8,379.3亿元。台积电涨4.68%至2,235元,贡献约800点;电子指数涨5.49%。国家金融稳定基金上周五授权入市,但外资仍净卖超900.6亿元。就像大楼摇晃之后有人扶了一把,稳住了,但还没有完全安心。",
+      "en": "Focus Taiwan reported the Taiex closed Monday at 41,661.70, up 1,960.06 points or 4.94%, the second-largest single-day point gain on record, on turnover of NT$837.93 billion. TSMC rose 4.68% to NT$2,235 and contributed about 800 points; the electronics index gained 5.49%. The National Financial Stabilization Fund authorized intervention on Friday, yet foreign investors were still net sellers of NT$90.06 billion. It is like someone steadying a swaying building: firmer, but not yet fully calm."
+    },
+    "dda": {
+      "zh": "大跌之后紧接大涨,正好说明很难预测哪一天是转折点。定期定额(DDA)让你不用判断时点,只要金额符合预算、投资年期够长,持续投入可能帮助摊平成本。",
+      "en": "A sharp fall followed by a sharp rally shows how hard it is to pick the turning point. Regular (DDA) investing means you do not have to time it; if the amount fits your budget and your horizon is long, steady contributions may smooth your average cost."
+    },
+    "prs": {
+      "zh": "单日涨幅再大,也只是长期退休路上的一小段。PRS每年最高RM3,000的税务减免可作为持续供款的考虑,同时检查基金的风险水平和科技股集中度是否适合你的退休年期。",
+      "en": "Even a big one-day gain is a small stretch of a long retirement road. The PRS tax relief of up to RM3,000 a year can support steady contributions; also check that the fund's risk level and tech concentration suit your retirement timeline."
+    },
+    "lump": {
+      "zh": "看到大反弹容易心急追入。一般原则是:分批进场可分散时间风险,先检查是否过度集中在台湾或科技板块,并确认金额符合目标与风险承受度。",
+      "en": "A big rebound can tempt people to chase. General principles: phasing in may spread timing risk, check whether you are over-concentrated in Taiwan or tech, and make sure the amount fits your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "台股的涨跌对马来西亚债券基金的直接影响有限,主要通过全球风险情绪与资金流向影响令吉和外资持债。债券基金在股市大起大落时通常扮演平衡组合的角色。",
+      "en": "Taiwan's equity swings have limited direct effect on Malaysian bond funds, working mainly through global risk sentiment and capital flows touching the ringgit and foreign holdings. Bond funds generally act as a balancer when equities whipsaw."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202611090017"
+    }
+  },
+  {
+    "id": "2026-11-09-a2",
+    "time": "2026-11-09T17:00:00+08:00",
+    "tags": [
+      "tech",
+      "us"
+    ],
+    "title": {
+      "zh": "英伟达董事会调查黄仁勋,盘前股价下跌约3.4%;11月17日财报在即",
+      "en": "Nvidia board probes CEO Jensen Huang; shares indicated about 3.4% lower ahead of Nov 17 earnings"
+    },
+    "analysis": {
+      "zh": "CNBC报道,黄仁勋周日在员工邮件中承认有婚外情,对象据报被美国情报机构怀疑为中国间谍;英伟达董事会已由独立董事启动调查,并表示没有理由相信国家安全或公司机密受到损害,黄仁勋将继续担任CEO。路透社指盘后股价约180.30美元,较周五收盘186.64美元跌约3.4%。三名众议院共和党委员会主席要求他11月18日出席闭门简报。这像是赛前主将突然传出负面新闻,球队的实力未必变,但不确定性增加了。",
+      "en": "CNBC reported that Jensen Huang admitted in a staff email on Sunday to an affair with a woman U.S. intelligence agencies reportedly suspect of being a Chinese spy; Nvidia's board has opened an investigation led by independent directors and says it has no reason to believe national security or company secrets were compromised, and Huang remains CEO. Reuters put the after-hours price near US$180.30, about 3.4% below Friday's US$186.64 close. Three House Republican committee chairs asked him to attend a closed-door briefing on Nov. 18. It is like a team's star player hitting the headlines before a big match: the squad's ability may be unchanged, but uncertainty rises."
+    },
+    "dda": {
+      "zh": "单一公司的消息可能带来短线波动,但定期定额的核心是纪律而非预测。选择基金时留意前几大持股的集中度,通常比追着头条更有意义。",
+      "en": "One company's news can cause short-term swings, but regular (DDA) investing is about discipline, not forecasting. Checking how concentrated a fund's top holdings are is generally more useful than chasing headlines."
+    },
+    "prs": {
+      "zh": "许多全球科技基金的前几大持股包含英伟达,所以这类消息可能间接影响退休基金的表现。PRS每年最高RM3,000的税务减免可作为持续供款的考虑,同时留意基金的分散程度。",
+      "en": "Many global tech funds hold Nvidia among their largest positions, so news like this may indirectly affect retirement funds. The PRS tax relief of up to RM3,000 a year can support steady contributions; also look at how diversified the fund is."
+    },
+    "lump": {
+      "zh": "财报和调查结果都还没出来,不确定性较高。一般原则是:分批进场可分散时间风险,检查是否过度集中在单一公司或AI主题,并确认金额符合目标与风险承受度。",
+      "en": "Neither the earnings nor the investigation outcome is known yet, so uncertainty is elevated. General principles: phasing in may spread timing risk, check for over-concentration in one company or the AI theme, and match the amount to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "这是公司治理层面的消息,对马来西亚债券基金的直接影响很小,主要是全球风险情绪可能间接影响令吉与外资流向。债券基金在科技股波动期间通常扮演平衡组合的角色。",
+      "en": "This is a corporate-governance story with very little direct effect on Malaysian bond funds; global risk sentiment may indirectly touch the ringgit and foreign flows. Bond funds generally act as a balancer when tech shares swing."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+    }
+  },
+  {
+    "id": "2026-11-09-a3",
+    "time": "2026-11-09T17:00:00+08:00",
+    "tags": [
+      "cn"
+    ],
+    "title": {
+      "zh": "港股周一收跌32点至24,448点,美团大跌6.53%;上证指数涨0.32%",
+      "en": "Hong Kong shares close 32 points lower at 24,448 as Meituan plunges 6.53%; Shanghai Composite up 0.32%"
+    },
+    "analysis": {
+      "zh": "The Standard报道,恒生指数周一收跌32点或0.13%至24,448点,成交额1,737亿港元;恒生科技指数跌0.92%至4,040点。美团跌6.53%,是表现最差的蓝筹股,宁德时代跌2.68%;华虹半导体涨2.35%、中芯国际涨1%。上证综指涨0.32%至3,660点,深圳综指跌0.27%。港股在亚洲其他市场大涨时只是窄幅整理,像一群人都往前冲,有人却停下来整理鞋带。",
+      "en": "The Standard reported the Hang Seng Index closed Monday 32 points, or 0.13%, lower at 24,448 on turnover of HK$173.7 billion, while the Hang Seng Tech Index lost 0.92% to 4,040. Meituan fell 6.53%, the worst blue chip, and CATL fell 2.68%; Hua Hong Semiconductor rose 2.35% and SMIC 1%. The Shanghai Composite gained 0.32% to 3,660 and the Shenzhen Composite lost 0.27%. Hong Kong merely consolidated while much of Asia rallied, like a crowd rushing forward while a few stop to retie their shoelaces."
+    },
+    "dda": {
+      "zh": "不同市场、不同行业的走势可以很不一样,这正是分散投资的意义。定期定额(DDA)让你不必猜哪个市场会先涨,持续投入需要符合预算与投资年期。",
+      "en": "Different markets and sectors can move very differently, which is the point of diversification. Regular (DDA) investing means you do not have to guess which market rises first; steady contributions should fit your budget and horizon."
+    },
+    "prs": {
+      "zh": "中国与香港市场波动较大,退休规划一般更看重整体分散度与风险水平。PRS每年最高RM3,000的税务减免可作为持续供款的考虑。",
+      "en": "China and Hong Kong markets can be volatile, so retirement planning generally puts more weight on overall diversification and risk level. The PRS tax relief of up to RM3,000 a year can support steady contributions."
+    },
+    "lump": {
+      "zh": "单只股票的大幅下跌提醒我们个股风险。一般原则是:分批进场可分散时间风险,检查组合是否集中在少数公司,并确认金额符合目标与风险承受度。",
+      "en": "A single stock's sharp drop is a reminder of company-specific risk. General principles: phasing in may spread timing risk, check whether the portfolio leans on a few names, and match the amount to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "港股今天的走势对马来西亚债券基金的直接影响较小,主要是通过区域风险情绪间接传导。债券基金通常在股市分化时扮演平衡组合的角色。",
+      "en": "Hong Kong's moves today have a small direct effect on Malaysian bond funds, passing through regional risk sentiment only indirectly. Bond funds generally act as a balancer when equity markets diverge."
+    },
+    "source": {
+      "name": "The Standard",
+      "url": "https://www.thestandard.com.hk/finance/article/347950/Hong-Kong-shares-close-down-32-points-Meituan-plunges-653-percent"
+    }
+  },
+  {
+    "id": "2026-11-09-a4",
+    "time": "2026-11-09T17:00:00+08:00",
+    "tags": [
+      "fed",
+      "us"
+    ],
+    "title": {
+      "zh": "亚洲股市周一反弹,美元录五个月来最大单日涨幅,市场押注12月加息的概率近80%",
+      "en": "Asian stocks rebound as the dollar posts its biggest one-day gain in five months and December hike odds near 80%"
+    },
+    "analysis": {
+      "zh": "路透社(经Investing.com)报道,亚太(日本除外)MSCI指数周一涨2%,此前一周跌4.6%;日经涨3.5%、韩国综指涨1.8%、台股涨逾6%。CME FedWatch显示12月加息至少25个基点的概率近80%,美元指数约102.2,录得五个月来最大单日涨幅,布伦特原油约98.2美元。另外,中国10月出厂价通胀创四年多来最快,消费者通胀则降温。好比暴风雨后大家刚走出门,却还在留意天气预报。",
+      "en": "Reuters (via Investing.com) reported MSCI's Asia-Pacific index ex-Japan rose 2% on Monday after falling 4.6% the previous week; the Nikkei gained 3.5%, Korea's KOSPI 1.8% and Taiwan's benchmark more than 6%. CME FedWatch put the odds of a hike of at least 25 basis points in December near 80%, the dollar index was around 102.2 after its biggest one-day gain in five months, and Brent was about US$98.2. China's October factory-gate inflation also hit its fastest pace in over four years while consumer inflation cooled. It is like people stepping outside after a storm while still checking the forecast."
+    },
+    "dda": {
+      "zh": "利率预期和美元的波动会影响全球资产价格,但定期定额(DDA)的纪律不需要预测联储。只要金额符合预算、年期足够长,持续投入通常比频繁调整更容易坚持。",
+      "en": "Swings in rate expectations and the dollar move global asset prices, but the discipline of regular (DDA) investing does not require forecasting the Fed. If the amount fits your budget and the horizon is long enough, steady contributions are generally easier to keep up than frequent changes."
+    },
+    "prs": {
+      "zh": "利率偏高、美元偏强的环境可能影响不同资产的估值,退休规划应着眼长期而非单周行情。PRS每年最高RM3,000的税务减免可作为持续供款的考虑,并确认风险水平符合退休年期。",
+      "en": "Higher rates and a firmer dollar may affect valuations across assets, and retirement planning should look at the long term rather than one week's moves. The PRS tax relief of up to RM3,000 a year can support steady contributions, with the risk level matched to your retirement timeline."
+    },
+    "lump": {
+      "zh": "市场在加息预期和科技股情绪之间摇摆,单笔投资的时点风险较大。一般原则是:分批进场可分散时间风险,检查是否集中在某个市场或主题,并确认金额符合目标与风险承受度。",
+      "en": "Markets are swinging between hike expectations and tech sentiment, so the timing risk of a lump sum is larger. General principles: phasing in may spread timing risk, check for concentration in one market or theme, and match the amount to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "美国加息预期上升和美元走强,可能影响令吉和外资对马来西亚政府债券与伊斯兰债券的兴趣,但国家银行的OPR与国内通胀仍是更直接的因素。债券基金在市场波动中通常扮演平衡组合的角色。",
+      "en": "Higher US hike odds and a firmer dollar may influence the ringgit and foreign appetite for Malaysian government bonds and sukuk, although Bank Negara's OPR and domestic inflation remain the more direct drivers. Bond funds generally act as a balancer when markets are volatile."
+    },
+    "source": {
+      "name": "Investing.com (Reuters)",
+      "url": "https://investing.com/news/economy-news/asian-stocks-steady-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets-5010407"
+    }
+  }
+],
+[
  {
   "id": "2026-11-08-w0",
   "kind": "summary",
