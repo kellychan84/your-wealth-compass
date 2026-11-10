@@ -1,0 +1,301 @@
+[
+  {
+    "id": "2026-11-10-m0",
+    "kind": "summary",
+    "time": "2026-11-10T09:00:00+08:00",
+    "tags": [],
+    "title": {
+      "zh": "美股周一强势反弹,道指涨2.15%、纳指涨2.74%;台股暴涨4.94%,油价下挫、金价回升",
+      "en": "Wall Street rebounds sharply Monday with the Dow up 2.15% and Nasdaq up 2.74%; Taiex surges 4.94% as oil falls and gold recovers"
+    },
+    "figures": [
+      {
+        "label": {
+          "zh": "标普500",
+          "en": "S&P 500"
+        },
+        "value": "7,549.94",
+        "change": "+2.35%",
+        "dir": "up"
+      },
+      {
+        "label": {
+          "zh": "纳斯达克",
+          "en": "Nasdaq"
+        },
+        "value": "25,253.14",
+        "change": "+2.74%",
+        "dir": "up"
+      },
+      {
+        "label": {
+          "zh": "台股加权指数",
+          "en": "Taiex"
+        },
+        "value": "41,661.70",
+        "change": "+4.94%",
+        "dir": "up"
+      },
+      {
+        "label": {
+          "zh": "布伦特原油",
+          "en": "Brent crude"
+        },
+        "value": "92.38",
+        "change": "-6.04%",
+        "dir": "dn"
+      }
+    ],
+    "points": [
+      {
+        "zh": "周一标普500涨2.35%至7,549.94,芯片股领涨,但英伟达因董事会调查CEO黄仁勋而下跌约4%。",
+        "en": "On Monday the S&P 500 rose 2.35% to 7,549.94 led by chip stocks, while Nvidia fell about 4% as its board investigates CEO Jensen Huang."
+      },
+      {
+        "zh": "特朗普称再攻击伊朗「不太可能」,布伦特跌6.04%至92.38美元;CME FedWatch显示12月加息概率约84.5%,美国通胀数据周二公布。",
+        "en": "Trump said fresh strikes on Iran are unlikely, sending Brent down 6.04% to US$92.38; CME FedWatch shows about an 84.5% chance of a December hike, with US inflation data due Tuesday."
+      },
+      {
+        "zh": "台股在稳定基金介入承诺下收涨4.94%,台湾10月出口年增58.9%创新高。",
+        "en": "Taiwan's Taiex closed up 4.94% on a stabilization-fund pledge, and October exports jumped 58.9% to a record."
+      }
+    ],
+    "takeaway": {
+      "zh": "一天的大涨并不代表风浪已过,这周的通胀数据还会带来新的考验。作为信托基金顾问,我通常提醒客户:行情好的时候不必追,行情差的时候也不必慌,回到自己的投资年期和目标最重要。",
+      "en": "One big up day does not mean the waves have passed, and this week's inflation data is another test. As a unit trust consultant, I generally remind clients not to chase the good days or panic on the bad ones; what matters most is returning to your own horizon and goals."
+    },
+    "sources": [
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+      },
+      {
+        "name": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-215-5013309"
+      },
+      {
+        "name": "Focus Taiwan",
+        "url": "https://focustaiwan.tw/business/202611090017"
+      },
+      {
+        "name": "Yahoo Finance (oil)",
+        "url": "https://finance.yahoo.com/energy/articles/oil-prices-decline-trump-signals-100337079.html"
+      }
+    ]
+  },
+  {
+    "id": "2026-11-10-m1",
+    "time": "2026-11-10T09:00:00+08:00",
+    "tags": [
+      "us"
+    ],
+    "title": {
+      "zh": "美股周一强势反弹:道指涨2.15%,标普500录得4月以来最佳单日表现",
+      "en": "Wall Street rallies Monday: Dow up 2.15% and S&P 500 posts its best day since April"
+    },
+    "analysis": {
+      "zh": "Investing.com报道,周一道指涨1,104点或2.15%至52,389.93,标普500涨2.34%至7,549.83;工业、科技和基础材料板块领涨,纳指涨2.74%,恐慌指数VIX下跌22.31%至19.92。纽交所上涨股与下跌股约为2,281比581。上周的急跌之后,这更像是一次深呼吸,但并不代表情绪已完全平复。",
+      "en": "Investing.com reported the Dow rose 1,104 points, or 2.15%, to 52,389.93 and the S&P 500 gained 2.34% to 7,549.83, led by industrials, technology and basic materials; the Nasdaq rose 2.74% and the VIX fell 22.31% to 19.92. NYSE advancers beat decliners about 2,281 to 581. After last week's sharp drop this feels like a deep breath, though it does not mean nerves have fully settled."
+    },
+    "dda": {
+      "zh": "市场大幅反弹时,定期定额(DDA)的好处是你不必决定今天是不是进场的好日子。只要金额符合预算、投资年期足够长,持续投入可能让成本在涨跌中被摊平。",
+      "en": "After a big rebound, the appeal of regular (DDA) investing is that you do not have to decide whether today is a good day to enter. If the amount fits your budget and your horizon is long enough, steady contributions may smooth your average cost through ups and downs."
+    },
+    "prs": {
+      "zh": "退休规划着眼的是几十年,一天的涨跌通常不应改变整体计划。PRS每年最高RM3,000的税务减免可作为持续供款的考虑,同时要确认基金风险水平与退休年期相符。",
+      "en": "Retirement planning looks decades ahead, so one day's move generally should not change the overall plan. The PRS tax relief of up to RM3,000 a year can support steady contributions, as long as the fund's risk level suits your retirement timeline."
+    },
+    "lump": {
+      "zh": "一天大涨后可能会有「怕错过」的心情。一般原则是:分批进场可分散时间风险,先检查是否已过度集中在美国科技股,并确认金额符合目标与风险承受度。",
+      "en": "A big up day can trigger fear of missing out. General principles: phasing in may spread timing risk, check whether you are already concentrated in US tech, and make sure the amount fits your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "股市反弹时,债券基金的角色通常不是追涨,而是在波动期间平衡组合。对马来西亚债券基金而言,美国利率预期会通过令吉、外资流向和国家银行的利率立场间接传导。",
+      "en": "In a rebound, bond funds' role is generally not to chase gains but to balance a portfolio through swings. For Malaysian bond funds, US rate expectations pass through indirectly via the ringgit, foreign flows and Bank Negara's rate stance."
+    },
+    "source": {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-215-5013309"
+    }
+  },
+  {
+    "id": "2026-11-10-m2",
+    "time": "2026-11-10T09:00:00+08:00",
+    "tags": [
+      "tech",
+      "us"
+    ],
+    "title": {
+      "zh": "英伟达董事会调查CEO黄仁勋,股价跌约4%,AMD却因升级评级大涨13%",
+      "en": "Nvidia's board probes CEO Jensen Huang and the stock falls about 4%, while AMD jumps 13% on an upgrade"
+    },
+    "analysis": {
+      "zh": "Yahoo Finance报道,英伟达董事会已展开独立调查,涉及黄仁勋与一名中国商人的关系;黄仁勋在周日内部备忘录中承认有婚外情。英伟达周一一度跌约8%,收盘跌约4%,而AMD在Oppenheimer升级至买入后涨约12%。Focus Taiwan引述台湾供应链人士称,长期AI需求展望不变,但美国监管可能趋严。一家公司的风波,不等于整个AI产业的方向改变。",
+      "en": "Yahoo Finance reported Nvidia's board has opened an independent investigation into CEO Jensen Huang's relationship with a Chinese businesswoman, and Huang admitted to an affair in a Sunday memo to employees. Nvidia fell as much as 8% early Monday and ended about 4% lower, while AMD rose about 12% after an Oppenheimer upgrade to Buy. Focus Taiwan quoted Taiwan supply-chain sources saying the long-term AI demand outlook is unchanged, though US oversight may tighten. One company's turmoil is not the same as a change in the whole AI industry's direction."
+    },
+    "dda": {
+      "zh": "单一公司的新闻可能让股价短期剧烈波动。通过基金分散投资、以定期定额持续参与,通常比押注单一公司更适合长期投资者。",
+      "en": "News about a single company can jolt its share price in the short term. Spreading investments through funds and taking part with regular (DDA) contributions is generally better suited to long-term investors than backing one company."
+    },
+    "prs": {
+      "zh": "若退休组合通过基金持有大量科技股,可留意单一主题的集中度。PRS每年最高RM3,000的税务减免可作为持续供款的考虑,但应先确认风险水平符合退休年期。",
+      "en": "If a retirement portfolio holds a lot of tech through funds, it is worth watching concentration in one theme. The PRS tax relief of up to RM3,000 a year can support steady contributions, once the risk level fits your timeline."
+    },
+    "lump": {
+      "zh": "热门主题的龙头股出现风波时,单笔投资者尤其要留意集中度。一般原则是:分批进场可分散时间风险,并确认金额符合目标与风险承受度。",
+      "en": "When a leader in a popular theme hits turbulence, lump-sum investors should watch concentration in particular. General principles: phasing in may spread timing risk, and the amount should match your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "科技个股的风波对马来西亚债券基金的直接影响有限,主要通过全球风险情绪间接传导。债券基金在股市波动时通常扮演平衡组合的角色。",
+      "en": "A tech stock's turmoil has limited direct effect on Malaysian bond funds, working mainly through global risk sentiment. Bond funds generally act as a balancer when equities swing."
+    },
+    "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+    }
+  },
+  {
+    "id": "2026-11-10-m3",
+    "time": "2026-11-10T09:00:00+08:00",
+    "tags": [
+      "commodities",
+      "us"
+    ],
+    "title": {
+      "zh": "特朗普称对伊朗再动武「不太可能」,油价周一大跌约6%",
+      "en": "Oil tumbles about 6% Monday as Trump calls fresh strikes on Iran unlikely"
+    },
+    "analysis": {
+      "zh": "Yahoo Finance报道,特朗普周日表示,谈判持续推进期间对伊朗采取新军事行动「极不可能」,周一早盘布伦特报96.67美元、WTI报89.87美元;Investing.com的收盘数据显示布伦特跌6.04%至92.38美元,WTI跌4.60%至86.65美元。摩根大通估计9月全球供应过剩约110万桶/日。KCM Trade分析师Tim Waterer称特朗普的话「更为克制」,但不确定是否代表政策长期转向。油价像随外交消息摆动的跷跷板。",
+      "en": "Yahoo Finance reported Trump said on Sunday that new military action against Iran was highly unlikely while talks progress; early Monday Brent was at US$96.67 and WTI at US$89.87, and Investing.com's close data show Brent down 6.04% at US$92.38 and WTI down 4.60% at US$86.65. JPMorgan estimates a global supply surplus of about 1.1 million barrels a day in September. KCM Trade's Tim Waterer called Trump's remarks 'more measured' but said it is unclear whether they mark a lasting policy shift. Oil is swinging like a seesaw on diplomacy headlines."
+    },
+    "dda": {
+      "zh": "油价大幅波动时,许多人会担心通胀和市场情绪。定期定额让你不必每次重新决定,持续投入的纪律通常比猜测油价方向更有帮助。",
+      "en": "When oil swings hard, many worry about inflation and market mood. Regular (DDA) investing means you do not have to re-decide each time, and the discipline of steady contributions is usually more helpful than guessing oil's direction."
+    },
+    "prs": {
+      "zh": "能源价格会通过通胀影响长期生活成本,退休规划需要考虑通胀对购买力的侵蚀。PRS每年最高RM3,000的税务减免可作为持续供款的考虑。",
+      "en": "Energy prices feed into long-run living costs, and retirement planning should allow for inflation eroding purchasing power. The PRS tax relief of up to RM3,000 a year can support steady contributions."
+    },
+    "lump": {
+      "zh": "能源相关资产常随新闻剧烈波动。一般原则是:分批进场可分散时间风险,检查组合是否过度集中在单一主题,并确认金额符合目标与风险承受度。",
+      "en": "Energy-linked assets often swing on headlines. General principles: phasing in may spread timing risk, check the portfolio is not overly concentrated in one theme, and match the amount to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "油价回落可能缓解通胀预期,进而影响国家银行的利率判断与债券收益率;马来西亚是油气出口国,油价对令吉和国家财政也有影响。债券基金在不确定性中通常有平衡组合的作用。",
+      "en": "Lower oil may ease inflation expectations and so influence Bank Negara's rate thinking and bond yields; as an oil and gas exporter, Malaysia also sees effects on the ringgit and fiscal position. Bond funds generally help balance a portfolio through uncertainty."
+    },
+    "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-decline-trump-signals-100337079.html"
+    }
+  },
+  {
+    "id": "2026-11-10-m4",
+    "time": "2026-11-10T09:00:00+08:00",
+    "tags": [
+      "commodities",
+      "fed"
+    ],
+    "title": {
+      "zh": "油价回落缓解通胀忧虑,现货金价周一涨1.6%至4,129美元,市场聚焦周二美国通胀数据",
+      "en": "Gold gains 1.6% to about US$4,129 as lower oil eases inflation worries, with US inflation data due Tuesday"
+    },
+    "analysis": {
+      "zh": "CNBC报道,现货金价周一涨1.6%至每盎司4,129.28美元,美元走软,12月期货结算涨1%至4,114.50美元。分析师Jim Wyckoff表示,油价走低「暗示通胀忧虑减退」。CME FedWatch显示12月加息概率约84.5%,美国消费者物价数据周二公布、生产者物价数据周五公布。利率预期越高,不生息的黄金越吃力;所以通胀数据会是这周的关键。",
+      "en": "CNBC reported spot gold rose 1.6% to US$4,129.28 an ounce on a softer dollar, with December futures settling 1% higher at US$4,114.50. Analyst Jim Wyckoff said lower oil prices 'suggest receding inflationary fears'. CME FedWatch shows about an 84.5% chance of a December hike, with US consumer prices due Tuesday and producer prices Friday. Higher rate expectations weigh on non-yielding gold, which is why inflation data is this week's key."
+    },
+    "dda": {
+      "zh": "定期定额强调纪律而非预测。无论是股票、黄金或其他资产,以固定金额持续投入通常比追逐短期涨跌更容易坚持。",
+      "en": "Regular investing is about discipline, not forecasting. Whether the asset is equities, gold or something else, contributing a fixed amount steadily is generally easier to stick with than chasing short-term moves."
+    },
+    "prs": {
+      "zh": "退休组合通常会通过多种资产分散风险,黄金只是其中一种可能的角色。PRS每年最高RM3,000的税务减免可作为持续供款的考虑,具体配置应符合你的退休年期与风险承受度。",
+      "en": "Retirement portfolios often spread risk across several asset types, and gold is only one possible role. The PRS tax relief of up to RM3,000 a year can support steady contributions, with the mix matched to your timeline and risk tolerance."
+    },
+    "lump": {
+      "zh": "金价短期涨跌受利率和美元影响。若考虑单笔投资,一般原则是分批进场以分散时间风险,检查单一资产的集中度,并确认符合目标与风险承受度。",
+      "en": "Short-term gold moves follow rates and the dollar. If you are considering a lump sum, general principles are to phase in to spread timing risk, check concentration in any single asset, and match the amount to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "美国加息预期与通胀数据可能影响全球债券收益率、美元与令吉;国家银行的OPR和国内通胀仍是马来西亚债券基金更直接的因素。债券基金通常在波动期间扮演平衡组合的角色。",
+      "en": "US hike expectations and inflation data may influence global bond yields, the dollar and the ringgit, although Bank Negara's OPR and domestic inflation remain more direct drivers for Malaysian bond funds. Bond funds generally help balance a portfolio in volatile periods."
+    },
+    "source": {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/gold-gains-more-than-1percent-as-softer-oil-prices-ease-inflation-worries.html"
+    }
+  },
+  {
+    "id": "2026-11-10-m5",
+    "time": "2026-11-10T09:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "台股在稳定基金介入承诺下暴涨4.94%,台积电涨4.68%",
+      "en": "Taiex surges 4.94% on a stabilization-fund pledge as TSMC rises 4.68%"
+    },
+    "analysis": {
+      "zh": "Focus Taiwan报道,台股周一收41,661.70点,上涨1,960.06点或4.94%,是史上第二大单日点数涨幅;国家金融稳定基金上周五授权入市干预。台积电涨4.68%至新台币2,235元,占大盘市值逾40%,贡献约800点涨幅。但外资仍净卖超约新台币900.6亿元,指数较10月6日盘中高点仍低约20%。大涨之后,地基还在修补中。",
+      "en": "Focus Taiwan reported the Taiex closed Monday at 41,661.70, up 1,960.06 points or 4.94%, the second-largest single-day point gain, after the National Financial Stabilization Fund authorized market intervention on Friday. TSMC rose 4.68% to NT$2,235, over 40% of the market's capitalization, contributing about 800 points. Foreign investors were still net sellers of about NT$90.06 billion, and the index remains roughly 20% below its October 6 intraday high. After the surge, the foundations are still being repaired."
+    },
+    "dda": {
+      "zh": "单日暴涨暴跌正说明市场很难择时。定期定额让你在不同价位持续参与,通常比押注某一天更适合长期投资者。",
+      "en": "Violent single-day swings show how hard it is to time the market. Regular (DDA) investing lets you take part at varying prices, which usually suits long-term investors better than betting on one day."
+    },
+    "prs": {
+      "zh": "若退休组合通过基金投资亚洲科技,单一行业与单一权重股的集中度值得留意。PRS每年最高RM3,000的税务减免可作为持续供款的考虑,但应先确认风险水平符合退休年期。",
+      "en": "If a retirement portfolio holds Asian tech through funds, concentration in one industry or one heavyweight stock deserves attention. The PRS tax relief of up to RM3,000 a year can support steady contributions, once the risk level fits your timeline."
+    },
+    "lump": {
+      "zh": "单一股票占比过高的市场,涨跌会被放大。一般原则是:分批进场可分散时间风险,检查是否过度集中在某个市场或行业,并确认金额符合目标与风险承受度。",
+      "en": "When one stock dominates a market, moves are amplified. General principles: phasing in may spread timing risk, check whether you are over-concentrated in one market or industry, and match the amount to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "台股的波动对马来西亚债券基金的直接影响有限,主要通过全球风险情绪与资金流向影响令吉和外资持债。债券基金通常在股市动荡时扮演平衡组合的角色。",
+      "en": "Taiwan's equity swings have limited direct effect on Malaysian bond funds, working mainly through global risk sentiment and capital flows touching the ringgit and foreign bond holdings. Bond funds generally help balance a portfolio when equities are turbulent."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202611090017"
+    }
+  },
+  {
+    "id": "2026-11-10-m6",
+    "time": "2026-11-10T09:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "台湾10月出口年增58.9%创新高,AI需求推动连续第36个月增长",
+      "en": "Taiwan's October exports jump 58.9% to a record as AI demand drives a 36th straight month of growth"
+    },
+    "analysis": {
+      "zh": "Focus Taiwan报道,台湾10月出口达967.6亿美元,年增58.9%,创历史新高,也是连续第36个月年增;进口增75.1%至688.9亿美元,贸易顺差278.8亿美元。资讯通信与视听产品增72.9%,电子零组件增61.4%,合计占出口83%;美国是最大出口市场,达329.3亿美元。财政部预测11月出口为942亿至967亿美元。数据说明,即使股价大幅震荡,AI硬件的实际订单仍然强劲。",
+      "en": "Focus Taiwan reported Taiwan's October exports reached US$96.76 billion, up 58.9% from a year earlier, a record and the 36th straight month of year-on-year growth; imports rose 75.1% to US$68.89 billion, leaving a US$27.88 billion surplus. Information, communications and audiovisual products rose 72.9% and electronic components 61.4%, together 83% of exports, with the US the top market at US$32.93 billion. The Ministry of Finance forecasts November exports of US$94.2 to 96.7 billion. The data show real orders for AI hardware remain strong even as share prices swing wildly."
+    },
+    "dda": {
+      "zh": "真实订单数据提醒我们,股价的短期波动与企业的长期基本面并不总是同步。定期定额让你以纪律参与,而不是被单日行情牵着走。",
+      "en": "Real order data is a reminder that short-term share-price swings and long-term business fundamentals do not always move together. Regular (DDA) investing lets you take part with discipline rather than being led by one day's moves."
+    },
+    "prs": {
+      "zh": "AI相关主题在许多基金中占比不低,退休组合应留意科技板块的整体集中度。PRS每年最高RM3,000的税务减免可作为持续供款的考虑,具体应符合你的风险水平与年期。",
+      "en": "AI-related themes make up a sizable part of many funds, so retirement portfolios should watch overall tech concentration. The PRS tax relief of up to RM3,000 a year can support steady contributions, matched to your risk level and timeline."
+    },
+    "lump": {
+      "zh": "强劲数据不代表股价只涨不跌。一般原则是:分批进场可分散时间风险,检查是否过度集中在同一主题,并确认金额符合目标与风险承受度。",
+      "en": "Strong data does not mean prices only rise. General principles: phasing in may spread timing risk, check whether you are over-concentrated in one theme, and match the amount to your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "台湾出口数据对马来西亚债券基金的直接影响有限;不过亚洲科技供应链(包括马来西亚的半导体业)的景气,可能间接影响区域增长与外资流向。债券基金通常是组合的平衡器。",
+      "en": "Taiwan's export data have limited direct effect on Malaysian bond funds, though the health of Asia's tech supply chain, including Malaysia's semiconductor sector, may indirectly influence regional growth and foreign flows. Bond funds are generally a portfolio balancer."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202611090020"
+    }
+  }
+]
