@@ -332,6 +332,187 @@ window.INSIGHTS = [].concat(
  }
 ],
 [
+ {
+  "id": "2026-11-11-a1",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台积电董事会批准季度股息升至创纪录的NT$9,并拟投资Anthropic与OpenAI",
+   "en": "TSMC's board lifts its quarterly dividend to a record NT$9 and approves stakes in Anthropic and OpenAI"
+  },
+  "analysis": {
+   "zh": "台积电董事会通过第三季现金股息每股NT$9,高于第二季的NT$7;第三季净利NT$7,630.6亿,年增68.7%,2026年资本支出预测维持US$600亿至640亿。董事会还批准最多US$5亿购买Anthropic普通股、最多US$5亿购买OpenAI优先股。简单说,这家全球最重要的芯片制造商一边赚得多、一边把钱投向AI生态。Anthropic的IPO价格区间属媒体报道,尚未发生。",
+   "en": "TSMC's board approved a Q3 cash dividend of NT$9 per share, up from NT$7 in Q2. Q3 net profit was NT$763.06 billion, up 68.7% year on year, and the 2026 capex forecast stays at US$60–64 billion. The board also approved up to US$500 million in Anthropic common shares and up to US$500 million in OpenAI preferred shares. In plain terms, the world's key chipmaker is earning more and also putting cash into the AI ecosystem. The Anthropic IPO terms come from media reports and have not happened yet."
+  },
+  "dda": {
+   "zh": "全球科技与AI龙头的盈利增长,是不少全球科技信托基金的长期主题。定期定额的好处是不必猜测短期高低点,每月固定投入、用时间平均成本;科技基金波动可能较大,宜配合自己的风险承受度。",
+   "en": "Earnings growth at global tech and AI leaders is a long-term theme in many global technology unit trusts. Regular (DDA) investing means you do not need to guess short-term highs and lows, as a fixed monthly amount averages your cost over time; tech funds may be volatile, so match them to your own risk tolerance."
+  },
+  "prs": {
+   "zh": "退休基金期限长,通常不需要追逐单一股票的新闻。检查你的PRS基金是否分散于不同地区与行业,并可考虑善用每年最高RM3,000的PRS税务减免来持续供款。",
+   "en": "A retirement horizon is long, so there is usually no need to chase single-stock headlines. Check whether your PRS fund is spread across regions and sectors, and consider the PRS tax relief of up to RM3,000 a year as one reason to contribute steadily."
+  },
+  "lump": {
+   "zh": "股息上调与大额AI投资的消息可能带来乐观情绪,但单笔投资应避免被兴奋情绪牵动。一般原则:分批进场可分散时间风险,留意是否过度集中于科技或单一市场,并确认金额符合目标与风险承受度。",
+   "en": "A higher dividend and big AI investments can lift sentiment, but lump-sum decisions should not be driven by excitement. General principles: phasing in may spread timing risk, watch for over-concentration in tech or a single market, and match the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "一家台湾企业的股息与投资决定,对马来西亚债券基金的直接影响通常有限。债券基金的利率敏感度主要来自国家银行的OPR与通胀预期;在科技股波动时,债券基金一般扮演平衡组合的角色。",
+   "en": "One Taiwanese company's dividend and investment decisions generally have limited direct effect on Malaysian bond funds. Their sensitivity mostly comes from Bank Negara's OPR and inflation expectations; when tech stocks swing, bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611110009"
+  },
+  "time": "2026-11-11T17:00:00+08:00"
+ },
+ {
+  "id": "2026-11-11-a2",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股加权指数周三收涨3.62%至44,257.15点,台积电涨4.81%",
+   "en": "Taiwan's Taiex closes up 3.62% at 44,257.15 as TSMC gains 4.81%"
+  },
+  "analysis": {
+   "zh": "台股加权指数周三上涨1,545.23点,收报44,257.15点,涨幅3.62%;台积电收涨4.81%至NT$2,395,10月营收年增近六成、股息上调是主要推手。早上我们提到台股周二已大涨2.52%,今天再度拉升,显示资金对AI与芯片链的情绪明显回暖。",
+   "en": "The Taiex rose 1,545.23 points to close at 44,257.15, up 3.62%. TSMC finished up 4.81% at NT$2,395, helped by October sales up almost 60% year on year and the higher dividend. After Tuesday's 2.52% rise noted this morning, Wednesday's jump shows sentiment toward AI and the chip chain warming clearly."
+  },
+  "dda": {
+   "zh": "连续大涨后,市场有时会让人想一次加码。定期定额的纪律在于不看每天涨跌,按计划持续投入;若持有亚洲或科技信托基金,可定期检视占比是否因上涨而偏高。",
+   "en": "After back-to-back big gains it can be tempting to add more at once. The discipline of regular (DDA) investing is to ignore daily moves and keep to the plan; if you hold Asia or tech unit trusts, review periodically whether rising prices have made them too large a share."
+  },
+  "prs": {
+   "zh": "PRS是为退休而长期投资,短期的指数大涨不必改变计划。建议每年检视一次基金的风险等级是否仍符合距离退休的年限,同时可留意每年最高RM3,000的税务减免。",
+   "en": "PRS is long-term investing for retirement, so a big one-day index gain need not change your plan. Review once a year whether the fund's risk level still fits the years left to retirement, and keep the PRS tax relief of up to RM3,000 a year in mind."
+  },
+  "lump": {
+   "zh": "指数短期急涨之后,追高的风险值得留意。单笔投资的一般原则:分批进场可分散时间风险,检查是否过度集中于单一市场或行业,并确认金额符合目标与风险承受度。",
+   "en": "After a sharp short-term rally, the risk of chasing deserves attention. General lump-sum principles: phasing in may spread timing risk, check for over-concentration in one market or sector, and match the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "台股涨跌通常不直接影响马来西亚债券基金。亚洲资金流向改善可能间接支持令吉与外资情绪;当股市波动加大时,债券基金一般有助于平衡整体组合。",
+   "en": "Taiwan stock moves generally do not directly affect Malaysian bond funds. Better Asian capital flows may indirectly support the ringgit and foreign sentiment; when equity volatility rises, bond funds generally help balance the overall portfolio."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611110018"
+  },
+  "time": "2026-11-11T17:00:00+08:00"
+ },
+ {
+  "id": "2026-11-11-a3",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "恒指周三收跌241点至24,315,科技与电动车股拖累,中芯国际逆市涨3.7%",
+   "en": "Hang Seng closes down 241 points at 24,315 as tech and EV shares weigh, while SMIC jumps 3.7%"
+  },
+  "analysis": {
+   "zh": "恒生指数收跌241点或0.98%,报24,315点,成交约HK$1,800亿;科技指数跌1.41%。比亚迪跌3.8%、理想跌3.4%、美团跌3.5%、网易跌3.4%,而中芯国际逆市涨3.7%,宁德时代涨2.5%、联想涨2.4%。市场分化,反映美国通胀偏热、加息预期升温对中港科技股估值的压力。",
+   "en": "The Hang Seng Index closed down 241 points, or 0.98%, at 24,315 on turnover of about HK$180 billion, and the tech gauge fell 1.41%. BYD lost 3.8%, Li Auto 3.4%, Meituan 3.5% and NetEase 3.4%, while SMIC rose 3.7%, CATL 2.5% and Lenovo 2.4%. The split market reflects pressure on China and Hong Kong tech valuations from hot US inflation and firmer rate-hike expectations."
+  },
+  "dda": {
+   "zh": "港股与中国市场波动可能较大,但长期投资者通常看的是多年的盈利与政策趋势,而非单日表现。定期定额可让你在涨跌之间平均成本;若持有中国或亚洲基金,留意单一市场占比。",
+   "en": "Hong Kong and China markets can be volatile, but long-term investors generally look at multi-year earnings and policy trends rather than a single day. Regular (DDA) investing averages your cost through ups and downs; if you hold China or Asia funds, keep an eye on the share of any single market."
+  },
+  "prs": {
+   "zh": "退休投资的重点是分散与时间。若PRS基金含有中国或亚洲股票,单日的下跌无需恐慌,可检视整体风险等级是否符合退休年限;每年最高RM3,000的PRS税务减免可作为持续供款的考虑之一。",
+   "en": "Retirement investing is about diversification and time. If your PRS fund holds China or Asian equities, a one-day fall is no reason to panic; check that the overall risk level matches your retirement timeline, and note the PRS tax relief of up to RM3,000 a year as one reason to keep contributing."
+  },
+  "lump": {
+   "zh": "市场分化时,个别板块的大跌或大涨都可能很快反转。单笔投资的一般原则:分批进场可分散时间风险,避免过度集中于某一板块,并确认金额符合目标与风险承受度。",
+   "en": "When a market splits, sharp falls or gains in single sectors can reverse quickly. General lump-sum principles: phasing in may spread timing risk, avoid over-concentration in one sector, and match the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股下跌本身对马来西亚债券基金影响有限;更值得留意的是美国利率预期,它可能影响全球资金流向、美元与令吉。债券基金在股市分化时一般扮演稳定组合的角色。",
+   "en": "The Hong Kong decline itself has limited effect on Malaysian bond funds; what matters more is US rate expectations, which may influence global fund flows, the US dollar and the ringgit. When equities diverge, bond funds generally play a stabilising role in a portfolio."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/348184/Hang-Seng-closes-down-241-points-as-tech-and-EV-shares-weigh-SMIC-jumps-37"
+  },
+  "time": "2026-11-11T17:00:00+08:00"
+ },
+ {
+  "id": "2026-11-11-a4",
+  "tags": [
+   "my",
+   "fed"
+  ],
+  "title": {
+   "zh": "富时隆综指早盘跌4.73点至1,599.43,美国通胀偏热令银行股承压",
+   "en": "FBM KLCI slips 4.73 points to 1,599.43 in early trade as hot US inflation weighs on banks"
+  },
+  "analysis": {
+   "zh": "截至上午9时12分,富时隆综指下跌4.73点至1,599.43点,跌破1,600关口。Hong Leong Bank跌16仙至RM21.82,Maybank跌6仙至RM10.00,CIMB跌4仙至RM7.04。Apex Securities指出,投资者在第三季财报季前会较为挑剔,富时隆综指成分股将由30只扩大至50只也可能带来短期波动,对近期展望保持谨慎。(此为早盘报道,非收盘数据。)",
+   "en": "As at 9:12am the FBM KLCI was down 4.73 points at 1,599.43, slipping below 1,600. Hong Leong Bank fell 16 sen to RM21.82, Maybank 6 sen to RM10.00 and CIMB 4 sen to RM7.04. Apex Securities said investors are likely to stay selective ahead of the 3QFY2026 earnings season, and that the KLCI's expansion from 30 to 50 constituents may bring short-term volatility, so it keeps a cautious near-term outlook. (This is an early-session report, not the close.)"
+  },
+  "dda": {
+   "zh": "本地股市在外围消息影响下小幅波动是常见现象。对信托基金的长期投资者而言,定期定额可帮助你不被短期情绪牵动,持续按计划累积单位。",
+   "en": "Small moves in the local market driven by overseas news are common. For long-term unit trust investors, regular (DDA) investing helps you avoid being swayed by short-term sentiment and keeps you accumulating units on plan."
+  },
+  "prs": {
+   "zh": "退休规划看的是十年、二十年的时间轴,一天的早盘波动影响不大。可定期检视PRS基金的风险等级是否合适,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning runs on a ten- or twenty-year timeline, so one morning's move matters little. Review your PRS fund's risk level from time to time, and consider the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "财报季前市场可能较为谨慎、波动加大。单笔投资的一般原则:分批进场可分散时间风险,检查是否过度集中于银行或单一板块,并确认金额符合目标与风险承受度。",
+   "en": "Markets may stay cautious and choppy ahead of earnings season. General lump-sum principles: phasing in may spread timing risk, check for over-concentration in banks or any single sector, and match the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国通胀偏热、加息预期升温,可能影响全球债券收益率与资金流向,间接牵动令吉与马来西亚政府债券(MGS)和永续债券(含伊斯兰债券)的表现。国家银行的OPR走向仍是关键;债券基金在股市波动时一般扮演平衡组合的角色。",
+   "en": "Hot US inflation and firmer rate-hike expectations may affect global bond yields and fund flows, indirectly touching the ringgit and Malaysian MGS, corporate bonds and sukuk. Bank Negara's OPR path remains key; when equities swing, bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/11/bursa-malaysia-falls-as-hot-us-inflation-sends-investors-to-sidelines"
+  },
+  "time": "2026-11-11T17:00:00+08:00"
+ },
+ {
+  "id": "2026-11-11-a5",
+  "tags": [
+   "tech",
+   "us"
+  ],
+  "title": {
+   "zh": "CoreWeave财报超预期,亚洲AI股联动:韩国与日本芯片及供应链股走高",
+   "en": "CoreWeave's earnings beat lifts Asian AI stocks, with Korean and Japanese chip and supplier shares higher"
+  },
+  "analysis": {
+   "zh": "CoreWeave第三季营收US$36.6亿,年增168%,高于预期的约US$35.5亿,并把2026年营收预测上调至US$130亿至133亿;盘后股价涨近13%。亚洲市场随之联动:韩国综指涨1.8%,SK海力士涨3.6%、三星电子涨2.4%,日经225涨1.2%,铠侠涨3%,台积电涨2.6%。同时,港股与A股因美国通胀数据偏热而走弱。以上为文章撰写时的涨幅,收盘数字可能不同。",
+   "en": "CoreWeave's Q3 revenue was US$3.66 billion, up 168% year on year and above the roughly US$3.55 billion expected, and it raised its 2026 revenue forecast to US$13–13.3 billion; the shares rose almost 13% after hours. Asia followed: the Kospi rose 1.8%, SK Hynix 3.6%, Samsung Electronics 2.4%, the Nikkei 225 1.2%, Kioxia 3% and TSMC 2.6%. Meanwhile Hong Kong and mainland shares weakened on the hot US inflation data. These are the gains at the time of writing; closing figures may differ."
+  },
+  "dda": {
+   "zh": "AI相关主题近期起伏很大,一份财报就可能带动整个产业链。定期定额适合这种不易预测的环境:按月投入、不押注单一消息,也别让单一主题占组合的比重过高。",
+   "en": "AI-related themes have been swinging widely, and a single earnings report can move a whole supply chain. Regular (DDA) investing suits an unpredictable environment: invest monthly, do not bet on one headline, and avoid letting one theme dominate your portfolio."
+  },
+  "prs": {
+   "zh": "退休基金不需要追逐热门主题。检视PRS基金的持股是否足够分散,风险等级是否匹配退休年限;每年最高RM3,000的PRS税务减免可作为持续供款的考虑之一。",
+   "en": "Retirement funds do not need to chase hot themes. Check that your PRS fund's holdings are diversified enough and that its risk level fits your retirement timeline; the PRS tax relief of up to RM3,000 a year is one consideration for steady contributions."
+  },
+  "lump": {
+   "zh": "热门主题股在利好消息后往往涨得快,也可能回落得快。单笔投资的一般原则:分批进场可分散时间风险,检查是否过度集中于科技或AI主题,并确认金额符合目标与风险承受度。",
+   "en": "Hot-theme stocks can rise fast on good news and fall back just as fast. General lump-sum principles: phasing in may spread timing risk, check for over-concentration in tech or AI, and match the amount to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "AI投资热潮对马来西亚债券基金的直接影响通常有限。更相关的是美国利率走势:融资成本上升可能影响全球资金流向与令吉。债券基金在科技股波动时一般扮演平衡组合的角色。",
+   "en": "The AI investment boom generally has limited direct effect on Malaysian bond funds. More relevant is the US rate path: higher financing costs may affect global fund flows and the ringgit. When tech stocks swing, bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/stock-market-news/asian-ai-stocks-rise-as-coreweave-jumps-13-after-earnings-beat-5017648"
+  },
+  "time": "2026-11-11T17:00:00+08:00"
+ }
+],
+[
   {
     "id": "2026-11-10-m0",
     "kind": "summary",
