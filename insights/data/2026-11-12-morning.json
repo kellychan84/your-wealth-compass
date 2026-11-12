@@ -1,0 +1,300 @@
+[
+ {
+  "id": "2026-11-12-m0",
+  "kind": "summary",
+  "time": "2026-11-12T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "CoreWeave财报带动美股科技反弹,台积电领涨台股;黄金受12月加息预期压制",
+   "en": "CoreWeave lifts US tech and TSMC leads Taiwan higher, while gold stays pressured by December Fed hike bets"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,619.38",
+    "change": "+1.31%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "25,466.19",
+    "change": "+1.60%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "现货黄金",
+     "en": "Spot gold"
+    },
+    "value": "US$3,987.93",
+    "change": "-1.1%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "台湾加权指数",
+     "en": "Taiex"
+    },
+    "value": "44,257.15",
+    "change": "+3.62%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "美股周三大涨,CoreWeave业绩带动AI与芯片股反弹;但英伟达盘后因CEO相关报道回吐涨幅。",
+    "en": "US stocks rallied Wednesday as CoreWeave's results lifted AI and chip shares, though Nvidia gave back gains after hours on reports about its CEO."
+   },
+   {
+    "zh": "美国10月CPI偏热,交易员已完全消化12月加息25个基点,金价一度跌至约US$3,988。",
+    "en": "After the hot US October CPI, traders fully price a 25-basis-point December hike and spot gold dipped to about US$3,988."
+   },
+   {
+    "zh": "台积电上调季度股息并公布强劲10月营收,股价涨近5%;富时隆综指周三早盘跌穿1,600点。",
+    "en": "TSMC raised its dividend and posted strong October sales, rising almost 5%; the FBM KLCI slipped below 1,600 in early trade Wednesday."
+   }
+  ],
+  "takeaway": {
+   "zh": "市场像过山车,今天上、昨天下。信托基金顾问通常会提醒:先回到自己的目标和风险承受度,定期定额的节奏往往比追逐每一天的消息更重要。",
+   "en": "Markets can feel like a roller coaster, up today and down yesterday. A unit trust consultant would generally remind you to return to your goals and risk tolerance; a steady regular-investing rhythm often matters more than chasing each day's headlines."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-220503244.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/commodities-news/gold-steadies-near-4035-after-sharp-selloff-as-december-fed-hike-bets-firm-5017433"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202611110018"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/11/bursa-malaysia-falls-as-hot-us-inflation-sends-investors-to-sidelines"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-12-m1",
+  "time": "2026-11-12T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "CoreWeave业绩点燃AI交易,标普500大涨1.31%至7,619点",
+   "en": "CoreWeave earnings reignite the AI trade as the S&P 500 jumps 1.31% to 7,619"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance,周三标普500收7,619.38点(+1.31%),纳指25,466.19点(+1.60%),道指52,486.49点(+0.49%)。CoreWeave营收超预期并上调全年指引,带动AMD涨7.32%、博通涨3.99%;英伟达收涨2.87%,但Baird因CEO不确定性与可能的对华芯片出口限制将其降级为中性。英伟达将于11月17日公布业绩。好比一场暴雨后太阳露脸,大家松了口气,但天气预报仍在变。",
+   "en": "According to Yahoo Finance, the S&P 500 closed Wednesday at 7,619.38 (+1.31%), the Nasdaq at 25,466.19 (+1.60%) and the Dow at 52,486.49 (+0.49%). CoreWeave beat revenue estimates and raised full-year guidance, helping AMD rise 7.32% and Broadcom 3.99%. Nvidia closed up 2.87%, though Baird downgraded it to Neutral citing CEO uncertainty and possible China chip export limits; Nvidia reports on November 17. It is like sunshine after a downpour: relief, but the forecast is still changing."
+  },
+  "dda": {
+   "zh": "科技股一天涨、一天跌,正是长期投资者需要面对的常态。定期定额(DDA)按固定节奏投入,可能在起伏中摊平平均成本,而不必押注哪一天是起点。",
+   "en": "Tech stocks swinging up one day and down the next is normal for long-term investors. Regular (DDA) investing at a steady pace may smooth your average cost without needing to guess the right starting day."
+  },
+  "prs": {
+   "zh": "退休基金的时间跨度很长,单日的科技股涨跌通常不改变大方向。可以顺便看看自己的PRS基金风险水平是否仍合适,每年最高RM3,000的PRS税务减免也是持续供款的考虑因素之一。",
+   "en": "Retirement money has a long horizon, so one day of tech moves usually does not change the big picture. It may be a good time to check your PRS fund's risk level; the PRS tax relief of up to RM3,000 a year is one factor in contributing steadily."
+  },
+  "lump": {
+   "zh": "大涨之后再投入单笔资金,可以想想时间风险:分批进场可分散入市时机的影响,同时检查组合是否过度集中在AI与科技主题,并确认金额符合目标与风险承受度。",
+   "en": "When considering a lump sum after a big rally, think about timing risk: phasing in may spread entry-point risk, and it helps to check you are not over-concentrated in AI and tech, and that the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这则新闻主要关乎股市情绪,对马来西亚债券基金(MGS、企业债与伊斯兰债券)的直接影响有限。不过股市波动时,债券基金一般扮演组合中的平衡角色,有助于缓和整体起伏。",
+   "en": "This story is mainly about equity sentiment, so the direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk) is limited. When stocks swing, bond funds generally act as a portfolio balancer that may soften overall ups and downs."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-220503244.html"
+  }
+ },
+ {
+  "id": "2026-11-12-m2",
+  "time": "2026-11-12T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "commodities"
+  ],
+  "title": {
+   "zh": "12月加息预期升温,现货黄金跌1.1%至约US$3,988",
+   "en": "December hike bets firm and spot gold drops 1.1% to about US$3,988"
+  },
+  "analysis": {
+   "zh": "据Investing.com,美国10月CPI高于预期,主要受能源成本推动。交易员如今完全消化12月加息25个基点,加息50个基点的押注也在增加;联储局理事Waller提到12月可能加息半个百分点。现货黄金跌1.1%至US$3,987.93,美元指数升0.7%至102.91。ING认为金价在US$4,000附近有央行买盘与亚洲实物需求支撑。",
+   "en": "Investing.com reports that the hotter-than-expected US October CPI was driven largely by energy costs. Traders now fully price a 25-basis-point December hike, and bets on 50 basis points are growing; Fed Governor Waller raised that possibility. Spot gold fell 1.1% to US$3,987.93 while the dollar index rose 0.7% to 102.91. ING said gold found support near US$4,000 from central-bank buying and strong physical demand in Asia."
+  },
+  "dda": {
+   "zh": "利率上升时,黄金这类不产生利息的资产常承压,说明单一资产的短期表现难以预测。DDA的好处是分散投入时间,长期投资者也可借此检视组合是否足够多元。",
+   "en": "When rates rise, non-interest-bearing assets like gold often come under pressure, a reminder that one asset's short-term path is hard to predict. DDA spreads your entry timing, and long-term investors can use the moment to check their mix is diversified."
+  },
+  "prs": {
+   "zh": "加息与通胀会影响退休金的长期购买力与回报预期。PRS每年最高RM3,000的税务减免依然是持续供款的理由之一,但基金的风险水平要与退休年限相配。",
+   "en": "Rate hikes and inflation can affect retirement money's long-term purchasing power and return expectations. The PRS tax relief of up to RM3,000 a year remains one reason to contribute steadily, but the fund's risk level should match your retirement horizon."
+  },
+  "lump": {
+   "zh": "金价短期大幅波动时,单笔投资更要留意时间风险:分批进场可能降低入市时点的影响,并检查自己是否过度集中在单一资产,再确认是否符合目标与风险承受度。",
+   "en": "When gold swings sharply in the short term, timing risk matters more for a lump sum: phasing in may reduce the impact of entry timing, and it helps to check for over-concentration in one asset and whether it fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国加息预期升温、美元走强,可能影响令吉与外资流向,间接牵动马来西亚债券基金(MGS、企业债与伊斯兰债券)。国家银行的OPR立场与本地通胀仍是更直接的因素;债券基金一般扮演平衡组合的角色。",
+   "en": "Firmer US hike expectations and a stronger dollar may affect the ringgit and foreign flows, indirectly touching Malaysian bond funds (MGS, corporate bonds and sukuk). Bank Negara's OPR stance and local inflation remain more direct drivers; bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/commodities-news/gold-steadies-near-4035-after-sharp-selloff-as-december-fed-hike-bets-firm-5017433"
+  }
+ },
+ {
+  "id": "2026-11-12-m3",
+  "time": "2026-11-12T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "台积电涨近5%,带动台股大涨3.62%至44,257点",
+   "en": "TSMC jumps almost 5% and lifts Taiwan's Taiex 3.62% to 44,257"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan,台湾加权指数周三收涨1,545.23点(3.62%)至44,257.15点,为全日最高。台积电涨4.81%至NT$2,395,贡献约880点,其市值占大盘四成以上。台积电董事会通过创纪录的每股NT$9季度现金股息(上季为NT$7),10月合并营收创单月新高,按年增长近六成。有分析师提醒,NT$2,450附近可能有压力。",
+   "en": "Focus Taiwan reports the Taiex closed Wednesday up 1,545.23 points (3.62%) at 44,257.15, its session high. TSMC rose 4.81% to NT$2,395, adding about 880 points; it makes up over 40% of the index's value. Its board approved a record NT$9 quarterly cash dividend (NT$7 last quarter), and October consolidated revenue hit a monthly high, up almost 60% year on year. One analyst flagged resistance near NT$2,450."
+  },
+  "dda": {
+   "zh": "单一权重股可左右整个指数,提醒我们集中度的重要。长期投资者可通过定期定额(DDA)投资分散的信托基金,而不是追逐单日涨幅最大的股票。",
+   "en": "One heavyweight stock can drive a whole index, a reminder of why concentration matters. Long-term investors may prefer regular (DDA) investing in diversified unit trusts rather than chasing the day's biggest gainer."
+  },
+  "prs": {
+   "zh": "退休规划看的是几十年的增长。亚洲科技板块波动较大,选PRS基金时可留意其全球分散程度与自己的风险水平;每年最高RM3,000的税务减免可作为供款考虑之一。",
+   "en": "Retirement planning looks at decades of growth. Asian tech can be volatile, so when choosing a PRS fund it may help to look at its global diversification and your own risk level; the PRS tax relief of up to RM3,000 a year is one factor in contributing."
+  },
+  "lump": {
+   "zh": "市场大涨之后单笔投入,通常要多想一层:分批进场可分散时间风险,检查是否过度集中在半导体或单一市场,并确认金额符合目标与风险承受度。",
+   "en": "Investing a lump sum after a sharp rally calls for extra thought: phasing in may spread timing risk, check for over-concentration in semiconductors or one market, and confirm the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "台股与芯片股的上涨对马来西亚债券基金(MGS、企业债与伊斯兰债券)没有直接影响,债券基金的表现主要看利率、通胀与信用。一般而言,它在组合中是股市波动时的平衡力量。",
+   "en": "Taiwan's chip rally has no direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), whose performance mainly follows interest rates, inflation and credit. Generally, they act as a balancing force when equities swing."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611110018"
+  }
+ },
+ {
+  "id": "2026-11-12-m4",
+  "time": "2026-11-12T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "台积电拟投资Anthropic与OpenAI各最多US$5亿,并设半导体投资公司",
+   "en": "TSMC to invest up to US$500 million each in Anthropic and OpenAI and set up a chip investment unit"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan,台积电董事会周三批准:以Anthropic首次公开募股价格买入最多US$5亿普通股(其IPO预计本月稍后以每股US$70至78定价);认购最多US$5亿的OpenAI优先股;另设资本最高US$5亿的投资公司,投资半导体及相关业务。同时通过创纪录的每股NT$9季度股息,除息日为2027年3月11日。这像是芯片厂也开始投资自己的“大客户”。",
+   "en": "Focus Taiwan reports TSMC's board approved on Wednesday: up to US$500 million of Anthropic common shares at its IPO price (the IPO is expected later this month at US$70-78 per share); up to US$500 million of OpenAI preferred shares; and a new investment unit with up to US$500 million to invest in semiconductor and related businesses. It also approved a record NT$9 quarterly dividend, with an ex-dividend date of March 11, 2027. It is as if the chip maker is investing in its own biggest customers."
+  },
+  "dda": {
+   "zh": "AI热潮带来机会,也带来估值波动。长期投资者通常通过定期定额(DDA)和分散的信托基金参与成长主题,而不是押注单一公司或单一事件。",
+   "en": "The AI boom brings opportunity and valuation swings. Long-term investors generally take part in growth themes through regular (DDA) investing and diversified unit trusts rather than betting on one company or event."
+  },
+  "prs": {
+   "zh": "退休基金通常已通过全球股票基金间接持有科技龙头。可以检视基金的行业分布是否过于集中;PRS每年最高RM3,000的税务减免也可作为持续供款的考虑。",
+   "en": "Retirement funds often hold tech leaders indirectly through global equity funds. It may help to check whether your fund's sector mix is too concentrated; the PRS tax relief of up to RM3,000 a year is one factor in contributing steadily."
+  },
+  "lump": {
+   "zh": "热门主题的单笔投资要特别留意集中度:分批进场可分散时间风险,并确认自己的整体组合不过度偏向AI与半导体,金额也要符合目标与风险承受度。",
+   "en": "For a lump sum in a hot theme, watch concentration closely: phasing in may spread timing risk, and make sure your overall portfolio is not tilted too heavily toward AI and semiconductors, with the amount matching your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这是企业与科技层面的消息,对马来西亚债券基金(MGS、企业债与伊斯兰债券)影响间接。债券基金主要受利率、通胀与信用影响,在组合中一般担任平衡角色。",
+   "en": "This is a corporate and tech story with only an indirect link to Malaysian bond funds (MGS, corporate bonds and sukuk), which mainly respond to interest rates, inflation and credit. They generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611110009"
+  }
+ },
+ {
+  "id": "2026-11-12-m5",
+  "time": "2026-11-12T09:00:00+08:00",
+  "tags": [
+   "my",
+   "fed"
+  ],
+  "title": {
+   "zh": "美国通胀偏热,富时隆综指早盘跌破1,600点",
+   "en": "Hot US inflation pushes the FBM KLCI below 1,600 in early trade"
+  },
+  "analysis": {
+   "zh": "据The Star周三上午的盘中报道,富时隆综指在9点12分跌4.73点至1,599.43点。美国通胀高于预期,加上联储局理事Waller支持12月加息、并不排除加息半个百分点,令投资者转趋观望。权重银行股走低:Hong Leong Bank跌16仙、Maybank跌6仙、CIMB跌4仙。Apex Securities提醒,KLCI成分股将由30只扩至50只可能带来调仓与短期波动,马六甲州选举也增添不确定性。",
+   "en": "The Star's Wednesday morning intraday report says the FBM KLCI was down 4.73 points at 1,599.43 at 9.12am. Hotter US inflation and Fed Governor Waller backing a December hike, with a half-point move possible, left investors on the sidelines. Heavyweight banks eased: Hong Leong Bank fell 16 sen, Maybank 6 sen and CIMB 4 sen. Apex Securities noted that the planned KLCI expansion from 30 to 50 constituents could cause rebalancing and short-term volatility, and the Melaka state election adds uncertainty."
+  },
+  "dda": {
+   "zh": "本地市场连日回落时,定期定额(DDA)的纪律尤其有用:按固定金额持续投入,价格低时可能买到较多单位,长期可能摊平成本。",
+   "en": "When the local market slips for several days, the discipline of regular (DDA) investing helps: a fixed amount invested steadily may buy more units when prices are lower and may smooth your cost over time."
+  },
+  "prs": {
+   "zh": "本地市场的短期起伏,不应打乱数十年的退休计划。可以检查PRS基金的风险水平是否合适;每年最高RM3,000的PRS税务减免也是持续供款的考虑因素之一。",
+   "en": "Short-term local swings should not derail a decades-long retirement plan. It may help to check your PRS fund's risk level; the PRS tax relief of up to RM3,000 a year is one factor in contributing steadily."
+  },
+  "lump": {
+   "zh": "本地股市偏弱时考虑单笔投资,原则上仍是:分批进场可分散时间风险,检查是否过度集中在银行或单一板块,并确认金额与目标和风险承受度相符。",
+   "en": "If considering a lump sum while the local market is weak, the principles remain: phasing in may spread timing risk, check for over-concentration in banks or one sector, and confirm the amount matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国加息预期升温可能影响令吉走势与外资流向,间接牵动马来西亚债券基金(MGS、企业债与伊斯兰债券);但国家银行的OPR立场与本地通胀仍是更直接的因素。债券基金在股市波动时一般扮演平衡角色。",
+   "en": "Rising US hike expectations may affect the ringgit and foreign flows, indirectly touching Malaysian bond funds (MGS, corporate bonds and sukuk), though Bank Negara's OPR stance and local inflation are more direct drivers. Bond funds generally act as a balancer when equities swing."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/11/bursa-malaysia-falls-as-hot-us-inflation-sends-investors-to-sidelines"
+  }
+ },
+ {
+  "id": "2026-11-12-m6",
+  "time": "2026-11-12T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒指收跌241点至24,315,科技与电动车股承压,中芯国际逆市涨3.7%",
+   "en": "Hang Seng closes down 241 points at 24,315 as tech and EV shares weigh, SMIC gains 3.7%"
+  },
+  "analysis": {
+   "zh": "据The Standard,恒生指数周三收跌241点(0.98%)至24,315点,成交额约HK$1,800亿。恒生科技指数跌1.41%;比亚迪跌3.8%、理想跌3.4%、美团跌3.5%、腾讯跌1.96%。中芯国际涨3.7%,为表现最佳蓝筹,宁德时代涨2.5%。内地方面,上证综指涨0.46%至3,680点,深证综指涨1.32%。就像同一条街上,有的店生意好、有的冷清,分化很明显。",
+   "en": "The Standard reports the Hang Seng Index closed Wednesday down 241 points (0.98%) at 24,315 on turnover of about HK$180 billion. The tech gauge fell 1.41%, with BYD down 3.8%, Li Auto 3.4%, Meituan 3.5% and Tencent 1.96%. SMIC rose 3.7%, the best blue chip, and CATL gained 2.5%. On the mainland, the Shanghai Composite rose 0.46% to 3,680 and the Shenzhen Composite 1.32%. It is like one street where some shops are busy and others quiet: the split is clear."
+  },
+  "dda": {
+   "zh": "港股与中国市场板块分化明显,正说明分散投资的价值。长期投资者可通过定期定额(DDA)投资分散的信托基金,避免把筹码压在单一板块。",
+   "en": "The clear split across Hong Kong and China sectors shows the value of diversification. Long-term investors may use regular (DDA) investing in diversified unit trusts instead of concentrating on a single sector."
+  },
+  "prs": {
+   "zh": "退休规划宜以全球分散为原则,单一市场的起伏不必过度反应。检视PRS基金的地区分布是否合适,并把每年最高RM3,000的税务减免纳入供款考虑。",
+   "en": "Retirement planning is generally built on global diversification, so there is no need to overreact to one market. Check whether your PRS fund's regional mix suits you, and consider the PRS tax relief of up to RM3,000 a year when contributing."
+  },
+  "lump": {
+   "zh": "单笔投资中国或港股时,可考虑分批进场以分散时间风险,留意是否过度集中在单一地区或板块,并确认金额符合目标与风险承受度。",
+   "en": "For a lump sum in China or Hong Kong equities, phasing in may spread timing risk; watch for over-concentration in one region or sector and confirm the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股与A股的涨跌对马来西亚债券基金(MGS、企业债与伊斯兰债券)影响不大,后者更看利率、通胀、令吉与信用。债券基金在组合中一般起平衡作用。",
+   "en": "Moves in Hong Kong and mainland equities have little direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), which respond more to interest rates, inflation, the ringgit and credit. Bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/348184/Hang-Seng-closes-down-241-points-as-tech-and-EV-shares-weigh-SMIC-jumps-37"
+  }
+ }
+]
