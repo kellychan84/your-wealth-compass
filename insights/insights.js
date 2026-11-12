@@ -302,6 +302,222 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-11-12-a1",
+  "time": "2026-11-12T17:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "英伟达风波拖累,台股收跌2.63%至43,092点",
+   "en": "Nvidia turmoil drags Taiwan's Taiex down 2.63% to 43,092"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan,台湾加权指数周四收跌1,165.28点(2.63%)至43,091.87点,成交额约NT$1.01万亿。台积电跌2.30%至NT$2,340,拖累大盘约440点;日月光跌5.02%、联发科跌3.51%。分析师蔡明翰指出,英伟达盘后跌约8%,加上媒体报道其董事会正讨论CEO去留(未经证实),令市场转趋谨慎,也不排除国安基金入市。早上台股还在大涨之后,下午就转头回落,好比天气一天三变。",
+   "en": "Focus Taiwan reports the Taiex closed Thursday down 1,165.28 points (2.63%) at 43,091.87 on turnover of about NT$1.01 trillion. TSMC fell 2.30% to NT$2,340, costing the index about 440 points; ASE fell 5.02% and MediaTek 3.51%. Analyst Tsai Ming-han said Nvidia's roughly 8% after-hours drop and unconfirmed reports that its board is discussing the CEO's future left the market cautious, and he did not rule out the National Financial Stabilization Fund stepping in. After Wednesday's big rally, it is like weather that changes three times in a day."
+  },
+  "dda": {
+   "zh": "单一权重股可以左右整个指数,台积电占台股市值四成以上。长期投资者可通过定期定额(DDA)投资分散的信托基金,在大涨大跌之间保持固定节奏,而不必猜测哪天是高点或低点。",
+   "en": "A single heavyweight can steer a whole index; TSMC is over 40% of Taiwan's market value. Long-term investors may use regular (DDA) investing in diversified unit trusts to keep a steady rhythm through big swings instead of guessing highs and lows."
+  },
+  "prs": {
+   "zh": "退休基金的时间跨度很长,一两天的芯片股震荡通常不改变长期方向。不妨看看PRS基金的行业与地区分布是否分散;每年最高RM3,000的PRS税务减免,也是持续供款的考虑因素之一。",
+   "en": "A retirement horizon is long, so a day or two of chip-stock turbulence usually does not change the long-term direction. It may help to check your PRS fund's sector and regional spread; the PRS tax relief of up to RM3,000 a year is one factor in contributing steadily."
+  },
+  "lump": {
+   "zh": "连续的大涨大跌提醒我们时间风险的存在:单笔资金分批进场可能降低入市时机的影响。同时检查是否过度集中在半导体或单一市场,并确认金额符合自己的目标与风险承受度。",
+   "en": "Back-to-back sharp rises and falls highlight timing risk: phasing a lump sum in may reduce the effect of entry timing. Also check for over-concentration in semiconductors or one market, and confirm the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "台股的波动对马来西亚债券基金(MGS、企业债与伊斯兰债券)没有直接影响,后者更受利率、通胀与信用影响。股市震荡时,债券基金一般扮演平衡组合的角色。",
+   "en": "Taiwan's swings have no direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), which respond more to interest rates, inflation and credit. When equities swing, bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611120015"
+  }
+ },
+ {
+  "id": "2026-11-12-a2",
+  "time": "2026-11-12T17:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "英伟达盘后重挫约7%,董事会据报讨论CEO去留,11月17日将公布业绩",
+   "en": "Nvidia sinks about 7% after hours as its board reportedly weighs the CEO's future, with results due November 17"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance的实时报道,英伟达周三盘后一度跌约7%至US$161.46,隔夜低位US$156.20为2025年7月以来最低。自上周四以来市值蒸发逾US$6,000亿。《华尔街日报》报道董事会正准备罢免CEO黄仁勋,Bernstein将其降至Market-Perform、目标价由US$400降至US$200,Baird降至中性;Raymond James则维持强力买入。英伟达预计11月17日公布业绩。以上董事会消息来自媒体报道,尚未获公司证实。",
+   "en": "Yahoo Finance's live coverage says Nvidia fell as much as about 7% after hours Wednesday to US$161.46, with the overnight low of US$156.20 the lowest since July 2025. It has lost more than US$600 billion of market value since last Thursday. The Wall Street Journal reported the board is preparing to oust CEO Jensen Huang; Bernstein cut it to Market-Perform and its target from US$400 to US$200, and Baird went to Neutral, while Raymond James kept a Strong Buy. Results are expected November 17. The board reports come from media and are not confirmed by the company."
+  },
+  "dda": {
+   "zh": "全球科技基金往往持有英伟达等龙头,单一公司的人事消息就可能带来大幅波动。定期定额(DDA)按固定节奏投入,通常比押注某一天的价格更适合长期投资者。",
+   "en": "Global technology funds often hold leaders such as Nvidia, so one company's leadership news can cause big swings. Regular (DDA) investing at a steady pace is generally better suited to long-term investors than betting on one day's price."
+  },
+  "prs": {
+   "zh": "许多全球股票型PRS基金间接持有大型科技股。可以检查基金的前十大持仓与行业集中度是否仍符合自己的风险水平;PRS每年最高RM3,000的税务减免可作为持续供款的参考。",
+   "en": "Many global equity PRS funds indirectly hold large tech stocks. It may help to check a fund's top holdings and sector concentration against your risk level; the PRS tax relief of up to RM3,000 a year is one reference point for contributing steadily."
+  },
+  "lump": {
+   "zh": "在消息不明朗时考虑单笔投资,更需要留意集中度:分批进场可分散时间风险,并确认自己在AI与芯片主题上的整体敞口不过高,金额也要符合目标与风险承受度。",
+   "en": "When news is unclear and you are considering a lump sum, concentration deserves extra care: phasing in may spread timing risk, check that your overall exposure to AI and chips is not too high, and make sure the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这是美国公司层面的消息,对马来西亚债券基金(MGS、企业债与伊斯兰债券)的影响间接,主要可能通过市场风险情绪与美元利率传导。债券基金一般在股市动荡时扮演平衡角色。",
+   "en": "This is a US company-level story with only an indirect link to Malaysian bond funds (MGS, corporate bonds and sukuk), mainly through risk sentiment and US rates. Bond funds generally act as a balancer when equities are unsettled."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-nvidia-stock-tanks-in-after-hours-after-allegations-of-a-second-affair-surface-222438011.html"
+  }
+ },
+ {
+  "id": "2026-11-12-a3",
+  "time": "2026-11-12T17:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "恒指收跌1.26%至24,008点,科技股领跌,阿里巴巴跌6.76%",
+   "en": "Hang Seng closes down 1.26% at 24,008 as tech slides, Alibaba falls 6.76%"
+  },
+  "analysis": {
+   "zh": "据The Standard,恒生指数周四收跌307点(1.26%)至24,008点,恒生科技指数跌2.36%至3,931点。阿里巴巴跌6.76%为表现最差蓝筹,快手跌5.3%,腾讯跌2.64%;领展房产基金在中期业绩后涨3.23%,为最佳蓝筹。内地方面,上证综指跌0.67%至3,655点,深证综指跌1.68%。这就像同一条街上,科技铺子冷清,收租的老店反而稳。",
+   "en": "The Standard reports the Hang Seng Index closed Thursday down 307 points (1.26%) at 24,008, with the Hang Seng Tech Index down 2.36% at 3,931. Alibaba fell 6.76%, the worst blue chip, Kuaishou 5.3% and Tencent 2.64%, while Link REIT rose 3.23% after interim results to lead blue chips. On the mainland, the Shanghai Composite fell 0.67% to 3,655 and the Shenzhen Composite 1.68%. It is like one street where the tech shops went quiet while the rent-collecting old shop held steady."
+  },
+  "dda": {
+   "zh": "板块轮动明显,科技股大跌而收租型资产相对稳定,正说明分散投资的意义。长期投资者可通过定期定额(DDA)投资分散的信托基金,不必把筹码押在单一板块。",
+   "en": "The sector rotation, with tech sliding and income-type assets holding up, shows why diversification matters. Long-term investors may use regular (DDA) investing in diversified unit trusts rather than concentrating on one sector."
+  },
+  "prs": {
+   "zh": "退休规划通常以全球分散为原则,单一市场的起落不必过度反应。可以检视PRS基金的地区分布是否合适,并把每年最高RM3,000的税务减免纳入持续供款的考虑。",
+   "en": "Retirement planning is generally built on global diversification, so there is little need to overreact to one market. Check whether your PRS fund's regional mix suits you, and consider the PRS tax relief of up to RM3,000 a year when contributing."
+  },
+  "lump": {
+   "zh": "考虑单笔投资港股或中国市场时,分批进场可分散时间风险。同时留意是否过度集中在科技或单一地区,并确认金额符合目标与风险承受度。",
+   "en": "When considering a lump sum in Hong Kong or China, phasing in may spread timing risk. Also watch for over-concentration in tech or one region, and confirm the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股与A股的涨跌对马来西亚债券基金(MGS、企业债与伊斯兰债券)直接影响有限,后者更看利率、通胀、令吉与信用。债券基金一般在组合里起平衡作用。",
+   "en": "Moves in Hong Kong and mainland equities have limited direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), which respond more to interest rates, inflation, the ringgit and credit. Bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/348316/Hang-Seng-falls-126-as-tech-stocks-slide-Link-REIT-leads-gains-on-interim-results"
+  }
+ },
+ {
+  "id": "2026-11-12-a4",
+  "time": "2026-11-12T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech",
+   "my"
+  ],
+  "title": {
+   "zh": "据报美国拟收紧中国AI企业远程使用先进芯片的规则,或扩及马来西亚等七国",
+   "en": "US reportedly moving to tighten remote chip access for Chinese AI firms, possibly extending to seven countries including Malaysia"
+  },
+  "analysis": {
+   "zh": "据Investing.com周四报道,有报道称美国商务部正准备敲定规则,阻止中国AI企业通过海外数据中心远程使用先进芯片;相关措施最快本月公布,并可能把现有出口管制扩大到包括马来西亚、新加坡与泰国在内的另外七个国家。腾讯一度跌约1.2%至HK$404.8,腾讯将于11月18日公布第三季业绩。这仍是报道,并非已定案的规则。对大马而言,数据中心与半导体产业链是关注重点。",
+   "en": "Investing.com reported Thursday that, according to a report, the US Commerce Department is preparing to finalize rules to stop Chinese AI firms from remotely using advanced chips through overseas data centers. The measures could come as early as this month and would extend export controls to seven more countries, including Malaysia, Singapore and Thailand. Tencent fell about 1.2% to HK$404.8 at one point and reports Q3 results on November 18. This is a report, not a finalized rule. For Malaysia, the data-centre and semiconductor chain is the area to watch."
+  },
+  "dda": {
+   "zh": "政策消息可能带来相关板块的短期波动。长期投资者通过定期定额(DDA)分散投资,通常比追逐单一政策消息更能经得起时间考验。",
+   "en": "Policy headlines may cause short-term swings in related sectors. Long-term investors who spread money through regular (DDA) investing are generally better placed than those chasing one policy story."
+  },
+  "prs": {
+   "zh": "退休基金多数通过全球或亚洲基金间接参与科技与数据中心主题。可以检查PRS基金的行业集中度;每年最高RM3,000的PRS税务减免也是持续供款的考虑之一。",
+   "en": "Retirement funds often take part in tech and data-centre themes indirectly through global or Asian funds. It may help to check your PRS fund's sector concentration; the PRS tax relief of up to RM3,000 a year is one factor in contributing steadily."
+  },
+  "lump": {
+   "zh": "规则尚未定案,单笔投资相关主题时更要留意政策风险与集中度:分批进场可分散时间风险,并确认金额符合目标与风险承受度。",
+   "en": "With the rules not yet final, a lump sum in related themes needs extra attention to policy risk and concentration: phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这项消息主要关乎科技与出口政策,对马来西亚债券基金(MGS、企业债与伊斯兰债券)的直接影响有限;若影响到外资流向与令吉,才可能间接传导。债券基金一般在组合里起平衡作用。",
+   "en": "This story is mainly about tech and export policy, so its direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk) is limited; it could matter indirectly only if it changes foreign flows and the ringgit. Bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/why-is-tencent-stock-falling-today-93CH-5020459"
+  }
+ },
+ {
+  "id": "2026-11-12-a5",
+  "time": "2026-11-12T17:00:00+08:00",
+  "tags": [
+   "my",
+   "fed"
+  ],
+  "title": {
+   "zh": "美联储鹰派言论支撑美元,令吉早盘几乎持平于4.07",
+   "en": "Hawkish Fed keeps the dollar firm as the ringgit opens almost flat near 4.07"
+  },
+  "analysis": {
+   "zh": "据The Star,令吉周四上午8点报4.0705/0770兑美元,周三收盘为4.0710/0745。对欧元、英镑、日元、泰铢与新元则略微走强。Bank Muamalat首席经济师Mohd Afzanizam Abdul Rashid表示,联储局的鹰派立场目前是美元强势的主因,预计美元兑令吉今天在4.07至4.08之间。美元指数升0.67%至102.911点,布伦特原油低于US$100,若持续有助缓和通胀担忧。令吉像一艘稳稳的船,在强美元的风浪中没有大幅摇晃。",
+   "en": "The Star reports the ringgit opened Thursday at 4.0705/0770 against the US dollar at 8am, versus 4.0710/0745 at Wednesday's close, and edged stronger against the euro, pound, yen, baht and Singapore dollar. Bank Muamalat chief economist Mohd Afzanizam Abdul Rashid said the Fed's hawkish stance is the main factor underpinning the strong dollar and expects USD/MYR between 4.07 and 4.08 today. The dollar index rose 0.67% to 102.911, and Brent below US$100 could ease inflation worries if it persists. The ringgit is like a steady boat that has not rocked much in the dollar's rough water."
+  },
+  "dda": {
+   "zh": "汇率与利率消息常常左右短期情绪,但定期定额(DDA)的纪律在于不去猜测方向。长期按固定金额投入,可能在起伏中摊平成本。",
+   "en": "Currency and rate headlines often sway short-term mood, but the discipline of regular (DDA) investing is not guessing direction. A fixed amount invested over the long term may smooth your cost through the ups and downs."
+  },
+  "prs": {
+   "zh": "美元强、利率预期高,会影响退休金的长期回报预期与购买力。PRS基金的风险水平要与退休年限相配,每年最高RM3,000的税务减免也可作为持续供款的考虑。",
+   "en": "A strong dollar and higher rate expectations can affect retirement money's long-term return expectations and purchasing power. A PRS fund's risk level should match your retirement horizon, and the PRS tax relief of up to RM3,000 a year is one factor in contributing steadily."
+  },
+  "lump": {
+   "zh": "如果投资涉及海外资产,令吉与美元的汇率会影响换算后的回报。单笔投资可考虑分批进场以分散时间风险,留意币种与地区的集中度,并确认金额符合目标与风险承受度。",
+   "en": "If an investment holds overseas assets, the ringgit-dollar rate affects returns in ringgit terms. A lump sum may be phased in to spread timing risk; watch currency and regional concentration, and confirm the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "联储局的鹰派立场与强美元可能影响外资流向与令吉,间接牵动马来西亚债券基金(MGS、企业债与伊斯兰债券)。不过国家银行的OPR立场与本地通胀仍是更直接的因素;债券基金一般扮演平衡组合的角色。",
+   "en": "The Fed's hawkish stance and a strong dollar may affect foreign flows and the ringgit, indirectly touching Malaysian bond funds (MGS, corporate bonds and sukuk). Bank Negara's OPR stance and local inflation remain more direct drivers; bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/12/ringgit-opens-almost-flat-against-us-dollar-amid-cautious-sentiment"
+  }
+ },
+ {
+  "id": "2026-11-12-a6",
+  "time": "2026-11-12T17:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "MSCI第三个季度上调台湾权重,新兴市场指数占比升至29.01%",
+   "en": "MSCI lifts Taiwan's weighting for a third straight quarter, to 29.01% of its Emerging Markets Index"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan,MSCI在季度检讨中把台湾在新兴市场指数的权重由28.86%升至29.01%,在全球指数(ACWI)由3.25%升至3.28%,在亚洲(日本除外)指数由32.72%升至32.83%,11月30日收盘后生效。这是连续第三个季度三项指数同时上调,分析师认为与台股科技权重高、年内涨逾50%有关。MSCI台湾指数中,台积电权重降0.25个百分点至54.29%。同一份检讨中,中国权重下调0.13个百分点。",
+   "en": "Focus Taiwan reports that MSCI's quarterly review raised Taiwan's weighting in its Emerging Markets Index from 28.86% to 29.01%, in the ACWI from 3.25% to 3.28% and in the Asia ex-Japan index from 32.72% to 32.83%, effective after the close on November 30. It is the third straight quarter all three were raised, which analysts tied to Taiwan's tech-heavy market, up more than 50% this year. Within the MSCI Taiwan Index, TSMC's weight fell 0.25 points to 54.29%. In the same review, China's weighting was cut by 0.13 points."
+  },
+  "dda": {
+   "zh": "许多亚洲或新兴市场信托基金参考这类指数,台湾占比提高意味着基金的科技集中度可能随之上升。定期定额(DDA)的投资者可以顺便了解自己基金的前几大持仓与地区分布。",
+   "en": "Many Asian or emerging-market unit trusts reference such indices, so a higher Taiwan weighting may mean greater tech concentration in a fund. Regular (DDA) investors can use this as a prompt to look at their fund's top holdings and regional mix."
+  },
+  "prs": {
+   "zh": "退休基金通常长期持有区域或全球基金,指数权重的变化会慢慢影响其风险特征。可以检查PRS基金的地区与行业分布;每年最高RM3,000的税务减免也是持续供款的考虑之一。",
+   "en": "Retirement funds usually hold regional or global funds for the long term, and index-weight changes can gradually shift their risk profile. Check your PRS fund's regional and sector spread; the PRS tax relief of up to RM3,000 a year is one factor in contributing steadily."
+  },
+  "lump": {
+   "zh": "考虑单笔投资新兴市场或亚洲基金时,可留意其是否集中在少数大型权重股。分批进场可分散时间风险,并确认金额符合目标与风险承受度。",
+   "en": "When considering a lump sum in an emerging-market or Asian fund, look at whether it is concentrated in a few large-weight stocks. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "指数权重调整主要关乎股票市场,对马来西亚债券基金(MGS、企业债与伊斯兰债券)没有直接影响。债券基金更看利率、通胀与信用,一般在组合中起平衡作用。",
+   "en": "Index-weight changes concern equity markets and have no direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk), which look more to interest rates, inflation and credit. They generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611120014"
+  }
+ }
+],
+[
+ {
   "id": "2026-11-11-m0",
   "kind": "summary",
   "time": "2026-11-11T09:00:00+08:00",
