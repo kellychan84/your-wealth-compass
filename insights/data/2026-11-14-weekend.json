@@ -1,0 +1,374 @@
+[
+ {
+  "id": "2026-11-14-w0",
+  "kind": "summary",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "本周回顾:美股周线仍升约2.5%,但英伟达风波、10年期美债收益率逾5%与AI股抛售让市场波动加大;下周聚焦英伟达财报",
+   "en": "Week in review: Wall Street still gained about 2.5% on the week, but the Nvidia upheaval, 10-year yields above 5% and an AI-stock selloff raised volatility; Nvidia's earnings headline next week"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,561.67",
+    "change": "-0.40%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "25,136.27",
+    "change": "-0.91%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "恒生指数",
+     "en": "Hang Seng"
+    },
+    "value": "23,637",
+    "change": "-1.55%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "布伦特原油",
+     "en": "Brent crude"
+    },
+    "value": "US$96.32",
+    "change": "+0.52%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周五美股收盘:道指涨0.10%,标普500跌0.40%,纳指跌0.91%;但本周标普500仍上升约2.5%。英伟达创办人黄仁勋辞职后股价周跌约12%,AI概念股承压。",
+    "en": "Friday's close: the Dow rose 0.10% while the S&P 500 fell 0.40% and the Nasdaq 0.91%; the S&P 500 still gained about 2.5% on the week. Nvidia shares fell about 12% on the week after co-founder Jensen Huang's exit, and AI-related stocks stayed under pressure."
+   },
+   {
+    "zh": "10月生产者物价指数按年升6.5%,为2022年11月以来最大年升幅;10年期美债收益率周五一度高见5.17%。大马方面,富时隆综指周五跌至14个月低位,单周跌逾2%。",
+    "en": "October producer prices rose 6.5% from a year earlier, the largest annual gain since November 2022, and the 10-year Treasury yield hit 5.17% on Friday. In Malaysia, the FBM KLCI fell to a 14-month low on Friday, down more than 2% on the week."
+   },
+   {
+    "zh": "下周重点:英伟达11月17日(周二)公布业绩、美国零售销售、联储局会议纪要,以及沃尔玛、塔吉特等零售商财报。",
+    "en": "Next week: Nvidia reports on Tuesday, November 17, plus US retail sales, Fed minutes and earnings from retailers such as Walmart and Target."
+   }
+  ],
+  "takeaway": {
+   "zh": "周末是回头检视的好时机。信托基金顾问通常会提醒:先看自己的目标、期限和风险承受度,再看新闻。稳定的定期定额节奏,往往比追着每天的标题来回调整更重要。",
+   "en": "The weekend is a good time to look back calmly. A unit trust consultant will usually suggest starting from your own goals, time horizon and risk tolerance before the headlines; a steady regular-investing rhythm often matters more than reacting to each day's news."
+  },
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+   },
+   {
+    "name": "The Standard",
+    "url": "https://www.thestandard.com.hk/finance/article/348438/Hang-Seng-falls-370-points-as-tech-stocks-plunge"
+   },
+   {
+    "name": "The Edge Malaysia",
+    "url": "https://theedgemalaysia.com/node/825645"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-14-w1",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "周五美股收盘:道指微升、标普500与纳指下跌,英伟达触及52周低位",
+   "en": "Wall Street Friday close: Dow edges up, S&P 500 and Nasdaq fall as Nvidia hits a 52-week low"
+  },
+  "analysis": {
+   "zh": "据Investing.com,周五道指涨0.10%,标普500跌0.40%,纳指跌0.91%,VIX升3.10%至19.28。英伟达收跌2.01%至US$162.85,触及52周低位;科技、工业板块领跌,油气、金融和医疗板块领涨。就像一场比赛里的主力球员突然离队,全队的节奏都需要重新适应。",
+   "en": "According to Investing.com, on Friday the Dow rose 0.10%, the S&P 500 fell 0.40% and the Nasdaq fell 0.91%, while the VIX rose 3.10% to 19.28. Nvidia closed down 2.01% at US$162.85, a 52-week low; technology and industrials led losses while oil and gas, financials and healthcare led gains. It is like a star player leaving mid-season: the whole team needs time to find its rhythm again."
+  },
+  "dda": {
+   "zh": "市场在一周内轮动很快,这正是长期投资者看重分散的原因。定期定额(DDA)按固定节奏投入,可能让你在高低波动中自然平均成本,不必猜测哪一天是转折点。",
+   "en": "Markets rotated quickly within one week, which is why long-term investors value diversification. Regular (DDA) investing at a steady pace may average your entry cost across the ups and downs, without needing to guess the turning point."
+  },
+  "prs": {
+   "zh": "退休规划着眼十年、二十年,一周的涨跌通常只是路上的颠簸。可以趁周末看看PRS基金的分散程度,并记得每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning looks ten or twenty years ahead, so one week's swings are usually just bumps on the road. The weekend is a good time to check how diversified your PRS fund is, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "当市场集中在少数科技巨头时,单笔资金更需留意集中度。分批投入可分散入市时机的风险,同时确认金额符合目标与风险承受度。",
+   "en": "When market gains are concentrated in a few tech giants, a lump sum calls for extra attention to concentration. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市波动加大时,马来西亚债券基金(MGS、企业债与伊斯兰债券)一般扮演组合平衡者的角色。不过美债收益率走高也可能影响本地债券价格,需留意国家银行利率走向。",
+   "en": "When equity volatility rises, Malaysian bond funds (MGS, corporate bonds and sukuk) generally act as a portfolio balancer. That said, higher US yields may also affect local bond prices, so Bank Negara's rate direction is worth watching."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559"
+  }
+ },
+ {
+  "id": "2026-11-14-w2",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "生产者物价按年升6.5%创2022年以来新高,10年期美债收益率一度高见5.17%",
+   "en": "Producer prices up 6.5% on the year, the largest since 2022, as the 10-year yield touches 5.17%"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance,10月PPI按月升0.3%,低于经济学家预期的0.4%,但按年升6.5%,为2022年11月以来最大年升幅。10年期美债收益率周五一度达5.17%,为10月以来最高。HSBC把英伟达评级降至持有,目标价由US$365降至US$170。就像体温略降但仍在发烧,通胀压力并没有真正消退。",
+   "en": "According to Yahoo Finance, October producer prices rose 0.3% on the month, below the 0.4% economists expected, but 6.5% from a year earlier, the largest annual gain since November 2022. The 10-year Treasury yield hit as high as 5.17% on Friday, its highest since October. HSBC also downgraded Nvidia to Hold, cutting its price target to US$170 from US$365. It is like a fever that eases slightly but has not really gone away: inflation pressure is still there."
+  },
+  "dda": {
+   "zh": "利率高企时股市可能更敏感,但长期投资的重点仍是时间与纪律。定期定额(DDA)让你不必押注某个利率拐点,而是持续参与。",
+   "en": "Stocks may be more sensitive when rates are high, but long-term investing still rests on time and discipline. Regular (DDA) investing lets you keep participating without betting on a particular rate turning point."
+  },
+  "prs": {
+   "zh": "较高的利率环境下,退休储蓄的实际回报与通胀都值得重新检视。PRS每年最高RM3,000的税务减免,仍是持续供款的理由之一。",
+   "en": "In a higher-rate, higher-inflation environment, it is worth reviewing the real return on retirement savings. The PRS tax relief of up to RM3,000 a year remains one reason to keep contributing."
+  },
+  "lump": {
+   "zh": "利率走势不明朗时,一次性投入的时机风险更大。分批投入可分散这种风险,同时确认金额符合目标与风险承受度。",
+   "en": "When the rate path is unclear, timing risk on a lump sum is larger. Phasing in may spread that risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美债收益率上升通常会拉低现有债券价格,也可能影响资金流向和令吉。马来西亚债券基金的影响取决于国家银行OPR走向与基金的存续期,持有期较长的投资者可以关注票息收入的角色。",
+   "en": "Rising US yields usually pull existing bond prices down and may affect capital flows and the ringgit. The effect on Malaysian bond funds depends on Bank Negara's OPR path and the fund's duration; longer-horizon investors may focus on the role of coupon income."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+  }
+ },
+ {
+  "id": "2026-11-14-w3",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "AI云概念股遭抛售:CoreWeave收跌6.13%,据报正洽至少US$40亿贷款",
+   "en": "AI-cloud selloff: CoreWeave closes down 6.13% amid reports of at least US$4 billion in new loans"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance(Motley Fool),CoreWeave周五收于US$53.13,跌6.13%,成交量约为三个月均量的1.7倍。投资者担心AI云的债务压力,据报公司第三季末债务逾US$400亿;同类股Nebius跌9.92%、IREN跌6.72%。该公司第三季营收按年增168%至US$37亿,但股价仍反转下跌。好比一家店生意很旺,但借的钱也越来越多,投资者自然更在意还款能力。",
+   "en": "According to Yahoo Finance (via Motley Fool), CoreWeave closed at US$53.13 on Friday, down 6.13%, on volume about 72% above its three-month average. Investors worry about AI-cloud debt, with the company reportedly carrying over US$40 billion at the end of Q3; peers Nebius fell 9.92% and IREN 6.72%. Q3 revenue rose 168% to US$3.7 billion, yet the shares reversed lower. It is like a busy shop that keeps borrowing more: investors naturally focus on its ability to repay."
+  },
+  "dda": {
+   "zh": "主题型股票波动可能较大,而分散于不同行业和地区的基金通常能缓和单一主题的冲击。定期定额(DDA)有助于以纪律面对这类波动。",
+   "en": "Thematic stocks can be volatile, while funds spread across sectors and regions usually soften the impact of a single theme. Regular (DDA) investing helps you meet this kind of volatility with discipline."
+  },
+  "prs": {
+   "zh": "退休规划需要的是长期稳健,可以了解PRS基金对AI或科技主题的暴露程度,并按自己的风险承受度选择合适的类别。",
+   "en": "Retirement planning calls for long-term steadiness. It may help to understand how much AI or technology exposure your PRS fund has and to choose a category that suits your risk tolerance."
+  },
+  "lump": {
+   "zh": "单笔资金若集中投入热门主题,风险可能被放大。先检查集中度,再考虑分批投入以分散时机风险,并确认符合目标。",
+   "en": "A lump sum concentrated in a hot theme may see risks magnified. Check concentration first, then consider phasing in to spread timing risk, and confirm it fits your goals."
+  },
+  "bond": {
+   "zh": "这则新闻对马来西亚债券基金的直接影响有限,但它提醒我们:企业债务与利率息息相关。债券基金的信用质量与存续期,是选择时可以了解的重点。",
+   "en": "The direct effect on Malaysian bond funds is limited, but the story is a reminder that corporate debt and interest rates are closely linked. A bond fund's credit quality and duration are worth understanding."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-13-230429414.html"
+  }
+ },
+ {
+  "id": "2026-11-14-w4",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒指周五收跌370点至23,637,科技指数大跌3%,油气股上涨",
+   "en": "Hang Seng closes down 370 points at 23,637 as the tech index sinks 3% and oil stocks gain"
+  },
+  "analysis": {
+   "zh": "据The Standard,恒生指数周五跌1.55%至23,637点,成交额HK$1,950亿;恒生科技指数跌3%至3,813点,上证综指跌0.59%至3,634点。阿里巴巴跌3.46%、腾讯跌3%,联想跌6.33%;中石油涨约2.8%、中石化涨约1.71%。科技股像一艘船同时受到浪头冲击,而油气股则逆势受益。",
+   "en": "According to The Standard, the Hang Seng Index fell 1.55% to 23,637 on Friday on turnover of HK$195 billion; the Hang Seng Tech Index dropped 3% to 3,813 and the Shanghai Composite fell 0.59% to 3,634. Alibaba fell 3.46%, Tencent 3% and Lenovo 6.33%, while PetroChina rose about 2.8% and Sinopec about 1.71%. Tech stocks were hit by the same wave while oil-linked names went the other way."
+  },
+  "dda": {
+   "zh": "港股与中国概念股的波动有时较大,通过分散的区域或全球基金参与,比押注单一板块更温和。定期定额(DDA)可让你以固定节奏面对波动。",
+   "en": "Hong Kong and China-linked stocks can swing sharply, so participating through diversified regional or global funds is usually gentler than betting on one sector. Regular (DDA) investing lets you face volatility at a steady pace."
+  },
+  "prs": {
+   "zh": "退休规划着眼长期,区域分散有助于降低对单一市场的依赖。可以顺便看看PRS基金的区域配置,并记得每年最高RM3,000的税务减免。",
+   "en": "Retirement planning is long term, and regional diversification may reduce reliance on any one market. It may be worth checking your PRS fund's regional mix, and remembering the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "若考虑把单笔资金投向中国或港股主题,需要特别留意集中度与波动。分批投入可分散入市时机风险,并确认符合目标与风险承受度。",
+   "en": "If a lump sum is going into China or Hong Kong themes, concentration and volatility deserve extra attention. Phasing in may spread timing risk, and it should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股的单日波动对马来西亚债券基金直接影响有限。不过区域风险情绪转弱时,债券基金通常能起到平衡组合的作用。",
+   "en": "A single day's Hong Kong move has limited direct effect on Malaysian bond funds. When regional risk sentiment weakens, though, bond funds generally help balance a portfolio."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/348438/Hang-Seng-falls-370-points-as-tech-stocks-plunge"
+  }
+ },
+ {
+  "id": "2026-11-14-w5",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [
+   "my",
+   "tech"
+  ],
+  "title": {
+   "zh": "富时隆综指跌至14个月低位,单周跌逾2%,数据中心概念股遭减持",
+   "en": "FBM KLCI falls to a 14-month low, down more than 2% on the week, as data-centre plays are trimmed"
+  },
+  "analysis": {
+   "zh": "据The Edge Malaysia,富时隆综指周五一度跌6.3点或0.4%至1,579.66,为2025年9月以来最低,并连续五个交易日下跌、单周跌逾2%。投资者减持数据中心相关股,Gamuda跌近3%至RM4.56。分析师认为市场已进入超卖区域,未来数周可能出现技术性反弹,但AI股调整与英伟达的不确定性仍是风险。就像弹簧被压得很低,既可能反弹,也要留意是否还有压力。",
+   "en": "According to The Edge Malaysia, the FBM KLCI fell as much as 6.3 points, or 0.4%, to 1,579.66 on Friday, its lowest since September 2025, after five straight sessions of decline and a weekly loss of more than 2%. Investors trimmed data-centre-related stocks, with Gamuda down nearly 3% to RM4.56. Analysts say the market is oversold and could see a technical rebound in the coming weeks, but the AI-trade correction and Nvidia uncertainty remain risks. It is like a spring pressed low: it may rebound, but pressure may remain."
+  },
+  "dda": {
+   "zh": "本地市场下跌时,定期定额(DDA)的纪律尤其重要:价格较低时同样金额可能买到更多单位,长期来看有助于平均成本。",
+   "en": "When the local market falls, the discipline of regular (DDA) investing matters most: the same amount may buy more units at lower prices, which may help average your cost over time."
+  },
+  "prs": {
+   "zh": "退休储蓄的时间很长,可以把市场低位视为检视PRS基金配置与供款习惯的机会。每年最高RM3,000的PRS税务减免也值得善用。",
+   "en": "Retirement savings have a long runway, so a market low can be a chance to review your PRS fund mix and contribution habit. The PRS tax relief of up to RM3,000 a year is also worth using."
+  },
+  "lump": {
+   "zh": "市场处于低位并不代表已见底。单笔资金可考虑分批投入以分散时机风险,并留意是否过度集中在数据中心或科技主题。",
+   "en": "A low market does not mean the bottom is in. A lump sum may be phased in to spread timing risk, while watching for over-concentration in data-centre or tech themes."
+  },
+  "bond": {
+   "zh": "The Edge指出,债券收益率上升让本地银行面对债券持仓的账面亏损。马来西亚债券基金同样可能受收益率变动影响,存续期与信用质量是了解的重点;在股市波动时,债券基金仍可扮演平衡角色。",
+   "en": "The Edge notes that rising bond yields have left local banks with paper losses on bond holdings. Malaysian bond funds may be similarly affected by yield moves, so duration and credit quality are worth understanding; during equity volatility they can still play a balancing role."
+  },
+  "source": {
+   "name": "The Edge Malaysia",
+   "url": "https://theedgemalaysia.com/node/825645"
+  }
+ },
+ {
+  "id": "2026-11-14-w6",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "台湾供应链人士:黄仁勋离任对台湾半导体供应链影响有限,台股周五收涨",
+   "en": "Taiwan chip suppliers see limited impact from Nvidia's leadership change as Taiwan shares close up Friday"
+  },
+  "analysis": {
+   "zh": "据中央社(Focus Taiwan),周五台湾加权指数收涨1.35%至43,675.12点,成交额NT$9,162.6亿。业界人士和投资顾问表示,黄仁勋离任不太可能显著扰乱台湾半导体供应链,但可能加速AI芯片市场的多元化。就像一个大客户换了负责人,订单关系通常不会马上改变,但各方都会想有更多选择。",
+   "en": "According to Focus Taiwan, Taiwan's main index closed up 1.35% at 43,675.12 on Friday on turnover of NT$916.26 billion. Industry executives and investment advisers said Jensen Huang's departure is unlikely to significantly disrupt Taiwan's semiconductor supply chain, though it could speed diversification in the AI chip market. It is like a major client changing its lead contact: orders rarely change overnight, but everyone wants more options."
+  },
+  "dda": {
+   "zh": "科技产业链上下游很长,单一人事变动通常不改变长期趋势。分散投资于不同地区与行业,配合定期定额(DDA),有助于稳定投资节奏。",
+   "en": "The tech supply chain is long, and one personnel change usually does not alter long-term trends. Diversifying across regions and sectors, together with regular (DDA) investing, may help keep your rhythm steady."
+  },
+  "prs": {
+   "zh": "退休规划不需要因一则公司新闻而改变方向。可以检视PRS基金是否过度依赖单一科技供应链,并别忘了每年最高RM3,000的税务减免。",
+   "en": "Retirement planning does not need to change direction over one company story. You can check whether your PRS fund relies too heavily on one tech supply chain, and keep the PRS tax relief of up to RM3,000 a year in mind."
+  },
+  "lump": {
+   "zh": "半导体主题常出现大起大落。单笔资金可分批投入以分散时机风险,并检查是否已对科技过度集中。",
+   "en": "Semiconductor themes can swing widely. A lump sum may be phased in to spread timing risk, with a check on whether you are already over-concentrated in tech."
+  },
+  "bond": {
+   "zh": "这则新闻对马来西亚债券基金的直接影响很小。当科技股情绪反复时,债券基金一般发挥组合平衡者的作用。",
+   "en": "This story has little direct effect on Malaysian bond funds. When tech sentiment swings, bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611130015"
+  }
+ },
+ {
+  "id": "2026-11-14-w7",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "油价本周第二次周线下跌:特朗普称不再需要伊朗协议,布伦特约US$96",
+   "en": "Oil heads for a second weekly loss as Trump says the US no longer needs an Iran deal; Brent near US$96"
+  },
+  "analysis": {
+   "zh": "据Investing.com,在特朗普表示美国不再需要与伊朗达成协议后,油价周五维持涨势,但本周仍走向第二个周线下跌。布伦特1月期货周五约US$96.32,涨0.52%,WTI约US$89.07;黄金期货约US$3,878,微跌0.18%。油价像一条受消息牵动的绳子,外交进展一松一紧,价格就跟着摆动。",
+   "en": "According to Investing.com, oil held gains after President Trump said the US no longer needs a deal with Iran, but is still set for a second straight weekly loss. Brent January futures were about US$96.32 on Friday, up 0.52%, WTI about US$89.07, and gold futures about US$3,878, down 0.18%. Oil is like a rope pulled by headlines: as diplomacy tightens or loosens, prices swing."
+  },
+  "dda": {
+   "zh": "油价影响通胀与企业成本,进而影响市场情绪。长期投资者无须追逐每日油价,定期定额(DDA)有助于以纪律面对波动。",
+   "en": "Oil affects inflation and business costs, and through them market sentiment. Long-term investors need not chase daily oil prices; regular (DDA) investing helps you meet volatility with discipline."
+  },
+  "prs": {
+   "zh": "能源价格会影响退休后的生活成本与通胀预期。规划退休时可把通胀纳入考虑,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Energy prices feed into living costs and inflation expectations in retirement. When planning, it may help to build inflation into the numbers, and to use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "地缘政治驱动的油价波动难以预测。单笔资金可分批投入以分散时机风险,并确认投资目标与风险承受度相符。",
+   "en": "Geopolitics-driven oil swings are hard to predict. A lump sum may be phased in to spread timing risk, and should match your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价较高可能推高通胀预期,影响利率走向,而马来西亚作为石油出口国,油价也与令吉和财政相关。债券基金的存续期与信用质量是了解的重点。",
+   "en": "Higher oil may lift inflation expectations and affect rate direction, and as an oil exporter Malaysia sees oil linked to the ringgit and the fiscal position. A bond fund's duration and credit quality are worth understanding."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/commodities-news/oil-prices-hold-gains-as-trump-sidelines-vance-from-iran-diplomacy-5023781"
+  }
+ },
+ {
+  "id": "2026-11-14-w8",
+  "time": "2026-11-14T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech",
+   "fed"
+  ],
+  "title": {
+   "zh": "下周前瞻:英伟达11月17日公布业绩,零售销售、联储局会议纪要与零售商财报接踵而至",
+   "en": "Week ahead: Nvidia reports November 17, followed by retail sales, Fed minutes and retailer earnings"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance(路透),英伟达将于周二公布业绩,分析师预期盈利增长90%、营收约US$1,090亿;其市值已由10月初约US$5.8万亿降至US$3.9万亿。同一周还有周二的美国零售销售、周三的联储局会议纪要,以及沃尔玛、塔吉特、家得宝和劳氏的财报;另据Yahoo Finance,塔吉特定于11月18日、沃尔玛11月19日。这周像一场连续的体检,看的是AI热度、消费者和利率三项指标。",
+   "en": "According to Yahoo Finance (via Reuters), Nvidia reports on Tuesday, with analysts expecting 90% earnings growth on revenue of about US$109 billion; its market value has fallen from about US$5.8 trillion in early October to US$3.9 trillion. The same week brings US retail sales on Tuesday, Fed minutes on Wednesday, and earnings from Walmart, Target, Home Depot and Lowe's; Yahoo Finance separately lists Target on November 18 and Walmart on November 19. It is like a run of check-ups on three things: AI enthusiasm, the consumer and interest rates."
+  },
+  "dda": {
+   "zh": "重要数据与财报集中的一周,市场可能出现较大波动。定期定额(DDA)的好处是不需要预测结果,照常按计划投入即可。",
+   "en": "In a week packed with data and earnings, markets may swing more. The benefit of regular (DDA) investing is that you do not need to predict outcomes; you simply keep to your plan."
+  },
+  "prs": {
+   "zh": "退休规划不必因一周的数据而调整。可以趁这个周末检视PRS供款是否按计划进行,并记得每年最高RM3,000的税务减免。",
+   "en": "Retirement planning need not change because of one week of data. This weekend is a good time to check that your PRS contributions are on track, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "重大事件前后,价格可能跳动。单笔资金可考虑分批投入以分散时机风险,并留意自己是否已过度集中于AI主题。",
+   "en": "Prices may jump around major events. A lump sum may be phased in to spread timing risk, while checking whether you are already over-concentrated in the AI theme."
+  },
+  "bond": {
+   "zh": "联储局会议纪要与零售销售会影响利率预期。对马来西亚债券基金而言,美国利率预期可能影响收益率与令吉,需关注国家银行的立场;债券基金一般仍是组合的平衡者。",
+   "en": "Fed minutes and retail sales shape rate expectations. For Malaysian bond funds, US rate expectations may influence yields and the ringgit, so Bank Negara's stance is worth watching; bond funds generally remain a portfolio balancer."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-results-anthropic-ipo-pose-111404254.html"
+  }
+ }
+]
