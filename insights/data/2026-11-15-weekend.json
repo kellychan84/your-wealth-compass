@@ -1,0 +1,296 @@
+[
+ {
+  "id": "2026-11-15-w0",
+  "kind": "summary",
+  "time": "2026-11-15T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "本周回顾与下周展望:美股周线升约2.5%,但10年期美债收益率升破5.1%、金价周跌4.7%;下周看英伟达财报与Anthropic上市定价",
+   "en": "Week in review and week ahead: Wall Street gained about 2.5% on the week, but the 10-year yield rose above 5.1% and gold fell 4.7%; Nvidia earnings and Anthropic's IPO pricing headline next week"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,561.67",
+    "change": "-0.40%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "25,136.27",
+    "change": "-0.91%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "10年期美债收益率",
+     "en": "US 10-yr yield"
+    },
+    "value": "5.143%",
+    "change": "+4bp",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "现货黄金",
+     "en": "Spot gold"
+    },
+    "value": "US$3,884.77",
+    "change": "-4.7% 周",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周五美股收盘:标普500跌0.40%、纳指跌0.91%,但本周标普500仍升约2.5%;10年期美债收益率周五一度高见5.174%,交易员预期12月9日联储局加息的概率为100%(CME FedWatch)。",
+    "en": "Friday's close: the S&P 500 fell 0.40% and the Nasdaq 0.91%, yet the S&P 500 still rose about 2.5% on the week. The 10-year yield touched 5.174% on Friday, and traders price a 100% chance of a Fed hike on Dec. 9 (CME FedWatch)."
+   },
+   {
+    "zh": "现货黄金周五收于US$3,884.77,单周跌4.7%,逼近13个月低位;美元指数周升1.1%。",
+    "en": "Spot gold settled at US$3,884.77 on Friday, down 4.7% on the week and near a 13-month low, while the US Dollar Index rose 1.1%."
+   },
+   {
+    "zh": "下周重点:周二英伟达、家得宝、迪士尼财报与美国零售销售;周三联储局会议纪要,Anthropic预计周三定价、周四挂牌。",
+    "en": "Next week: Nvidia, Home Depot and Disney earnings plus US retail sales on Tuesday; FOMC minutes on Wednesday, with Anthropic expected to price Wednesday and list Thursday."
+   }
+  ],
+  "takeaway": {
+   "zh": "利率和科技股一起波动的时候,最容易让人想改变计划。信托基金顾问通常会提醒:先回到自己的目标和期限,再看新闻,而不是反过来。",
+   "en": "When rates and tech stocks swing together, it is tempting to change the plan. A unit trust consultant will usually suggest returning to your goals and time horizon first, and reading the news second."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+   },
+   {
+    "name": "Investing.com",
+    "url": "https://investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-15-w1",
+  "time": "2026-11-15T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "Anthropic IPO进入倒数:拟以每股US$70–78发行8.25亿股,预计周三定价、周四在纳斯达克挂牌",
+   "en": "Anthropic's IPO enters the final stretch: 825 million shares at US$70–78, pricing expected Wednesday and Nasdaq trading Thursday"
+  },
+  "analysis": {
+   "zh": "据CNBC,Anthropic在11月10日更新的文件中表示将发行8.25亿股,区间每股US$70至78;按区间上限计,募资最多约US$643.5亿,完全摊薄估值约US$1.405万亿(5月融资时为US$9,650亿)。公司另与AMD、博通、谷歌、美光、微软、英伟达及台积电达成协议,以IPO价私募认购US$260亿股份。报道称散户配售目标约20%,高于一般的5%至10%。这像一场备受瞩目的新店开张,人潮多不代表每个人都适合排队。",
+   "en": "According to CNBC, Anthropic's updated Nov. 10 filing offers 825 million shares at US$70 to US$78, raising up to about US$64.35 billion at the top of the range at a fully diluted valuation of about US$1.405 trillion (versus US$965 billion in its May round). It also agreed to sell US$26 billion of stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC. It is targeting about 20% retail allocation, above the usual 5% to 10%. It is like a much-hyped store opening: a big crowd does not mean the queue suits everyone."
+  },
+  "dda": {
+   "zh": "热门新股上市常令短期价格大幅波动。定期定额(DDA)买入分散的信托基金,通常已间接涵盖科技龙头的成长,不必为单一事件改变节奏。",
+   "en": "Hot IPOs often bring sharp short-term price swings. Regular (DDA) investing in diversified unit trusts generally already captures some exposure to technology leaders, so there is usually no need to change the rhythm for one event."
+  },
+  "prs": {
+   "zh": "退休规划着眼十几二十年。新股热潮属于短期话题,可以留意,但不必让它左右退休目标;PRS每年最高RM3,000的税务减免依然是长期纪律的好帮手。",
+   "en": "Retirement planning looks 10 to 20 years ahead. An IPO frenzy is a short-term topic worth noticing but not a reason to shift retirement goals; the PRS tax relief of up to RM3,000 a year still supports long-term discipline."
+  },
+  "lump": {
+   "zh": "单笔资金遇到热门主题时,可以先检查自己在科技与AI主题上是否已经集中,并考虑分批投入以分散入场时点风险,同时确认金额与目标、风险承受度相符。",
+   "en": "When a lump sum meets a hot theme, first check whether you are already concentrated in tech and AI, consider phasing in to spread timing risk, and confirm the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这则新闻对大马债券基金的直接影响有限。若大额新股抽走市场资金,可能间接影响全球风险情绪与资金流向;债券在组合中仍扮演平衡角色。",
+   "en": "The direct effect on Malaysian bond funds is limited. A very large offering may indirectly influence global risk sentiment and capital flows; bonds still play their role as a portfolio balancer."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+  }
+ },
+ {
+  "id": "2026-11-15-w2",
+  "time": "2026-11-15T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "10年期美债收益率周五一度升至5.174%,交易员已把12月加息视为定局",
+   "en": "The 10-year Treasury yield touched 5.174% on Friday as traders treat a December hike as settled"
+  },
+  "analysis": {
+   "zh": "据CNBC,10年期美债收益率周五收报5.143%,盘中高见5.174%;2年期为4.859%,30年期为5.472%。10月生产者物价指数月升0.3%,低于预期的0.4%,但按年升6.5%,为2022年11月以来最大。CME FedWatch显示12月9日加息的概率为100%,其中加息25个基点约89%、50个基点约14%(数字取自CNBC,合计超过100%,应视为大致估计)。收益率就像贷款的价格标签,标签升高,借钱买房买车的人都会感受到。",
+   "en": "According to CNBC, the 10-year yield closed at 5.143% after touching 5.174%, with the 2-year at 4.859% and the 30-year at 5.472%. October producer prices rose 0.3% on the month, below the 0.4% expected, but 6.5% on the year, the largest since November 2022. CME FedWatch shows a 100% chance of a hike on Dec. 9, with about 89% on 25 basis points and about 14% on 50 (CNBC's figures, which sum above 100%, so treat them as approximate). Yields are like the price tag on borrowing: when it rises, anyone financing a home or car feels it."
+  },
+  "dda": {
+   "zh": "利率上升期市场波动通常较大,但定期定额(DDA)按固定节奏投入,价格低时买到较多单位,价格高时较少,有助于平滑成本。",
+   "en": "Markets are often choppier when rates rise, but regular (DDA) investing at a fixed rhythm buys more units when prices are lower and fewer when higher, which can help smooth average cost."
+  },
+  "prs": {
+   "zh": "较高的利率环境下,退休储蓄的长期回报来源之一是更好的债券收益。PRS每年最高RM3,000的税务减免,可以和稳定供款一起使用。",
+   "en": "A higher-rate environment can offer better bond income, one source of long-term retirement returns. The PRS tax relief of up to RM3,000 a year can go hand in hand with steady contributions."
+  },
+  "lump": {
+   "zh": "利率走向不明时,单笔资金一般可以考虑分阶段投入以分散时点风险,并检查自己对利率敏感资产的集中程度,而不是押注加息的结果。",
+   "en": "When the rate path is uncertain, a lump sum may be phased in to spread timing risk, and it helps to check concentration in rate-sensitive assets rather than bet on the outcome of a hike."
+  },
+  "bond": {
+   "zh": "美国收益率上升可能吸引资金流向美元资产,影响令吉与外资流向;但国家银行的OPR目前维持2.75%,大马债券基金的表现仍取决于本地通胀与政策走向。",
+   "en": "Higher US yields may draw money toward US dollar assets and affect the ringgit and foreign flows, but Bank Negara's OPR is currently 2.75%, so Malaysian bond funds still depend on local inflation and policy."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+  }
+ },
+ {
+  "id": "2026-11-15-w3",
+  "time": "2026-11-15T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "黄金录得数月来最差一周:周跌4.7%至US$3,884.77,美元走强与加息押注压低金价",
+   "en": "Gold posts its worst week in months: down 4.7% to US$3,884.77 as a stronger dollar and rate-hike bets weigh"
+  },
+  "analysis": {
+   "zh": "据Investing.com,现货黄金周五收于US$3,884.77,单周下跌4.7%,逼近13个月低位;美元指数周升1.1%。10月非农就业增加16.5万人,远高于预期的6.5万人;10月CPI月升0.4%,高于预期的0.3%。布伦特原油周五收于US$96.16,周跌逾2%。黄金不付利息,利率越高,持有它的机会成本就越明显。",
+   "en": "According to Investing.com, spot gold settled at US$3,884.77 on Friday, down 4.7% on the week and near a 13-month low, while the US Dollar Index gained 1.1%. October payrolls rose 165,000 against a 65,000 consensus, and October CPI rose 0.4% on the month versus 0.3% expected. Brent settled at US$96.16, down more than 2% on the week. Gold pays no interest, so the higher rates climb, the more obvious the opportunity cost of holding it."
+  },
+  "dda": {
+   "zh": "黄金这类资产短期波动可能很大。通过定期定额(DDA)投资多元资产的信托基金,可以让单一资产的起落对整体影响较小。",
+   "en": "Assets like gold can swing sharply in the short term. Regular (DDA) investing in multi-asset unit trusts can keep any single asset's ups and downs from dominating the whole."
+  },
+  "prs": {
+   "zh": "退休规划讲究长期分散。黄金价格的短期起落不需要改变退休目标,可以在定期检视时,留意整体资产是否仍符合期限与风险承受度。PRS每年最高RM3,000的税务减免仍是稳定供款的好帮手。",
+   "en": "Retirement planning is about long-term diversification. Short-term gold moves need not change retirement goals; at regular reviews, check that the overall mix still suits your time horizon and risk tolerance. The PRS tax relief of up to RM3,000 a year remains a steady-contribution incentive."
+  },
+  "lump": {
+   "zh": "价格大跌后想单笔入场的人,可以先问自己:是因为目标,还是因为价格?一般建议分阶段投入并留意单一资产的集中度。",
+   "en": "If a sharp fall tempts a lump-sum entry, ask whether the reason is your goal or just the price. Phasing in and watching concentration in any single asset is a generally sensible habit."
+  },
+  "bond": {
+   "zh": "金价走弱背后的高利率与强美元,同样可能影响新兴市场资金流向与令吉;大马债券基金受国内通胀与国家银行政策影响更直接。",
+   "en": "The high rates and strong dollar behind gold's slide may also affect emerging-market flows and the ringgit, while Malaysian bond funds are more directly shaped by domestic inflation and Bank Negara policy."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860"
+  }
+ },
+ {
+  "id": "2026-11-15-w4",
+  "time": "2026-11-15T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "英伟达周跌约12%、市值跌破US$4万亿:汇丰降评级至持有,AMD、博通同步下挫",
+   "en": "Nvidia falls about 12% on the week and drops below US$4 trillion: HSBC downgrades to hold as AMD and Broadcom slide too"
+  },
+  "analysis": {
+   "zh": "据雅虎财经周五收盘报道,黄仁勋辞任CEO后,CFO Colette Kress出任临时CEO;汇丰把英伟达评级降至持有,目标价由US$365降至US$170。周五AMD跌约9%、博通约6%、英特尔约5%,英伟达本周跌约12%,市值收于US$4万亿以下。英伟达将于周二收市后公布业绩。当班长换人,全班的表现就成了大家关注的焦点。",
+   "en": "Yahoo Finance's Friday close report says CFO Colette Kress is interim CEO after Jensen Huang's resignation, and HSBC cut Nvidia to hold with a target of US$170 from US$365. On Friday AMD fell about 9%, Broadcom about 6% and Intel about 5%; Nvidia lost about 12% on the week and closed below a US$4 trillion market cap. It reports after Tuesday's close. When the class monitor changes, the whole class's performance becomes the focus."
+  },
+  "dda": {
+   "zh": "单一公司的财报与人事消息,容易引发短期大幅波动。定期定额(DDA)投资分散的信托基金,通常不需要因为某家公司的财报日而改变节奏。",
+   "en": "News about one company's earnings or management can trigger sharp short-term swings. Regular (DDA) investing in diversified unit trusts generally does not need to change its rhythm because of one company's report day."
+  },
+  "prs": {
+   "zh": "退休资金的时间跨度很长,不必因一周的科技股起伏调整计划;定期检视组合是否过度集中在少数热门股,会更有意义。",
+   "en": "Retirement money has a long horizon, so one week of tech-stock swings need not change the plan; reviewing whether a portfolio is overly concentrated in a few popular stocks is more meaningful."
+  },
+  "lump": {
+   "zh": "单笔资金可以考虑分阶段投入,并检查科技龙头在整体组合中的占比是否过于集中,而不是押注财报结果。",
+   "en": "A lump sum may be phased in, and it is worth checking whether tech leaders make up too concentrated a share of the portfolio, rather than betting on the earnings result."
+  },
+  "bond": {
+   "zh": "芯片股的波动对大马债券基金的直接影响有限,但可能影响全球风险情绪;债券在组合中仍可作为平衡力量。",
+   "en": "Chip-stock swings have limited direct effect on Malaysian bond funds, though they may influence global risk sentiment; bonds can still act as a balancer in a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+  }
+ },
+ {
+  "id": "2026-11-15-w5",
+  "time": "2026-11-15T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时隆综指11月11日连跌三日、收1,595.19点,外资净卖出RM1.84亿,令吉一度弱至4.0755",
+   "en": "FBM KLCI falls for a third day to 1,595.19 on Nov. 11 as foreigners net sell RM184 million and the ringgit weakens to 4.0755"
+  },
+  "analysis": {
+   "zh": "据The Star,富时隆综指11月11日下跌8.88点或0.55%,收1,595.19点,盘中区间为1,588.75至1,602.54;周二外资净卖出RM1.84亿,本地机构净买RM5,500万、散户净买RM1.29亿。令吉兑美元跌0.48%至4.0755,为一周低位。较早前,国家银行在11月5日把隔夜政策利率(OPR)维持在2.75%,当天指数收1,635.86点。外资卖出像客人提早离场,本地买家则在场内接棒。",
+   "en": "According to The Star, the FBM KLCI fell 8.88 points or 0.55% to 1,595.19 on Nov. 11, within a 1,588.75 to 1,602.54 range. Foreigners net sold RM184 million on Tuesday, while local institutions net bought RM55 million and retail investors RM129 million. The ringgit slipped 0.48% to 4.0755 against the US dollar, a one-week low. Earlier, Bank Negara kept the OPR at 2.75% on Nov. 5, when the index closed at 1,635.86. Foreign selling is like guests leaving early while local buyers step in to hold the floor."
+  },
+  "dda": {
+   "zh": "本地股市走弱时,定期定额(DDA)仍按纪律投入,低价时可累积较多单位。信托基金顾问通常建议把重点放在长期目标,而不是每天的指数点数。",
+   "en": "When the local market is weak, disciplined regular (DDA) investing may accumulate more units at lower prices. A unit trust consultant will usually suggest focusing on long-term goals rather than daily index points."
+  },
+  "prs": {
+   "zh": "退休规划的核心是时间。大马股市短期走弱,不需要改变退休目标;PRS每年最高RM3,000的税务减免,仍可与稳定供款一起考虑。",
+   "en": "Time is the heart of retirement planning. A weak local market in the short term need not change the retirement goal; the PRS tax relief of up to RM3,000 a year can still be considered alongside steady contributions."
+  },
+  "lump": {
+   "zh": "单笔资金进入大马或区域市场时,可以考虑分批投入以分散入场时点风险,并检查自己在单一市场或行业的集中程度。",
+   "en": "When putting a lump sum into Malaysian or regional markets, consider phasing in to spread timing risk and check concentration in any single market or sector."
+  },
+  "bond": {
+   "zh": "国家银行把OPR维持在2.75%,通常有利于利率环境保持稳定;令吉与外资流向若出现波动,可能影响大马政府债券(MGS)与企业债券的收益率。债券基金仍是组合中的平衡角色。",
+   "en": "With Bank Negara holding the OPR at 2.75%, the rate environment is generally steadier; swings in the ringgit and foreign flows may influence MGS and corporate bond yields. Bond funds remain a balancer in the portfolio."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/11/fbm-klci-slips-below-1600-as-losing-streak-extends-to-third-day"
+  }
+ },
+ {
+  "id": "2026-11-15-w6",
+  "time": "2026-11-15T09:00:00+08:00",
+  "tags": [
+   "us",
+   "fed"
+  ],
+  "title": {
+   "zh": "下周美股日程:周二英伟达、家得宝、迪士尼财报与零售销售,周三联储局会议纪要,周四沃尔玛财报",
+   "en": "The week ahead on Wall Street: Nvidia, Home Depot, Disney and retail sales Tuesday, FOMC minutes Wednesday, Walmart Thursday"
+  },
+  "analysis": {
+   "zh": "据CNBC周五的前瞻文章,美国东部时间周二公布10月零售销售与工业产出,英伟达、家得宝和迪士尼当天公布财报;周三下午2点公布联储局会议纪要,也是该周唯一列出的联储局活动,当天还有Target、Lowe's、TJX等财报;周四沃尔玛、Intuit财报,Anthropic预计开始交易;周五是密歇根大学消费者信心终值。文章也提到,本周主要指数录得8月以来最佳一周。下周像一张密集的考试时间表,每一科都可能影响市场情绪。",
+   "en": "According to CNBC's Friday preview, October retail sales and industrial production come out Tuesday (ET), with Nvidia, Home Depot and Disney reporting that day. FOMC minutes follow at 2 p.m. Wednesday, the only Fed event listed, alongside Target, Lowe's and TJX earnings. Thursday brings Walmart, Intuit and Ross Stores results with Anthropic expected to begin trading, and Friday the final University of Michigan sentiment reading. The piece also notes the major averages posted their best week since August. Next week is like a packed exam timetable, with each paper able to sway market mood."
+  },
+  "dda": {
+   "zh": "日程密集的一周,市场可能因单一数据而来回摆动。定期定额(DDA)按固定日期投入,可以避免为了追逐某一天的消息而判断入场时点。",
+   "en": "A packed week can make markets swing on a single data point. Regular (DDA) investing on fixed dates avoids the temptation to time entries around any one day's news."
+  },
+  "prs": {
+   "zh": "会议纪要与零售数据属于短期信号,退休规划更看重长期习惯。定期检视供款与目标,并善用PRS每年最高RM3,000的税务减免。",
+   "en": "Minutes and retail data are short-term signals, whereas retirement planning leans on long-term habits. Review contributions and goals regularly and make use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "事件密集的周期,单笔资金一般可以考虑分阶段投入以分散时点风险,并先确认金额、期限与风险承受度是否匹配。",
+   "en": "In an event-heavy period, a lump sum may be phased in to spread timing risk, after first confirming that amount, horizon and risk tolerance match."
+  },
+  "bond": {
+   "zh": "美国零售销售与联储局会议纪要可能影响利率预期,进而影响美债收益率与资金流向;大马债券基金还要看国家银行政策和令吉走势,债券仍是组合的平衡角色。",
+   "en": "US retail sales and the FOMC minutes may shift rate expectations and thereby Treasury yields and capital flows; Malaysian bond funds also depend on Bank Negara policy and the ringgit, and bonds remain a portfolio balancer."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html"
+  }
+ }
+]
