@@ -296,6 +296,186 @@ window.INSIGHTS = [].concat(
   }
 ],
 [
+  {
+    "id": "2026-11-16-a1",
+    "time": "2026-11-16T17:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "台股周一收盘暴跌6.03%,报41,040.08点",
+      "en": "Taiwan shares close down 6.03% on Monday at 41,040.08"
+    },
+    "analysis": {
+      "zh": "据中央社(Focus Taiwan),台湾加权指数周一收盘下跌2,635.04点,即6.03%,报41,040.08点,成交额约新台币8,450.6亿元。这是一次相当剧烈的单日波动,好比一艘平稳航行的船突然遇上大浪,让不少投资者措手不及。",
+      "en": "According to Focus Taiwan (CNA), the Taiex closed down 2,635.04 points, or 6.03%, at 41,040.08 on Monday, with turnover of about NT$845.06 billion. It is a sharp one-day swing, like a steadily sailing ship suddenly meeting a big wave."
+    },
+    "dda": {
+      "zh": "单日大跌最容易让人想停止投资。定期定额(DDA)按固定节奏进行,通常有助于避免因为一天的行情而打乱长期计划。",
+      "en": "A sharp one-day fall makes it tempting to stop investing. Regular (DDA) investing at a fixed rhythm may help avoid derailing a long-term plan over a single day's move."
+    },
+    "prs": {
+      "zh": "退休规划的期限很长,单日波动通常不是主角。可以顺便了解PRS基金是否有亚洲科技股的比重,并记得每年最高RM3,000的PRS税务减免。",
+      "en": "Retirement planning has a long horizon, so a single day's swing is usually not the main story. It may be a good moment to see whether your PRS fund holds Asian tech, and to remember the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "市场急跌时,单一地区或主题的集中度风险会更明显。分批投入可以分散入市时机风险,金额也应符合个人目标与风险承受度。",
+      "en": "A sharp fall highlights concentration risk in a single region or theme. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "这主要是台湾股市的消息,对马来西亚债券基金(MGS、企业债与伊斯兰债券)的直接影响有限。股市波动加大时,债券基金一般扮演组合平衡者的角色,但资金避险流向也可能间接影响令吉。",
+      "en": "This is mainly a Taiwan equity story, so the direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk) is limited. When equity swings widen, bond funds generally act as a portfolio balancer, although risk-off flows may indirectly touch the ringgit."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202611160008"
+    }
+  },
+  {
+    "id": "2026-11-16-a2",
+    "time": "2026-11-16T17:00:00+08:00",
+    "tags": [
+      "tech",
+      "cn"
+    ],
+    "title": {
+      "zh": "台湾央行总裁:黄仁勋离任对台湾供应商只有“短期”冲击",
+      "en": "Taiwan central bank chief: Jensen Huang's exit to have only a 'short-term' impact on Taiwan suppliers"
+    },
+    "analysis": {
+      "zh": "据中央社,台湾央行总裁杨金龙表示,黄仁勋辞去英伟达CEO一职,预计只会给台湾的AI供应商带来“短期动荡”,但在英伟达确定新任CEO之前,不确定性仍会持续。台湾向英伟达、AMD和谷歌供应AI相关设备。该报道还指出,台股上周大涨约10%,此前一周曾大幅下挫。",
+      "en": "According to CNA, Taiwan central bank Governor Yang Chin-long said Jensen Huang's resignation as Nvidia CEO should cause only 'short-term turbulence' for Taiwan's AI suppliers, though uncertainty will persist until Nvidia names a new CEO. Taiwan supplies AI-related devices to Nvidia, AMD and Google. The report adds that the Taiex rose about 10% last week after heavy losses the week before."
+    },
+    "dda": {
+      "zh": "一家龙头公司的领导层变动,会牵动整条供应链。长期投资者通常更看重分散,而定期定额(DDA)的固定节奏有助于平均入场成本。",
+      "en": "A leadership change at a lead company ripples through its supply chain. Long-term investors generally focus on diversification, and the fixed rhythm of regular (DDA) investing may help average the entry cost."
+    },
+    "prs": {
+      "zh": "退休投资重在长期。可以了解自己的PRS基金在科技与AI主题上的比重是否与退休年期相符,并别忘了每年最高RM3,000的税务减免。",
+      "en": "Retirement investing is about the long run. It may help to see whether your PRS fund's tech and AI exposure fits your retirement timeline, and to remember the tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "单一公司的消息就能带动整个主题大幅波动,提醒我们检查是否过度集中。分批投入可分散时机风险,金额应符合个人目标与风险承受度。",
+      "en": "A single company's news can swing a whole theme, a reminder to check for over-concentration. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "这是科技供应链的消息,对马来西亚债券基金的直接影响有限。债券基金一般在股市波动时扮演组合平衡者的角色。",
+      "en": "This is a tech supply-chain story with limited direct effect on Malaysian bond funds. Bond funds generally act as a portfolio balancer when equities swing."
+    },
+    "source": {
+      "name": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/business/202611160007"
+    }
+  },
+  {
+    "id": "2026-11-16-a3",
+    "time": "2026-11-16T17:00:00+08:00",
+    "tags": [
+      "tech"
+    ],
+    "title": {
+      "zh": "亚洲芯片股在英伟达业绩前下滑:Advantest跌约10%,SK海力士跌4.2%",
+      "en": "Asian chip stocks slide ahead of Nvidia earnings: Advantest down about 10%, SK Hynix down 4.2%"
+    },
+    "analysis": {
+      "zh": "据Investing.com,投资者在AI相关股票上减持,日经225跌1.6%、韩国KOSPI跌2.6%(报道撰写时)。Advantest约跌10%、Lasertec跌逾9%、东京电子跌5.2%、SK海力士跌4.2%、三星电子跌2.7%、台积电跌2.1%。英伟达周二公布财报,分析师预期营收约1,090亿美元,市场将盯紧AI加速器需求的前景指引。",
+      "en": "According to Investing.com, investors cut AI-related exposure, with Japan's Nikkei 225 down 1.6% and South Korea's KOSPI down 2.6% at the time of writing. Advantest fell about 10%, Lasertec more than 9%, Tokyo Electron 5.2%, SK Hynix 4.2%, Samsung Electronics 2.7% and TSMC 2.1%. Nvidia reports on Tuesday, with analysts expecting revenue of about $109 billion and the market focused on guidance for AI accelerator demand."
+    },
+    "dda": {
+      "zh": "财报前后股价常出现大幅波动。定期定额(DDA)不需要预测单次事件的结果,持续的节奏通常有助于降低情绪化决策。",
+      "en": "Prices often swing around earnings. Regular (DDA) investing does not need you to predict the outcome of a single event, and a steady rhythm may help reduce emotional decisions."
+    },
+    "prs": {
+      "zh": "退休基金着眼数十年,不会因一次财报而改变方向。可以检查PRS基金的地区与行业分布,并善用每年最高RM3,000的PRS税务减免。",
+      "en": "Retirement funds look out over decades and need not change direction over one earnings report. You may check your PRS fund's regional and sector mix, and make use of the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "芯片股集中度高,一次性大额投入时更要留意时机风险。分批投入可以分散这类风险,并确认金额与风险承受度相符。",
+      "en": "Chip stocks are highly concentrated, so timing risk matters more for a large lump sum. Phasing in may spread that risk, and the amount should match your risk tolerance."
+    },
+    "bond": {
+      "zh": "这主要是股市消息,对马来西亚债券基金的直接影响有限。若市场情绪转向避险,债券基金一般可以起到平衡组合的作用。",
+      "en": "This is mainly an equity story with limited direct effect on Malaysian bond funds. If sentiment turns risk-off, bond funds generally help balance a portfolio."
+    },
+    "source": {
+      "name": "Investing.com",
+      "url": "https://investing.com/news/stock-market-news/asian-chip-stocks-slide-ahead-of-nvidia-earnings-5028327"
+    }
+  },
+  {
+    "id": "2026-11-16-a4",
+    "time": "2026-11-16T17:00:00+08:00",
+    "tags": [
+      "cn"
+    ],
+    "title": {
+      "zh": "恒指午后涨幅收窄,新世界发展因约250亿港元供股计划暴跌41%",
+      "en": "Hang Seng pares gains in the afternoon as New World slumps 41% on a nearly HK$25 billion share sale"
+    },
+    "analysis": {
+      "zh": "据英文虎报(The Standard)周一午后报道,恒生指数升116点或0.5%,报23,753点,成交额1,741亿港元;恒生科技指数跌0.3%至3,801点。新世界发展(0017)因计划以11供1的方式集资近250亿港元,供股价较上周五收市价折让81%,股价暴跌41%。上证综指跌0.87%至3,602点,深证成指跌2.5%至10,690点。(此为午后报道,非收市数据。)",
+      "en": "According to The Standard's Monday afternoon report, the Hang Seng Index was up 116 points, or 0.5%, at 23,753 on turnover of HK$174.1 billion, while the Hang Seng Tech Index fell 0.3% to 3,801. New World Development (0017) slumped 41% after planning to raise nearly HK$25 billion through an 11-for-1 share sale priced at an 81% discount to Friday's close. The Shanghai Composite fell 0.87% to 3,602 and the Shenzhen Component 2.5% to 10,690. (This is an afternoon report, not closing data.)"
+    },
+    "dda": {
+      "zh": "指数小涨、个股暴跌,说明分散投资的重要性。定期定额(DDA)投资于多元化的信托基金,通常有助于降低单一公司风险。",
+      "en": "A small index gain alongside a single-stock plunge shows why diversification matters. Regular (DDA) investing in diversified unit trusts may help reduce single-company risk."
+    },
+    "prs": {
+      "zh": "退休规划重视稳健与分散。可以了解PRS基金是否涵盖多个地区与行业,并记得每年最高RM3,000的PRS税务减免。",
+      "en": "Retirement planning favours steadiness and diversification. You may check that your PRS fund spans several regions and sectors, and remember the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "个股消息可能带来剧烈波动,提醒我们留意单一股票或行业的集中度。分批投入可分散时机风险,金额应符合个人目标。",
+      "en": "Single-stock news can cause sharp swings, a reminder to check concentration in one stock or sector. Phasing in may spread timing risk, and the amount should fit your goals."
+    },
+    "bond": {
+      "zh": "这是香港个股与股市的消息,对马来西亚债券基金的直接影响有限;债券基金一般在股市波动时扮演组合平衡者的角色。",
+      "en": "This is a Hong Kong stock and equity story with limited direct effect on Malaysian bond funds; bond funds generally act as a portfolio balancer when equities swing."
+    },
+    "source": {
+      "name": "The Standard",
+      "url": "https://www.thestandard.com.hk/finance/article/348629/Hang-Seng-pares-some-gains-in-afternoon-on-Monday-New-World-slumps-41-percent"
+    }
+  },
+  {
+    "id": "2026-11-16-a5",
+    "time": "2026-11-16T17:00:00+08:00",
+    "tags": [
+      "commodities",
+      "cn"
+    ],
+    "title": {
+      "zh": "亚洲股市普遍走低:日本经济萎缩、中国数据不佳,布伦特原油升至约96.40美元",
+      "en": "Asian shares broadly lower as Japan contracts and China data disappoint, Brent rises to about $96.40"
+    },
+    "analysis": {
+      "zh": "据Yahoo Finance(美联社)周一报道,韩国Kospi跌3.6%至5,100.25点,日经225跌2.4%至59,662.02点,上证综指跌1%至3,598.75点,澳洲ASX 200跌0.4%。报道提到日本经济最近一季萎缩,中国零售销售与工业生产数据令人失望;布伦特原油升0.6%至每桶96.40美元,远高于2月下旬伊朗战争爆发前约72美元的水平。",
+      "en": "According to Yahoo Finance (AP) on Monday, South Korea's Kospi fell 3.6% to 5,100.25, Japan's Nikkei 225 fell 2.4% to 59,662.02, the Shanghai Composite fell 1% to 3,598.75 and Australia's ASX 200 fell 0.4%. The report cites a contraction in Japan's economy last quarter and disappointing Chinese retail sales and industrial output; Brent crude rose 0.6% to $96.40 a barrel, well above about $72 in late February before the Iran war began."
+    },
+    "dda": {
+      "zh": "原油偏高与增长放缓同时出现,会让市场更难预测。定期定额(DDA)的固定节奏通常有助于在不确定时期保持纪律。",
+      "en": "High oil alongside slowing growth makes markets harder to read. The fixed rhythm of regular (DDA) investing may help maintain discipline in uncertain periods."
+    },
+    "prs": {
+      "zh": "油价与通胀会影响退休储蓄的长期购买力。持续供款并保持合适的资产组合通常比猜测短期走势更重要,别忘了每年最高RM3,000的PRS税务减免。",
+      "en": "Oil prices and inflation may affect the long-run purchasing power of retirement savings. Steady contributions and a suitable mix usually matter more than guessing short-term moves; remember the PRS tax relief of up to RM3,000 a year."
+    },
+    "lump": {
+      "zh": "增长放缓与高油价并存时,一次性投入的时机风险可能更明显。分批投入可以分散这类风险,并确认金额符合目标与风险承受度。",
+      "en": "With slowing growth and high oil together, timing risk on a lump sum can be more visible. Phasing in may spread that risk, and the amount should match your goals and risk tolerance."
+    },
+    "bond": {
+      "zh": "油价偏高可能推升通胀预期,进而影响利率走向和国家银行(BNM)的政策考量,这也可能牵动马来西亚债券基金(MGS、企业债与伊斯兰债券)的收益率。区域风险情绪转弱时,债券基金一般起到平衡组合的作用。",
+      "en": "Elevated oil may lift inflation expectations and so influence the rate outlook and Bank Negara's policy considerations, which may in turn move yields on Malaysian bond funds (MGS, corporate bonds and sukuk). When regional risk sentiment weakens, bond funds generally act as a portfolio balancer."
+    },
+    "source": {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html"
+    }
+  }
+],
+[
  {
   "id": "2026-11-15-w0",
   "kind": "summary",
