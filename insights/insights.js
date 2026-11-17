@@ -340,6 +340,187 @@ window.INSIGHTS = [].concat(
  }
 ],
 [
+ {
+  "id": "2026-11-17-a1",
+  "time": "2026-11-17T17:00:00+08:00",
+  "tags": [
+   "my",
+   "tech"
+  ],
+  "title": {
+   "zh": "美国对马来西亚等五国先进芯片出口实施许可证要求,大马科技股应声重挫",
+   "en": "US imposes licence requirement on advanced chip exports to Malaysia and four other countries; Malaysian tech stocks drop"
+  },
+  "analysis": {
+   "zh": "据The Edge Malaysia,美国商务部的临时最终规则即日生效,向马来西亚、新加坡、印尼、泰国和巴西出口、转出口先进半导体须申请许可证,数据中心与代工厂须做严格的客户尽职审查;总部设在美国的公司在符合申报要求下可获豁免。大马当局正调查Speedmatrix Sdn Bhd是否涉及英伟达AI芯片转运。MN Holdings、Critical Holdings等数据中心相关股跌近20%。这像是交通规则突然收紧,守规矩的车主也得多走一道手续。",
+   "en": "According to The Edge Malaysia, a US Commerce Department interim final rule, effective immediately, requires a licence to export or re-export advanced semiconductors to Malaysia, Singapore, Indonesia, Thailand and Brazil, and data centres and foundries must do thorough customer due diligence; companies headquartered in the US are exempt if they meet reporting requirements. Malaysian authorities are investigating Speedmatrix Sdn Bhd over possible diversion of Nvidia AI chips, and data-centre-linked stocks such as MN Holdings and Critical Holdings fell nearly 20%. It is like a sudden tightening of traffic rules: law-abiding drivers still have one more procedure to go through."
+  },
+  "dda": {
+   "zh": "消息提醒我们,单一行业的政策风险可能很突然。定期定额(DDA)配合分散投资,通常有助于减少对单一主题或单一消息的依赖。",
+   "en": "The news shows how abruptly policy risk can hit a single sector. Regular (DDA) investing combined with diversification may help reduce reliance on any one theme or headline."
+  },
+  "prs": {
+   "zh": "退休规划的时间以数十年计。可以检视PRS基金在大马科技与数据中心相关股票上的比重,而不是被单日跌幅牵着走;别忘了每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning runs over decades. It may help to review how much of a PRS fund sits in Malaysian tech and data-centre shares rather than being steered by one day's drop; also remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "政策消息引发的急跌,提醒我们留意单笔资金是否过度集中于某一主题。分批投入可以分散入市时机风险,金额应符合个人目标与风险承受度。",
+   "en": "A policy-driven sharp fall is a reminder to check whether a lump sum is too concentrated in one theme. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这主要是股市与科技行业的消息,对马来西亚债券基金(MGS、企业债与伊斯兰债券)的直接影响有限。若外资情绪转弱,可能间接影响令吉与债券流向;债券基金一般仍扮演组合平衡者的角色。",
+   "en": "This is mainly an equity and tech-sector story, so the direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk) is limited. If foreign sentiment weakens it may indirectly touch the ringgit and bond flows; bond funds generally still act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Edge Malaysia",
+   "url": "https://theedgemalaysia.com/node/826051"
+  }
+ },
+ {
+  "id": "2026-11-17-a2",
+  "time": "2026-11-17T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "港股午市下跌:恒指跌182点,百度因业绩失望跌近7%",
+   "en": "Hong Kong stocks lower at noon: Hang Seng down 182 points, Baidu falls nearly 7% on disappointing results"
+  },
+  "analysis": {
+   "zh": "据The Standard,恒生指数午市下跌182点(0.8%)至23,571点,恒生科技指数跌0.5%至3,784点,半日成交额1,079亿港元;百度因季度业绩令人失望跌6.8%。内地方面,上证指数持平于3,602点,深成指升0.7%。这是中午的报道,不是收盘数字。就像考试中途看成绩,最后结果可能不同。",
+   "en": "According to The Standard, the Hang Seng Index fell 182 points, or 0.8%, to 23,571 by noon, the Hang Seng Tech Index fell 0.5% to 3,784 and half-day turnover was HK$107.9 billion; Baidu dropped 6.8% after disappointing quarterly results. On the mainland the Shanghai Composite was flat at 3,602 and the Shenzhen Component rose 0.7%. These are midday figures, not the close, a bit like checking exam marks halfway through the paper."
+  },
+  "dda": {
+   "zh": "个别公司业绩令人失望时,股价可能大幅波动。定期定额(DDA)通过分散投资与固定节奏,通常有助于降低对单一公司消息的依赖。",
+   "en": "When one company's results disappoint, its share price can swing sharply. Regular (DDA) investing with diversification and a steady rhythm may help reduce dependence on any single company's news."
+  },
+  "prs": {
+   "zh": "若PRS基金含有中国或香港股票,可以了解其占比与分散程度;退休目标以长期为主,不必为午市数字过度紧张。",
+   "en": "If a PRS fund holds China or Hong Kong shares, it can help to understand the weighting and diversification; retirement goals are mainly long term, so there is no need to over-react to a midday number."
+  },
+  "lump": {
+   "zh": "单一市场的波动提醒我们检查集中度。分批投入可以分散时机风险,金额应符合个人目标与风险承受度。",
+   "en": "Swings in a single market are a reminder to check concentration. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股的个股消息对马来西亚债券基金的直接影响有限。债券基金一般在股市波动时起平衡作用,但地区风险情绪也可能间接影响资金流向与令吉。",
+   "en": "Individual Hong Kong share news has limited direct effect on Malaysian bond funds. Bond funds generally help balance a portfolio when equities swing, although regional risk sentiment may indirectly affect fund flows and the ringgit."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/348724/Hang-Seng-Index-falls-at-noon-on-Tuesday-Baidu-down-nearly-7-percent"
+  }
+ },
+ {
+  "id": "2026-11-17-a3",
+  "time": "2026-11-17T17:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "英伟达据报将停止向把过半算力租给中国客户的数据中心供货",
+   "en": "Nvidia to halt chip sales to data centres renting over half their capacity to China, report says"
+  },
+  "analysis": {
+   "zh": "据Investing.com引述CNBC,英伟达已告知客户,将停止向把超过一半GPU出租给中国公司的数据中心运营商供货;美国商务部工业与安全局周一发布临时最终规则,防止中国企业远程使用AI芯片。财长贝森特周日也呼吁英伟达“大幅改组”。英伟达将在周二美股收盘后公布财报。这好比房东开始查核租客的真实用途,生意模式也要跟着调整。",
+   "en": "According to Investing.com, citing CNBC, Nvidia has told customers it will stop selling chips to data-centre operators that rent more than half of their GPUs to Chinese companies; the US Commerce Department's Bureau of Industry and Security issued an interim final rule on Monday to stop Chinese firms accessing AI chips remotely, and Treasury Secretary Scott Bessent called for a 'dramatic shakeup' at Nvidia on Sunday. Nvidia reports after Tuesday's US close. It is like a landlord starting to check what tenants really use the flat for, so the business model has to adjust."
+  },
+  "dda": {
+   "zh": "科技龙头的消息常常左右整个市场情绪。定期定额(DDA)的好处是不必预测财报或政策结果,按计划持续投入即可。",
+   "en": "News on tech leaders often drives the whole market's mood. A benefit of regular (DDA) investing is that you need not predict earnings or policy outcomes; you simply keep investing on schedule."
+  },
+  "prs": {
+   "zh": "许多PRS股票基金都持有全球科技龙头。可以了解基金的集中度,并把重点放在退休年限与风险承受度,而不是单一公司的财报。",
+   "en": "Many PRS equity funds hold global tech leaders. It may help to understand a fund's concentration and focus on your retirement horizon and risk tolerance rather than one company's results."
+  },
+  "lump": {
+   "zh": "财报前后波动可能加大。分批投入可以分散时机风险,同时检查自己是否过度集中在AI主题,金额应符合风险承受度。",
+   "en": "Volatility may widen around earnings. Phasing in may spread timing risk, and it is worth checking whether you are too concentrated in the AI theme; the amount should fit your risk tolerance."
+  },
+  "bond": {
+   "zh": "这主要是美国科技股的消息,对马来西亚债券基金的直接影响有限。风险情绪转弱时资金可能流向较稳健资产,债券基金一般起组合平衡作用。",
+   "en": "This is mainly a US tech story, so the direct effect on Malaysian bond funds is limited. When risk sentiment weakens money may move to steadier assets, and bond funds generally play a balancing role."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/nvidia-to-halt-chip-sales-to-data-centers-renting-over-half-to-china--report-5031871"
+  }
+ },
+ {
+  "id": "2026-11-17-a4",
+  "time": "2026-11-17T17:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "供应过剩预期压过海湾紧张局势,油价微跌:布伦特约92美元",
+   "en": "Oil slips as supply-surplus outlook outweighs Gulf tensions: Brent around $92"
+  },
+  "analysis": {
+   "zh": "据CNBC,布伦特原油跌44美分(0.5%)至每桶92.00美元,WTI跌至85.28美元。国际能源署预计第四季度市场将回到供应过剩,因中东出口恢复快于需求。海湾与霍尔木兹海峡的袭击仍在持续,但分析师称风险溢价暂居次位。美国战略石油储备降至2.764亿桶,为1982年8月以来最低。OPEC+将于11月29日开会决定2027年产量政策。",
+   "en": "According to CNBC, Brent crude fell 44 cents, or 0.5%, to $92.00 a barrel and WTI to $85.28. The International Energy Agency expects the market to return to surplus in the fourth quarter as Middle East exports recover faster than demand. Attacks in the Gulf and the Strait of Hormuz continue, but an analyst says the risk premium is taking a back seat for now. US strategic reserve stocks fell to 276.4 million barrels, the lowest since August 1982, and OPEC+ meets on November 29 to decide 2027 output policy."
+  },
+  "dda": {
+   "zh": "油价波动会影响通胀预期与企业成本,但很难准确预测。定期定额(DDA)不依赖判断短期油价,通常有助于保持投资纪律。",
+   "en": "Oil swings affect inflation expectations and company costs but are hard to predict. Regular (DDA) investing does not rely on calling short-term oil prices and may help maintain discipline."
+  },
+  "prs": {
+   "zh": "油价与通胀会影响退休后的生活成本。规划时可把通胀纳入考虑,并定期检视退休目标;PRS每年最高RM3,000的税务减免仍是实用的规划工具。",
+   "en": "Oil prices and inflation affect the cost of living in retirement. Planning may factor in inflation and review retirement goals periodically; the PRS tax relief of up to RM3,000 a year remains a practical planning tool."
+  },
+  "lump": {
+   "zh": "能源价格受地缘政治影响,可能突然转向。分批投入可以分散时机风险,并检查组合是否过度集中在能源或某一主题。",
+   "en": "Energy prices respond to geopolitics and can turn suddenly. Phasing in may spread timing risk, and it helps to check that a portfolio is not too concentrated in energy or any one theme."
+  },
+  "bond": {
+   "zh": "油价走低通常有助于缓和通胀压力,而通胀与国家银行的OPR走向会影响马来西亚债券基金。不过马来西亚是油气出口国,油价对国家收入与令吉也有影响,实际效果取决于多种因素。",
+   "en": "Lower oil prices generally ease inflation pressure, and inflation and Bank Negara's OPR path affect Malaysian bond funds. Malaysia is also an oil and gas exporter, so oil prices touch national revenue and the ringgit too; the actual effect depends on many factors."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://cnbc.com/2026/11/17/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions.html"
+  }
+ },
+ {
+  "id": "2026-11-17-a5",
+  "time": "2026-11-17T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "us"
+  ],
+  "title": {
+   "zh": "亚洲股市随华尔街下跌:韩国与台湾跌逾2%,日经跌1.2%",
+   "en": "Asian shares follow Wall Street lower: Korea and Taiwan down over 2%, Nikkei down 1.2%"
+  },
+  "analysis": {
+   "zh": "据路透社经Yahoo Finance报道,周二亚洲股市受科技股拖累:韩国KOSPI与台湾市场各跌逾2%,日经指数跌1.2%,MSCI亚太(日本除外)指数跌1.5%。美国限制中国取得先进AI芯片,包括通过泰国、马来西亚等地的数据中心远程取得算力。英伟达将于周二美股收盘后公布财报,UBS称期权隐含约7.8%的波动。就像全班等着公布大考成绩,大家的情绪都绷得很紧。",
+   "en": "According to Reuters via Yahoo Finance, Asian shares fell on Tuesday on tech weakness: South Korea's KOSPI and Taiwan's market each lost more than 2%, Japan's Nikkei dropped 1.2% and the MSCI Asia-Pacific index excluding Japan lost 1.5%. The US is restricting China's access to advanced AI chips, including remote computing power through data centres in places like Thailand and Malaysia. Nvidia reports after Tuesday's US close, with UBS citing an implied move of about 7.8%. It is like a class waiting for exam results, with everyone's nerves on edge."
+  },
+  "dda": {
+   "zh": "区域股市同步下跌,提醒我们单日行情只是长期旅程的一小段。定期定额(DDA)按固定节奏投入,通常有助于减少情绪化决定。",
+   "en": "A region-wide fall reminds us that one day is a small part of a long journey. Regular (DDA) investing at a fixed rhythm may help reduce emotional decisions."
+  },
+  "prs": {
+   "zh": "退休规划着眼十年、二十年后。亚洲科技股波动时,可以看看PRS基金的区域与行业分散程度,而不是频繁调整。",
+   "en": "Retirement planning looks ten or twenty years ahead. When Asian tech swings, it may help to review a PRS fund's regional and sector diversification rather than adjusting frequently."
+  },
+  "lump": {
+   "zh": "多个市场同日走弱,显示集中在单一主题的风险。分批投入可以分散时机风险,金额应符合个人目标与风险承受度。",
+   "en": "Several markets weakening on the same day shows the risk of concentrating in one theme. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "亚洲股市下跌对马来西亚债券基金的直接影响有限,但区域避险情绪可能影响令吉与外资流向。债券基金一般在股市波动时担任平衡角色。",
+   "en": "The Asian equity fall has limited direct effect on Malaysian bond funds, but regional risk-off sentiment may affect the ringgit and foreign flows. Bond funds generally play a balancing role when equities swing."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-stumble-tech-weakness-012906483.html"
+  }
+ }
+],
+[
   {
     "id": "2026-11-16-m0",
     "kind": "summary",
