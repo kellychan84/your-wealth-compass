@@ -336,6 +336,187 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-11-18-a1",
+  "time": "2026-11-18T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "港股周三收跌0.9%至23,294,京东财报失望大跌7.1%",
+   "en": "Hang Seng closes down 0.9% at 23,294 as JD.com plunges 7.1% on disappointing results"
+  },
+  "analysis": {
+   "zh": "据The Standard,恒指周三收跌213点(0.9%)至23,294,恒生科技指数跌0.6%至3,736,成交额1,772亿港元。京东(9618)公布季度业绩后下挫7.1%,科技股在美股隔夜下跌后拖累大市;上证综指持平于3,587,深证成指升0.2%。就像一队人里有几位领跑者突然放慢,整体速度自然受影响。",
+   "en": "According to The Standard, the Hang Seng Index closed down 213 points (0.9%) at 23,294 on Wednesday and the Hang Seng Tech Index fell 0.6% to 3,736, on turnover of HK$177.2 billion. JD.com (9618) dropped 7.1% after its quarterly results disappointed, and tech shares dragged after Wall Street's overnight sell-off; the Shanghai Composite was flat at 3,587 and the Shenzhen Component rose 0.2%. It is like a few front-runners suddenly slowing, which pulls down the whole group's pace."
+  },
+  "dda": {
+   "zh": "单一公司财报带来的大跌,提醒我们个股波动可能很大。定期定额(DDA)投资分散在多个市场与公司的信托基金,通常比押注单一股票更平稳。",
+   "en": "A sharp drop on one company's results shows how large single-stock swings can be. Regular (DDA) investing in a unit trust spread across many markets and companies is generally steadier than relying on one stock."
+  },
+  "prs": {
+   "zh": "对于以数十年为期的退休规划,中国与香港市场的短期起伏通常只是长路上的一小段。可以趁机检视PRS基金的地区分布,也别忘了每年最高RM3,000的PRS税务减免。",
+   "en": "For retirement horizons of decades, short-term moves in China and Hong Kong are usually a small part of a long road. It may be a good time to review the regional mix of your PRS fund, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "科技股波动较大时,单笔投资要留意时机风险与集中度。分批投入可以分散入市时机,金额也应符合个人目标和风险承受度。",
+   "en": "When tech shares swing, lump sum investing carries timing risk and concentration risk. Phasing in may spread entry timing, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股科技股的走势对马来西亚债券基金(MGS、企业债与伊斯兰债券)的直接影响有限。股市波动时,债券基金一般扮演组合平衡者的角色。",
+   "en": "Moves in Hong Kong tech stocks have limited direct effect on Malaysian bond funds (MGS, corporate bonds and sukuk). When equities swing, bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/348883/Hang-Seng-closes-lower-as-tech-drags-JDcom-down-7-percent-post-results"
+  }
+ },
+ {
+  "id": "2026-11-18-a2",
+  "time": "2026-11-18T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股周三反弹0.26%至40,194.91,成交额约1.03万亿新台币",
+   "en": "Taiwan shares close up 0.26% at 40,194.91 on turnover of about NT$1.03 trillion"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan,加权指数周三收涨102.80点(0.26%)至40,194.91,成交额约1.03万亿新台币(约312.6亿美元);早盘一度高开627.98点至40,720.09。这是台股在周二大跌2.31%之后的小幅回升,涨幅收窄也显示买盘仍谨慎。就像跌深后的轻轻回弹,方向还没完全明朗。",
+   "en": "According to Focus Taiwan, the Taiex closed up 102.80 points (0.26%) at 40,194.91 on Wednesday on turnover of about NT$1.03 trillion (US$31.26 billion); it had opened up 627.98 points at 40,720.09. It is a small rebound after Tuesday's 2.31% drop, and the narrowing of gains shows buyers are still cautious. Think of a gentle bounce after a steep fall, with the direction not yet clear."
+  },
+  "dda": {
+   "zh": "科技股一天大跌、隔天小涨,正是短期波动的典型。定期定额(DDA)按固定节奏投入,通常有助于避免因单日行情而情绪化决定。",
+   "en": "A big drop one day and a small rebound the next is typical short-term volatility. Regular (DDA) investing at a fixed rhythm may help avoid emotional decisions driven by a single day's move."
+  },
+  "prs": {
+   "zh": "退休规划着眼长期,科技与半导体只是全球基金里的一部分。可以看看PRS基金的行业分布,并留意每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning looks to the long term, and tech and semiconductors are only one part of a global fund. You may review the sector mix of your PRS fund and note the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "科技股回弹力度不明时,单笔投资者可考虑分批入市以分散时机风险,并检查是否过度集中于同一行业。",
+   "en": "With the strength of the tech rebound unclear, lump sum investors may consider phasing in to spread timing risk and check for concentration in one sector."
+  },
+  "bond": {
+   "zh": "台股的涨跌对马来西亚债券基金(MGS、企业债与伊斯兰债券)影响间接。债券基金的利率与信用因素与股市不同,一般能在波动时提供平衡。",
+   "en": "Taiwan's moves affect Malaysian bond funds (MGS, corporate bonds and sukuk) only indirectly. Their drivers, interest rates and credit, differ from equities, so they may generally help balance a portfolio during swings."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611180011"
+  }
+ },
+ {
+  "id": "2026-11-18-a3",
+  "time": "2026-11-18T17:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "英伟达财报细节:下季指引1,300亿美元,供应承诺增至3,900亿美元,分析师仍提醒波动",
+   "en": "Nvidia details: $130 billion guidance, supply commitments up to $390 billion, analysts still flag volatility"
+  },
+  "analysis": {
+   "zh": "据CNBC,英伟达第三季营收1,158.4亿美元,高于预期的1,091亿美元;第四季指引1,300亿美元,高于LSEG共识的1,251亿美元,盘后股价升逾5%。供应承诺从2,790亿美元升至3,900亿美元,中国约占营收2%。Melius的Ben Reitzes估计多出的一周贡献90至100亿美元的环比增长;摩根士丹利的Michael Wilson称业绩\"somewhat expected\"。财报亮眼,但新管理层与新出口许可规定仍带来不确定性。",
+   "en": "According to CNBC, Nvidia's third-quarter revenue was $115.84 billion against expectations of $109.10 billion; fourth-quarter guidance of $130 billion topped the $125.1 billion LSEG consensus, and shares rose more than 5% after hours. Supply commitments rose to $390 billion from $279 billion, and China was about 2% of sales. Melius Research's Ben Reitzes estimated the extra week added $9-10 billion to sequential growth, and Morgan Stanley's Michael Wilson called the results \"somewhat expected\". The numbers are strong, but new leadership and the new chip export licence rules still bring uncertainty."
+  },
+  "dda": {
+   "zh": "AI龙头业绩强劲,但股价近期波动很大。定期定额(DDA)投资全球科技或股票型信托基金时,分散持有多家公司通常比依赖单一龙头更稳健。",
+   "en": "Results from the AI leader are strong, yet the share price has swung a lot lately. When regular (DDA) investing in global tech or equity unit trusts, holding many companies is generally steadier than relying on one leader."
+  },
+  "prs": {
+   "zh": "许多退休基金间接持有AI相关大型科技股。可以了解自己的PRS基金持有哪些行业,并记得每年最高RM3,000的PRS税务减免。",
+   "en": "Many retirement funds hold AI-related large tech stocks indirectly. You may check which sectors your PRS fund holds, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "在单一热门主题上单笔投入需留意集中度与时机风险。分批投入可分散时机风险,金额应符合个人目标与风险承受度。",
+   "en": "Investing a lump sum in one popular theme calls for care about concentration and timing risk. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这主要是美国科技股的消息,对马来西亚债券基金的直接影响有限;但美国出口许可规定若影响大马科技业,可能间接影响企业债的信用观察。债券基金在股市波动时一般扮演平衡者的角色。",
+   "en": "This is mainly a US tech story with limited direct effect on Malaysian bond funds; if the US export licence rules hurt Malaysian tech firms, credit watchers may follow corporate bonds more closely. Bond funds generally act as a balancer when equities swing."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html"
+  }
+ },
+ {
+  "id": "2026-11-18-a4",
+  "time": "2026-11-18T17:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "令吉周三早盘小幅走强至4.0910,市场等待第三季GDP数据",
+   "en": "Ringgit edges higher to 4.0910 as the market awaits third-quarter GDP data"
+  },
+  "analysis": {
+   "zh": "据The Star引述Bernama,令吉周三上午8时报4.0910/0965兑美元,周二收盘为4.0915/0960;马来西亚第三季GDP数据将于中午公布。Bank Muamalat首席经济学家Mohd Afzanizam Abdul Rashid表示,强于预期的GDP数据可能支撑令吉,并预计令吉今天将在窄幅内交易。美元指数高企于103.550,市场也留意美联储12月会议和美国芯片出口限制。就像比赛前夕的选手,先观望再出发。",
+   "en": "According to The Star citing Bernama, the ringgit opened at 4.0910/0965 against the US dollar at 8 am versus Tuesday's close of 4.0915/0960, with Malaysia's third-quarter GDP data due at noon. Bank Muamalat chief economist Dr Mohd Afzanizam Abdul Rashid said a stronger-than-expected GDP figure would likely support the ringgit, and expects it to trade in a narrow range today. The US Dollar Index was elevated at 103.550 as markets weigh the Fed's December meeting and US chip export curbs. It is like athletes waiting at the start line, watching before they move."
+  },
+  "dda": {
+   "zh": "令吉与经济数据的起伏,是投资环境的一部分。定期定额(DDA)投资海外资产的信托基金时,汇率可能影响以令吉计算的回报,长期分批投入通常能平均入市成本。",
+   "en": "Ringgit and economic data swings are part of the investing backdrop. When regular (DDA) investing in overseas unit trusts, exchange rates may affect returns in ringgit terms, and steady long-term instalments may average your entry cost."
+  },
+  "prs": {
+   "zh": "GDP反映经济的整体健康,与长期退休储蓄息息相关。可以回顾PRS基金的资产配置是否仍符合退休年限,并留意每年最高RM3,000的PRS税务减免。",
+   "en": "GDP reflects the economy's overall health, which matters for long-term retirement savings. You may review whether your PRS fund still suits your retirement timeline, and note the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "令吉与美元走势会影响海外资产以令吉计算的价值。单笔投资海外基金时,分批投入可分散汇率与入市时机的风险。",
+   "en": "The ringgit-dollar rate affects the ringgit value of overseas assets. For lump sum investing in overseas funds, phasing in may spread currency and timing risk."
+  },
+  "bond": {
+   "zh": "令吉走势与GDP数据会影响市场对国家银行利率路径与外资流向的看法,进而影响MGS收益率。国家银行11月5日维持隔夜政策利率(OPR)于2.75%,债券基金一般在利率稳定时较为平稳,但外资流向仍值得留意。",
+   "en": "Ringgit moves and GDP data shape views on Bank Negara's rate path and foreign flows, which in turn affect MGS yields. Bank Negara held the OPR at 2.75% on 5 November; bond funds are generally steadier when rates are stable, though foreign flows are worth watching."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/18/ringgit-edges-higher-ahead-of-gdp-data"
+  }
+ },
+ {
+  "id": "2026-11-18-a5",
+  "time": "2026-11-18T17:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "金价再度走低至约3,790美元,美联储加息预期与近5%的美债收益率压制",
+   "en": "Gold slides to about $3,790 as Fed hike bets and a near-5% Treasury yield weigh"
+  },
+  "analysis": {
+   "zh": "据Investing.com,现货黄金周三凌晨跌1.5%至约3,790.18美元,逼近14个月低位。市场押注美联储12月与1月各加息一码,4月前再加一次;圣路易斯联储的Alberto Musalem称春季前可能还需数次加息,纽约联储的John Williams称通胀回落至2%仍需努力。美国10年期国债收益率接近近二十年来最长的5%以上时段,黄金没有利息,因此承压。ANZ认为这是暂时的,并预计3,600美元附近有支撑。",
+   "en": "According to Investing.com, spot gold fell 1.5% to about $3,790.18 an ounce early Wednesday, approaching a 14-month low. Markets are pricing quarter-point Fed hikes in December and January and another by April; St. Louis Fed's Alberto Musalem said several more increases may be needed before spring, and New York Fed's John Williams said more work remains to bring inflation to 2%. The 10-year Treasury yield is nearing its longest stretch above 5% in almost two decades, which weighs on non-yielding gold. ANZ sees the weakness as temporary and expects support around $3,600."
+  },
+  "dda": {
+   "zh": "利率上升的环境下,股市与黄金都可能波动。定期定额(DDA)的纪律在这种时候尤其重要,避免因短期行情而中断投资计划。",
+   "en": "In a rising-rate environment, both equities and gold may swing. The discipline of regular (DDA) investing matters most at such times, helping you avoid interrupting your plan over short-term moves."
+  },
+  "prs": {
+   "zh": "较高的利率可能影响不同资产的表现。退休规划应着眼长期目标与风险承受度,可回顾PRS基金组合,并记得每年最高RM3,000的PRS税务减免。",
+   "en": "Higher rates may affect different assets differently. Retirement planning should look to long-term goals and risk tolerance; you may review your PRS fund mix and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "加息预期升温时,市场波动可能加大。单笔投资可考虑分批投入以分散时机风险,并检查是否过度集中在黄金或单一资产类别。",
+   "en": "When rate-hike expectations build, market swings may widen. Lump sum investors may consider phasing in to spread timing risk and check for concentration in gold or any single asset class."
+  },
+  "bond": {
+   "zh": "美国收益率与美联储加息预期可能推高全球借贷成本,影响令吉与外资流向,并间接牵动国家银行的政策考量与MGS收益率。已持有债券基金的投资者可留意利率变动对基金净值的影响,债券基金在组合中一般仍扮演平衡者的角色。",
+   "en": "US yields and Fed hike expectations may raise global borrowing costs, affect the ringgit and foreign flows, and indirectly influence Bank Negara's policy considerations and MGS yields. Existing bond-fund investors may note how rate moves affect fund values; bond funds generally still act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/commodities-news/gold-falls-toward-3800-as-fed-hawks-reinforce-ratehike-outlook-5034463"
+  }
+ }
+],
+[
+ {
   "id": "2026-11-17-m0",
   "kind": "summary",
   "time": "2026-11-17T09:00:00+08:00",
