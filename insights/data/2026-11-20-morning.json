@@ -1,0 +1,333 @@
+[
+ {
+  "id": "2026-11-20-m0",
+  "kind": "summary",
+  "time": "2026-11-20T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "美股周四重挫:道指跌2.19%失守5万点,标普500六连跌;Anthropic上市首日未能提振AI情绪,台股单日暴跌4.4%",
+   "en": "Wall Street sinks on Thursday: Dow down 2.19% below 50,000 and S&P 500 off for a sixth day as Anthropic's debut fails to lift AI sentiment; Taiex plunges 4.4%"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,175.83",
+    "change": "-2.02%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "49,097.06",
+    "change": "-2.19%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "台湾加权指数",
+     "en": "Taiex"
+    },
+    "value": "38,426.89",
+    "change": "-4.40%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时隆综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,566.73",
+    "change": "-0.53%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "美股周四全面下挫:道指跌1,101.11点,纳指跌2.25%,费城半导体指数跌2.4%;芝商所FedWatch显示12月加息25个基点的概率约96.4%。",
+    "en": "US stocks fell across the board on Thursday: the Dow lost 1,101.11 points, the Nasdaq 2.25% and the Philadelphia Semiconductor Index 2.4%; CME FedWatch shows about a 96.4% chance of a 25-basis-point hike in December."
+   },
+   {
+    "zh": "台积电以每股83美元、约5亿美元认购Anthropic约0.03%股权;台股周四收跌4.40%,为史上第七大单日点数跌幅。",
+    "en": "TSMC bought about 0.03% of Anthropic for roughly $500 million at $83 a share; Taiwan stocks closed down 4.40%, the seventh-largest one-day point drop on record."
+   },
+   {
+    "zh": "金价一度跌至约3,627美元的14个月低位,布伦特原油约92.15美元;恒指周四午间跌439点至22,855,腾讯、阿里巴巴领跌。",
+    "en": "Gold fell as far as about $3,627, a 14-month low, while Brent stood near $92.15; the Hang Seng was down 439 points to 22,855 at noon, led lower by Tencent and Alibaba."
+   }
+  ],
+  "takeaway": {
+   "zh": "连日大跌的时候,信托基金顾问通常会提醒:先回到自己的目标、投资期限和风险承受度,稳定的投资节奏往往比追着每日行情跑更重要。",
+   "en": "After several heavy down days, a unit trust consultant would generally remind you to return to your goals, time horizon and risk tolerance; a steady investing rhythm often matters more than chasing each day's move."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-213427908.html"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202611190016"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/19/fbm-klci-falls-despite-stronger-gdp-growth"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-20-m1",
+  "time": "2026-11-20T09:00:00+08:00",
+  "tags": [
+   "us",
+   "fed"
+  ],
+  "title": {
+   "zh": "美股周四重挫:道指跌1,101点失守5万点,标普500六连跌,12月加息预期升至约96%",
+   "en": "Wall Street sinks: Dow drops 1,101 points below 50,000, S&P 500 slips for a sixth day as December hike odds rise to about 96%"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance(引述路透),周四道指跌1,101.11点(2.19%)至49,097.06,标普500跌2.02%至7,175.83,为连续第六个交易日下跌,纳指跌2.25%至23,879.20;恐慌指数VIX升15.80%至28.44。英伟达跌3.3%、连跌六日,AMD在Hunterbrook披露做空后跌7.7%。芝商所FedWatch显示12月加息25个基点的概率约96.4%,10年期美债收益率约5.05%。就像连日下雨后再遇暴雨,大家自然更想先检查家里的防水。",
+   "en": "According to Yahoo Finance (citing Reuters), the Dow fell 1,101.11 points (2.19%) to 49,097.06 on Thursday and the S&P 500 lost 2.02% to 7,175.83, its sixth straight decline; the Nasdaq fell 2.25% to 23,879.20 and the VIX jumped 15.80% to 28.44. Nvidia dropped 3.3% for a sixth losing session and AMD fell 7.7% after Hunterbrook disclosed a short position. CME FedWatch shows about a 96.4% chance of a 25-basis-point hike in December, and the 10-year Treasury yield was about 5.05%. It is like heavy rain after days of drizzle: people naturally check their roof first."
+  },
+  "dda": {
+   "zh": "市场急跌、波动加大时,定期定额(DDA)按固定节奏投入,一般有助于在不同价位平均成本,也减少被情绪牵着走的机会。",
+   "en": "When markets drop sharply and volatility rises, regular (DDA) investing at a fixed rhythm may help average the entry cost across different price levels and reduce emotion-driven decisions."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,短期下跌通常只是长路上的一段。可以借机检视PRS基金的资产组合是否仍符合年龄与目标,也别忘了每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning spans decades, and a short-term drop is usually one stretch of a long road. It may be a good time to check whether your PRS fund's asset mix still suits your age and goals, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "连跌之后单笔投资更需留意时机风险。分批投入可以分散入市时机,同时检查是否过度集中于同一主题(例如AI科技),金额应符合个人目标与风险承受度。",
+   "en": "After a run of losses, lump sum investing carries more timing risk. Phasing in may spread entry timing, and it is worth checking for concentration in one theme such as AI technology; the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国加息预期和高企的美债收益率,可能影响美元、令吉与外资流向,进而波及马来西亚政府债券(MGS)、企业债与伊斯兰债券的价格;股市动荡时,债券基金也常被视为组合中的平衡力量,但仍要留意利率风险。",
+   "en": "Hike expectations and high Treasury yields may affect the dollar, the ringgit and foreign flows, which can in turn move the prices of Malaysian government bonds (MGS), corporate bonds and sukuk. When equities are turbulent, bond funds are often seen as a portfolio balancer, though interest-rate risk still matters."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-ends-sharply-lower-213427908.html"
+  }
+ },
+ {
+  "id": "2026-11-20-m2",
+  "time": "2026-11-20T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "台积电以约5亿美元认购Anthropic约0.03%股权,价格与IPO发行价同为每股83美元",
+   "en": "TSMC buys about 0.03% of Anthropic for roughly $500 million at the IPO price of $83 a share"
+  },
+  "analysis": {
+   "zh": "据中央社,台积电子公司TSMC Partners认购约602万股Anthropic股份,每股83美元、总额约5亿美元,约占0.03%,与Anthropic的IPO定价相同。Anthropic周三(11月18日)以约1.5万亿美元估值定价,周四在纳斯达克以代号“ANT”挂牌。台积电董事会11月10日已批准对Anthropic和OpenAI各投资最多5亿美元。这像是供应链上的重要“卖铲人”,也开始在客户那里持有一点股份。",
+   "en": "Focus Taiwan reports that TSMC Partners bought about 6.02 million Anthropic shares at $83 each, roughly $500 million and about 0.03%, the same as the IPO price. Anthropic priced on Wednesday (Nov. 18) at a valuation of about $1.5 trillion and began trading on Nasdaq as \"ANT\" on Thursday. TSMC's board had approved on Nov. 10 investments of up to $500 million each in Anthropic and OpenAI. It is as if a key supplier of tools to the AI gold rush is now holding a small stake in one of its customers."
+  },
+  "dda": {
+   "zh": "AI主题的热度可以很高,但个股与主题的波动也大。定期定额(DDA)投资分散于多个市场的信托基金,一般比押注单一热门主题更容易坚持。",
+   "en": "AI can be a hot theme, yet single themes and stocks swing widely. Regular (DDA) investing in diversified unit trusts spread across markets is generally easier to stick with than leaning on one popular theme."
+  },
+  "prs": {
+   "zh": "科技与半导体龙头往往已经是许多全球股票基金的重要持仓。规划退休时可以留意PRS基金是否因此在无形中过度集中于同一主题,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Technology and semiconductor leaders are often already major holdings in many global equity funds. In retirement planning, check whether your PRS fund is quietly concentrated in one theme, and make use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "新上市股票和热门主题的价格波动可能很大。单笔投资可以考虑分批进场以分散时机风险,并检查整体组合是否过度集中于AI相关资产。",
+   "en": "Newly listed shares and hot themes can swing widely in price. A lump sum may be phased in to spread timing risk, and it is worth checking whether the overall portfolio is too concentrated in AI-related assets."
+  },
+  "bond": {
+   "zh": "这则消息对马来西亚债券基金的直接影响有限。不过科技股估值波动若拖累风险情绪,资金可能流向较稳健的资产,这也是债券在组合中扮演平衡角色的原因。",
+   "en": "The direct effect on Malaysian bond funds is limited. If swings in tech valuations weigh on risk sentiment, money may move toward steadier assets, which is part of why bonds serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611190023"
+  }
+ },
+ {
+  "id": "2026-11-20-m3",
+  "time": "2026-11-20T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股周四暴跌1,768点收38,426.89,为史上第七大单日点数跌幅;外资净卖约243亿新台币",
+   "en": "Taiwan stocks plunge 1,768 points to 38,426.89, the seventh-largest one-day point drop; foreigners net sell about NT$24.3 billion"
+  },
+  "analysis": {
+   "zh": "据中央社,台湾加权指数周四收跌1,768.02点(4.40%)至38,426.89,盘中最低见38,259.70,并跌破约39,368的240日均线;成交额8,952.8亿新台币。外资在主板净卖出约243.1亿新台币,电子类股跌4.7%、半导体跌4.29%。原因包括美国科技股走弱、AI股在英伟达财报后仍承压,以及市场担心英伟达高层变动后可能收紧成本、压缩台湾供应商利润。",
+   "en": "Focus Taiwan reports the Taiex closed down 1,768.02 points (4.40%) at 38,426.89, with an intraday low of 38,259.70, and fell below its 240-day moving average of about 39,368; turnover was NT$895.28 billion. Foreign institutions net sold about NT$24.31 billion on the main board, with electronics down 4.7% and semiconductors down 4.29%. Reasons cited include weak US tech shares, AI stocks staying under pressure after Nvidia's results, and worries that Nvidia may tighten costs after its leadership changes, squeezing Taiwan suppliers' margins."
+  },
+  "dda": {
+   "zh": "单日暴跌提醒我们:集中在少数热门板块的投资,波动可能远大于分散的组合。定期定额(DDA)分散投资不同地区与行业,一般有助于降低这类冲击。",
+   "en": "A one-day plunge is a reminder that investments concentrated in a few popular sectors can swing far more than a diversified portfolio. Regular (DDA) investing across regions and sectors may help soften such shocks."
+  },
+  "prs": {
+   "zh": "退休规划的时间跨度长,短期的市场震荡通常不应成为改变计划的唯一理由。可以顺便检视PRS基金的地区与行业分布,以及每年最高RM3,000的税务减免是否已善用。",
+   "en": "Retirement plans run over a long horizon, and short-term turbulence is usually not the only reason to change a plan. It is also a chance to review your PRS fund's regional and sector mix and whether you have used the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "市场大幅震荡时,单笔投资的入市时机风险更明显。分批投入可以分散时机,并留意是否过度偏重亚洲科技与半导体,金额须符合个人目标与风险承受度。",
+   "en": "When markets swing sharply, the timing risk of a lump sum is more visible. Phasing in may spread timing, and it is worth checking for too heavy a tilt toward Asian tech and semiconductors; the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "台股的急跌对马来西亚债券基金的直接影响有限,但区域风险情绪转弱时,外资流向和令吉可能受影响,间接波及MGS与企业债;债券基金通常在股市动荡时扮演平衡角色。",
+   "en": "The Taiwan sell-off has limited direct impact on Malaysian bond funds, but weaker regional risk sentiment may affect foreign flows and the ringgit, indirectly touching MGS and corporate bonds; bond funds usually play a balancing role when equities are turbulent."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611190016"
+  }
+ },
+ {
+  "id": "2026-11-20-m4",
+  "time": "2026-11-20T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "金价周四一度跌2.6%至约3,627美元的14个月低位;12月加息预期与强势美元施压",
+   "en": "Gold falls as much as 2.6% to about $3,627, a 14-month low, as December hike bets and a firm dollar weigh"
+  },
+  "analysis": {
+   "zh": "据Investing.com,现货金一度跌2.6%至每盎司3,627.46美元,为14个月低位,本月累计跌幅逾6%。10月非农新增16.5万个职位高于预期,通胀数据偏热,理事Waller更主张加息50个基点;芝商所FedWatch显示约94%概率12月加息25个基点。Trade Nation分析师认为价格“很难找到明显支撑,直到3,500美元”,ANZ则认为走弱属暂时性,中长期看法仍正面。黄金像一条绷紧的橡皮筋,一旦利率预期改变就容易大幅拉扯。",
+   "en": "Investing.com reports spot gold fell as much as 2.6% to $3,627.46 an ounce, a 14-month low, and is down more than 6% for the month. October payrolls rose 165,000, above expectations, CPI ran hotter than expected and Governor Waller called for a 50-basis-point hike; CME FedWatch shows about 94% odds of a 25-basis-point hike in December. Trade Nation's David Morrison said it is \"difficult to find any obvious level of support until prices hit $3,500\", while ANZ sees the weakness as temporary and keeps a positive medium- to long-term view. Gold is like a taut rubber band: a change in rate expectations can pull it sharply."
+  },
+  "dda": {
+   "zh": "黄金价格的大起大落,说明单一资产的波动不容忽视。定期定额(DDA)投资多元资产的信托基金,一般有助于降低过度依赖某一类资产的风险。",
+   "en": "Big swings in gold show that a single asset's volatility should not be ignored. Regular (DDA) investing in multi-asset unit trusts may help reduce reliance on any one asset class."
+  },
+  "prs": {
+   "zh": "退休规划通常会把黄金视为多元配置中的一小块,而不是主角。可以检视PRS基金的整体资产组合,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement plans usually treat gold as one small piece of a diversified mix rather than the main character. Review your PRS fund's overall asset mix and make use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "价格急跌后,单笔投资者可能忍不住想“抄底”,但时机很难预测。分批投入可以分散时机风险,并检查单一资产的集中度是否合适个人目标。",
+   "en": "After a sharp fall, lump sum investors may be tempted to bargain-hunt, but timing is hard to predict. Phasing in may spread timing risk, and it is worth checking whether concentration in a single asset suits your goals."
+  },
+  "bond": {
+   "zh": "12月加息预期与强势美元,可能推高美债收益率并影响令吉与外资流向,间接波及马来西亚政府债券(MGS)与伊斯兰债券;美国加息周期也是国家银行评估OPR时会留意的外部因素。",
+   "en": "December hike expectations and a firm dollar may lift Treasury yields and affect the ringgit and foreign flows, indirectly touching Malaysian government bonds (MGS) and sukuk; the US rate cycle is also an external factor Bank Negara watches when assessing the OPR."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/commodities-news/gold-rebounds-from-14month-low-as-bargain-hunters-emerge-despite-fed-hike-risks-5037506"
+  }
+ },
+ {
+  "id": "2026-11-20-m5",
+  "time": "2026-11-20T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "us"
+  ],
+  "title": {
+   "zh": "原油周四:WTI约82.76美元、布伦特约92.15美元,较一个月前回落约13至16%,但仍高企",
+   "en": "Oil on Thursday: WTI near $82.76 and Brent near $92.15, down about 13% to 16% over a month but still elevated"
+  },
+  "analysis": {
+   "zh": "据Investing.com,截至美东11月19日下午3:06,WTI报82.76美元、布伦特报92.15美元,一个月内分别下跌约16%和13%,但年初至今仍涨约44%和51%。美国银行研究院报告指出,营收低于5,000万美元的小企业,油价相关成本同比上升逾20%;中东石化供应受扰也推高塑料价格。文章提到,WTI若低于75美元才算真正的缓解,高于90美元则压力再度升温。油价就像家家户户的水电费,涨了最终会反映在各种账单上。",
+   "en": "Investing.com reports that as of 3:06 PM EST on Nov. 19, WTI was $82.76 and Brent $92.15, down about 16% and 13% over a month but still up about 44% and 51% year to date. A Bank of America Institute report says firms with under $50 million in revenue face oil-related cost increases of over 20% year over year, and Middle East petrochemical disruption has lifted plastics prices. The article cites WTI below $75 as real relief and above $90 as the squeeze re-intensifying. Oil is like the household utility bill: when it rises, it eventually shows up in many other bills."
+  },
+  "dda": {
+   "zh": "油价和成本变化会影响企业利润与通胀。定期定额(DDA)投资分散于不同行业的信托基金,一般有助于不依赖单一行业的表现。",
+   "en": "Oil and cost changes can affect company profits and inflation. Regular (DDA) investing in unit trusts spread across industries may help avoid relying on any single sector."
+  },
+  "prs": {
+   "zh": "长期通胀会慢慢侵蚀退休储蓄的购买力。退休规划可以考虑通胀因素,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Persistent inflation gradually erodes the purchasing power of retirement savings. Retirement planning can take inflation into account, and the PRS tax relief of up to RM3,000 a year is worth using."
+  },
+  "lump": {
+   "zh": "能源价格波动大,单笔投资能源相关资产时更要留意集中度。分批投入可分散时机风险,金额应符合个人目标与风险承受度。",
+   "en": "Energy prices are volatile, so concentration deserves extra care when investing a lump sum in energy-related assets. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "油价居高不下可能让通胀与利率维持高位,影响马来西亚债券基金的利率走向;不过大马作为产油国,油价对令吉与财政的影响也可能部分抵消,整体影响较为复杂。",
+   "en": "Persistently high oil may keep inflation and interest rates elevated, which affects the rate outlook for Malaysian bond funds; as an oil producer, Malaysia may see offsetting effects on the ringgit and government finances, so the overall impact is mixed."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://investing.com/news/commodities-news/oilmarket-shock-keeps-costs-high-for-us-small-businesses-even-as-crude-pulls-back-93CH-5039848"
+  }
+ },
+ {
+  "id": "2026-11-20-m6",
+  "time": "2026-11-20T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "富时隆综指跌0.53%至1,566.73;第三季GDP增长5.5%,令吉却跌至4.1202,为6月26日以来最弱",
+   "en": "FBM KLCI falls 0.53% to 1,566.73; Q3 GDP grows 5.5% but the ringgit slips to 4.1202, its weakest since June 26"
+  },
+  "analysis": {
+   "zh": "据The Star,富时隆综指跌8.42点至1,566.73,盘中在1,564.71至1,575.23之间波动,全市场630只股上涨、430只下跌。大马第三季GDP增长5.5%,高于5.3%的预估,但低于第二季的6%。令吉兑美元跌0.64%至4.1202,外资净买入9,100万令吉。交易员说,在外部不确定性和令吉走弱下,市场情绪仍然谨慎。这像是成绩单不错,但天气不好,大家还是不敢掉以轻心。",
+   "en": "The Star reports the FBM KLCI fell 8.42 points to 1,566.73, ranging between 1,564.71 and 1,575.23, with 630 gainers against 430 losers. Malaysia's Q3 GDP grew 5.5%, above the 5.3% advance estimate but below Q2's 6%. The ringgit fell 0.64% to 4.1202 against the dollar, while foreign investors were net buyers of RM91 million. A dealer said sentiment stays cautious amid external uncertainties and the ringgit's weakness. It is like a good report card on a stormy day: nobody lets their guard down."
+  },
+  "dda": {
+   "zh": "本地基本面稳健但情绪谨慎时,定期定额(DDA)的固定节奏有助于不被短期波动牵着走,也能自然地在低位累积更多单位。",
+   "en": "When local fundamentals are solid but sentiment is cautious, the fixed rhythm of regular (DDA) investing may help you avoid being led by short-term swings, and naturally accumulates more units when prices are lower."
+  },
+  "prs": {
+   "zh": "GDP增长稳健对长期投资是正面背景。规划退休时可以继续按计划投入PRS,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Solid GDP growth is a supportive backdrop for long-term investing. In retirement planning you can keep contributing to PRS as planned and make use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "令吉走弱和外围不确定性下,单笔投资更需注意时机风险。分批投入可以分散时机,并检查是否过度集中于大马单一市场,金额应符合个人目标。",
+   "en": "With a softer ringgit and external uncertainty, lump sum timing risk matters more. Phasing in may spread timing, and it is worth checking for over-concentration in a single market such as Malaysia; the amount should fit your goals."
+  },
+  "bond": {
+   "zh": "令吉走弱和外资流向,可能影响马来西亚政府债券(MGS)与伊斯兰债券的价格;国家银行的OPR走向仍是债券基金的重要参考,GDP稳健则为信贷环境提供一定支撑。",
+   "en": "A weaker ringgit and shifting foreign flows may affect the prices of Malaysian government bonds (MGS) and sukuk; Bank Negara's OPR path remains a key reference for bond funds, while solid GDP gives some support to the credit environment."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/19/fbm-klci-falls-despite-stronger-gdp-growth"
+  }
+ },
+ {
+  "id": "2026-11-20-m7",
+  "time": "2026-11-20T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒指周四午间跌439点至22,855,腾讯跌6.8%、阿里巴巴跌5.8%,科技股抛售加深",
+   "en": "Hang Seng down 439 points to 22,855 at noon on Thursday as Tencent falls 6.8% and Alibaba 5.8% in a deepening tech sell-off"
+  },
+  "analysis": {
+   "zh": "据英文虎报,恒生指数周四午间跌439点(1.9%)至22,855,半日成交1,234亿港元;恒生科技指数跌2%至3,661。腾讯在公布业绩后跌6.8%,阿里巴巴跌5.8%。内地方面,上证综指跌0.44%至3,571,深证成指跌0.5%至10,604。这是午间报告,收盘数字可能不同。科技股像一群同行的旅客,领头的一跌,整队的步伐都会放慢。",
+   "en": "The Standard reports the Hang Seng Index fell 439 points (1.9%) to 22,855 at noon, with half-day turnover of HK$123.4 billion; the Hang Seng Tech Index fell 2% to 3,661. Tencent dropped 6.8% after its results and Alibaba lost 5.8%. On the mainland, the Shanghai Composite fell 0.44% to 3,571 and the Shenzhen Component fell 0.5% to 10,604. These are midday figures and the close may differ. Tech stocks are like travellers in one group: when the leaders stumble, the whole group slows."
+  },
+  "dda": {
+   "zh": "中概与科技股的波动可能较大。定期定额(DDA)投资涵盖多个地区的信托基金,一般比集中于单一市场更容易坚持长期计划。",
+   "en": "China and tech stocks can be volatile. Regular (DDA) investing in unit trusts covering several regions is generally easier to stick with over the long term than concentrating on one market."
+  },
+  "prs": {
+   "zh": "退休规划着眼长期,可以检视PRS基金在大中华与科技股的比重是否适合自己的风险承受度,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning looks far ahead; you can review how much of your PRS fund sits in Greater China and tech and whether it suits your risk tolerance, and use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单日大跌时单笔投资者更需冷静。分批投入可以分散时机风险,并检查是否过度集中于单一地区或科技板块,金额应符合个人目标与风险承受度。",
+   "en": "On a big down day, lump sum investors especially need a cool head. Phasing in may spread timing risk, and it is worth checking for concentration in one region or the tech sector; the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股科技股的下跌对马来西亚债券基金的直接影响有限,但区域风险情绪转弱可能影响外资流向与令吉;债券基金在股市波动时通常扮演组合的平衡角色。",
+   "en": "The Hong Kong tech sell-off has limited direct impact on Malaysian bond funds, but weaker regional risk sentiment may affect foreign flows and the ringgit; bond funds usually play a balancing role when equity markets swing."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/348968/Hang-Seng-tumbles-over-400-points-at-noon-on-Thursday-Tencent-Alibaba-down-over-58pc"
+  }
+ }
+]
