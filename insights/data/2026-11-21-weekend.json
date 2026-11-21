@@ -1,0 +1,370 @@
+[
+ {
+  "id": "2026-11-21-w0",
+  "kind": "summary",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "本周回顾与下周展望:美股周五大跌,道指与标普500进入修正,纳指周跌约10%;下周看美国PCE通胀与感恩节缩短周",
+   "en": "Week in review and week ahead: Wall Street plunged Friday, the Dow and S&P 500 entered correction and the Nasdaq lost about 10% on the week; PCE inflation and a Thanksgiving-shortened week come next"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "6,910.79",
+    "change": "-3.69%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "48,147.33",
+    "change": "-1.93%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克(周)",
+     "en": "Nasdaq (week)"
+    },
+    "value": "-10%",
+    "change": "-5.28%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "现货黄金",
+     "en": "Spot gold"
+    },
+    "value": "US$3,538.11",
+    "change": "-8.9% 周",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周五美股收盘:道指跌1.93%、标普500跌3.69%,两者较高位下跌超过10%;恐慌指数VIX升至35.89(据Investing.com)。据CNBC,纳指本周跌10%,为2020年3月以来最差一周。",
+    "en": "Friday's close: the Dow fell 1.93% and the S&P 500 3.69%, both now more than 10% below their highs, and the VIX rose to 35.89 (Investing.com). CNBC says the Nasdaq lost 10% on the week, its worst since March 2020."
+   },
+   {
+    "zh": "亚洲同步重挫:台股周五跌5.65%、周跌14.89%,为1997年10月以来最大周跌幅;日经跌5.06%,韩国Kospi跌5.21%;恒指跌1.9%至22,410点。富时马来西亚综指跌0.61%至1,556.51点。",
+    "en": "Asia fell in step: Taiwan's Taiex dropped 5.65% on Friday and 14.89% on the week, its steepest weekly fall since October 1997; the Nikkei fell 5.06% and Korea's Kospi 5.21%; the Hang Seng fell 1.9% to 22,410. The FBM KLCI slipped 0.61% to 1,556.51."
+   },
+   {
+    "zh": "现货黄金单周跌8.9%至US$3,538.11;布伦特原油连续第三周下跌。下周重点:周三美国PCE通胀,周四美股休市(感恩节)。",
+    "en": "Spot gold fell 8.9% on the week to US$3,538.11, and Brent crude is set for a third weekly drop. Next week: US PCE inflation on Wednesday, and US markets closed Thursday for Thanksgiving."
+   }
+  ],
+  "takeaway": {
+   "zh": "一周里连股票和黄金都一起下跌,最容易让人想马上改变计划。信托基金顾问通常会提醒:先回到自己的目标、期限和能承受的波动,再去看新闻,而不是反过来。",
+   "en": "When stocks and even gold fall together in one week, it is tempting to change the plan at once. A unit trust consultant would usually remind you to return to your goals, time horizon and comfort with swings first, and only then look at the news."
+  },
+  "sources": [
+   {
+    "name": "Investing.com",
+    "url": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-21-w1",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "美股周五重挫:标普500跌3.69%、道指跌1.93%,英伟达跌14%,VIX升至35.89",
+   "en": "Wall Street plunges Friday: S&P 500 down 3.69%, Dow down 1.93%, Nvidia off 14% and the VIX at 35.89"
+  },
+  "analysis": {
+   "zh": "据Investing.com,周五道指收于48,147.33点,跌949.73点(1.93%);标普500收于6,910.79点,跌3.69%;纳指跌5.28%。恐慌指数VIX升26.2%至35.89,为52周新高。英伟达跌14.01%至52周低位,美光跌13.89%、超微跌13.25%;纽约证交所下跌股与上涨股之比为2,345比518。就像一间戏院里有人喊失火,大家同时涌向出口,价格因此跌得又快又深。",
+   "en": "According to Investing.com, the Dow closed at 48,147.33, down 949.73 points (1.93%), the S&P 500 at 6,910.79, down 3.69%, and the Nasdaq fell 5.28%. The VIX jumped 26.2% to 35.89, a 52-week high. Nvidia fell 14.01% to a 52-week low, Micron 13.89% and AMD 13.25%; NYSE decliners beat advancers 2,345 to 518. It is like someone shouting fire in a theatre: everyone rushes for the exit at once, so prices fall fast and deep."
+  },
+  "dda": {
+   "zh": "这种单日大跌正是定期定额(DDA)的考验:持续投入意味着在低位也会买到更多单位,但前提是投资组合与自己的风险承受度相符。通常不必因为一天的新闻而中断纪律。",
+   "en": "A day like this tests regular (DDA) investing: continuing to invest means buying more units at lower prices too, provided the portfolio suits your risk tolerance. There is usually no need to break the routine over one day of news."
+  },
+  "prs": {
+   "zh": "退休账户的时间尺度是十几二十年,单周的波动只是长路上的一段颠簸。可以趁此检查PRS基金的风险等级是否仍合适;PRS每年最高RM3,000的税务减免依然适用。",
+   "en": "A retirement account runs over 10 to 20 years, so one week's swing is a bump on a long road. It is a good moment to check that your PRS fund's risk level still fits; the PRS tax relief of up to RM3,000 a year still applies."
+  },
+  "lump": {
+   "zh": "手上有一笔待投资金时,市场急跌常让人想立刻抄底或干脆观望。较平稳的原则是考虑分批进入以分散时点风险,检查自己是否已集中在科技股,并确认金额符合目标。",
+   "en": "With a lump sum in hand, a sharp drop tempts people to rush in or freeze. A calmer principle is to consider phasing in to spread timing risk, check whether you are already concentrated in tech, and confirm the amount matches your goals."
+  },
+  "bond": {
+   "zh": "股市恐慌时资金常流向较安全的资产,可能对大马政府债券(MGS)带来支持,但也要看美国利率走势和令吉。债券基金在组合中通常扮演平衡角色,帮助缓和股票的波动。",
+   "en": "When equities panic, money often moves to safer assets, which may support Malaysian government bonds (MGS), though US rates and the ringgit also matter. Bond funds generally act as a portfolio balancer that can soften equity swings."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683"
+  }
+ },
+ {
+  "id": "2026-11-21-w2",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [
+   "us",
+   "fed",
+   "tech"
+  ],
+  "title": {
+   "zh": "CNBC解析这轮下跌的五大推手:Anthropic上市「利好出尽」、英伟达风波、技术面失守与加息忧虑",
+   "en": "CNBC on five forces behind the sell-off: a 'sell the news' Anthropic IPO, Nvidia's troubles, a broken trend, rate-hike worries and slowing growth"
+  },
+  "analysis": {
+   "zh": "据CNBC,标普500与道指周五收盘进入修正区间,纳指本周跌10%,为2020年3月以来最差一周;英伟达周跌23%,11月已跌近40%。报道列出五大因素:Anthropic上市被视为「利好出尽」、英伟达面临报道中的美国证交会调查及黄仁勋辞任、标普500跌破200日均线触发趋势型资金卖出、通胀高于2%目标且官员暗示可能加息、AI相关企业增长放缓。简单说,是多个压力同时出现,才让跌势放大。",
+   "en": "CNBC reports the S&P 500 and Dow closed in correction territory on Friday and the Nasdaq lost 10% on the week, its worst since March 2020; Nvidia fell 23% on the week and nearly 40% in November. It lists five forces: Anthropic's IPO seen as a 'sell the news' moment, Nvidia's troubles (a reported SEC probe, CEO Jensen Huang's resignation and new US chip curbs on China), the S&P 500 breaking its 200-day average and triggering trend-following selling, inflation above the Fed's 2% target with officials flagging possible hikes, and slowing growth at AI-linked companies. In short, several pressures arrived together and amplified the fall."
+  },
+  "dda": {
+   "zh": "定期定额的优点是不必猜哪一个因素最重要。多个压力叠加时,分散的信托基金加上固定节奏,通常比临时改变策略更容易坚持。",
+   "en": "The strength of regular investing is that you do not need to guess which factor matters most. When several pressures stack up, diversified unit trusts and a steady rhythm are generally easier to stick with than changing course on the spot."
+  },
+  "prs": {
+   "zh": "通胀与加息预期同时升温,会让人重新计算退休所需的金额。可以趁机和信托基金顾问核对退休目标与PRS的投资期限,而不是因恐慌调整。",
+   "en": "Rising inflation and rate-hike expectations make people recalculate what retirement needs. It is a good time to review retirement goals and the PRS time horizon with your unit trust consultant rather than adjust out of fear."
+  },
+  "lump": {
+   "zh": "技术面破位后,短期波动可能延续。单笔资金可以考虑分批投入,并留意自己在AI与大型科技股上的集中程度,同时确认这笔钱的用途与时间表。",
+   "en": "After a technical break, short-term swings may continue. A lump sum can be phased in, with attention to concentration in AI and mega-cap tech, and a check that the money's purpose and timeline fit."
+  },
+  "bond": {
+   "zh": "美联储若加息,美债收益率与美元可能走高,影响令吉和外资流向,进而可能牵动大马债券基金的短期表现;但大马央行的OPR走向仍取决于本地通胀与增长。",
+   "en": "If the Fed hikes, US yields and the dollar may rise, which can affect the ringgit and foreign flows and so may influence Malaysian bond funds in the short run; Bank Negara's OPR path still depends on local inflation and growth."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+  }
+ },
+ {
+  "id": "2026-11-21-w3",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "亚洲股市周五再挫:台股跌5.65%、周跌14.89%,为1997年以来最大周跌幅;日经跌5.06%、Kospi跌5.21%",
+   "en": "Asia sinks again Friday: Taiex down 5.65% and 14.89% on the week, its steepest weekly fall since 1997; Nikkei off 5.06% and Kospi 5.21%"
+  },
+  "analysis": {
+   "zh": "据CNBC,台股加权指数周五跌5.65%,本周累计下跌14.89%(LSEG数据),为1997年10月以来最大周跌幅;台积电跌4.52%。日经225跌5.06%至56,436.65点,韩国Kospi跌5.21%至4,869.96点,中国沪深300跌0.76%。台积电等是英伟达的重要供应商,当美国AI股转弱时,亚洲芯片链往往最先感受到压力。",
+   "en": "CNBC reports Taiwan's Taiex fell 5.65% on Friday for a 14.89% weekly loss (LSEG), its steepest weekly decline since October 1997; TSMC dropped 4.52%. Japan's Nikkei 225 fell 5.06% to 56,436.65 and Korea's Kospi 5.21% to 4,869.96, while China's CSI 300 slipped 0.76%. TSMC and others are key Nvidia suppliers, so when US AI stocks weaken the Asian chip chain often feels it first."
+  },
+  "dda": {
+   "zh": "亚洲芯片股是许多全球与亚太信托基金的重要持仓,短期下跌会拖累净值。定期定额让你在波动中分批累积单位,但也建议留意基金的行业集中度。",
+   "en": "Asian chip stocks are major holdings in many global and Asia-Pacific unit trusts, so a sharp fall can drag on net asset values. Regular investing accumulates units through the swings, but it is worth checking a fund's sector concentration."
+  },
+  "prs": {
+   "zh": "PRS基金通常分散投资于多个市场,单一地区的急跌影响相对被稀释。退休规划看的是长期,PRS每年最高RM3,000的税务减免仍是纪律的助力。",
+   "en": "PRS funds usually spread across several markets, which dilutes the effect of a plunge in one region. Retirement planning is long term, and the PRS tax relief of up to RM3,000 a year still supports discipline."
+  },
+  "lump": {
+   "zh": "单笔资金若想参与亚洲科技,可以先检查自己是否已偏重台湾或芯片主题,考虑分批投入以分散入场时点风险,并确认风险承受度与投资期限。",
+   "en": "A lump sum aimed at Asian tech can start with a check on whether you are already heavy in Taiwan or chips, a consideration of phasing in to spread timing risk, and confirmation of risk tolerance and horizon."
+  },
+  "bond": {
+   "zh": "这类股市暴跌对大马债券基金的直接影响有限,但若外资同时撤出亚洲资产,令吉与大马政府债券可能受到间接影响。债券在组合中仍是平衡股市波动的角色。",
+   "en": "The direct effect on Malaysian bond funds is limited, but if foreign money leaves Asian assets broadly, the ringgit and MGS may be affected indirectly. Bonds still serve as a balancer against equity swings."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+  }
+ },
+ {
+  "id": "2026-11-21-w4",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒指收报22,410点跌430点,创2025年4月以来新低;科指跌3.8%,网易重挫17.6%",
+   "en": "Hang Seng closes at 22,410, down 430 points to its lowest since April 2025; tech index falls 3.8% as NetEase plunges 17.6%"
+  },
+  "analysis": {
+   "zh": "据英文虎报,恒生指数周五收报22,410点,跌430点(1.9%),盘中一度跌534点,为2025年4月下旬以来最低;恒生科技指数跌3.8%至3,511点。网易跌17.6%,快手因业绩疲弱跌11.4%、为2021年上市以来最低,阿里巴巴则在业绩后升3.4%。成交额为2,703亿港元。同一个行业里有人跌有人涨,说明市场正在分辨个别公司的业绩,而不只是随大势。",
+   "en": "The Standard reports the Hang Seng Index closed at 22,410, down 430 points (1.9%), after falling as much as 534 points intraday to its lowest since late April 2025; the Hang Seng Tech Index fell 3.8% to 3,511. NetEase dropped 17.6%, Kuaishou fell 11.4% on weak results to its lowest since its 2021 listing, while Alibaba rose 3.4% after earnings. Turnover was HK$270.3 billion. With some names falling and others rising, the market is separating company results rather than just following the tide."
+  },
+  "dda": {
+   "zh": "港股与中国科技股波动大,若信托基金含有中国或亚洲配置,净值可能起伏。定期定额的长期视角通常比盯着单周涨跌更有帮助。",
+   "en": "Hong Kong and China tech are volatile, so a unit trust with China or Asia exposure may see its value swing. A long-term view with regular investing is generally more helpful than watching one week's moves."
+  },
+  "prs": {
+   "zh": "退休资金适合以多元市场分散风险,而不是押注单一地区。这类下跌是回头检视PRS基金地区分布的好时机。",
+   "en": "Retirement money suits diversification across markets rather than a bet on one region. A drop like this is a good time to look at the regional mix of a PRS fund."
+  },
+  "lump": {
+   "zh": "单笔资金面对大幅下跌的市场,可以先问自己:这笔钱几年内会用到?若期限不长,较适合先检查风险承受度,再考虑分批投入。",
+   "en": "With a lump sum facing a sharply lower market, ask first when the money will be needed. If the horizon is short, check risk tolerance first and then consider phasing in."
+  },
+  "bond": {
+   "zh": "港股下跌对大马债券基金的直接影响不大。若中国与亚洲风险情绪转弱,区域资金流向可能间接影响令吉;债券基金仍可作为组合的平衡部分。",
+   "en": "The direct effect on Malaysian bond funds is small. If risk sentiment in China and Asia weakens, regional flows may indirectly affect the ringgit; bond funds can still serve as a balancing part of a portfolio."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/349132/Hang-Seng-touches-lowest-since-April-2025-on-Friday-tech-shares-hits-two-year-low"
+  }
+ },
+ {
+  "id": "2026-11-21-w5",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [
+   "my",
+   "tech"
+  ],
+  "title": {
+   "zh": "富时马来西亚综指周五跌0.61%至1,556.51点,权重股与数据中心概念股续遭抛售",
+   "en": "FBM KLCI ends the week lower, down 0.61% to 1,556.51 as heavyweights and data-centre counters are sold"
+  },
+  "analysis": {
+   "zh": "据The Star,富时马来西亚综指周五下午5时收报1,556.51点,跌9.65点(0.61%),前收1,566.16点;下跌股837只,上涨股325只,成交额RM29.9亿。分析员Thong Pak Leng(Rakuten Trade)指出,权重股持续遭抛售显示投资者信心尚未恢复,但指数已进入超卖区域,可能吸引选择性逢低买入。",
+   "en": "According to The Star, the FBM KLCI closed Friday at 1,556.51, down 9.65 points (0.61%) from 1,566.16; decliners beat advancers 837 to 325 on RM2.99 billion in turnover. Rakuten Trade's Thong Pak Leng said continuous selling in heavyweights suggests investor confidence has yet to recover, though the index has entered oversold territory that could encourage selective bargain hunting."
+  },
+  "dda": {
+   "zh": "本地股市连日走弱时,持续的定期定额能在较低价位累积单位。但「超卖」不等于马上反弹,较稳妥的做法仍是依照原定计划,而不是预测底部。",
+   "en": "When local stocks weaken for days, continuing regular investing accumulates units at lower prices. But 'oversold' does not mean an immediate rebound, so it is generally steadier to follow the plan than to predict the bottom."
+  },
+  "prs": {
+   "zh": "本地与全球市场同步下跌,提醒我们退休投资需要地区分散。PRS基金可以选择不同风险级别,每年最高RM3,000的税务减免也是长期坚持的动力。",
+   "en": "Local and global markets falling together is a reminder that retirement investing needs regional diversification. PRS funds come in different risk levels, and the tax relief of up to RM3,000 a year helps support long-term persistence."
+  },
+  "lump": {
+   "zh": "单笔资金可以先检查自己在数据中心、科技等热门主题的集中度,再考虑分批进场,避免把入场时间押在同一天。",
+   "en": "A lump sum can start with a check on concentration in hot themes like data centres and tech, then consider phasing in so that timing does not ride on a single day."
+  },
+  "bond": {
+   "zh": "股市转弱时,大马政府债券(MGS)与企业债券/伊斯兰债券常被视为较稳定的部分,债券基金的表现主要受大马央行OPR、通胀与令吉影响。债券基金在组合中通常扮演平衡角色。",
+   "en": "When equities weaken, Malaysian government bonds (MGS) and corporate bonds and sukuk are often seen as the steadier part; bond fund performance depends mainly on Bank Negara's OPR, inflation and the ringgit. Bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/20/bursa-malaysia-ends-week-lower-on-continued-heavyweight-selling"
+  }
+ },
+ {
+  "id": "2026-11-21-w6",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "现货黄金单周跌8.9%至US$3,538.11,为八个月来最差一周;加息预期与AI股抛售夹击",
+   "en": "Spot gold falls 8.9% on the week to US$3,538.11, its worst week in eight months, squeezed by rate-hike bets and the AI-stock rout"
+  },
+  "analysis": {
+   "zh": "据Investing.com,现货黄金周五收于US$3,538.11,日跌2.4%、周跌8.9%;期货收于US$3,539.00,周跌9.3%,为2020年新冠疫情初期以来最差一周。报道指,10月非农好于预期、上周通胀数据偏高,美联储理事沃勒据称呼吁12月加息50个基点,加上会议纪要偏鹰,压低了不生息的黄金;股市暴跌时交易员也出售黄金以应付追加资金要求。下周的PCE物价指数是下一个关键。",
+   "en": "According to Investing.com, spot gold settled Friday at US$3,538.11, down 2.4% on the day and 8.9% on the week; futures settled at US$3,539.00, down 9.3% on the week, their worst since the start of the Covid pandemic. The report cites stronger October payrolls and hotter inflation data, Fed Governor Waller reportedly calling for a 50 basis point hike in December, and hawkish minutes, all weighing on non-yielding gold; traders also sold gold to meet margin calls as stocks plunged. Next week's PCE price index is the next catalyst."
+  },
+  "dda": {
+   "zh": "黄金也会大幅波动,说明单一资产不是万能的避风港。定期定额配合多元资产的信托基金,可以让组合不依赖某一种资产的表现。",
+   "en": "Gold can swing sharply too, showing that no single asset is a universal safe haven. Regular investing in multi-asset unit trusts helps a portfolio avoid relying on one asset's performance."
+  },
+  "prs": {
+   "zh": "退休规划中,避险资产也有价格风险。检查PRS基金的资产配置是否多元,比追逐某一资产更重要。",
+   "en": "In retirement planning, defensive assets carry price risk too. Checking that a PRS fund's asset mix is diversified matters more than chasing any one asset."
+  },
+  "lump": {
+   "zh": "单笔资金若考虑黄金等商品,需先了解它不产生利息、价格受利率与美元影响。可考虑分批进入,并确认占整体资产的比重不会过度集中。",
+   "en": "A lump sum considering gold or commodities should first note that it pays no interest and its price is affected by rates and the dollar. Phasing in may be considered, along with checking that it does not become an overly concentrated part of total assets."
+  },
+  "bond": {
+   "zh": "美国加息预期升温,可能推高美债收益率与美元,对大马债券基金与令吉带来压力;大马的OPR与本地通胀仍是债券基金的主要驱动。",
+   "en": "Rising US hike expectations may lift US yields and the dollar, putting pressure on Malaysian bond funds and the ringgit; Bank Negara's OPR and local inflation remain the main drivers for bond funds."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/commodities-news/gold-slides-to-14mth-low-set-for-weekly-drop-amid-fed-hike-bets-5040648"
+  }
+ },
+ {
+  "id": "2026-11-21-w7",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "油价连续第三周下跌:霍尔木兹海峡出口量回到战前水平,布伦特约US$92,OPEC+ 11月29日开会",
+   "en": "Oil heads for a third straight weekly drop as Hormuz flows return to pre-war levels; Brent near US$92 and OPEC+ meets Nov. 29"
+  },
+  "analysis": {
+   "zh": "据CNBC,布伦特原油在周五美国时间下午约为US$92.22,有望周跌近4%;WTI(12月合约)约US$84.09,有望周跌5%。经霍尔木兹海峡的原油运输已恢复到接近战前水平,分析员预期供应过剩;但胡塞武装袭击利雅得与油轮事件仍带来风险溢价。沙特与OPEC+将于11月29日决定2027年产量政策,亚洲股市下跌引发的需求忧虑也压低油价。",
+   "en": "CNBC reports Brent at about US$92.22 in Friday US afternoon trade, on track for a near 4% weekly decline, with December WTI near US$84.09, heading for a 5% weekly drop. Crude shipments through the Strait of Hormuz have returned to roughly pre-war levels and analysts expect a supply surplus, though Houthi attacks on Riyadh and tanker incidents keep a risk premium in place. OPEC+ meets Nov. 29 to decide its 2027 output policy, and demand worries from the equity rout also weigh on prices."
+  },
+  "dda": {
+   "zh": "油价回落有助缓解通胀压力,对长期投资者而言是好消息之一。定期定额不需要猜油价方向,持续投入分散的信托基金即可。",
+   "en": "Falling oil can ease inflation pressure, one of the better signs for long-term investors. Regular investing does not require guessing oil's direction; steady contributions to diversified unit trusts are enough."
+  },
+  "prs": {
+   "zh": "通胀是退休金购买力的长期敌人。油价回落可能缓和压力,但不代表通胀已被解决;PRS规划仍应把通胀因素纳入考虑。",
+   "en": "Inflation is a long-term enemy of retirement purchasing power. Lower oil may ease pressure but does not mean inflation is solved; PRS planning should still take inflation into account."
+  },
+  "lump": {
+   "zh": "单笔资金若涉及能源主题,可以先检查是否已集中在石油相关行业,考虑分批投入,并确认风险承受度。",
+   "en": "A lump sum touching the energy theme can start with a check on concentration in oil-related sectors, a consideration of phasing in, and confirmation of risk tolerance."
+  },
+  "bond": {
+   "zh": "大马是石油出口国,油价下跌可能影响国家收入与令吉预期;同时它可能降低通胀压力,对大马央行OPR和债券基金有间接影响。",
+   "en": "Malaysia is an oil exporter, so lower prices may affect national revenue and ringgit expectations; they may also reduce inflation pressure, with an indirect effect on Bank Negara's OPR and bond funds."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/oil-wti-brent-hormuz.html"
+  }
+ },
+ {
+  "id": "2026-11-21-w8",
+  "time": "2026-11-21T09:00:00+08:00",
+  "tags": [
+   "us",
+   "fed"
+  ],
+  "title": {
+   "zh": "下周展望:周三美国PCE通胀与GDP修正值,周四美股感恩节休市,周五提早于下午1时收市",
+   "en": "Week ahead: PCE inflation and revised GDP on Wednesday, US markets shut Thursday for Thanksgiving and close early Friday at 1 p.m."
+  },
+  "analysis": {
+   "zh": "据CNBC,下周(11月23至27日)重点包括:周一美国11月制造业与服务业PMI初值;周二消费者信心指数,戴尔、Best Buy、Workday、亚德诺半导体等财报;周三10月核心PCE物价指数、第三季GDP第二次预估与耐用品订单,以及Deere财报;周四纽约证交所休市;周五下午1时提早收市。报道称,通胀数据若降温,可能缓和市场对美联储12月9日会议加息50个基点的担忧;此外还有黄仁勋出席国会听证与政府停摆风险。",
+   "en": "According to CNBC, next week (Nov. 23-27) brings preliminary US PMIs on Monday; consumer confidence on Tuesday with earnings from Dell, Best Buy, Workday and Analog Devices; October core PCE inflation, revised Q3 GDP and durable goods on Wednesday plus Deere's earnings; the NYSE closed Thursday; and a 1 p.m. early close Friday. CNBC says cooler inflation data could ease fears of a half-point Fed hike at its Dec. 9 meeting; congressional hearings with Jensen Huang and a possible government shutdown are also flagged as risks."
+  },
+  "dda": {
+   "zh": "事件密集的周份不必频繁调整计划。定期定额的价值之一,就是让你不用为每个数据发布而紧张。",
+   "en": "A packed calendar does not call for frequent plan changes. One value of regular investing is that you need not tense up over every data release."
+  },
+  "prs": {
+   "zh": "PCE是美联储看重的通胀指标,和退休金购买力息息相关。可以借这个机会向信托基金顾问了解通胀假设是否需要更新。",
+   "en": "PCE is the inflation gauge the Fed watches, and it relates closely to retirement purchasing power. It is a good chance to ask your unit trust consultant whether your inflation assumptions need updating."
+  },
+  "lump": {
+   "zh": "数据公布前后市场常出现较大波动。单笔资金若暂不急用,可以考虑分批投入以分散时点风险,而不是押注某一次数据结果。",
+   "en": "Markets often swing around data releases. If a lump sum is not urgently needed, phasing in may spread timing risk rather than betting on one data outcome."
+  },
+  "bond": {
+   "zh": "美国通胀与加息预期直接牵动美债收益率与美元,进而可能影响大马债券基金与令吉;大马央行OPR仍取决于本地数据。债券基金在组合中通常扮演平衡角色。",
+   "en": "US inflation and hike expectations directly move US yields and the dollar, which may in turn affect Malaysian bond funds and the ringgit; Bank Negara's OPR still depends on local data. Bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+  }
+ }
+]
