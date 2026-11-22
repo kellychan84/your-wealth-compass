@@ -2,6 +2,310 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-11-22-w0",
+  "kind": "summary",
+  "time": "2026-11-22T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "周末回顾与下周展望:芯片股本周为2001年以来最差,标普500较纪录高位低11.6%;下周看美国PCE通胀,周四美股因感恩节休市",
+   "en": "Weekend review and week ahead: chips had their worst week since 2001 and the S&P 500 sits 11.6% below its record; PCE inflation is due next week and US markets close Thursday for Thanksgiving"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "6,910.39",
+    "change": "-3.70%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "48,147.33",
+    "change": "-1.93%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "台股加权指数",
+     "en": "Taiex"
+    },
+    "value": "36,033.29",
+    "change": "-6.23%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时马来西亚综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,556.51",
+    "change": "-0.61%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "据雅虎财经,费城半导体指数本周跌约17%,为2001年以来最差一周,自9月30日以来已蒸发约三分之一;标普500较10月纪录收盘低11.6%。",
+    "en": "Per Yahoo Finance, the semiconductor index fell about 17% this week, its worst since 2001, and has lost about a third since Sept. 30; the S&P 500 is 11.6% below its October record close."
+   },
+   {
+    "zh": "台湾金管会周一起禁止卖空前一交易日下跌的股票,并把卖空最低担保比率由130%提高到150%(据台湾中央社)。",
+    "en": "Taiwan's financial regulator will ban short-selling of any stock that fell in the previous session from Monday and raise the short-selling margin requirement from 130% to 150% (Focus Taiwan)."
+   },
+   {
+    "zh": "下周重点:周三公布美国10月核心PCE通胀与第三季GDP修正值,周四美股休市,周五提前于下午1点收市(据CNBC)。",
+    "en": "Next week: October core PCE inflation and revised Q3 GDP on Wednesday, US markets shut Thursday and close at 1 p.m. Friday (CNBC)."
+   }
+  ],
+  "takeaway": {
+   "zh": "市场大跌的周末最容易心慌。信托基金顾问通常会建议:先看自己的目标和年期,再决定要不要调整,而不是被一周的标题牵着走。",
+   "en": "A weekend after a big sell-off is when worry runs highest. A unit trust consultant would usually suggest starting from your goals and time horizon before deciding whether to adjust, rather than being led by one week of headlines."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-now-below-every-204200722.html"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202611210013"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/20/bursa-malaysia-ends-week-lower-on-continued-heavyweight-selling"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-22-w1",
+  "time": "2026-11-22T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "us"
+  ],
+  "title": {
+   "zh": "芯片股迎来2001年以来最差一周:费城半导体指数周跌约17%,纳指100距熊市一步之遥",
+   "en": "Chips suffer their worst week since 2001: semiconductor index down about 17%, Nasdaq 100 close to a bear market"
+  },
+  "analysis": {
+   "zh": "据雅虎财经周六报道,费城半导体指数本周下跌约17%,自9月30日以来已损失约三分之一;Nebius、CoreWeave、美光、Marvell和英伟达本周各跌逾20%。纳指100自10月1日以来跌18%,只差一点就到熊市(自高位跌20%)。不过,等权重标普500自9月30日以来大致持平,说明跌势高度集中在AI相关股票。这像一场只影响某几个街区的大停电,其他街区的灯还亮着。",
+   "en": "Yahoo Finance reported on Saturday that the semiconductor index fell about 17% this week and has lost about a third of its value since Sept. 30; Nebius, CoreWeave, Micron, Marvell and Nvidia each fell more than 20%. The Nasdaq 100 is down 18% since Oct. 1, just short of a bear market (a 20% fall from its high). The equal-weight S&P 500, however, is roughly flat since Sept. 30, which shows the damage is concentrated in AI-linked stocks. It is like a blackout hitting only a few neighbourhoods while the lights stay on elsewhere."
+  },
+  "dda": {
+   "zh": "跌势集中在少数主题股,提醒我们定期定额投资的基金内部持有什么很重要。分散在不同行业与地区的组合,一般较不容易被单一主题拖累。",
+   "en": "The fall is concentrated in a few themes, a reminder of how much it matters what sits inside the funds you invest in regularly. A portfolio spread across sectors and regions is generally less exposed to a single theme."
+  },
+  "prs": {
+   "zh": "退休基金的年期很长,可以检查PRS基金的科技股比重和风险等级是否仍符合自己的承受度。PRS每年最高RM3,000的税务减免依然适用。",
+   "en": "A retirement fund has a long horizon, so it is worth checking the tech weighting and risk level of your PRS fund against your comfort level. The PRS tax relief of up to RM3,000 a year still applies."
+  },
+  "lump": {
+   "zh": "单笔资金遇到主题股急跌,可以先检查自己是否已高度集中在同一主题,再考虑分批进入以分散时点风险,并确认金额与目标和风险承受度相符。",
+   "en": "If a lump sum meets a sharp theme sell-off, first check whether you are already concentrated in one theme, then consider phasing in to spread timing risk and confirm the amount fits your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这场跌势主要在科技股,对大马债券基金的直接影响有限。若资金流向较安全资产,可能对MGS有一定支持,但仍要留意美国利率与令吉;债券基金在组合中通常扮演平衡角色。",
+   "en": "The sell-off is mainly in tech, so the direct effect on Malaysian bond funds is limited. If money moves to safer assets it may offer some support to MGS, though US rates and the ringgit still matter; bond funds generally play a balancing role in a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html"
+  }
+ },
+ {
+  "id": "2026-11-22-w2",
+  "time": "2026-11-22T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "标普500现已低于华尔街所有2026年底目标:较10月纪录低11.6%,今年仅涨0.95%",
+   "en": "The S&P 500 is now below every Wall Street year-end target for 2026: 11.6% under its record and up just 0.95% this year"
+  },
+  "analysis": {
+   "zh": "据雅虎财经(24/7 Wall St.)周六文章,标普500周五收于6,910.39点,跌3.70%,较10月纪录收盘价7,818.93点低11.6%,今年累计仅涨0.95%。文中列出的20家机构去年12月发布的年底目标,最低为美银与Ned Davis的7,100点,平均约7,600点(高盛7,600)。要达到平均目标需再涨约10%。预测像天气预报,方向有参考价值,但不能当作承诺。",
+   "en": "According to a Saturday Yahoo Finance (24/7 Wall St.) article, the S&P 500 closed Friday at 6,910.39, down 3.70%, 11.6% below its October record close of 7,818.93 and up only 0.95% for 2026. Of 20 firms' year-end targets published last December, the lowest are Bank of America and Ned Davis at 7,100, and the average is about 7,600 (Goldman Sachs 7,600). Reaching that average would take roughly a 10% rally. Forecasts are like weather forecasts: useful for direction, but not promises."
+  },
+  "dda": {
+   "zh": "目标被打破提醒我们:短期预测常常不准。定期定额的好处是不必猜顶或猜底,以固定节奏投入即可。",
+   "en": "Missed targets are a reminder that short-term forecasts are often wrong. The benefit of regular (DDA) investing is that you do not have to guess tops or bottoms; you simply invest at a steady rhythm."
+  },
+  "prs": {
+   "zh": "规划退休时,通常用的是长期假设而非年底点位。可以趁机回顾退休目标与每月供款是否仍然合理。PRS每年最高RM3,000税务减免仍适用。",
+   "en": "Retirement planning usually relies on long-term assumptions rather than year-end index levels. It is a good time to review whether your retirement goal and monthly contribution still make sense. The PRS tax relief of up to RM3,000 a year still applies."
+  },
+  "lump": {
+   "zh": "不要因为'年底目标'而急着一次投入或一次退场。若有单笔资金,可考虑分批进入以分散时点风险,并检查组合是否过度集中。",
+   "en": "Do not rush in or out of the market because of a year-end target. With a lump sum, consider phasing in to spread timing risk and check the portfolio is not overly concentrated."
+  },
+  "bond": {
+   "zh": "股市预期落空时,债券基金可能因资金寻求稳定而受关注,但大马债券仍受美国利率、国家银行政策与令吉影响。债券基金一般可帮助平衡股票的波动。",
+   "en": "When equity expectations are missed, bond funds may draw interest as investors look for stability, but Malaysian bonds still respond to US rates, Bank Negara policy and the ringgit. Bond funds can generally help balance equity swings."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-now-below-every-204200722.html"
+  }
+ },
+ {
+  "id": "2026-11-22-w3",
+  "time": "2026-11-22T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "台湾进一步收紧卖空:周一起禁止卖空前一交易日下跌的股票,担保比率升至150%",
+   "en": "Taiwan tightens short-selling again: from Monday, stocks that fell in the previous session cannot be shorted and the margin requirement rises to 150%"
+  },
+  "analysis": {
+   "zh": "据台湾中央社周六报道,金管会因AI相关股票的全球波动而收紧规则,首次自2015年以来全面禁止卖空前一交易日下跌的股票,并把卖空最低担保比率由130%提高到150%,新规周一生效,同时暂停认售权证申请。台股加权指数周五收36,033.29点,跌6.23%,为近七个月最低收盘;新台币5,000亿元的国家金融稳定基金自11月6日起获授权入市。监管者此举像是在拥挤的出口加装护栏,目的是让情绪降温。",
+   "en": "Focus Taiwan reported on Saturday that the Financial Supervisory Commission tightened rules after global swings in AI-related stocks. It will ban short-selling of any stock that fell in the previous session, the first blanket curb of its kind since 2015, raise the minimum margin for short-selling from 130% to 150% from Monday, and suspend applications for put warrants. The Taiex closed Friday at 36,033.29, down 6.23%, its lowest close in nearly seven months, and the NT$500 billion National Financial Stabilization Fund has been authorized to intervene since Nov. 6. It is like adding guard rails to a crowded exit so the rush can cool down."
+  },
+  "dda": {
+   "zh": "区域市场的剧烈波动会让人想暂停投入。若投资目标仍然不变,定期定额通常不需要因为一周的行情而中断。",
+   "en": "Sharp regional swings can tempt people to pause contributions. If your goal has not changed, regular (DDA) investing usually does not need to stop because of one week of price action."
+  },
+  "prs": {
+   "zh": "许多退休与全球基金持有台湾或亚洲科技股。可以了解自己的PRS基金在亚洲科技的比重。PRS每年最高RM3,000税务减免依然适用。",
+   "en": "Many retirement and global funds hold Taiwanese or Asian tech stocks. You can find out how much of your PRS fund sits in Asian tech. The PRS tax relief of up to RM3,000 a year still applies."
+  },
+  "lump": {
+   "zh": "在市场出现监管干预的时候,价格波动可能更大。单笔资金可以考虑分批进入,并检查组合对单一地区或行业的集中程度。",
+   "en": "Price swings can be larger when regulators step in. A lump sum can be phased in, and it is worth checking how concentrated the portfolio is in one region or industry."
+  },
+  "bond": {
+   "zh": "台股的监管措施与大马债券的直接联系不大;若全球风险情绪继续转差,资金可能流向较稳健的资产。债券基金在组合中通常扮演平衡角色。",
+   "en": "Taiwan's curbs have little direct link to Malaysian bonds; if global risk sentiment keeps weakening, money may move toward steadier assets. Bond funds generally act as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611210013"
+  }
+ },
+ {
+  "id": "2026-11-22-w4",
+  "time": "2026-11-22T09:00:00+08:00",
+  "tags": [
+   "my",
+   "tech"
+  ],
+  "title": {
+   "zh": "富时马来西亚综指周五收1,556.51点,跌0.61%;数据中心相关股持续被卖,分析师称指数进入超卖区",
+   "en": "FBM KLCI closes Friday at 1,556.51, down 0.61%, as data-centre counters keep being sold; analyst says the index is oversold"
+  },
+  "analysis": {
+   "zh": "据Bernama经The Star报道,富时马来西亚综指周五收1,556.51点,跌9.65点;下跌股837只、上涨股325只,成交额RM29.9亿。马银行跌6仙至RM9.87,大众银行跌3仙至RM4.49,国家能源涨8仙至RM12.68。Rakuten Trade的分析师认为,大型股尤其是数据中心相关股被持续抛售,显示信心尚未恢复,但指数已进入超卖区,可能吸引选择性的低吸。本地市场就像跟着邻居的节奏起舞,美股与亚洲的情绪自然会传过来。",
+   "en": "According to Bernama via The Star, the FBM KLCI closed Friday at 1,556.51, down 9.65 points; decliners beat gainers 837 to 325 and turnover was RM2.99 billion. Maybank fell 6 sen to RM9.87, Public Bank 3 sen to RM4.49 and Tenaga rose 8 sen to RM12.68. Rakuten Trade's Thong Pak Leng said continued selling in heavyweights, especially data-centre-related counters, shows confidence has not yet recovered, but the index is in oversold territory, which may encourage selective bargain hunting. The local market tends to dance to its neighbours' rhythm, so sentiment from Wall Street and Asia carries over."
+  },
+  "dda": {
+   "zh": "本地指数下跌时,定期定额的单位成本可能因此被摊低,但前提是所投资的基金与自己的风险承受度相符。通常不需要因一周行情而中断。",
+   "en": "When the local index falls, regular (DDA) investing may lower the average cost per unit, provided the fund suits your risk tolerance. There is usually no need to stop because of one week."
+  },
+  "prs": {
+   "zh": "大马退休规划着眼于十几二十年。可以确认PRS基金的风险等级是否合适;PRS每年最高RM3,000税务减免依然适用。",
+   "en": "Malaysian retirement planning looks 10 to 20 years ahead. Check that your PRS fund's risk level is still suitable; the PRS tax relief of up to RM3,000 a year still applies."
+  },
+  "lump": {
+   "zh": "分析师提到'超卖'并不代表马上反弹。单笔资金可考虑分批进入以分散时点风险,并留意自己是否过度集中在银行或数据中心相关主题。",
+   "en": "'Oversold' does not mean an immediate rebound. A lump sum may be phased in to spread timing risk, and it is worth checking whether you are overly concentrated in banks or data-centre themes."
+  },
+  "bond": {
+   "zh": "本地股市承压时,MGS与企业债券/伊斯兰债券的表现还要看国家银行利率走向、通胀、令吉与外资流向。债券基金一般可在组合中缓和股票的波动。",
+   "en": "When the local equity market is under pressure, MGS and corporate bond/sukuk performance also depends on Bank Negara's rate path, inflation, the ringgit and foreign flows. Bond funds can generally help soften equity volatility."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/20/bursa-malaysia-ends-week-lower-on-continued-heavyweight-selling"
+  }
+ },
+ {
+  "id": "2026-11-22-w5",
+  "time": "2026-11-22T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "油价连续第三周下跌:霍尔木兹海峡油运量回到战前水平,OPEC+将自11月29日开会决定2027年产量",
+   "en": "Oil heads for a third weekly decline as Hormuz crude flows return to pre-war levels; OPEC+ meets from Nov. 29 on 2027 output"
+  },
+  "analysis": {
+   "zh": "据CNBC周五报道,布伦特原油报每桶92.22美元,周跌近4%;美国WTI(12月合约)报84.09美元,周跌约5%,均为连续第三周下跌。经霍尔木兹海峡的原油运输已回到大致战前水平,市场预期供应过剩。但风险仍在:胡塞武装袭击利雅得,有两艘油轮据报触及水雷。OPEC+部长将自11月29日开会决定2027年产量政策。油价像是一个水龙头,供应畅通时水位就会下降。",
+   "en": "CNBC reported Friday that Brent crude was at $92.22 a barrel, on track for a near-4% weekly decline, and US WTI (December contract) at $84.09, on track for about a 5% drop, both a third straight weekly decline. Crude shipments through the Strait of Hormuz have returned to roughly pre-war levels, raising expectations of a surplus. Risks remain: Houthi forces attacked Riyadh and two tankers reportedly hit naval mines. OPEC+ ministers meet from Nov. 29 to decide 2027 output policy. Oil is like a tap: when supply flows freely, the level drops."
+  },
+  "dda": {
+   "zh": "油价回落可能缓解通胀压力,对长期投资者通常是温和的好消息。定期定额不必因为油价的短期起落而改变。",
+   "en": "Lower oil may ease inflation pressure, generally mildly good news for long-term investors. Regular (DDA) investing does not need to change over short-term oil swings."
+  },
+  "prs": {
+   "zh": "通胀是退休储蓄的隐形对手。油价回落若持续,可能有助减缓生活成本上升,但仍需定期检查退休目标。PRS每年最高RM3,000税务减免依然适用。",
+   "en": "Inflation is a quiet opponent of retirement savings. If lower oil lasts, it may help slow living-cost increases, but retirement goals still deserve regular checks. The PRS tax relief of up to RM3,000 a year still applies."
+  },
+  "lump": {
+   "zh": "能源价格波动大,单笔资金若集中在能源主题,可检查集中度;一般可考虑分批进入以分散时点风险,并确认符合目标。",
+   "en": "Energy prices swing widely; if a lump sum is concentrated in an energy theme, check the concentration. Phasing in may spread timing risk, and the amount should match your goals."
+  },
+  "bond": {
+   "zh": "油价下跌可能缓解通胀与利率压力,对债券一般偏正面;大马作为产油国,油价也可能影响国家收入与令吉。债券基金仍要看国家银行政策与外资流向。",
+   "en": "Lower oil may ease inflation and rate pressure, which is generally supportive for bonds; as an oil producer, Malaysia's revenue and ringgit may also be affected. Bond funds still depend on Bank Negara policy and foreign flows."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/oil-wti-brent-hormuz.html"
+  }
+ },
+ {
+  "id": "2026-11-22-w6",
+  "time": "2026-11-22T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "下周展望:周三公布美国核心PCE通胀与第三季GDP修正值,周四感恩节美股休市,周五提前收市",
+   "en": "Week ahead: core PCE inflation and revised Q3 GDP on Wednesday, US markets closed Thursday for Thanksgiving and an early close Friday"
+  },
+  "analysis": {
+   "zh": "据CNBC周五发布的下周前瞻,周一公布11月S&P Global制造业与服务业PMI初值,周二有消费者信心指数,周三早上8:30公布10月核心PCE通胀、个人消费与第三季GDP二次初值,周四感恩节纽交所休市,周五下午1点提前收市。财报方面,周二有戴尔、Workday、Best Buy等公司公布。下周没有联储会议;文章指出,通胀数据可能缓解市场对联储12月9日加息半个百分点的担忧。PCE就像联储的'体温计',读数会影响市场对利率的判断。",
+   "en": "According to CNBC's week-ahead preview published Friday, preliminary November S&P Global manufacturing and services PMIs arrive Monday, consumer confidence Tuesday, and on Wednesday at 8:30 a.m. ET October core PCE, personal consumption and the second estimate of Q3 GDP. The NYSE is closed Thursday for Thanksgiving and shuts at 1 p.m. Friday. Earnings include Dell, Workday and Best Buy on Tuesday. No Fed event is scheduled; the article says the inflation data could ease fears of a half-point Fed hike on Dec. 9. PCE is like the Fed's thermometer: the reading shapes the market's view on rates."
+  },
+  "dda": {
+   "zh": "单一数据只是一天的新闻,对长期投资者而言,持续的定期定额纪律比押注单一数据结果更重要。",
+   "en": "One data release is a single day's news; for long-term investors, a steady regular (DDA) routine matters more than betting on one data point."
+  },
+  "prs": {
+   "zh": "利率预期影响退休基金中股债的表现。借此机会回顾PRS基金的组合是否仍与退休年期相符。PRS每年最高RM3,000税务减免依然适用。",
+   "en": "Rate expectations affect both stock and bond holdings in retirement funds. It is a good moment to review whether your PRS fund still matches your retirement horizon. The PRS tax relief of up to RM3,000 a year still applies."
+  },
+  "lump": {
+   "zh": "数据公布前后价格可能波动较大。单笔资金可考虑分批进入以分散时点风险,而不是押在某一天的结果上。",
+   "en": "Prices may swing around data releases. A lump sum may be phased in to spread timing risk rather than relying on a single day's outcome."
+  },
+  "bond": {
+   "zh": "PCE读数会影响市场对美国利率路径的预期,进而影响美债殖利率,对大马债券、令吉和外资流向可能有间接影响。债券基金一般扮演平衡角色。",
+   "en": "The PCE reading shapes expectations for US rates and so Treasury yields, which may indirectly affect Malaysian bonds, the ringgit and foreign flows. Bond funds generally act as a balancer."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/stock-market-next-week-outlook-for-nov-23-27-2026.html"
+  }
+ }
+],
+[
+ {
   "id": "2026-11-21-w0",
   "kind": "summary",
   "time": "2026-11-21T09:00:00+08:00",
