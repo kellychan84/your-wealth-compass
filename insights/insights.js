@@ -336,6 +336,187 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-11-23-a1",
+  "time": "2026-11-23T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "台股周一收涨2.16%至36,811.89点,上周创纪录重挫后出现反弹",
+   "en": "Taiwan stocks close up 2.16% at 36,811.89, rebounding after last week's record slide"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan,台湾加权指数周一收报36,811.89点,上涨778.60点或2.16%,成交额约1.08万亿新台币。早上指数曾低开,但收盘转为上涨。上周台股单周下跌17.5%,这次反弹更像是急跌之后的喘息。就像弹簧被压得很低后会先弹一下,但还不能说明方向已经改变。",
+   "en": "Focus Taiwan reports the Taiex closed at 36,811.89 on Monday, up 778.60 points or 2.16%, on turnover of about NT$1.08 trillion. It had opened lower, but closed higher. After last week's 17.5% weekly drop, the bounce looks more like a breather than a change of direction, like a spring that jumps back after being pressed hard."
+  },
+  "dda": {
+   "zh": "急跌之后的单日反弹不代表趋势反转。定期定额(DDA)按固定节奏投入,不需要判断今天是底部还是反弹,一般有助于分散进场价位。",
+   "en": "A one-day bounce after a sharp fall does not confirm a trend reversal. Regular (DDA) investing at a fixed rhythm does not require judging whether today is a bottom or a rebound, and may help spread entry prices."
+  },
+  "prs": {
+   "zh": "退休规划着眼长期,单日的涨跌不必牵动整个计划。可以检视PRS基金在亚洲科技上的集中程度,并记得每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning looks far ahead, so a single day's move need not derail the plan. It may help to check how concentrated a PRS fund is in Asian tech, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "反弹之后价格仍可能反复。单笔投资可考虑分批入市以分散时机风险,并留意是否过度集中于同一地区或主题。",
+   "en": "Prices can still swing after a rebound. For a lump sum, consider phasing in to spread timing risk and watch for concentration in one region or theme."
+  },
+  "bond": {
+   "zh": "台股反弹对马来西亚债券基金的直接影响有限。若区域风险情绪回稳,外资流向与令吉压力可能有所缓和,间接影响MGS与伊斯兰债券;债券基金在股市波动时仍常扮演平衡角色。",
+   "en": "The Taiwan rebound has limited direct effect on Malaysian bond funds. If regional risk sentiment steadies, pressure on foreign flows and the ringgit may ease, indirectly touching MGS and sukuk; bond funds still often play a balancing role when equities swing."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611230008"
+  }
+ },
+ {
+  "id": "2026-11-23-a2",
+  "time": "2026-11-23T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "韩国股市周一再挫:Kospi跌逾3%,政府宣布稳市基金与放宽回购限制",
+   "en": "Korean stocks slide again: Kospi falls more than 3% as the government unveils a stabilization fund and eases buyback limits"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance,Kospi周一早盘下跌约3.2%,延续上周跌势,并触及10个月来低位;三星电子跌近3%,SK海力士一度跌逾13%。政府周末宣布设立稳市基金,并在三个月内放宽公司每日回购股份的限制。野村经济学家称,消息公布后投资者认为没有实质内容而继续卖出。当市场的信心像天平一样倾斜时,政策只能先稳住场面,未必立刻扭转方向。",
+   "en": "According to Yahoo Finance, the Kospi was down about 3.2% in early Monday trading, extending last week's losses and sitting at a 10-month low; Samsung fell nearly 3% and SK Hynix was down more than 13% at one point. Over the weekend the government announced a stabilization fund and eased daily share-buyback limits for three months. Nomura's economist said investors concluded there was nothing substantial and resumed selling. When confidence tilts like a scale, policy can steady the floor but does not always turn the direction at once."
+  },
+  "dda": {
+   "zh": "许多区域型信托基金持有韩国与台湾的芯片股。定期定额(DDA)在波动中持续投入,一般有助于摊平成本,而不必猜测政策能否见效。",
+   "en": "Many regional unit trust funds hold Korean and Taiwanese chip stocks. Continuing regular (DDA) contributions through volatility may help average costs without having to guess whether policy will work."
+  },
+  "prs": {
+   "zh": "PRS基金若含亚洲股票,短期波动通常只是长路上的一段。可以定期检视基金的分散程度,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "If a PRS fund includes Asian equities, short-term swings are usually one stretch of a long road. It may help to review its diversification regularly and use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单一市场与单一行业同时承压,是检查集中度的好时机。单笔投资可考虑分批入市,金额应符合个人目标与风险承受度。",
+   "en": "When one market and one industry are under pressure together, it is a good time to check concentration. For a lump sum, phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "韩国股市下跌对马来西亚债券基金的直接影响有限;若区域资金转向避险,可能间接影响外资流向与令吉,进而牵动MGS与伊斯兰债券。债券基金仍可作为组合的平衡部分,但需留意利率风险。",
+   "en": "The Korean sell-off has limited direct effect on Malaysian bond funds; if regional money turns defensive it may indirectly affect foreign flows and the ringgit, and in turn MGS and sukuk. Bond funds can still balance a portfolio, though interest-rate risk applies."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ai-selloff-splits-global-markets-070806445.html"
+  }
+ },
+ {
+  "id": "2026-11-23-a3",
+  "time": "2026-11-23T17:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "令吉周一早盘小幅走强至4.1095;10月贸易额按年增58%,但美国加息预期仍是压力",
+   "en": "Ringgit edges firmer at 4.1095 on Monday as October trade jumps 58% year-on-year, though US hike bets remain a headwind"
+  },
+  "analysis": {
+   "zh": "据The Star引述Bernama,令吉周一早上8点开盘报4.1095/1150兑美元,略强于周五收盘的4.1105/1150。马来西亚统计局数据显示,10月总贸易额按年增长58%至RM436.6十亿。Bank Muamalat经济学家Mohd Afzanizam表示,随着市场预期美国进一步收紧货币政策,美债收益率曲线趋平,令吉短期内可能继续承压。就像一边有好消息、一边有逆风,走势难以一面倒。",
+   "en": "According to The Star, citing Bernama, the ringgit opened at 4.1095/1150 against the US dollar at 8 am on Monday, slightly firmer than Friday's close of 4.1105/1150. Department of Statistics data show total trade rose 58% year-on-year to RM436.6 billion in October. Bank Muamalat economist Mohd Afzanizam said that with expectations of further US monetary tightening growing and the Treasury curve flattening, the ringgit is likely to stay under pressure in the near term. It is like having good news and a headwind at once: the path is rarely one-sided."
+  },
+  "dda": {
+   "zh": "汇率波动是投资海外资产的信托基金需要面对的因素之一。定期定额(DDA)分批投入,一般有助于分散汇率与市场时点带来的影响。",
+   "en": "Exchange-rate moves are one factor for unit trust funds that hold overseas assets. Regular (DDA) investing in instalments may help spread the effect of currency and market timing."
+  },
+  "prs": {
+   "zh": "退休储蓄的长期购买力会受通胀与汇率影响。可以检视PRS基金的资产与币种分布,并记得每年最高RM3,000的PRS税务减免。",
+   "en": "The long-term purchasing power of retirement savings is affected by inflation and exchange rates. It may help to review a PRS fund's asset and currency mix, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "若考虑投资海外资产,汇率也会影响以令吉计算的回报。单笔投资可考虑分批入市,并确认投资期限与风险承受度相符。",
+   "en": "If you invest in overseas assets, exchange rates also affect returns in ringgit terms. For a lump sum, consider phasing in and confirm that your horizon matches your risk tolerance."
+  },
+  "bond": {
+   "zh": "美国加息预期与美元走强可能影响令吉与外资流向,进而牵动MGS与伊斯兰债券价格;强劲的贸易数据则对本地经济有所支撑。国家银行的OPR走向与通胀仍是债券基金的关键,同时需留意利率风险。",
+   "en": "US hike expectations and a firmer dollar may affect the ringgit and foreign flows, and in turn MGS and sukuk prices, while strong trade data supports the local economy. Bank Negara's OPR path and inflation remain key for bond funds, which still carry interest-rate risk."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/2026/11/23/ringgit-rises-on-stronger-trade-data"
+  }
+ },
+ {
+  "id": "2026-11-23-a4",
+  "time": "2026-11-23T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "亚洲AI股抛售加深:区域指数较6月高点低约18%,市场担忧举债兴建数据中心能否回本",
+   "en": "Asia's AI rout deepens: regional index about 18% below its June peak as investors question debt-funded data-centre spending"
+  },
+  "analysis": {
+   "zh": "据Investing.com,MSCI亚太(日本除外)指数较6月高点低约18%,已接近熊市区域。自11月1日以来,Kospi下跌17.4%,台股下跌18.4%,恒生指数下跌3.9%。投资者担心举债兴建数据中心的投入能否带来回报。韩国将自11月24日起放宽回购限制,中国则将自11月30日起把最低融资按金要求降至80%。这像是热门赛道上突然多了很多人,大家都开始重新计算成本与回报。",
+   "en": "Investing.com reports the MSCI Asia-Pacific index excluding Japan is about 18% below its June peak, close to bear-market territory. Since November 1 the Kospi is down 17.4%, the Taiex 18.4% and the Hang Seng 3.9%, as investors doubt whether debt-funded data-centre spending will pay off. South Korea eases buyback limits from November 24, and China will cut minimum margin requirements to 80% from November 30. It is like a popular track suddenly crowded with runners, all recalculating cost against reward."
+  },
+  "dda": {
+   "zh": "当一个主题被集中抛售时,更能体会分散投资的价值。定期定额(DDA)持续投入多元资产的信托基金,一般有助于降低单一主题的时点风险。",
+   "en": "A concentrated sell-off in one theme shows the value of diversification. Regular (DDA) investing in diversified unit trust funds may help reduce timing risk from a single theme."
+  },
+  "prs": {
+   "zh": "退休资金的时间跨度很长,可以借机检视PRS基金在科技与亚洲市场的比重是否仍合适,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement money has a long horizon, so this may be a good moment to check whether a PRS fund's weight in tech and Asian markets still suits you, and to use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "市场距离高点已有一段回落,但这并不代表已见底。单笔投资可考虑分批入市,并检查组合是否过度集中于AI或半导体等单一主题。",
+   "en": "Markets are well off their highs, but that does not mean the bottom is in. For a lump sum, consider phasing in and check whether the portfolio is concentrated in one theme such as AI or semiconductors."
+  },
+  "bond": {
+   "zh": "亚洲股市的避险情绪可能影响外资流向与令吉,间接牵动MGS与伊斯兰债券,但对马来西亚债券基金的直接影响有限。债券基金在股市动荡时常扮演平衡角色,同时仍需留意利率风险。",
+   "en": "Risk-off sentiment in Asian equities may affect foreign flows and the ringgit, indirectly touching MGS and sukuk, though the direct effect on Malaysian bond funds is limited. Bond funds often play a balancing role in volatile equity markets, while interest-rate risk still applies."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/153-54-47-asias-ai-rout-deepens-3-aipicked-stocks-still-well-ahead-5044440"
+  }
+ },
+ {
+  "id": "2026-11-23-a5",
+  "time": "2026-11-23T17:00:00+08:00",
+  "tags": [
+   "us",
+   "commodities"
+  ],
+  "title": {
+   "zh": "美股期货周一大幅反弹,标普500期货涨约2.1%;布伦特原油小跌至每桶92.21美元",
+   "en": "US futures rebound sharply on Monday, S&P 500 futures up about 2.1%; Brent edges down to $92.21 a barrel"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance转载美联社报道,周一早盘标普500期货上涨2.1%,道指期货上涨1.5%,而周五标普500单日下跌3.7%、进入修正区;英伟达周五下跌14%。能源方面,布伦特原油下跌0.4%至每桶92.21美元,美国原油下跌0.3%至83.14美元,仍明显高于2月底美伊战争爆发前的水平。期货的反弹只是开场,美股正式开盘后的表现才算数。",
+   "en": "Yahoo Finance, carrying an AP report, says S&P 500 futures were up 2.1% and Dow futures up 1.5% early Monday, after the S&P 500 fell 3.7% on Friday into correction and Nvidia lost 14%. In energy, Brent crude fell 0.4% to $92.21 a barrel and US crude fell 0.3% to $83.14, still well above levels before the US-Iran war began in late February. A futures bounce is only the opening act; what counts is how stocks trade once the US market opens."
+  },
+  "dda": {
+   "zh": "市场在短短几天内大起大落,正说明很难精准判断进出场时机。定期定额(DDA)按固定节奏投入,一般有助于减少情绪化的决定。",
+   "en": "Big swings within days show how hard it is to time entries and exits. Regular (DDA) investing at a fixed rhythm may help reduce emotional decisions."
+  },
+  "prs": {
+   "zh": "高油价与市场波动都会影响长期购买力与资产表现。可以定期检视PRS基金的配置,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "High oil prices and market volatility both affect long-term purchasing power and asset performance. It may help to review a PRS fund's allocation regularly and use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "期货反弹未必在正式交易时段延续。单笔投资可考虑分批入市,并确认投资期限与风险承受度相符。",
+   "en": "A futures bounce does not mean it will carry through the regular session. For a lump sum, consider phasing in and confirm that your horizon matches your risk tolerance."
+  },
+  "bond": {
+   "zh": "油价高企可能维持通胀压力,影响市场对利率走向的看法,并通过美元、令吉与外资流向间接牵动MGS与伊斯兰债券。国家银行的OPR与通胀仍是债券基金的关键;债券基金仍需留意利率风险。",
+   "en": "High oil prices may keep inflation pressure alive and shape views on interest rates, indirectly touching MGS and sukuk through the dollar, the ringgit and foreign flows. Bank Negara's OPR and inflation remain key for bond funds, which still carry interest-rate risk."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mostly-fall-p-042312132.html"
+  }
+ }
+],
+[
+ {
   "id": "2026-11-22-w0",
   "kind": "summary",
   "time": "2026-11-22T09:00:00+08:00",
