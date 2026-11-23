@@ -2,6 +2,340 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-11-23-m0",
+  "kind": "summary",
+  "time": "2026-11-23T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "美股周五再暴跌:标普500跌3.70%进入修正区,纳指周跌约10%;台股周跌17.5%创纪录,吉隆坡综指跌至15个月低位",
+   "en": "Wall Street slumps again on Friday: S&P 500 down 3.70% into correction, Nasdaq off about 10% on the week; Taiex posts a record 17.5% weekly loss and the KLCI hits a 15-month low"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "6,910.39",
+    "change": "-3.70%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "48,147.33",
+    "change": "-1.93%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "台湾加权指数",
+     "en": "Taiex"
+    },
+    "value": "36,033.29",
+    "change": "-6.23%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "富时隆综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,556.51",
+    "change": "-0.61%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "标普500与道指周五收于修正区;英伟达因美国证交会调查传闻单日重挫约14%,费城半导体指数本周约跌17%,为2001年以来最差一周。",
+    "en": "The S&P 500 and Dow closed in correction on Friday; Nvidia fell about 14% in a day on reports of an SEC accounting probe, and the Philadelphia Semiconductor Index lost about 17% this week, its worst since 2001."
+   },
+   {
+    "zh": "台股周五跌6.23%,单周下跌17.5%创纪录,金管会宣布周一起对前一日下跌的股票全面禁止放空。",
+    "en": "Taiwan stocks fell 6.23% on Friday and 17.5% on the week, a record; regulators will ban short-selling of any stock that fell the previous day from Monday."
+   },
+   {
+    "zh": "现货金价周五一度跌约2.8%至每盎司约3,518美元,本周约跌9.5%;CME FedWatch显示12月加息25个基点的概率约96%。",
+    "en": "Spot gold fell about 2.8% to about $3,518 an ounce on Friday, down roughly 9.5% on the week; CME FedWatch shows about a 96% chance of a 25-basis-point hike in December."
+   }
+  ],
+  "takeaway": {
+   "zh": "一周之内市场大幅回落,信托基金顾问通常会提醒:先回到自己的目标、投资期限和风险承受度,检视组合是否过度集中在同一主题,比追着每日行情跑更重要。",
+   "en": "After such a sharp weekly drop, a unit trust consultant would generally remind you to return to your goals, time horizon and risk tolerance and check for concentration in one theme; that usually matters more than chasing each day's move."
+  },
+  "sources": [
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202611200015"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/20/bursa-malaysia-ends-week-lower-on-continued-heavyweight-selling"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-23-m1",
+  "time": "2026-11-23T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "美股周五重挫:标普500收于修正区,纳指周跌约10%,费城半导体指数创2001年以来最差一周",
+   "en": "Wall Street routs: S&P 500 closes in correction, Nasdaq down about 10% on the week, chips post their worst week since 2001"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance报道,标普500周五下跌近4%,收于较10月6日纪录高点低约10%的修正区,本周每天都收跌;纳斯达克综合指数跌逾5%,抹去今年全部涨幅,纳指100距离熊市仅一步之遥。费城半导体指数本周约跌17%,自9月30日以来跌约三分之一。就像一艘船连续几天遇上大浪,大家自然会先检查自己的位置与方向。",
+   "en": "According to Yahoo Finance, the S&P 500 fell nearly 4% on Friday to close in correction, about 10% below its October 6 record, after falling every day this week; the Nasdaq Composite lost more than 5%, erasing its 2026 gain, and the Nasdaq 100 finished just short of a bear market. The Philadelphia Semiconductor Index fell about 17% on the week and is down about a third since September 30. It is like a ship hitting rough seas several days running: people naturally check their position and heading."
+  },
+  "dda": {
+   "zh": "急跌时,定期定额(DDA)按固定节奏投入,一般有助于在不同价位摊平成本,也减少被恐慌情绪牵着走的机会。",
+   "en": "In sharp sell-offs, regular (DDA) investing at a fixed rhythm may help average your entry cost across price levels and reduce panic-driven decisions."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,一周的下跌通常只是长路上的一段。可以借机看看PRS基金的资产配置是否仍符合年龄与目标,也别忘了每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning spans decades, and one bad week is usually a short stretch of a long road. It may be a good moment to check whether your PRS fund's asset mix still suits your age and goals, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "这类集中在科技与半导体的跌势提醒我们检查单笔投资是否过度集中于同一主题。分批投入可以分散入市时机风险,金额应符合个人目标与风险承受度。",
+   "en": "A sell-off centred on tech and chips is a reminder to check whether a lump sum is concentrated in one theme. Phasing in may spread timing risk, and the amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市大幅波动时,资金可能流向避险资产,美债收益率可能随之变动,并间接影响令吉与外资流向,以及马来西亚政府债券(MGS)与伊斯兰债券的价格。债券基金常被视为组合的平衡力量,但仍需留意利率风险。",
+   "en": "When equities swing sharply, money may move toward safe havens and Treasury yields may shift, which can indirectly affect the ringgit, foreign flows and prices of Malaysian government bonds (MGS) and sukuk. Bond funds are often seen as a portfolio balancer, though interest-rate risk still applies."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html"
+  }
+ },
+ {
+  "id": "2026-11-23-m2",
+  "time": "2026-11-23T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "英伟达周五重挫约14%:据报美国证交会调查其会计问题,本周市值蒸发近9,000亿美元",
+   "en": "Nvidia plunges about 14% as SEC reportedly probes its accounting; nearly $900 billion lost on the week"
+  },
+  "analysis": {
+   "zh": "Yahoo Finance报道,路透称美国证交会正在审视英伟达可能存在的会计问题,股价周五下跌约14%,为自2025年1月DeepSeek冲击以来最差一天,并连跌七日;盘后反弹近4%。英伟达本周市值减少近9,000亿美元,自10月6日纪录高点累计蒸发约2.7万亿美元,并称10-Q季报将延迟数周提交。当龙头公司出现治理疑云,市场往往先退一步看清楚。",
+   "en": "Yahoo Finance reports that Reuters says the SEC is examining possible accounting issues at Nvidia; the shares fell about 14% on Friday, their worst day since the DeepSeek sell-off in January 2025, for a seventh straight loss, though they rose nearly 4% after hours. Nvidia lost nearly $900 billion in market value this week and about $2.7 trillion since its October 6 peak, and said its 10-Q filing will be delayed in the coming weeks. When a market leader faces governance questions, investors often step back to see the full picture."
+  },
+  "dda": {
+   "zh": "许多信托基金的重仓股都包含大型科技龙头。定期定额(DDA)的好处是不必猜测单一公司消息的结果,按节奏投入通常能降低个股事件带来的时点风险。",
+   "en": "Many unit trust funds hold large tech leaders. A benefit of regular (DDA) investing is that you do not have to guess how one company's news will play out; a steady rhythm may reduce timing risk from single-stock events."
+  },
+  "prs": {
+   "zh": "PRS基金通常分散投资于多个市场与行业,单一公司的消息对整体影响相对有限。长期规划可以关注基金的分散程度,以及每年最高RM3,000的PRS税务减免。",
+   "en": "PRS funds generally spread investments across markets and sectors, so one company's news tends to have a limited effect on the whole. For long-term planning, it may help to look at a fund's diversification and the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单一龙头股的突发事件说明集中度风险的重要性。单笔投资时可以检视组合在同一公司或主题上的暴露程度,并考虑分批进场以分散时机风险。",
+   "en": "A sudden shock at one leading stock shows why concentration risk matters. For a lump sum, it may help to check exposure to one company or theme and consider phasing in to spread timing risk."
+  },
+  "bond": {
+   "zh": "英伟达事件主要影响股市,对马来西亚债券基金的直接影响有限;但若引发避险资金流动,可能间接牵动美债收益率、令吉与外资流向。债券基金在股市动荡时常扮演平衡角色。",
+   "en": "The Nvidia episode mainly affects equities, so the direct impact on Malaysian bond funds is limited; if it triggers safe-haven flows it may indirectly move Treasury yields, the ringgit and foreign flows. Bond funds often play a balancing role when equities are volatile."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
+  }
+ },
+ {
+  "id": "2026-11-23-m3",
+  "time": "2026-11-23T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us",
+   "commodities"
+  ],
+  "title": {
+   "zh": "CNBC解析美股修正的五大推手:Anthropic上市、英伟达风波、技术性破位、通胀与加息预期、盈利增速放缓",
+   "en": "CNBC on five forces behind the S&P 500 correction: Anthropic's IPO, Nvidia's troubles, a technical breakdown, inflation and Fed hike bets, slower earnings growth"
+  },
+  "analysis": {
+   "zh": "据CNBC,Anthropic股价从83美元发行价涨至115美元以上后回落,本周收在88.91美元,让投资者担心上市成了AI行情的高点;标普500跌破200日均线,触发趋势交易者卖出。通胀方面,油价在伊朗冲突影响下仍高于每桶83美元,联储局9月加息25个基点、10月暂停,理事沃勒提出下月可能加息半个百分点,市场预期12月和1月都会加息。10年期美债收益率周五回落至5%以下。",
+   "en": "CNBC says Anthropic shares rose from the $83 IPO price to above $115 before closing the week at $88.91, leaving investors worried the IPO marked a peak for the AI trade; the S&P 500 also fell below its 200-day moving average, triggering selling by trend followers. On inflation, oil remains above $83 a barrel amid the Iran conflict; the Fed hiked 25 basis points in September and paused in October, Governor Waller floated a half-point hike next month, and markets expect hikes in December and January. The 10-year Treasury yield fell back below 5% on Friday."
+  },
+  "dda": {
+   "zh": "多重因素叠加时,短期预测很难准确。定期定额(DDA)不需要判断底部在哪里,长期持续投入通常有助于平滑市场起伏的影响。",
+   "en": "When several forces pile up, short-term forecasts are hard to get right. Regular (DDA) investing does not require calling the bottom; steady contributions over a long period may help smooth market swings."
+  },
+  "prs": {
+   "zh": "利率与通胀走向会影响退休资产的实际购买力。检视PRS组合的资产配置是否仍符合退休年期,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Interest rates and inflation affect the real purchasing power of retirement savings. It may help to review whether your PRS asset mix still matches your retirement horizon, and to use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "加息预期和高油价让市场不确定性上升。单笔投资可考虑分批入市以分散时机风险,并确认投资期限与风险承受度相符。",
+   "en": "Rate-hike bets and high oil raise market uncertainty. For a lump sum, phasing in may spread timing risk, and it is worth confirming that the investment horizon matches your risk tolerance."
+  },
+  "bond": {
+   "zh": "美国加息预期与高企的美债收益率,可能影响美元、令吉与外资流向,进而波及MGS、企业债与伊斯兰债券价格,并可能影响市场对国家银行OPR的看法。债券基金仍需留意利率风险。",
+   "en": "US hike expectations and elevated Treasury yields may affect the dollar, the ringgit and foreign flows, which can in turn move MGS, corporate bond and sukuk prices and shape views on Bank Negara's OPR. Bond funds still carry interest-rate risk."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html"
+  }
+ },
+ {
+  "id": "2026-11-23-m4",
+  "time": "2026-11-23T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "台股周五收跌6.23%至36,033.29点,单周下跌17.5%创纪录",
+   "en": "Taiwan stocks close down 6.23% at 36,033.29, a record 17.5% weekly loss"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan,台湾加权指数周五下跌2,393.60点,收36,033.29点,为七个月来最低;本周累计下跌7,641.83点或17.5%,创下单周最大跌幅纪录。台股与AI及半导体产业高度相关,全球科技股回落时往往首当其冲。就像天秤的一端突然加重,另一端自然也会晃动。",
+   "en": "According to Focus Taiwan, the Taiex fell 2,393.60 points on Friday to close at 36,033.29, its lowest in seven months; for the week it lost 7,641.83 points, or 17.5%, a record weekly drop. Taiwan's market is closely tied to AI and semiconductors, so it is often hit first when global tech sells off. It is like one side of a scale suddenly getting heavier: the other side wobbles too."
+  },
+  "dda": {
+   "zh": "亚洲科技股是许多区域型信托基金的重要持仓。定期定额(DDA)在波动期间持续投入,一般有助于分散进场价位。",
+   "en": "Asian tech stocks are significant holdings in many regional unit trust funds. Continuing regular (DDA) contributions through volatility may help spread your entry prices."
+  },
+  "prs": {
+   "zh": "退休投资者可以留意PRS基金是否过度集中在单一地区或科技主题,并记得每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement savers may check whether a PRS fund leans too heavily on one region or tech theme, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单日与单周的大幅波动说明单一市场的风险不小。单笔投资可考虑分批入市,并检查区域与行业的分散程度。",
+   "en": "Large daily and weekly swings show that single-market risk can be sizeable. For a lump sum, consider phasing in and checking regional and sector diversification."
+  },
+  "bond": {
+   "zh": "台股下跌对马来西亚债券基金的直接影响有限,但若区域资金转向避险,可能影响外资流向与令吉走势,间接牵动MGS与伊斯兰债券。债券在股市动荡时仍常扮演平衡角色。",
+   "en": "The Taiwan sell-off has limited direct effect on Malaysian bond funds, but if regional money turns defensive it may influence foreign flows and the ringgit, indirectly touching MGS and sukuk. Bonds often still play a balancing role when equities are volatile."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611200015"
+  }
+ },
+ {
+  "id": "2026-11-23-m5",
+  "time": "2026-11-23T09:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "台湾金管会宣布周一起对前一日下跌的股票全面禁止放空,并将融券担保比率提高至150%",
+   "en": "Taiwan's regulator bans short-selling of any stock that fell the previous day from Monday and lifts margin to 150%"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan,台湾金管会周六宣布,自周一起禁止放空前一交易日下跌的所有股票,为2015年以来首次全面限制;融券最低担保比率由130%提高到150%,同时暂停受理新的认售权证申请。台股周五收跌2,393.60点或6.23%,盘中低点较10月6日盘中纪录高位低约28.48%。当市场过度恐慌时,监管机构往往会先设立护栏。",
+   "en": "Focus Taiwan reports that Taiwan's Financial Supervisory Commission announced on Saturday that from Monday short-selling is banned for any stock that fell in the previous session, the first such blanket restriction since 2015; the minimum short-selling margin rises from 130% to 150%, and new put warrant applications are suspended. The Taiex fell 2,393.60 points, or 6.23%, on Friday, and its intraday low was about 28.48% below its October 6 intraday record. When markets panic, regulators often put up guardrails first."
+  },
+  "dda": {
+   "zh": "监管措施可能短期稳定情绪,但不一定改变长期方向。定期定额(DDA)按纪律投入,不需要押注短期政策效果。",
+   "en": "Regulatory steps may calm sentiment in the short term but do not necessarily change the long-term direction. Regular (DDA) investing follows a discipline and does not need to bet on short-term policy effects."
+  },
+  "prs": {
+   "zh": "退休规划看重长期持续性。面对市场的政策干预与高波动,可以定期检视PRS基金的分散程度与风险水平,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning values consistency over the long term. With policy interventions and high volatility, it may help to review a PRS fund's diversification and risk level regularly, and to use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "在市场受到特殊管制的时期,价格波动与流动性可能不同于平常。单笔投资者可考虑分批入市,并留意自己的整体集中度。",
+   "en": "When markets operate under special restrictions, price swings and liquidity may differ from normal. Lump sum investors may consider phasing in and keeping an eye on overall concentration."
+  },
+  "bond": {
+   "zh": "台湾的监管措施对马来西亚债券基金的直接影响有限。若区域风险情绪持续紧张,可能间接影响外资流向与令吉,债券基金仍可作为组合的平衡部分,但要留意利率风险。",
+   "en": "Taiwan's measures have limited direct effect on Malaysian bond funds. If regional risk sentiment stays tense it may indirectly affect foreign flows and the ringgit; bond funds can still balance a portfolio, though interest-rate risk applies."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611210013"
+  }
+ },
+ {
+  "id": "2026-11-23-m6",
+  "time": "2026-11-23T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "现货金价周五跌约2.8%至每盎司约3,518美元,本周约跌9.5%,加息预期与强势美元施压",
+   "en": "Spot gold falls about 2.8% to about $3,518 an ounce, down roughly 9.5% on the week, as hike bets and a resilient dollar weigh"
+  },
+  "analysis": {
+   "zh": "据CNBC,现货黄金周五美东时间下午2:36跌2.8%至每盎司3,518.50美元,本周累计跌约9.5%;CME FedWatch显示12月加息25个基点的概率约96%,美元走势稳健,压制不生息的黄金。就像存款利息变高时,不生息的东西自然显得没那么吸引。",
+   "en": "CNBC reports spot gold fell 2.8% to $3,518.50 an ounce at 2:36 p.m. ET on Friday, down about 9.5% this week; CME FedWatch shows about a 96% chance of a 25-basis-point December hike and a resilient dollar is weighing on non-yielding gold. It is like deposit rates rising: something that pays no interest looks less attractive."
+  },
+  "dda": {
+   "zh": "黄金短期波动可以很大。若信托基金含有黄金相关资产,定期定额(DDA)有助于分散进场时点,而不必猜测短期方向。",
+   "en": "Gold can swing widely in the short term. If a unit trust fund includes gold-related assets, regular (DDA) investing may spread entry timing without having to guess short-term direction."
+  },
+  "prs": {
+   "zh": "退休资产通常需要多元配置,黄金只是其中一种分散工具。可以检视PRS基金的资产类别分布,并记得每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement assets generally need diversification, and gold is only one diversifier. It may help to review a PRS fund's asset-class mix and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "即使是传统避险资产,价格也可能快速回落,这说明没有任何单一资产能一直稳定。单笔投资可考虑分批入市,并确认投资期限与风险承受度相符。",
+   "en": "Even a traditional safe haven can fall quickly, which shows no single asset is stable all the time. For a lump sum, consider phasing in and confirming that your horizon matches your risk tolerance."
+  },
+  "bond": {
+   "zh": "加息预期上升可能推高美元与美债收益率,影响令吉与外资流向,进而牵动MGS与伊斯兰债券价格。债券基金对利率变化较敏感,需留意利率风险。",
+   "en": "Rising hike expectations may lift the dollar and Treasury yields, affecting the ringgit and foreign flows and, in turn, MGS and sukuk prices. Bond funds are sensitive to interest-rate changes, so rate risk deserves attention."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/20/gold-federal-reserve-price-dollar-metals.html"
+  }
+ },
+ {
+  "id": "2026-11-23-m7",
+  "time": "2026-11-23T09:00:00+08:00",
+  "tags": [
+   "my",
+   "tech"
+  ],
+  "title": {
+   "zh": "吉隆坡综指周五收跌0.61%至1,556.51点,盘中触及15个月低位;数据中心相关股持续承压",
+   "en": "FBM KLCI closes down 0.61% at 1,556.51 after a 15-month intraday low as data-centre-linked stocks stay under pressure"
+  },
+  "analysis": {
+   "zh": "据The Star,富时隆综指周五收于1,556.51点,下跌9.65点或0.61%,盘中区间为1,548.67至1,559.11点;全场837只股票下跌、325只上涨。马银行跌6仙至RM9.87,国家能源升8仙至RM12.68。Rakuten Trade分析师Thong Pak Leng表示,持续抛售部分权重股显示投资者信心尚未恢复,尤其是数据中心相关股;指数已进入超卖水平,可能引来选择性逢低买盘。",
+   "en": "According to The Star, the FBM KLCI closed at 1,556.51 on Friday, down 9.65 points or 0.61%, within an intraday range of 1,548.67 to 1,559.11; 837 stocks fell against 325 gainers. Maybank lost 6 sen to RM9.87 while Tenaga Nasional gained 8 sen to RM12.68. Rakuten Trade's Thong Pak Leng said continuous selling in selected heavyweights suggests investor confidence has yet to recover, particularly in data-centre-related counters, and that the index has reached oversold levels which could prompt selective bargain hunting."
+  },
+  "dda": {
+   "zh": "本地市场连续承压时,定期定额(DDA)按月持续投入,一般有助于在不同价位累积单位数,并降低因情绪而中断投资的可能。",
+   "en": "When the local market stays under pressure, continuing monthly regular (DDA) contributions may help accumulate units at different price levels and reduce the chance of stopping out of emotion."
+  },
+  "prs": {
+   "zh": "退休储蓄是长跑,本地与区域市场的短期低点不代表长期结论。可以检视PRS基金的配置,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement saving is a long race, and short-term lows in local and regional markets do not settle the long-term story. It may help to review your PRS fund's allocation and use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "指数处于低位并不代表已见底。单笔投资可考虑分批入市,同时留意是否过度集中于数据中心等单一主题。",
+   "en": "A low index level does not mean the bottom is in. For a lump sum, consider phasing in while watching for concentration in a single theme such as data centres."
+  },
+  "bond": {
+   "zh": "本地股市走弱与外围避险情绪,可能影响外资流向与令吉走势,进而牵动MGS与伊斯兰债券。国家银行的OPR走向与通胀仍是债券基金的关键;股市波动时债券基金常扮演平衡角色。",
+   "en": "Weaker local equities and global risk-off sentiment may affect foreign flows and the ringgit, in turn touching MGS and sukuk. Bank Negara's OPR path and inflation remain key for bond funds, which often play a balancing role when equities are volatile."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/20/bursa-malaysia-ends-week-lower-on-continued-heavyweight-selling"
+  }
+ }
+],
+[
+ {
   "id": "2026-11-22-w0",
   "kind": "summary",
   "time": "2026-11-22T09:00:00+08:00",
