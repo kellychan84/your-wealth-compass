@@ -1,0 +1,181 @@
+[
+ {
+  "id": "2026-11-24-a1",
+  "time": "2026-11-24T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股周二暴涨8.99%创单日最大点数涨幅,台积电涨10%",
+   "en": "Taiwan stocks surge 8.99% for a record one-day point gain, with TSMC up 10%"
+  },
+  "analysis": {
+   "zh": "据中央社报道,台湾加权指数周二收于40,122.35点,上涨3,310.46点(8.99%),刷新7月31日创下的3,186.45点纪录;台积电涨10%至NT$2,230,单靠它就贡献约1,600点。分析师认为黄仁勋重返英伟达缓解了对AI“循环融资”的担忧,不过成交额仅NT$4,194.1亿,为今年最低,外资净卖出NT$503.9亿。就像一阵猛烈的浪潮,涨得快,也要留意退得快。",
+   "en": "Focus Taiwan reports the Taiex closed Tuesday at 40,122.35, up 3,310.46 points (8.99%), beating the previous record of 3,186.45 points set on July 31. TSMC rose 10% to NT$2,230 and added about 1,600 points on its own. Analysts said Jensen Huang's return to Nvidia eased worries about AI 'circular financing', yet turnover of NT$419.41 billion was the lowest this year and foreign investors were net sellers of NT$50.39 billion. Like a big wave: it can rise fast, and ebb fast too."
+  },
+  "dda": {
+   "zh": "单日暴涨暴跌正是定期定额(DDA)的意义所在:按固定节奏投入,不必猜测哪一天是高点或低点,成本会随价位自然平均。",
+   "en": "Huge one-day swings are why regular (DDA) investing exists: investing at a steady rhythm means you do not have to guess the high or low, and your cost generally averages across price levels."
+  },
+  "prs": {
+   "zh": "台积电占台股市值逾四成,说明单一主题的集中度有多高。检视PRS基金的全球分散程度,并记得每年最高RM3,000的PRS税务减免,对长期退休规划更有意义。",
+   "en": "TSMC makes up over 40% of Taiwan's market value, a reminder of how concentrated one theme can be. Checking how globally diversified your PRS fund is, and remembering the PRS tax relief of up to RM3,000 a year, may matter more for long-term retirement planning than a one-day move."
+  },
+  "lump": {
+   "zh": "大涨之后追入的风险较高。单笔投资可以考虑分批进场以分散入市时机风险,并检查组合是否过度集中于半导体或AI,金额应符合个人目标与风险承受度。",
+   "en": "Chasing after a big jump carries more timing risk. For a lump sum, phasing in may spread that risk, and it is worth checking whether the portfolio is overly concentrated in chips or AI. The amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这类股市行情对大马债券基金的直接影响有限,但外资情绪和美元走势可能影响令吉与马来西亚政府债券(MGS)、伊斯兰债券的资金流向。债券基金通常在组合里扮演平衡股市波动的角色。",
+   "en": "This equity move has limited direct effect on Malaysian bond funds, but risk sentiment and the dollar may influence ringgit and foreign flows into MGS and sukuk. Bond funds generally play the role of balancing equity swings in a portfolio."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611240019"
+  }
+ },
+ {
+  "id": "2026-11-24-a2",
+  "time": "2026-11-24T17:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "港股周二逆市下跌,恒指跌0.73%至22,219点,小米、美团跌逾3%",
+   "en": "Hong Kong lags Asia's rebound: Hang Seng down 0.73% to 22,219, Xiaomi and Meituan fall over 3%"
+  },
+  "analysis": {
+   "zh": "据The Standard报道,恒生指数周二收跌164点或0.73%,报22,219点,成交额HK$2,126亿;恒生科技指数跌1.17%至3,466点。小米跌3.7%、美团跌3.3%,联想则涨3.7%。亚洲其他市场普遍反弹,但投资者认为黄仁勋复职对修复中美关系帮助有限。内地方面,上证指数涨0.27%至3,548点,深证成指跌0.29%至10,423点。",
+   "en": "The Standard reports the Hang Seng Index closed Tuesday down 164 points, or 0.73%, at 22,219 on turnover of HK$212.6 billion, while the Hang Seng Tech Index fell 1.17% to 3,466. Xiaomi dropped 3.7% and Meituan 3.3%, while Lenovo gained 3.7%. Hong Kong lagged Asia's rebound as investors judged Jensen Huang's return would do little to repair US-China ties. On the mainland, the Shanghai Composite rose 0.27% to 3,548 and the Shenzhen Component fell 0.29% to 10,423."
+  },
+  "dda": {
+   "zh": "同一天各地区表现分化,说明单靠押注某个市场并不容易。定期定额(DDA)投资于不同地区的信托基金,有助于分散单一市场的波动。",
+   "en": "Markets diverged on the same day, showing how hard it is to bet on a single market. Regular (DDA) investing across funds in different regions may help spread the swings of any one market."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,中港股市的波动只是其中一段。可以检视PRS基金的地区分布是否符合年龄与目标,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning spans decades, and Hong Kong and China swings are one chapter. It may help to check whether your PRS fund's regional mix suits your age and goals, and to use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "单笔投资若涉及中国或港股主题,可以考虑分批进场分散入市时机风险,并留意地区与行业集中度,金额应符合自身目标与风险承受度。",
+   "en": "If a lump sum involves China or Hong Kong themes, phasing in may spread timing risk, and it is worth watching regional and sector concentration. The amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "港股的短期波动对大马债券基金影响较小,较可能的传导途径是中美关系与外资情绪影响区域资金流向和令吉。债券基金通常被视为组合的稳定器,但仍需留意利率与信用风险。",
+   "en": "Short-term Hong Kong moves generally have little direct effect on Malaysian bond funds; the more likely channel is US-China relations and risk sentiment shifting regional flows and the ringgit. Bond funds are often seen as a portfolio stabiliser, though interest-rate and credit risk remain."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/349469/Hong-Kong-shares-close-lower-Xiaomi-and-Meituan-down-over-3pc"
+  }
+ },
+ {
+  "id": "2026-11-24-a3",
+  "time": "2026-11-24T17:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "亚洲芯片股随英伟达大涨:韩股涨超6%触发熔断式暂停,台积电、联发科逼近涨停",
+   "en": "Asian chip stocks soar with Nvidia: Kospi up over 6% triggers a sidecar, TSMC and MediaTek near limit-up"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,台积电涨9.85%、鸿海涨9.95%、联发科涨9.91%,均逼近10%的涨停幅度;三星电子和SK海力士各涨6.7%,两者占韩国综指权重逾四成,推动指数涨超6%并触发据报为第100次的sidecar机制。日本方面,爱德万测试涨12%、东京电子涨7%。Saxo的Charu Chanana表示,黄仁勋复职对亚洲科技股“特别受欢迎”。",
+   "en": "CNBC reports TSMC rose 9.85%, Hon Hai 9.95% and MediaTek 9.91%, all near the 10% daily limit, while Samsung Electronics and SK Hynix each gained 6.7%. The two make up over 40% of the Kospi's weighting, helping lift the index over 6% and triggering a sidecar, reportedly the KRX's 100th. In Japan, Advantest rose 12% and Tokyo Electron 7%. Saxo's Charu Chanana said Jensen Huang's return is 'particularly welcome for Asian technology stocks'."
+  },
+  "dda": {
+   "zh": "芯片股的行情来得快,去得也可能快。定期定额(DDA)让你在波动中保持纪律,不必因为一天的大涨而临时改变计划。",
+   "en": "Chip rallies can come quickly and may fade quickly. Regular (DDA) investing helps you stay disciplined through volatility, without changing your plan because of one big day."
+  },
+  "prs": {
+   "zh": "退休基金的时间跨度很长,不必追逐单一行业的短期热潮。可以借这个机会检视PRS基金是否已过度偏重科技,并留意每年最高RM3,000的PRS税务减免。",
+   "en": "A retirement fund has a long horizon and does not need to chase one sector's short-term surge. This may be a good moment to check whether your PRS fund leans too heavily on tech, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "亚洲芯片股两位数的单日涨幅提醒我们集中风险的存在。单笔投资可以考虑分批进场,并检视组合是否过度集中于半导体主题,金额应符合目标与风险承受度。",
+   "en": "Double-digit one-day gains in Asian chip stocks are a reminder of concentration risk. For a lump sum, phasing in may spread timing risk, and it is worth checking for over-concentration in semiconductors. The amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市情绪好转可能让部分资金从避险资产流向股票,但对大马债券基金的影响通常是间接的,主要经由美元、令吉与外资流向传导。债券基金仍是平衡组合波动的工具之一。",
+   "en": "Better equity sentiment may pull some money from safe havens into stocks, but the effect on Malaysian bond funds is generally indirect, mainly through the dollar, ringgit and foreign flows. Bond funds remain one tool for balancing portfolio swings."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
+  }
+ },
+ {
+  "id": "2026-11-24-a4",
+  "time": "2026-11-24T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "us",
+   "my"
+  ],
+  "title": {
+   "zh": "消息称AI“循环融资”或面临美国更严监管,台湾供应商担心对东南亚出口管制趋严",
+   "en": "AI 'circular financing' may face tighter US scrutiny, Taiwan sources say; suppliers warn of tighter export curbs for Southeast Asia"
+  },
+  "analysis": {
+   "zh": "据中央社引述台湾半导体业界人士报道,黄仁勋推动的AI融资安排(科技公司投资、借款给AI伙伴,对方再购买其产品)可能面临美国监管更严格的审查,政府或增设规则或监督机构,英伟达可能需披露更多交易细节。文章也指出这类安排并不必然违法或不当。一名高管警告,美国对新加坡、马来西亚等东南亚国家的芯片出口限制可能收紧,影响台湾供应商的销售。这些属于匿名人士的看法,尚待官方确认。",
+   "en": "Focus Taiwan, citing Taiwanese semiconductor-industry sources, reports that the AI financing arrangements Jensen Huang has promoted (tech firms investing in or lending to AI partners who then buy their products) could face tighter US regulatory scrutiny, with new rules or an oversight body possible and Nvidia perhaps required to disclose more. The article notes such arrangements are not necessarily illegal or improper. One executive warned that US chip export curbs could tighten for Southeast Asian countries such as Singapore and Malaysia, affecting Taiwanese suppliers' sales there. These are anonymous views and not yet officially confirmed."
+  },
+  "dda": {
+   "zh": "监管消息可能带来波动,但对长期投资者而言,定期定额(DDA)按纪律投入,通常比预测政策走向更实际。",
+   "en": "Regulatory headlines may bring volatility, but for long-term investors, disciplined regular (DDA) investing is generally more practical than trying to predict policy direction."
+  },
+  "prs": {
+   "zh": "退休规划不宜把希望押在单一热门主题上。可以检视PRS基金的持仓是否分散,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning generally should not rest on one popular theme. It may help to check whether your PRS fund's holdings are diversified, and to use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "若关心AI主题,单笔投资可以考虑分批进场分散入市时机风险,并留意政策与监管不确定性带来的集中度风险,金额应符合目标与风险承受度。",
+   "en": "If you are interested in the AI theme, phasing in a lump sum may spread timing risk, and policy or regulatory uncertainty adds to concentration risk. The amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "大马的半导体与数据中心产业若受出口管制影响,可能间接影响外资流向与令吉,进而影响马来西亚政府债券(MGS)与伊斯兰债券。债券基金通常被视为平衡股市波动的角色,但仍需留意利率风险。",
+   "en": "If Malaysia's semiconductor and data-centre sectors were affected by export controls, foreign flows and the ringgit may be influenced indirectly, which could touch MGS and sukuk. Bond funds are generally seen as a balancer against equity swings, though interest-rate risk remains."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611240016"
+  }
+ },
+ {
+  "id": "2026-11-24-a5",
+  "time": "2026-11-24T17:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "金价在近14个月低位附近小幅回升,市场等待周三PCE;12月加息概率约95%",
+   "en": "Gold edges up from its lowest since September 2025 as markets await Wednesday's PCE; December hike odds about 95%"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,现货黄金上涨0.3%至每盎司3,643.47美元,从周五触及的2025年9月以来低点回升;美国黄金期货跌0.2%至3,642.90美元。根据CME FedWatch,市场认为12月加息25个基点的概率为95%,纽约联储主席威廉姆斯称持续偏高的通胀使央行倾向偏紧。周三公布的PCE是焦点。就像等待体检报告,数据出炉前市场往往谨慎。",
+   "en": "CNBC reports spot gold rose 0.3% to $3,643.47 an ounce, rebounding from Friday's lowest level since September 2025, while US gold futures slipped 0.2% to $3,642.90. CME FedWatch shows a 95% chance of a 25-basis-point hike in December, and New York Fed President John Williams said persistently high inflation keeps the central bank leaning toward tighter policy. Wednesday's PCE report is the focus. Like waiting for a health check result, markets tend to be cautious before the data."
+  },
+  "dda": {
+   "zh": "利率与通胀预期反复时,定期定额(DDA)的纪律性更显价值:不必猜测数据,持续投入让成本随时间平均。",
+   "en": "When rate and inflation expectations keep shifting, the discipline of regular (DDA) investing matters more: you do not need to guess the data, and steady contributions average your cost over time."
+  },
+  "prs": {
+   "zh": "通胀偏高会侵蚀退休储蓄的购买力,所以长期规划要考虑通胀因素。可以检视PRS基金的资产配置,并记得每年最高RM3,000的PRS税务减免。",
+   "en": "Persistent inflation can erode the purchasing power of retirement savings, so long-term plans generally need to allow for it. It may help to review your PRS fund's asset mix and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "黄金短期涨跌明显,单笔投资若涉及商品主题,可以考虑分批进场分散入市时机风险,并检查集中度,金额应符合目标与风险承受度。",
+   "en": "Gold has been moving sharply in the short term. If a lump sum involves commodity themes, phasing in may spread timing risk, and concentration is worth checking. The amount should fit your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美联储若加息、美债收益率上升,可能影响美元、令吉与外资流向,并牵动马来西亚政府债券(MGS)与企业债、伊斯兰债券的价格与利率预期;国家银行的OPR走向也值得留意。债券基金仍有平衡组合的作用,但需留意利率风险。",
+   "en": "If the Fed hikes and Treasury yields rise, the dollar, ringgit and foreign flows may be affected, which can move prices and rate expectations for MGS, corporate bonds and sukuk; Bank Negara's OPR path also deserves attention. Bond funds still help balance a portfolio, but interest-rate risk remains."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://cnbc.com/2026/11/24/gold-bargain-buying-us-inflation-data.html"
+  }
+ }
+]
