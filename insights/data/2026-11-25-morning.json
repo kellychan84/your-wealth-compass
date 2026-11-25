@@ -1,0 +1,305 @@
+[
+ {
+  "id": "2026-11-25-m0",
+  "kind": "summary",
+  "time": "2026-11-25T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "美股科技股回吐:标普500跌0.5%、纳指跌1.5%,道指涨0.9%;台股大涨8.99%,港股跌0.73%",
+   "en": "Tech gives back gains on Wall Street: S&P 500 -0.5%, Nasdaq -1.5%, Dow +0.9%; Taiwan shares jump 8.99% while Hong Kong slips 0.73%"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,201.09",
+    "change": "-0.50%",
+    "dir": "dn"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "50,018.70",
+    "change": "+0.85%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "台湾加权指数",
+     "en": "Taiex"
+    },
+    "value": "40,122.35",
+    "change": "+8.99%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "恒生指数",
+     "en": "Hang Seng"
+    },
+    "value": "22,219",
+    "change": "-0.73%",
+    "dir": "dn"
+   }
+  ],
+  "points": [
+   {
+    "zh": "周二美股科技股回吐前一日涨幅,纳指跌1.5%,道指因科技比重较低而上涨逾400点;CNBC称周三亚洲股市下跌,韩国Kospi跌4.49%。",
+    "en": "On Tuesday tech gave back part of Monday's gains, with the Nasdaq down 1.5% while the Dow rose more than 400 points; CNBC said Asian markets fell Wednesday, with South Korea's Kospi down 4.49%."
+   },
+   {
+    "zh": "交易员已完全计入12月美联储加息25个基点,现货金价周二一度跌约2%至每盎司3,556.82美元;10月PCE数据周三公布。",
+    "en": "Traders fully price a 25-basis-point Fed hike in December, and spot gold fell about 2% to $3,556.82 an ounce on Tuesday; October PCE data is due Wednesday."
+   },
+   {
+    "zh": "台湾10月工业生产按年增29.80%,连续第32个月增长,电脑及光电产品暴增130.57%。",
+    "en": "Taiwan's October industrial production rose 29.80% year on year, the 32nd straight month of growth, with computer and optoelectronics up 130.57%."
+   }
+  ],
+  "takeaway": {
+   "zh": "市场连日大起大落,提醒我们单日涨跌不宜作为决策依据。信托基金顾问通常建议回到自己的目标、投资期限与风险承受度,并检视组合是否过度集中在同一主题。",
+   "en": "After days of big swings, a single day's move is a poor basis for decisions. A unit trust consultant would generally suggest returning to your goals, time horizon and risk tolerance, and checking that your portfolio is not too concentrated in one theme."
+  },
+  "sources": [
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+   },
+   {
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-jensen-return-165001958.html"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/gold-bargain-buying-us-inflation-data.html"
+   },
+   {
+    "name": "Focus Taiwan",
+    "url": "https://focustaiwan.tw/business/202611240011"
+   },
+   {
+    "name": "The Standard",
+    "url": "https://www.thestandard.com.hk/finance/article/349469/Hong-Kong-shares-close-lower-Xiaomi-and-Meituan-down-over-3pc"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-25-m1",
+  "time": "2026-11-25T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "美股周二科技股回吐:标普500跌0.5%、纳指跌1.5%,道指涨逾400点",
+   "en": "Wall Street: tech gives back gains, S&P 500 -0.5%, Nasdaq -1.5%, Dow up more than 400 points"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,周二标普500下跌0.5%,纳斯达克综合指数下跌1.5%,而道指上涨逾400点(约0.9%),因为它的科技股比重较小。CNBC指出,市场对人工智能基础设施开支的疑虑再度升温,分析师Liz Ann Sonders认为这轮AI抛售早于黄仁勋的消息。就像潮水退去,先前涨得快的地方退得也快。",
+   "en": "CNBC reported that on Tuesday the S&P 500 fell 0.5% and the Nasdaq Composite slid 1.5%, while the Dow rose more than 400 points, or about 0.9%, helped by its smaller tech exposure. CNBC tied the pullback to renewed doubts about AI infrastructure spending, and strategist Liz Ann Sonders said the AI sell-off predated the Huang news. Like a tide going out, the areas that rose fastest can also retreat fastest."
+  },
+  "dda": {
+   "zh": "行情来回拉扯时,定期定额(DDA)按固定节奏投入,一般能避免你去猜高低点,成本也会随价位平均。",
+   "en": "When markets swing back and forth, regular (DDA) investing at a fixed rhythm generally spares you from guessing highs and lows, and your cost averages across price levels."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,短期震荡只是小插曲。可以趁机检视PRS基金的资产配置是否仍符合年龄与目标,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement planning spans decades, so short-term swings are small episodes. It may be a good time to check whether your PRS fund's asset mix still suits your age and goals, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "科技股一天内大幅回吐,提醒我们检查组合是否过度集中于单一主题。单笔投资可考虑分批进场以分散入市时机风险,金额应符合目标与风险承受度。",
+   "en": "A sharp one-day tech pullback is a reminder to check concentration in a single theme. A lump sum may be phased in to spread timing risk, with the amount matching your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市震荡时,资金有时流向较稳定的资产,可能影响美债收益率与令吉,进而间接影响马来西亚政府债券(MGS)与伊斯兰债券。债券基金常被视为组合的平衡力量,但仍有利率风险。",
+   "en": "When equities swing, money may move toward steadier assets, which can affect Treasury yields and the ringgit and, indirectly, Malaysian government bonds (MGS) and sukuk. Bond funds are often seen as a portfolio balancer, though interest-rate risk still applies."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
+  }
+ },
+ {
+  "id": "2026-11-25-m2",
+  "time": "2026-11-25T09:00:00+08:00",
+  "tags": [
+   "us",
+   "tech"
+  ],
+  "title": {
+   "zh": "英伟达回吐涨幅:黄仁勋复职引来两党批评,股价盘中跌约8%",
+   "en": "Nvidia gives back its rally as Huang's return draws bipartisan criticism, shares down about 8% intraday"
+  },
+  "analysis": {
+   "zh": "据Yahoo Finance报道,英伟达周二上午一度下跌约8%至约151美元,周一收于165美元;共和党与民主党都对特朗普在黄仁勋复职中的角色提出异议,黄仁勋预定下周面对国会,美国证交会、联邦调查局与司法部据报也在关注此事。英伟达过去一个月累计下跌28%。重大人事消息带来的涨跌往往很急,波动并不等于公司长期价值的改变。",
+   "en": "Yahoo Finance reported Nvidia was down about 8% to roughly $151 on Tuesday morning after closing at $165 Monday. Republicans and Democrats have both objected to President Trump's role in Huang's return, Huang is due to face Congress next week, and the SEC, FBI and Justice Department are reportedly looking into the matter. Nvidia is down 28% over the past month. Headline-driven moves can be abrupt, and volatility is not the same as a change in long-term value."
+  },
+  "dda": {
+   "zh": "单一热门股的急涨急跌,正是DDA分散在不同时间、不同价位投入的意义:不必押注某一天。通过信托基金投资,也已经自然分散到许多公司。",
+   "en": "Sharp swings in one popular stock are why DDA spreads investing across time and price levels: you do not need to bet on a single day. Investing through unit trusts also spreads exposure across many companies."
+  },
+  "prs": {
+   "zh": "退休资金不宜依赖单一公司或主题。可以检视PRS基金背后的持仓是否足够分散,并利用每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement savings should not lean on one company or theme. It may help to check how diversified your PRS fund's holdings are, and to use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "热门科技股占比过高会放大波动。单笔资金可考虑分批投入,并留意是否已在多只基金里重复持有同一批大型科技股。",
+   "en": "A heavy weighting in popular tech names can amplify volatility. A lump sum may be phased in, and it is worth checking whether several funds hold the same large tech stocks."
+  },
+  "bond": {
+   "zh": "这则消息主要影响股市情绪,对马来西亚债券基金的直接影响有限;但风险情绪转变时,资金流向与令吉可能间接牵动MGS与伊斯兰债券。债券在组合中的角色是平衡股市波动。",
+   "en": "This story mainly affects equity sentiment, with limited direct effect on Malaysian bond funds; but when risk appetite shifts, fund flows and the ringgit can indirectly touch MGS and sukuk. Bonds' role is to balance equity volatility within a portfolio."
+  },
+  "source": {
+   "name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-jensen-return-165001958.html"
+  }
+ },
+ {
+  "id": "2026-11-25-m3",
+  "time": "2026-11-25T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "交易员完全计入12月加息25个基点,现货金价周二跌约2%至3,556.82美元",
+   "en": "Traders fully price a 25bp December Fed hike; spot gold falls about 2% to $3,556.82"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,现货金价周二一度跌至每盎司3,552.46美元,收窄后约报3,556.82美元;CME FedWatch显示12月加息25个基点已被完全计入,加息50个基点的机率为2%。纽约联储主席Williams表示,持续偏高的通胀仍指向更紧的货币政策。黄金不产生利息,利率越高,持有它的机会成本越高。美国10月PCE通胀数据将于周三公布。",
+   "en": "CNBC reported spot gold fell as low as $3,552.46 an ounce and traded around $3,556.82, while CME's FedWatch Tool shows a 25-basis-point December hike fully priced in and a 2% chance of a 50-basis-point move. New York Fed President John Williams said persistently high inflation continues to point toward tighter policy. Gold pays no interest, so higher rates raise the opportunity cost of holding it. U.S. October PCE inflation data is due Wednesday."
+  },
+  "dda": {
+   "zh": "利率预期变动时,DDA持续投入的纪律比预测利率更重要;不同资产对利率的反应不同,分散配置有助于平衡。",
+   "en": "When rate expectations move, the discipline of continuing DDA matters more than predicting rates; different assets react differently to rates, and diversification helps balance that."
+  },
+  "prs": {
+   "zh": "通胀偏高会侵蚀退休储蓄的购买力,规划退休时应把通胀考虑进去。PRS每年最高RM3,000的税务减免也是长期累积的助力。",
+   "en": "Persistent inflation erodes the buying power of retirement savings, so inflation belongs in retirement planning. The PRS tax relief of up to RM3,000 a year can also help long-term accumulation."
+  },
+  "lump": {
+   "zh": "黄金等商品价格波动大,若考虑单笔投资,可分批进场以分散时机风险,并确认金额与目标和风险承受度相符。",
+   "en": "Commodities such as gold can be volatile; a lump sum may be phased in to spread timing risk, with the amount matching your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "美国加息预期可能推高美债收益率、影响令吉与外资流向,间接牵动MGS与伊斯兰债券价格;马来西亚国家银行的OPR走向则取决于本地通胀与增长。债券基金有利率风险,但仍是组合的平衡力量。",
+   "en": "Expectations of U.S. hikes may lift Treasury yields and affect the ringgit and foreign flows, indirectly touching MGS and sukuk prices; Bank Negara's OPR path depends on local inflation and growth. Bond funds carry interest-rate risk but remain a portfolio balancer."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/gold-bargain-buying-us-inflation-data.html"
+  }
+ },
+ {
+  "id": "2026-11-25-m4",
+  "time": "2026-11-25T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股周二大涨8.99%收40,122.35点,成交额达新台币4,194.1亿元",
+   "en": "Taiwan shares close up 8.99% at 40,122.35 on turnover of NT$419.41 billion"
+  },
+  "analysis": {
+   "zh": "据中央社英文版(Focus Taiwan)报道,台湾加权指数周二收盘上涨3,310.46点,涨幅8.99%,收报40,122.35点,成交额新台币4,194.1亿元(约127.7亿美元)。这一涨幅承接周一的反弹,但美股科技股周二已回吐涨幅,周三亚洲市场走势仍可能波动。涨幅越大,回吐的可能也越大,不宜追着一天的行情走。",
+   "en": "Focus Taiwan reported the Taiex closed Tuesday up 3,310.46 points, or 8.99%, at 40,122.35, on turnover of NT$419.41 billion (US$12.77 billion). The jump followed Monday's rebound, but U.S. tech gave back gains on Tuesday, so Asian trading may stay choppy. The bigger the jump, the larger a pullback can be, so it is unwise to chase a single day's move."
+  },
+  "dda": {
+   "zh": "单日暴涨提醒我们:市场最好的几天往往紧随最差的几天。DDA坚持投入,比猜测哪一天入场更实际。",
+   "en": "A huge one-day jump is a reminder that the best days often follow the worst. Sticking with DDA is more practical than guessing which day to step in."
+  },
+  "prs": {
+   "zh": "亚洲科技股占不少全球与区域基金的比重,可以了解自己的PRS基金在地区与行业上的分布,并善用每年最高RM3,000的税务减免。",
+   "en": "Asian tech makes up a good share of many global and regional funds. It may help to understand your PRS fund's regional and sector spread, and to use the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "急涨之后追高风险较大。单笔资金可分批进场分散时机风险,并检查是否已集中于半导体或AI主题。",
+   "en": "Chasing after a sharp rally carries more risk. A lump sum may be phased in, and it is worth checking concentration in semiconductors or AI themes."
+  },
+  "bond": {
+   "zh": "台股涨跌对马来西亚债券基金的直接影响有限,但亚洲风险情绪会影响外资流向与令吉,间接牵动MGS与伊斯兰债券。债券仍是平衡股市波动的角色。",
+   "en": "Taiwan's equity move has limited direct effect on Malaysian bond funds, but Asian risk sentiment can influence foreign flows and the ringgit, indirectly touching MGS and sukuk. Bonds still play the role of balancing equity swings."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611240011"
+  }
+ },
+ {
+  "id": "2026-11-25-m5",
+  "time": "2026-11-25T09:00:00+08:00",
+  "tags": [
+   "tech"
+  ],
+  "title": {
+   "zh": "台湾10月工业生产按年增29.80%,连续32个月增长,电脑及光电产品暴增130.57%",
+   "en": "Taiwan's October industrial production rises 29.80%, the 32nd straight monthly gain, with computers and optoelectronics up 130.57%"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan报道,台湾经济部数据显示,10月整体工业生产指数按年增长29.80%至151.30,制造业增长31.63%;电脑与光电产品增长130.57%,主要由服务器、交换器与半导体检测设备带动,汽车及零组件则下跌3.92%。经济部预估11月制造业指数按年增22.2%至26%。数据显示AI需求仍强,但行业之间的差距也很大。",
+   "en": "Focus Taiwan reported that Taiwan's economics ministry said October's overall industrial production index rose 29.80% year on year to 151.30, with manufacturing up 31.63%. Computer and optoelectronics output jumped 130.57%, driven by servers, switches and semiconductor inspection equipment, while autos and parts fell 3.92%. The ministry estimates November's manufacturing index will rise 22.2% to 26%. The data shows AI demand remains strong, but the gap between industries is wide."
+  },
+  "dda": {
+   "zh": "强劲的出口与生产数据支持长期的科技主题,但个别行业起伏大。DDA配合分散的信托基金,可以降低对单一行业的依赖。",
+   "en": "Strong output data supports the long-term tech theme, but individual industries swing widely. DDA combined with diversified unit trusts can reduce reliance on any one sector."
+  },
+  "prs": {
+   "zh": "退休投资重视分散与长期。了解PRS基金对科技与亚洲市场的暴露程度,并记得每年最高RM3,000的税务减免。",
+   "en": "Retirement investing values diversification and the long term. It helps to know how much technology and Asian-market exposure your PRS fund has, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "亮眼数据往往已反映在价格里。单笔投资可考虑分批进场,并确认不会过度集中于同一主题。",
+   "en": "Strong data is often already reflected in prices. A lump sum may be phased in, with a check that it does not become too concentrated in one theme."
+  },
+  "bond": {
+   "zh": "这项数据对马来西亚债券基金的直接影响有限;亚洲供应链景气可能间接影响区域增长预期与资金流向。债券基金在组合中仍起平衡作用。",
+   "en": "The data has limited direct effect on Malaysian bond funds; a strong Asian supply chain may indirectly influence regional growth expectations and flows. Bond funds still play a balancing role."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611240022"
+  }
+ },
+ {
+  "id": "2026-11-25-m6",
+  "time": "2026-11-25T09:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "港股周二收跌0.73%至22,219点,恒生科技指数跌1.17%,小米、美团跌逾3%",
+   "en": "Hong Kong shares close down 0.73% at 22,219; Tech Index -1.17%, Xiaomi and Meituan down over 3%"
+  },
+  "analysis": {
+   "zh": "据The Standard报道,恒生指数周二收跌164点或0.73%,报22,219点,全日成交额2,126亿港元;恒生科技指数跌1.17%至3,466点;上证综指升0.27%至3,548点。联想涨3.7%,小米跌3.7%,美团跌3.3%。港股表现逊于亚洲其他市场,投资者认为黄仁勋复职对缓和中美科技紧张帮助有限。",
+   "en": "The Standard reported the Hang Seng Index fell 164 points, or 0.73%, to 22,219 on turnover of HK$212.6 billion; the Hang Seng Tech Index fell 1.17% to 3,466 and the Shanghai Composite rose 0.27% to 3,548. Lenovo gained 3.7% while Xiaomi fell 3.7% and Meituan 3.3%. Hong Kong lagged other Asian markets as investors judged Jensen Huang's return would do little to ease US-China tech tensions."
+  },
+  "dda": {
+   "zh": "区域市场表现不一,正是分散投资的原因之一。DDA可以在不同市场的起落中保持纪律。",
+   "en": "Regional markets moving differently is one reason to diversify. DDA helps keep discipline through different markets' ups and downs."
+  },
+  "prs": {
+   "zh": "退休投资可以关注基金是否包含中国与香港市场,以及这部分在整体组合中的角色,并记得PRS每年最高RM3,000的税务减免。",
+   "en": "For retirement investing, it helps to see whether your fund includes China and Hong Kong and what role that part plays in the whole portfolio, while remembering the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "中港股市受地缘与政策消息影响大。单笔投资可考虑分批进场分散时机风险,并留意地区集中度。",
+   "en": "China and Hong Kong equities are sensitive to geopolitical and policy news. A lump sum may be phased in to spread timing risk, with attention to regional concentration."
+  },
+  "bond": {
+   "zh": "港股的直接影响对马来西亚债券基金有限;中美关系与区域风险情绪可能间接影响外资流向与令吉。债券基金依然是组合的平衡力量。",
+   "en": "Hong Kong's direct effect on Malaysian bond funds is limited; US-China relations and regional risk sentiment may indirectly influence foreign flows and the ringgit. Bond funds remain a portfolio balancer."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/349469/Hong-Kong-shares-close-lower-Xiaomi-and-Meituan-down-over-3pc"
+  }
+ }
+]
