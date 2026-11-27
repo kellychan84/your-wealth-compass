@@ -378,6 +378,222 @@ window.INSIGHTS = [].concat(
 ],
 [
  {
+  "id": "2026-11-27-a1",
+  "time": "2026-11-27T17:00:00+08:00",
+  "tags": [
+   "cn",
+   "tech"
+  ],
+  "title": {
+   "zh": "恒指收涨2.11%至22,694点,中芯国际大涨16%,北京承诺加强支持资本市场",
+   "en": "Hang Seng closes up 2.11% at 22,694 as SMIC jumps 16% after Beijing vows stronger capital-market support"
+  },
+  "analysis": {
+   "zh": "据The Standard报道,港股周五收市上涨,恒指升467点或2.11%,报22,694点,全日成交额2,571亿港元。恒生科技指数升6.45%至3,637点,上证指数升3.73%,深证成指升7.24%。芯片和科技股领涨:华虹半导体升20.7%、中芯国际升16.4%、阿里巴巴升7%、腾讯升3.2%,原因是北京承诺加强支持资本市场。中国神华因宣布在香港配售67.4亿港元股份而成为恒指最大跌幅股。早上恒指只升1.19%,下午涨幅明显扩大,就像早上的小雨转成午后的放晴。",
+   "en": "The Standard reported that Hong Kong stocks closed higher on Friday, with the Hang Seng Index up 467 points, or 2.11%, at 22,694 on turnover of HK$257.1 billion. The Hang Seng Tech Index rose 6.45% to 3,637, the Shanghai Composite gained 3.73% and the Shenzhen Component 7.24%. Chipmakers and tech led: Hua Hong Semiconductor rose 20.7%, SMIC 16.4%, Alibaba 7% and Tencent 3.2%, after Beijing vowed stronger support for the capital market. China Shenhua was the biggest Hang Seng decliner after announcing a HK$6.74 billion share sale. Compared with this morning's 1.19% gain, the rally widened sharply into the close, like a light morning drizzle turning into a bright afternoon."
+  },
+  "dda": {
+   "zh": "单日涨幅大不代表趋势转向。定期定额(DDA)的好处是不必判断哪一天该入场,经过前几天的连跌与今天的反弹,按固定节奏投入的成本通常会被平均。",
+   "en": "A big one-day gain does not by itself signal a trend change. The benefit of regular (DDA) investing is that you do not have to judge the right day to enter; after several down days and today's rebound, a fixed rhythm of contributions generally averages your cost."
+  },
+  "prs": {
+   "zh": "退休规划着眼数十年,中国与香港股市的单日大涨大跌只是长路上的波动。可借此检视PRS基金的地区与资产配置是否仍符合年龄和目标,也别忘了PRS每年最高RM3,000的税务减免。",
+   "en": "Retirement planning looks decades ahead, so one big day in China and Hong Kong is a bump on a long road. It may be a good moment to check that your PRS fund's regional and asset mix still suits your age and goals, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "科技股一天升十几个百分点,说明这类板块的波动可能很大。单笔投资时可先看组合是否已集中在同一主题或地区,并可考虑分阶段投入以分散入市时机风险,金额须符合个人目标和风险承受度。",
+   "en": "Tech shares moving by double digits in one day show how volatile that part of the market can be. Before investing a lump sum, it may help to check whether a portfolio is already concentrated in one theme or region, and phasing in can spread timing risk, with amounts matching personal goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "中国股市情绪好转对马来西亚政府债券(MGS)和伊斯兰债券的直接影响通常有限,但风险偏好上升时,部分资金可能暂时流向股票。债券基金一般仍可在股市大起大落时起到平衡组合的作用,同时要留意利率和令吉走势。",
+   "en": "Better sentiment in Chinese equities usually has limited direct effect on Malaysian government securities (MGS) and sukuk, although when risk appetite rises some money may rotate toward stocks for a while. Bond funds can generally still help balance a portfolio during big equity swings, while interest rates and the ringgit remain worth watching."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/349844/Hang-Seng-Index-jumps-over-450-points-SMIC-up-16pc"
+  }
+ },
+ {
+  "id": "2026-11-27-a2",
+  "time": "2026-11-27T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台股收涨0.40%至39,308点,台积电尾盘买盘撑市,外资净卖出296亿新台币",
+   "en": "Taiwan shares close up 0.40% at 39,308 as late buying of TSMC supports the market; foreigners net sell NT$29.63 billion"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan报道,台湾加权指数周五收涨156.27点或0.40%,报39,308.08点,盘中在38,890.53至39,495.41点之间波动。成交额为6,660.7亿新台币,低于周四的8,453.4亿新台币。台积电升1.63%至2,180新台币,为指数贡献约280点,其市值占大盘逾四成。外资在主板净卖出296.3亿新台币。另一则Focus Taiwan报道指,中央大学调查显示11月消费者信心指数跌0.36点至65.91,股市分项指数跌3点至32.86,受访者提到对AI融资与发展的担忧。这像一艘大船:台积电占的分量重,它稍微一动,整个指数就跟着摆。",
+   "en": "Focus Taiwan reported that the Taiwan Capitalization Weighted Stock Index rose 156.27 points, or 0.40%, to close at 39,308.08, trading between 38,890.53 and 39,495.41. Turnover was NT$666.07 billion, down from NT$845.34 billion the day before. TSMC rose 1.63% to NT$2,180, adding about 280 points to the index; it makes up over 40% of the market's capitalization. Foreign investors were net sellers of NT$29.63 billion on the main board. A separate Focus Taiwan report on a National Central University survey said consumer confidence fell 0.36 points to 65.91 in November, with the stock-market subindex down 3 points to 32.86 and respondents citing worries about AI financing and development. It is like a large ship: TSMC carries so much weight that a small move by it swings the whole index."
+  },
+  "dda": {
+   "zh": "当一家公司占大盘四成以上,指数的表现就高度依赖它。定期定额(DDA)可选择涵盖多个市场与行业的信托基金,有助于分散单一公司或主题的影响。",
+   "en": "When one company is over 40% of a market, the index depends heavily on it. Regular (DDA) investing through unit trusts that span several markets and sectors may help reduce the influence of any single company or theme."
+  },
+  "prs": {
+   "zh": "AI相关的担忧让台湾消费者信心连续两个月下降,提醒我们市场情绪会影响生活感受,但退休目标仍应以长期计划为主。可定期检视PRS基金的持仓是否过度集中在科技主题,并留意每年最高RM3,000的PRS税务减免。",
+   "en": "AI-related worries have pulled Taiwan's consumer confidence down for a second month, a reminder that market mood can shape how people feel while retirement goals still rest on long-term plans. You may review whether your PRS fund is too concentrated in technology, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "近日台股单日涨跌幅度很大,说明集中在少数权重股的市场可能波动剧烈。单笔投资可考虑分阶段投入,并检查组合是否已有过多半导体或AI主题的比重,配合个人目标与风险承受度。",
+   "en": "Taiwan's recent big daily swings show how a market concentrated in a few heavyweights may be very volatile. A lump sum may be phased in, and it helps to check whether a portfolio already holds a large share of semiconductor or AI themes, in line with personal goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "台股与新台币的波动对马来西亚债券基金的直接影响通常较小,但全球风险情绪转弱时,资金可能偏向较稳健的资产。债券基金在组合中的角色仍是平衡股市波动,同时需留意利率与信用风险。",
+   "en": "Moves in Taiwan stocks usually have a small direct effect on Malaysian bond funds, but when global risk sentiment weakens, money may lean toward steadier assets. Bond funds' role in a portfolio remains balancing equity swings, while interest-rate and credit risk still matter."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611270014"
+  }
+ },
+ {
+  "id": "2026-11-27-a3",
+  "time": "2026-11-27T17:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "布伦特原油在月内高位附近徘徊,约96美元;伊朗袭击与胡塞袭击沙特设施推高供应忧虑",
+   "en": "Brent holds near its month high around $96 as Hormuz and Saudi-site attacks keep supply worries alive"
+  },
+  "analysis": {
+   "zh": "据CNBC报道,截至格林尼治时间0140,布伦特原油报每桶96.19美元,下跌38美分或0.39%,周四曾上涨近2美元,结算价为11月6日以来最高。WTI报85.41美元,较周三收盘上涨1.73美元或2.07%,周四因感恩节没有结算价。伊朗持续袭击霍尔木兹海峡船只,与伊朗结盟的胡塞武装也袭击沙特能源设施,包括一度停运部分作业的沙特阿美Jazan炼油厂。另外,OPEC+预计周日会议将在2027年第一季度前维持产量目标不变。澳新银行分析师表示,即使中东没有进一步升级,布伦特仍可能升破100美元。今早我们看到约91.86美元的水平,现在价位明显更高,油价就像天气一样一天内也会变脸。",
+   "en": "CNBC reported that as of 0140 GMT Brent was $96.19 a barrel, down 38 cents, or 0.39%, after gaining nearly $2 on Thursday to settle at its highest since Nov 6. WTI was $85.41, up $1.73, or 2.07%, from Wednesday's close, with no Thursday settlement because of Thanksgiving. Iran has kept attacking ships in the Strait of Hormuz, while Iran-aligned Houthis have targeted Saudi energy sites, including a strike that temporarily halted some operations at Saudi Aramco's Jazan refinery. OPEC+ is also likely to keep output targets unchanged for at least the first quarter of 2027 at a Sunday meeting. ANZ analysts said Brent could still rise above $100 without another major escalation in the Middle East. This morning's figure was around $91.86, so the level is clearly higher now; oil prices can change their mood within a day, like the weather."
+  },
+  "dda": {
+   "zh": "油价上升可能推高运输与生活成本,但长期投资者不必因单日油价调整计划。定期定额(DDA)按固定节奏投入,通常有助于在能源价格波动时保持纪律。",
+   "en": "Higher oil may raise transport and living costs, but long-term investors need not change their plans for one day's oil move. Regular (DDA) investing at a fixed rhythm generally helps you stay disciplined while energy prices swing."
+  },
+  "prs": {
+   "zh": "油价和通胀会侵蚀退休储蓄的实际购买力,因此退休规划需要把通胀考虑进去。可检视PRS基金的配置是否仍能应对长期通胀,并善用每年最高RM3,000的PRS税务减免。",
+   "en": "Oil prices and inflation can erode the real purchasing power of retirement savings, so retirement plans need to allow for inflation. You may review whether your PRS fund's mix still suits long-term inflation, and make use of the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "能源价格大幅波动时,能源类和周期类资产的表现可能起伏较大。单笔投资前可检查组合对单一行业的集中度,并考虑分阶段投入来分散入市时机风险。",
+   "en": "When energy prices swing, energy and cyclical assets may see large ups and downs. Before a lump-sum investment, check portfolio concentration in any single sector, and consider phasing in to spread timing risk."
+  },
+  "bond": {
+   "zh": "油价上升可能推高通胀预期,令利率预期出现变化,进而影响马来西亚政府债券(MGS)与伊斯兰债券的价格。令吉与外资流向也可能受影响;债券基金一般仍有平衡组合的作用,但存在利率风险。",
+   "en": "Higher oil can lift inflation expectations and shift interest-rate expectations, which may affect prices of Malaysian government securities (MGS) and sukuk, as well as the ringgit and foreign flows. Bond funds can generally still balance a portfolio, though interest-rate risk applies."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html"
+  }
+ },
+ {
+  "id": "2026-11-27-a4",
+  "time": "2026-11-27T17:00:00+08:00",
+  "tags": [
+   "tech",
+   "my"
+  ],
+  "title": {
+   "zh": "美国新AI芯片规则要求大马等国企业申请许可,数据中心融资交易被延后或退出",
+   "en": "New US AI-chip rules require licences in Malaysia and others; lenders delay or pull out of data-centre financings"
+  },
+  "analysis": {
+   "zh": "据Investing.com周五的市场简报,美国新规要求新加坡、马来西亚、印尼、泰国和巴西的公司购买先进美国AI芯片时须取得政府许可;向中国公司出租大量算力的数据中心须在90天内另行申请许可。多家贷款机构因此延后或退出交易:Bain Capital旗下Bridge Data Centres扩大的66亿美元贷款延后以进一步尽职调查,其马来西亚设施服务字节跳动;Partners Group支持的Digital Halo有银行拒绝参与3.72亿美元贷款;新加坡Aolani的4.8亿美元融资正被银行重新评估。这就像路上新设了关卡,车还能走,但每辆都得先过检查。",
+   "en": "According to Investing.com's Friday market briefing, new US rules require companies in Singapore, Malaysia, Indonesia, Thailand and Brazil to obtain government licences to buy advanced American AI chips, and data centres leasing significant computing capacity to Chinese companies must secure separate licences within 90 days. Several lenders have delayed or pulled back: Bain Capital's Bridge Data Centres saw an expanded $6.6 billion loan delayed for further due diligence, with Malaysian facilities serving ByteDance; a bank declined to join a fully underwritten $372 million loan for Partners Group-backed Digital Halo; and banks are reassessing a $480 million financing for Singapore's Aolani. It is like a new checkpoint on the road: traffic can still move, but every vehicle must be inspected first."
+  },
+  "dda": {
+   "zh": "马来西亚的数据中心与半导体主题近年受关注,但政策变化可能带来短期波动。定期定额(DDA)通过分散于多个行业与市场的信托基金,有助于降低单一主题的影响。",
+   "en": "Malaysia's data-centre and semiconductor themes have drawn attention, but policy changes may bring short-term swings. Regular (DDA) investing through unit trusts spread across several sectors and markets may help reduce the effect of any single theme."
+  },
+  "prs": {
+   "zh": "退休规划应以多元化为基础,不宜依赖单一热门主题。可借此检视PRS基金持仓是否过度偏向科技或AI相关资产,并留意每年最高RM3,000的PRS税务减免。",
+   "en": "Retirement planning should rest on diversification rather than a single popular theme. It may be a good time to check whether your PRS fund leans too heavily on technology or AI-related assets, and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "政策消息对单一主题的冲击可能很大,单笔投资时应先看组合是否已集中于AI或数据中心概念。可考虑分阶段投入以分散入市时机风险,并让金额配合个人目标与风险承受度。",
+   "en": "Policy news can hit a single theme hard, so before investing a lump sum, check whether a portfolio is already concentrated in AI or data-centre ideas. Phasing in may spread timing risk, with amounts matching personal goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "数据中心融资若放缓,可能影响相关企业的信用与融资成本,对公司债券和伊斯兰债券基金的信用风险值得留意。政府债券的直接影响通常较小,债券基金一般仍有平衡组合的作用。",
+   "en": "If data-centre financing slows, credit and funding costs for related companies may be affected, so credit risk in corporate bond and sukuk funds is worth watching. The direct effect on government bonds is usually small, and bond funds can generally still balance a portfolio."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/news/economy-news/ai-chip-curbs-musks-giveaway-and-oil-risks--whats-moving-markets-5053039"
+  }
+ },
+ {
+  "id": "2026-11-27-a5",
+  "time": "2026-11-27T17:00:00+08:00",
+  "tags": [
+   "my",
+   "us"
+  ],
+  "title": {
+   "zh": "美国提议对大马征收18%至25%关税,贸工部称税率仅为指示性,将力争低于19%",
+   "en": "US proposes 18%–25% tariff on Malaysia; ministry calls rate indicative and says it will push for below 19%"
+  },
+  "analysis": {
+   "zh": "据The Star报道,马来西亚将与美国谈判,力争把拟议的301条款关税保持在19%以下。美国贸易代表办公室周三(11月25日)就主要贸易伙伴的制造业产能过剩展开301调查并提出18%至25%的关税;马来西亚的18%与柬埔寨、印尼、泰国和孟加拉相同,美方表示将以已达成或进行中的贸易协议所定的较低水平为上限。投资、贸易及工业部11月26日表示该税率属指示性而非最终,最终税率预计在2027年第一季度确定,并称马来西亚没有会扭曲全球市场的产能过剩。目前仅有7月24日起征的10%关税实际生效。这像是收到一张预估账单,金额还没定案,但需要提早留意。",
+   "en": "The Star reported that Malaysia will negotiate with the US to keep its proposed Section 301 tariff rate below 19%. The US Trade Representative announced on Wednesday, Nov 25, tariffs of 18% to 25% on major trading partners under investigations into manufacturing excess capacity; Malaysia's proposed 18% is shared with Cambodia, Indonesia, Thailand and Bangladesh, and the USTR said it intended to cap new tariffs at lower levels agreed under concluded or ongoing trade deals. The Investment, Trade and Industry Ministry said on Nov 26 that the rate was indicative and not final, with the final tariff expected in the first quarter of 2027, and that Malaysia does not have excess manufacturing capacity that distorts global markets. Only a 10% duty imposed on Jul 24 is currently in effect. It is like receiving an estimated bill: the amount is not final, but worth planning for early."
+  },
+  "dda": {
+   "zh": "关税细节还在谈判中,出口导向行业的盈利前景可能暂时不明朗。定期定额(DDA)不需要预测谈判结果,持续的纪律投入加上分散配置,通常有助于度过消息反复的阶段。",
+   "en": "The tariff details are still under negotiation, so earnings prospects for export-oriented sectors may stay uncertain for a while. Regular (DDA) investing does not require predicting negotiation outcomes; steady contributions plus diversification generally help through periods of changing headlines."
+  },
+  "prs": {
+   "zh": "贸易政策可能影响增长、就业与通胀,而这些都与退休储蓄的长期实际回报相关。可借机检视PRS基金配置是否均衡,并留意每年最高RM3,000的PRS税务减免。",
+   "en": "Trade policy can affect growth, jobs and inflation, all of which relate to the long-term real returns on retirement savings. It may be a good time to check your PRS fund's balance and to remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "最终税率要到2027年第一季度才确定,期间相关行业的股价可能随消息波动。单笔投资可考虑分阶段投入来分散时机风险,并检查组合是否过度集中于出口或制造业。",
+   "en": "With the final rate not due until the first quarter of 2027, related sectors' share prices may swing with headlines. A lump sum may be phased in to spread timing risk, and it helps to check whether a portfolio is too concentrated in exporters or manufacturers."
+  },
+  "bond": {
+   "zh": "关税若影响出口与增长预期,可能间接影响国家银行的利率判断、令吉与外资流向,进而影响马来西亚政府债券(MGS)与伊斯兰债券。债券基金一般可在股市受消息困扰时平衡组合,但需留意利率与信用风险。",
+   "en": "If tariffs weigh on export and growth expectations, they may indirectly influence Bank Negara's rate outlook, the ringgit and foreign flows, and thus MGS and sukuk. Bond funds can generally balance a portfolio when equities are unsettled by news, though interest-rate and credit risk apply."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/27/malaysia-to-negotiate-lower-tariff-rate-with-us"
+  }
+ },
+ {
+  "id": "2026-11-27-a6",
+  "time": "2026-11-27T17:00:00+08:00",
+  "tags": [
+   "cn"
+  ],
+  "title": {
+   "zh": "万科建议将12月15日到期债券95%展期三年,债权人会议定于12月8日",
+   "en": "Vanke proposes extending 95% of a Dec 15 bond repayment by three years; bondholder meeting set for Dec 8"
+  },
+  "analysis": {
+   "zh": "据The Standard转载路透社报道,援引三名匿名消息人士称,万科(2202)建议在12月15日偿还境内债券本金的5%,其余95%展期三年至2029年12月15日,并提出展期期间延后支付利息。该债券未偿还金额为12亿元人民币(约14.1亿港元),这将是第二次展期;万科过去12个月到期的境内债券已有60%获展期一年。万科总债务逾500亿美元,债权人会议定于12月8日就方案表决;万科未回应置评请求。万科是少数仍试图避免违约的大型困境开发商之一,若违约,可能进一步打击购房者信心与整体经济。这就像一场长跑,选手靠不断调整配速想撑到终点。",
+   "en": "The Standard, carrying a Reuters report citing three unnamed sources, said China Vanke (2202) has proposed repaying 5% of an onshore bond's principal on Dec 15 and extending the remaining 95% by three years to Dec 15, 2029, with interest payments deferred during the extension. The bond has 1.2 billion yuan (HK$1.41 billion) outstanding, and this would be its second extension; Vanke has extended 60% of repayments by one year on onshore bonds that came due in the past 12 months. Its total debt is over US$50 billion, and a bondholder meeting on the plan is scheduled for Dec 8; Vanke had not responded to Reuters' request for comment. Vanke is one of the last major distressed developers trying to avoid default, and a default could further weaken homebuyer confidence and the broader economy. It is like a long-distance runner who keeps adjusting pace to reach the finish line."
+  },
+  "dda": {
+   "zh": "单一公司的债务问题不应主导长期计划。通过信托基金分散投资于多个行业与市场,再配合定期定额(DDA)的纪律,通常有助于降低个别公司事件的影响。",
+   "en": "One company's debt problem should not drive a long-term plan. Spreading investments across sectors and markets through unit trusts, together with the discipline of regular (DDA) investing, generally helps limit the effect of any single company event."
+  },
+  "prs": {
+   "zh": "中国房地产问题拖长,可能影响全球增长预期与新兴市场情绪。退休规划宜保持分散,可检视PRS基金在中国与新兴市场的比重是否符合自己的年龄与目标,并留意每年最高RM3,000的PRS税务减免。",
+   "en": "A prolonged Chinese property downturn may affect global growth expectations and emerging-market sentiment. Retirement plans are better kept diversified; you may check whether your PRS fund's exposure to China and emerging markets suits your age and goals, and remember the PRS tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "个别困境企业的消息可能令相关板块波动。单笔投资前可检查组合是否集中在中国房地产相关资产,并考虑分阶段投入以分散入市时机风险,金额应符合个人目标和风险承受度。",
+   "en": "News on individual distressed companies can unsettle related sectors. Before investing a lump sum, check whether a portfolio is concentrated in Chinese property-related assets, and consider phasing in to spread timing risk, with amounts matching personal goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "这件事提醒我们,债券基金需要关注发行人的信用风险。对马来西亚政府债券(MGS)的直接影响通常较小,但选择公司债券或伊斯兰债券基金时,信用质量与分散程度仍值得了解,也可留意区域信贷情绪的变化。",
+   "en": "The story is a reminder that bond funds depend on issuer credit quality. The direct effect on Malaysian government securities (MGS) is usually small, but when considering corporate bond or sukuk funds, credit quality and diversification are worth understanding, along with shifts in regional credit sentiment."
+  },
+  "source": {
+   "name": "The Standard",
+   "url": "https://www.thestandard.com.hk/finance/article/349843/Vanke-proposes-extending-95pc-of-bond-repayment-due-December-15-by-3-years-sources-say"
+  }
+ }
+],
+[
+ {
   "id": "2026-11-26-m0",
   "kind": "summary",
   "time": "2026-11-26T09:00:00+08:00",
