@@ -2,6 +2,301 @@
 window.INSIGHTS = [].concat(
 [
  {
+  "id": "2026-11-28-w0",
+  "kind": "summary",
+  "time": "2026-11-28T09:00:00+08:00",
+  "tags": [],
+  "title": {
+   "zh": "一周回顾:美股AI股大反弹,标普500周涨5.6%;吉隆坡综指周涨2.1%,下周焦点是12月加息和非农",
+   "en": "Week in review: AI shares rebound and the S&P 500 gains 5.6%; the KLCI rises 2.1%, with a December hike and the jobs report next"
+  },
+  "figures": [
+   {
+    "label": {
+     "zh": "标普500",
+     "en": "S&P 500"
+    },
+    "value": "7,297.49",
+    "change": "+1.60%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "纳斯达克",
+     "en": "Nasdaq"
+    },
+    "value": "24,129.50",
+    "change": "+2.31%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "道琼斯",
+     "en": "Dow Jones"
+    },
+    "value": "50,774.94",
+    "change": "+1.18%",
+    "dir": "up"
+   },
+   {
+    "label": {
+     "zh": "富时隆综指",
+     "en": "FBM KLCI"
+    },
+    "value": "1,589.24",
+    "change": "+1.16%",
+    "dir": "up"
+   }
+  ],
+  "points": [
+   {
+    "zh": "美股周五缩短交易日收高,标普500本周涨5.6%,是2025年4月以来最大周涨幅,但11月仍可能是2008年以来最差的11月。",
+    "en": "Wall Street closed higher in a short Friday session; the S&P 500 gained 5.6% on the week, its best since April 2025, though November is still on track to be the worst since 2008."
+   },
+   {
+    "zh": "市场几乎完全计入12月加息,12月4日的非农报告和12月9日的联储决议是下周重点。",
+    "en": "Markets almost fully price a December Fed hike; the Dec. 4 jobs report and the Dec. 9 Fed decision are the focus next week."
+   },
+   {
+    "zh": "吉隆坡综指连涨四个交易日,周涨2.1%至1,589.24;台湾上调今年经济增长预测至13.28%。",
+    "en": "The KLCI rose for a fourth straight session, up 2.1% on the week to 1,589.24; Taiwan raised its 2026 growth forecast to 13.28%."
+   }
+  ],
+  "takeaway": {
+   "zh": "一周的大起大落提醒我们,单日行情不是决策依据。作为信托基金顾问,我会建议大家回到自己的目标、投资期限和风险承受度,并检查投资是否过度集中在同一个主题。",
+   "en": "A week of big swings is a reminder that no single day should drive decisions. As a unit trust consultant, I would suggest going back to your goals, time horizon and risk tolerance, and checking that your investments are not too concentrated in one theme."
+  },
+  "sources": [
+   {
+    "name": "Investing.com (Reuters)",
+    "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+   },
+   {
+    "name": "The Star",
+    "url": "https://www.thestar.com.my/business/business-news/2026/11/27/bursa-malaysia-ends-week-on-strong-note-as-klci-rallies-18-points"
+   },
+   {
+    "name": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+   }
+  ]
+ },
+ {
+  "id": "2026-11-28-w1",
+  "time": "2026-11-28T09:00:00+08:00",
+  "tags": [
+   "us"
+  ],
+  "title": {
+   "zh": "华尔街周五收高:标普500周涨5.6%,创2025年4月以来最大周涨幅,但11月仍近乎最差",
+   "en": "Wall Street ends higher: S&P 500 gains 5.6% on the week, best since April 2025, yet November is still on track to be the worst since 2008"
+  },
+  "analysis": {
+   "zh": "周五感恩节后的半日交易,道琼斯涨591.99点至50,774.94,标普500涨1.60%至7,297.49,纳斯达克涨2.31%至24,129.50。美光涨7.6%,芯片指数涨4.7%。分析师Jamie Cox说:“市场超卖到反弹不可避免。”不过路透指出,这周的涨幅没能抹去11月的跌幅。就像一次大雨后的小放晴,天气好转不代表风险已过。",
+   "en": "In Friday's half-day session after Thanksgiving, the Dow rose 591.99 points to 50,774.94, the S&P 500 gained 1.60% to 7,297.49 and the Nasdaq added 2.31% to 24,129.50. Micron rose 7.6% and the chip gauge 4.7%. Analyst Jamie Cox said: \"The market is so oversold that a bounce was inevitable.\" Reuters noted, though, that the week's gains did little to erase November's losses. It is like a sunny spell after heavy rain: better weather does not mean the risks have passed."
+  },
+  "dda": {
+   "zh": "市场大起大落的时候,定期定额(DDA)的纪律往往比预测更重要。每月固定投入,在价格低时买到较多单位,价格高时买到较少单位,长期下来可能有助于摊平成本。",
+   "en": "When markets swing sharply, the discipline of regular (DDA) investing usually matters more than prediction. Investing a fixed amount each month tends to pick up more units when prices are low and fewer when high, which over time may help average out the cost."
+  },
+  "prs": {
+   "zh": "退休规划是十几二十年的事,一个月的涨跌通常不改变长期目标。可以趁机检查PRS的投资组合是否仍符合退休年龄,并留意每年最高RM3,000的税务减免。",
+   "en": "Retirement planning spans decades, so one month's moves generally do not change the long-term goal. It is a good time to check whether your PRS fund still fits your retirement age, and to keep in mind the tax relief of up to RM3,000 a year."
+  },
+  "lump": {
+   "zh": "一笔资金入市,遇到这样的波动时,可以考虑分批进场以分散时机风险,同时检查是否过度集中在科技或AI单一主题,并确认金额与目标和风险承受度相符。",
+   "en": "When putting in a lump sum during swings like these, phasing in may help spread timing risk. It is also worth checking concentration in a single theme such as tech or AI, and that the amount matches your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "股市大幅波动时,债券基金通常扮演组合平衡者的角色。不过美国加息预期升温、收益率高企,也可能影响马来西亚政府债券(MGS)和令吉走势,所以债券基金并非完全不受影响。",
+   "en": "When equities swing, bond funds generally act as a portfolio balancer. But rising US hike expectations and high yields may also influence Malaysian government bonds (MGS) and the ringgit, so bond funds are not entirely immune."
+  },
+  "source": {
+   "name": "Investing.com (Reuters)",
+   "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+  }
+ },
+ {
+  "id": "2026-11-28-w2",
+  "time": "2026-11-28T09:00:00+08:00",
+  "tags": [
+   "fed",
+   "us"
+  ],
+  "title": {
+   "zh": "下周焦点:12月加息几乎已被计入,非农报告决定1月预期",
+   "en": "Next week: a December hike is nearly priced in; the jobs report will shape January expectations"
+  },
+  "analysis": {
+   "zh": "据Investing.com分析文章引用的CME FedWatch数据,12月9日加息25个基点的概率为99.2%,联邦基金利率将升至4.00%至4.25%。联储官员自11月28日起进入噤声期;12月4日(周五)公布11月非农,12月10日公布11月CPI。作者认为强劲的非农会把1月连续加息的预期推回70%至75%,疲弱则会让1月接近五五开。这是一位作者的观点,仅供参考。",
+   "en": "According to CME FedWatch figures cited in an Investing.com analysis, the odds of a quarter-point hike on Dec. 9 are 99.2%, which would lift the target range to 4.00%-4.25%. Fed officials enter their blackout period on Nov. 28; the November jobs report is due Friday Dec. 4 and November CPI on Dec. 10. The author sees a strong report pushing January two-hike odds back toward 70%-75% and a weak one making January a near coin flip. This is one author's view and for reference only."
+  },
+  "dda": {
+   "zh": "加息周期里利率预期会不断变化,市场也会随之起伏。定期定额的好处是不需要猜测哪一次数据公布后会涨或跌,持续投入即可。",
+   "en": "In a hiking cycle, rate expectations keep shifting and markets move with them. The benefit of regular investing is that you do not have to guess how any one data release will play out; you simply keep going."
+  },
+  "prs": {
+   "zh": "利率偏高的环境对退休储蓄的影响是双面的:债券类和保守型PRS基金的收益来源可能改善,但价格短期也会波动。关键是选择与离退休年限相符的基金类型。",
+   "en": "A higher-rate environment cuts both ways for retirement savings: income from bond and conservative PRS funds may improve, but prices can swing in the short run. What matters is matching the fund type to the years left before retirement."
+  },
+  "lump": {
+   "zh": "在重大数据和联储会议前后,价格往往波动更大。若有一笔资金,分阶段投入可以分散时机风险;也应先确认这笔钱不会在短期内用到。",
+   "en": "Prices often swing more around major data and Fed meetings. With a lump sum, phasing in may spread timing risk; it is also worth confirming the money will not be needed in the short term."
+  },
+  "bond": {
+   "zh": "美国加息会推高美元收益率,可能让资金外流压力影响令吉和马来西亚债券。国家银行的隔夜政策利率(OPR)走向仍取决于本地通胀和增长,但外部利率变化值得留意。",
+   "en": "US hikes can lift dollar yields and may add foreign-flow pressure on the ringgit and Malaysian bonds. Bank Negara's OPR path still depends on local inflation and growth, but external rate moves are worth watching."
+  },
+  "source": {
+   "name": "Investing.com",
+   "url": "https://www.investing.com/analysis/feds-december-rate-hike-is-priced-in-but-january-remains-uncertain-200692473"
+  }
+ },
+ {
+  "id": "2026-11-28-w3",
+  "time": "2026-11-28T09:00:00+08:00",
+  "tags": [
+   "commodities",
+   "fed"
+  ],
+  "title": {
+   "zh": "黄金从15个月低位小幅回升,加息预期仍压制金价",
+   "en": "Gold ticks up from a 15-month low as rate-hike expectations weigh"
+  },
+  "analysis": {
+   "zh": "CNBC报道,现货黄金升0.3%至每盎司3,591.37美元,周三一度跌破3,500美元,为2025年9月以来首次。美国第三季度增长远高于初估、10月通胀进一步上升,强化了联储下月加息、2027年初再加息的预期。Tastylive的Ilya Spivak说,投资者在美国假期前回补空头,黄金仍被抛售以筹措现金。",
+   "en": "CNBC reported spot gold rose 0.3% to $3,591.37 an ounce, after briefly dipping below $3,500 on Wednesday for the first time since September 2025. Much faster-than-estimated US third-quarter growth and higher October inflation reinforced expectations that the Fed will hike next month and again in early 2027. Tastylive's Ilya Spivak said investors were covering shorts ahead of the US holiday and that gold continues to be sold to raise cash."
+  },
+  "dda": {
+   "zh": "黄金这类不产生利息的资产对利率特别敏感,短期波动可以很大。如果通过信托基金接触黄金相关主题,定期定额可以降低一次性入场的时机风险。",
+   "en": "Non-yielding assets like gold are sensitive to interest rates and can swing a lot in the short run. If you hold a gold-related theme through unit trusts, regular investing can reduce the timing risk of a single entry."
+  },
+  "prs": {
+   "zh": "退休组合的重点是分散,而不是追逐某一种资产。金价回落提醒我们,任何单一资产都会有下行的时候,PRS组合宜保持多元。",
+   "en": "Retirement portfolios are about diversification rather than chasing one asset. Gold's pullback is a reminder that any single asset can fall, so a PRS portfolio is usually best kept diversified."
+  },
+  "lump": {
+   "zh": "看到某类资产大跌时,容易想一次性进场。更稳妥的原则是先检查目前组合里这一主题的比重,再考虑分批投入,并与目标和风险承受度对照。",
+   "en": "When an asset falls sharply it is tempting to go in all at once. A steadier principle is to check how much of the portfolio is already in that theme, then consider phasing in, matching it to your goals and risk tolerance."
+  },
+  "bond": {
+   "zh": "金价与加息预期同向变动,说明市场正在为更高的利率定价。对马来西亚债券基金而言,更高的美国利率可能带来收益率上行的压力,但也让新债券的票息更具吸引力。",
+   "en": "Gold moving with rate-hike expectations shows markets pricing in higher rates. For Malaysian bond funds, higher US rates may add upward yield pressure, but they can also make the coupons on new bonds more attractive."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/gold-metals-silver-markets-federal-reserve.html"
+  }
+ },
+ {
+  "id": "2026-11-28-w4",
+  "time": "2026-11-28T09:00:00+08:00",
+  "tags": [
+   "my"
+  ],
+  "title": {
+   "zh": "大马交易所本周以强劲收官:吉隆坡综指周五涨18点至1,589.24,周涨2.1%",
+   "en": "Bursa Malaysia ends the week strongly: KLCI rallies 18 points to 1,589.24, up 2.1% on the week"
+  },
+  "analysis": {
+   "zh": "The Star报道,吉隆坡综指周五收盘涨18.26点或1.16%至1,589.24,连续第四个交易日上涨,本周累计涨32.73点或2.1%,上周五收于1,556.51。上涨股727只,下跌363只。令吉兑美元微跌0.15%至4.1215。区域市场同样走强,韩国综合指数涨4.34%。",
+   "en": "The Star reported the KLCI closed Friday up 18.26 points, or 1.16%, at 1,589.24, its fourth straight gain and 32.73 points (2.1%) higher on the week from last Friday's 1,556.51. Gainers beat losers 727 to 363. The ringgit eased 0.15% against the US dollar to 4.1215. Regional markets also rose, with South Korea's Kospi up 4.34%."
+  },
+  "dda": {
+   "zh": "大马本地市场在区域波动中也会跟着起伏。持续的定期定额投资让你不必在每一次反弹或下跌时重新做决定。",
+   "en": "Malaysia's market moves with regional volatility. Steady regular investing means you do not have to make a fresh decision at every rebound or dip."
+  },
+  "prs": {
+   "zh": "本地股市的短期反弹不应改变退休规划的节奏。每年检视一次PRS基金的配置,并善用最高RM3,000的税务减免,往往比判断市场更有意义。",
+   "en": "A short-term rebound in the local market should not change the pace of retirement planning. Reviewing your PRS fund allocation once a year and using the tax relief of up to RM3,000 is often more meaningful than timing the market."
+  },
+  "lump": {
+   "zh": "指数连涨几天后,单笔资金的入场时机更难判断。分阶段投入、检查是否过度集中在少数行业,并确保符合目标,是较稳健的做法。",
+   "en": "After several up days, timing a lump sum gets harder. Phasing in, checking concentration in a few sectors, and making sure it fits your goals are generally steadier habits."
+  },
+  "bond": {
+   "zh": "令吉小幅走弱,反映外部利率和资金流向仍有影响。马来西亚政府债券和企业债券/伊斯兰债券基金的表现,通常与国家银行OPR、通胀和外资流向相关,可留意这些变化。",
+   "en": "The slightly weaker ringgit reflects the ongoing influence of external rates and fund flows. Malaysian government bond and corporate bond/sukuk fund performance generally relates to Bank Negara's OPR, inflation and foreign flows, which are worth watching."
+  },
+  "source": {
+   "name": "The Star",
+   "url": "https://www.thestar.com.my/business/business-news/2026/11/27/bursa-malaysia-ends-week-on-strong-note-as-klci-rallies-18-points"
+  }
+ },
+ {
+  "id": "2026-11-28-w5",
+  "time": "2026-11-28T09:00:00+08:00",
+  "tags": [
+   "tech",
+   "cn"
+  ],
+  "title": {
+   "zh": "台湾上调今年增长预测至13.28%,为1978年以来最快,AI需求是主要推手",
+   "en": "Taiwan lifts 2026 growth forecast to 13.28%, the fastest since 1978, driven by AI demand"
+  },
+  "analysis": {
+   "zh": "据Focus Taiwan报道,主计总处将台湾2026年GDP增长预测上调2.23个百分点至13.28%;第三季度初估增长14.39%,第四季度预测为10.42%,2027年预测6.51%。商品出口预计创下9,386.4亿美元新高。主计总处同时提醒,美国可能进一步限制对中国的半导体出口、AI监管收紧,是下行风险,并因股市波动略微下调了私人消费预测。",
+   "en": "Focus Taiwan reported that DGBAS raised Taiwan's 2026 GDP growth forecast by 2.23 percentage points to 13.28%; Q3 grew 14.39% on a preliminary basis, Q4 is projected at 10.42% and 2027 at 6.51%. Merchandise exports are expected to hit a record US$938.64 billion. DGBAS also flagged possible further US chip export curbs on China and tighter AI regulation as downside risks, and trimmed its private consumption forecast slightly because of stock-market volatility."
+  },
+  "dda": {
+   "zh": "AI带动的增长很强,但相关股票近期波动也很大,两者并不矛盾。通过多元化的信托基金定期定额投资,可以分享长期趋势,同时避免押注单一公司。",
+   "en": "AI-driven growth is strong, yet related shares have also been very volatile; the two are not contradictory. Regular investing through diversified unit trusts can share in long-term trends without betting on a single company."
+  },
+  "prs": {
+   "zh": "退休投资着眼长期。亚洲科技的增长故事可以是组合的一部分,但比重要与年龄和风险承受度相符,不宜让单一主题主导退休储蓄。",
+   "en": "Retirement investing is long term. Asian tech's growth story can be one part of a portfolio, but its weight should fit your age and risk tolerance, and no single theme should dominate retirement savings."
+  },
+  "lump": {
+   "zh": "当某个主题的增长数字非常亮眼,更要检查集中度。一笔资金可以分阶段投入,并留意监管和出口限制等风险因素。",
+   "en": "When one theme's growth numbers look spectacular, concentration deserves a closer check. A lump sum can be phased in, while keeping regulatory and export-control risks in mind."
+  },
+  "bond": {
+   "zh": "台湾的强劲增长对马来西亚债券基金的直接影响有限。间接而言,区域科技周期会影响马来西亚的半导体和数据中心行业,以及外资对本地资产的兴趣。债券在组合中仍主要起平衡作用。",
+   "en": "Taiwan's strong growth has limited direct effect on Malaysian bond funds. Indirectly, the regional tech cycle can influence Malaysia's semiconductor and data-centre sectors and foreign interest in local assets. Bonds still mainly serve as a portfolio balancer."
+  },
+  "source": {
+   "name": "Focus Taiwan",
+   "url": "https://focustaiwan.tw/business/202611270017"
+  }
+ },
+ {
+  "id": "2026-11-28-w6",
+  "time": "2026-11-28T09:00:00+08:00",
+  "tags": [
+   "commodities"
+  ],
+  "title": {
+   "zh": "布伦特原油在每桶94美元上方,胡塞武装袭击沙特设施推高供应担忧",
+   "en": "Brent holds above $94 a barrel as Houthi attacks on Saudi facilities lift supply worries"
+  },
+  "analysis": {
+   "zh": "CNBC报道,布伦特原油略高于每桶94美元,本周有望收涨,美国原油在82美元以上。推动油价的是胡塞武装对沙特能源设施的袭击。能源价格上升会推高通胀,而通胀正是市场预期联储继续加息的原因之一。",
+   "en": "CNBC reported Brent was just above $94 a barrel and on track for a weekly gain, with US crude above $82. The move is driven by Houthi attacks on Saudi energy infrastructure. Higher energy prices can push up inflation, which is one reason markets expect the Fed to keep hiking."
+  },
+  "dda": {
+   "zh": "油价波动会通过通胀和企业成本影响市场情绪。定期定额投资的好处在于不需要预测油价走势。",
+   "en": "Oil swings affect market mood through inflation and company costs. The benefit of regular investing is that you do not need to predict oil prices."
+  },
+  "prs": {
+   "zh": "通胀会侵蚀退休储蓄的购买力,这是长期投资的重要原因之一。检视PRS基金能否在长期内跑赢通胀,比关注短期油价更重要。",
+   "en": "Inflation erodes the purchasing power of retirement savings, which is a key reason for long-term investing. Checking whether your PRS fund can keep pace with inflation over the long run matters more than short-term oil moves."
+  },
+  "lump": {
+   "zh": "地缘政治消息容易造成价格急升急跌。单笔资金不妨分阶段投入,避免在情绪最高点一次性进场,并确认组合没有过度集中在能源相关主题。",
+   "en": "Geopolitical headlines can cause sharp price spikes and drops. A lump sum can be phased in rather than committed at an emotional peak, and it helps to confirm the portfolio is not too concentrated in energy-related themes."
+  },
+  "bond": {
+   "zh": "油价上升可能推高通胀预期,进而影响债券收益率走势。对马来西亚来说,油价也与国家收入和补贴有关,可能影响政府债券的情绪。国家银行的OPR仍主要看本地数据。",
+   "en": "Higher oil prices may lift inflation expectations and in turn bond yields. For Malaysia, oil also touches government revenue and subsidies, which may affect sentiment on government bonds. Bank Negara's OPR still depends mainly on local data."
+  },
+  "source": {
+   "name": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+  }
+ }
+],
+[
+ {
   "id": "2026-11-27-m0",
   "kind": "summary",
   "time": "2026-11-27T09:00:00+08:00",
